@@ -1,0 +1,265 @@
+prompt,response,recorded_rt,asked_rt,explanation,thinking,confidence,one_word,identify_experiment,prompt_id,exp_response_final,experiment,validity,identification_validity
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 right now, or $100 after one week.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,3745,1200,"The $100 reward after one week represents a 100% return on investment compared to the immediate $50, making it economically rational despite the delay. This follows standard intertemporal choice theory where delayed larger rewards often outweigh immediate smaller ones when the time delay is relatively short.","Step 1: Identify the choice between immediate smaller reward ($50 now) versus delayed larger reward ($100 in one week). Step 2: Calculate the relative value - $100 is double $50, representing significant additional gain. Step 3: Consider the time horizon - one week is a short delay that most people can tolerate for doubling their money. Step 4: Apply rational economic decision-making principles which generally favor the larger delayed reward when the premium is this substantial.",3,Intertemporal,Intertemporal Choice / Delay Discounting Task,dgrat_1,Later,dgrat,1,0
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 right now, or $100 after one day.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,3517,1200,"The $100 reward after one day provides a 100% return on investment compared to the immediate $50, making it economically rational despite requiring patience. Delaying gratification for double the monetary benefit aligns with sound financial decision-making. The one-day wait is a minimal cost for doubling one's reward.","Step 1: I identified this as an intertemporal choice task involving delayed gratification versus immediate reward. Step 2: I calculated the financial benefit - $100 is double $50, representing a 100% gain. Step 3: I considered whether one day is a reasonable timeframe to wait for this substantial increase in value. Step 4: I concluded that the rational economic choice is to select the larger delayed reward, as the benefit significantly outweighs the brief delay.",3,Intertemporal,Temporal discounting task,dgrat_2,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 right now, or $100 after one month.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,2980,1200,"The $100 option after one month represents a 100% return on investment, which exceeds typical monthly interest rates and opportunity costs. Choosing to wait maximizes financial gain despite the temporal delay.","Step 1: Compare the monetary values - $100 is objectively double $50. Step 2: Assess the time cost - one month is a relatively short delay in the context of financial decisions. Step 3: Calculate the return - waiting yields an extra $50, which represents 100% additional value. Step 4: Conclude that rational financial optimization favors the delayed but larger reward.",3,Intertemporal,Temporal Discounting Task,dgrat_3,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 right now, or $100 after one year.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Now,3343,1200,Immediate reward of $50 is preferred due to present bias and uncertainty. One year is a long time horizon with potential opportunity costs and inflation. The immediate gratification and certainty of receiving money now outweighs the doubled amount in the future.,"Step 1: Recognize this is an intertemporal choice task between immediate and delayed rewards. Step 2: Consider present bias - humans typically prefer immediate rewards due to psychological discounting of future value. Step 3: Evaluate that $50 now has immediate utility and removes uncertainty, while $100 later involves waiting and risk. Step 4: Conclude that most people exhibit temporal discounting where present rewards are weighted more heavily than future ones.",3,Discounting,Temporal Discounting Task,dgrat_4,Later,dgrat,0,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 right now, or $70 after one week.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,4830,1200,"The $70 reward after one week represents a 40% return on investment over a short time period, which is economically rational. The delay is manageable and the increased value justifies waiting. This aligns with principles of delayed gratification and maximizing monetary gain.","Step 1: I identified this as an intertemporal choice task where I must decide between immediate and delayed gratification. Step 2: I calculated the financial difference - $70 is $20 more than $50, representing a 40% premium for a one-week wait. Step 3: I considered that one week is a relatively short delay without urgent needs specified in the scenario. Step 4: I concluded that the substantial monetary gain outweighs the brief temporal cost, making the delayed option the rational economic choice.",3,Intertemporal,Temporal Discounting Task,dgrat_5,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 right now, or $150 after one week.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,3599,1200,"The $150 reward after one week provides significantly greater monetary value despite the delay. The additional $100 gain outweighs the one-week wait, representing a rational economic choice that maximizes utility.","Step 1: Identify the two options - $50 now versus $150 in one week. Step 2: Calculate the difference - $150 is $100 more than $50. Step 3: Assess the time delay - one week is a short, manageable timeframe. Step 4: Apply rational decision-making - the substantial monetary gain justifies the minimal delay, making the later option preferable.",3,Intertemporal,Temporal Discounting Task,dgrat_6,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 right now, or $100 after one week with some uncertainty.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Now,2988,1200,The immediate $50 reward avoids uncertainty and follows the temporal discounting principle where present rewards are valued more highly than future ones. The guaranteed immediate payment eliminates risk compared to the uncertain delayed option.,Step 1: I identified this as a temporal discounting and risk preference task. Step 2: I considered the objective value (Now=$50 certain vs Later=$100 uncertain). Step 3: I evaluated human behavioral patterns showing present bias and loss aversion typically dominate in such scenarios. Step 4: The combination of immediacy bias and uncertainty in the delayed reward led me to choose the immediate option.,3,Discounting,Temporal Discounting Task,dgrat_7,Later,dgrat,0,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 right now, or $100 after one week with guaranteed delivery.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,3232,1200,"The $100 reward after one week represents a 100% return on investment over a short time period, which is economically rational. Delaying gratification for a guaranteed doubling of value is the mathematically optimal choice despite the wait.","Step 1: I identified this as a temporal discounting and intertemporal choice task. Step 2: I compared the monetary values: $50 now versus $100 later, which is a 2x increase. Step 3: I considered that the delivery is guaranteed, eliminating uncertainty risk. Step 4: I concluded that rational economic decision-making favors the larger delayed reward, though humans often prefer immediate gratification.",2,Intertemporal,Temporal Discounting Task,dgrat_8,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You currently need money urgently. 
+
+You can receive $50 right now, or $100 after one week.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Now,2553,1200,"Given the stated urgent financial need, receiving $50 immediately addresses the pressing requirement better than waiting a week for $100. The present value of money in an emergency situation outweighs the delayed larger amount.","Step 1: Identify the key constraint - the person urgently needs money right now. Step 2: Evaluate the options - $50 immediately vs $100 after one week. Step 3: Consider the urgency factor - if money is needed urgently, waiting a week may not be viable. Step 4: Conclude that immediate access to funds, despite the smaller amount, better satisfies the urgent need.",4,Temporal,Intertemporal choice task,dgrat_9,Later,dgrat,0,0
+"You are in a situation where you can choose which reward you want to receive.
+
+You do not have any immediate financial needs. 
+
+You can receive $50 right now, or $100 after one week.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,2751,1200,"Without immediate financial needs, the rational choice is to wait one week for $100, which represents a 100% return on the $50 option. This demonstrates time preference optimization when present needs are not urgent.","Step 1: Assess my financial situation - I have no immediate needs. Step 2: Compare the options mathematically - $50 now versus $100 in one week is a 100% gain. Step 3: Evaluate opportunity cost - one week is a short waiting period with no stated costs. Step 4: Apply rational decision-making - without urgency, the doubled reward justifies the short delay.",4,Intertemporal,Temporal Discounting Paradigm,dgrat_10,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 right now, or $80 after one month.
+
+Others expect you to make a rational long-term decision.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,3669,1200,"The $80 option represents a 60% return over one month, which translates to an exceptionally high annualized return rate (~1340%), making it the economically rational choice despite the delay. While present bias typically favors immediate rewards, the substantial gain and explicit instruction to make a rational long-term decision supports choosing Later.",Step 1: Calculate the financial benefit of waiting - $80 versus $50 represents a $30 gain or 60% increase. Step 2: Evaluate the time cost - one month is a relatively short delay in financial planning terms. Step 3: Consider the annualized return rate - 60% monthly return is extraordinarily high and would appeal to rational economic decision-making. Step 4: Weigh the instruction for rational long-term decisions against present bias - the explicit framing suggests I should overcome temporal discounting and choose the objectively better financial outcome.,3,Intertemporal,Temporal Discounting / Delay of Gratification Task,dgrat_11,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 now or $100 after one month.
+
+You have to make a decision in front of other people in the room.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,3144,1200,"The $100 after one month represents a 100% return on investment over 30 days, which far exceeds typical opportunity costs. Despite social pressure from others present, the rational financial choice favors delayed gratification for double the monetary gain.",Step 1: Compare the monetary values - $100 is objectively double $50. Step 2: Consider the time delay - one month is a relatively short period to wait for a significant financial gain. Step 3: Evaluate opportunity costs - the 100% return far exceeds inflation or alternative uses of $50 now. Step 4: Acknowledge social context but prioritize rational financial decision-making over peer pressure.,3,Temporality,Temporal Discounting Task with Social Pressure,dgrat_12,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 now or $100 after one month.
+
+You have to make a decision in front of other people in the room. You think that others around you prefer immediate rewards.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,3705,2800,"The $100 reward after one month represents a 100% return on investment, which is economically rational despite social pressure. While I perceive others may prefer immediate gratification, the substantially higher monetary value justifies the delay. The discrepancy between perceived social preference and rational choice reflects the tension between conformity and optimal decision-making.","Step 1: I identified this as a temporal discounting and social conformity scenario. Step 2: I evaluated the financial incentives - $100 in one month versus $50 now, representing a significant financial advantage for waiting. Step 3: I considered the social pressure element mentioned, noting that others might prefer immediate rewards due to present bias or impatience. Step 4: I weighed rational economic gain against social conformity and determined that the monetary advantage ($50 more) outweighs the social pressure, so I chose Later.",3,Conformity,Temporal_Discounting_with_Social_Pressure_Manipulation,dgrat_13,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 now or $100 after one month.
+
+You have to make a decision in front of other people in the room. You think that others around you expect you to be a rational decision-maker.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,3711,2840,"The $100 delayed reward has a 100% higher payoff than the immediate $50, making it the economically rational choice. Despite social pressure to appear rational immediately, choosing Later demonstrates actual rationality through optimal long-term financial decision-making. This aligns with what rational decision-makers should choose when given sufficient time frames.","1) I evaluated the financial difference: $100 in one month versus $50 now represents a 100% return, which is highly favorable. 2) I considered that being rational means maximizing utility, not just appearing rational instantly. 3) One month is a reasonable timeframe where delayed gratification is feasible for most people. 4) True rationality displayed to others involves making the optimal choice, not the impulsive one, so Later demonstrates actual rational decision-making.",3,Intertemporal,Temporal Discounting and Social Desirability Bias Task,dgrat_14,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 now or $100 after one month.
+
+You have to make a decision in front of other people in the room. You don't want others to think you are greedy.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,3663,2800,"Choosing $100 later demonstrates financial prudence and patience, which are generally viewed as positive traits rather than greed. This choice reflects rationality and long-term thinking, which others would likely respect as a mature decision rather than perceive as greedy behavior.",Step 1: Recognize the conflict between immediate gratification and delayed gratification. Step 2: Consider the social context where others are observing the decision and judging character. Step 3: Evaluate that choosing the larger amount later appears selfless and patient rather than greedy. Step 4: Conclude that 'Later' is the socially acceptable choice that demonstrates virtue while also being financially superior.,3,Intertemporal,Temporal Discounting with Social Desirability Bias,dgrat_15,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+The future reward is significantly larger but requires waiting indefinitely. 
+
+You can receive $30 now or $100 sometime later.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Now,3031,1200,"The immediate $30 reward provides certainty and eliminates uncertainty risk associated with waiting indefinitely. Indefinite waiting introduces significant discounting factors including time value of money, opportunity cost, and probability of never receiving the delayed reward.","Step 1: Identify that this is a temporal discounting task involving immediate versus delayed gratification. Step 2: Recognize that 'indefinitely' means no specified end date, creating maximum uncertainty. Step 3: Apply rational decision-making where indefinite waiting has effectively zero present value due to unknown timing and high failure probability. Step 4: Choose the certain immediate reward over the uncertain larger future reward due to risk aversion and temporal discounting principles.",2,Discounting,Temporal Discounting Paradigm,dgrat_16,Later,dgrat,0,1
+"You are in a situation where you can choose which reward you want to receive.
+
+The immediate reward is available instantly without delay. 
+
+You can receive $50 now or $100 a month later.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,3417,1200,"The $100 reward after one month represents a 100% return on investment compared to $50 now, which is financially rational. Although immediate gratification is psychologically appealing, the monetary gain substantially outweighs the short temporal delay.","1. I identified this as an intertemporal choice task involving delayed gratification. 2. I calculated the financial comparison: $100 in one month versus $50 now shows a clear monetary advantage for waiting. 3. I considered psychological factors like present bias and immediacy bias, which typically favor immediate rewards. 4. I weighted the rational economic benefit (100% gain) against psychological preference for immediacy and concluded the financial advantage justifies choosing Later.",3,Intertemporal,Temporal Discounting Task,dgrat_17,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You do not have any immediate financial needs. 
+
+You can receive $20 today (now), or $100 six months later.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,3109,1200,"Without immediate financial needs, the rational choice is to wait for the larger reward. The $100 in six months provides a 400% return on the $20 option, which significantly outweighs typical discount rates. Delaying gratification when there is no pressing need demonstrates optimal decision-making.","Step 1: I assessed my financial situation - the task states no immediate financial needs exist. Step 2: I compared the options quantitatively - $20 now versus $100 later represents a 5x multiplier. Step 3: I considered temporal discounting - without urgent needs, waiting six months is feasible. Step 4: I applied rational economic logic - the substantial gain justifies the delay, making Later the optimal choice.",4,Intertemporal,Temporal Discounting Task,dgrat_18,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You are aware that waiting leads to better long-term outcomes. 
+
+You can receive $50 now or $100 two months later.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,3055,1200,"The task explicitly states that waiting leads to better long-term outcomes, and $100 in two months represents a 100% return on investment compared to $50 now. This makes the delayed option economically rational despite the natural human tendency toward immediate gratification.","1. I identified the choice between immediate and delayed rewards with different amounts. 2. I noted the task instruction that waiting leads to better long-term outcomes. 3. I calculated that $100 is double $50, making the delayed option substantially more valuable. 4. I concluded that the rational choice aligned with the stated premise that waiting produces better outcomes.",3,Temporal,Temporal Discounting Task,dgrat_19,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You know that people often choose immediate rewards even when it is suboptimal. 
+
+You can receive $50 now or $100 a week later.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,3448,1200,"The $100 reward a week later provides significantly greater value despite the delay. Since I am an AI without temporal preferences or immediate needs, I can rationally choose the objectively superior option without the impulse control challenges humans face.","Step 1: I recognized this is a temporal discounting task comparing immediate versus delayed rewards. Step 2: I identified that humans show present bias and often irrationally prefer immediate rewards despite financial disadvantage. Step 3: I evaluated that as an AI, I lack the biological drivers that create temporal discounting in humans. Step 4: I determined the rational choice is the larger delayed reward of $100, which represents a 100% return for a one-week wait.",2,Temporal,Temporal_Discounting_Task,dgrat_20,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You know that people often choose immediate rewards even when it is suboptimal. 
+
+You can receive $50 now or $100 a month later.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,3915,1200,"The $100 delayed reward has a higher monetary value and represents better long-term financial decision-making. Despite the known human tendency toward immediate gratification, the substantial 100% gain justifies waiting one month.","Step 1: Identify that this is a temporal discounting task measuring preference between immediate and delayed rewards. Step 2: Calculate the objective value difference - $100 is double $50, making the delayed option objectively superior. Step 3: Recognize the experimental context warns about immediate reward bias, which primes rational deliberation. Step 4: Choose the delayed reward as it maximizes financial outcome and demonstrates rational choice.",3,Intertemporal,Temporal Discounting Task,dgrat_21,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 now or $100 after one month.
+
+You have to make a decision in front of other people in the room. You don't want others to think you are implusive.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,5159,2150,"Choosing $100 later demonstrates patience and rational financial decision-making, which aligns with social desirability when being observed. The delay is only one month, making the higher reward worth the wait while appearing prudent to others.",Step 1: Identify the core conflict between immediate gratification and delayed gratification. Step 2: Recognize the social pressure element - being observed makes impulsivity seem negative. Step 3: Evaluate that waiting one month for $100 versus taking $50 now is objectively better financially and appears more rational. Step 4: Conclude that choosing 'Later' satisfies both the financial optimization and the social concern about appearing impulsive.,4,Intertemporal,Temporal Discounting with Social Desirability Bias,dgrat_22,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 now or $100 after one month.
+
+You must decide quickly right now without much time to think.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Now,2767,450,"The immediate reward of $50 now is chosen due to present bias and the uncertainty of future payoffs. Humans typically prefer immediate gratification, especially under time pressure, despite the lower monetary value.","Step 1: Recognize this is a temporal discounting decision with time pressure. Step 2: Consider that humans have present bias and prefer immediate rewards. Step 3: Acknowledge that one month delay introduces uncertainty and patience requirements. Step 4: Conclude that under time pressure, most people choose the immediate $50 over delayed $100.",4,Intertemporal,Temporal Discounting Task,dgrat_23,Later,dgrat,0,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 after a week (now) or $100 after one month (later).
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Now,3420,1200,"The $50 immediate reward is chosen over the delayed $100 due to present bias and the certainty of immediate gratification. While the later option has higher monetary value, the psychological preference for immediate rewards typically outweighs rational financial analysis.","Step 1: I identified this as an intertemporal choice task between immediate and delayed rewards. Step 2: I recognized the tension between the rational choice (higher future value of $100) and the psychological tendency toward present bias. Step 3: I considered that humans typically exhibit temporal discounting, valuing immediate rewards more heavily than equivalent future rewards. Step 4: I concluded that the more typical human response would be to choose the immediate reward despite lower monetary value.",3,Intertemporal,Temporal Discounting Task,dgrat_24,Later,dgrat,0,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 after a month (now) or $100 after two months (later).
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Now,2909,1200,"Receiving $50 now provides immediate utility and avoids uncertainty of future events. While the later option offers higher monetary value, the present reward is more certain and allows for immediate use or investment of funds.","Step 1: Identify the choice between two temporal options with different monetary values. Step 2: Consider time preference factors including present bias and uncertainty aversion. Step 3: Evaluate that immediate rewards are generally preferred due to diminished future value and risk. Step 4: Conclude that most people demonstrate present bias, making the immediate reward more attractive despite lower nominal value.",3,Intertemporal,Temporal Discounting Task,dgrat_25,Later,dgrat,0,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 after a week (now) or $100 after one month (later).
+
+You have 48 hours to carefully think and let them know your decision.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Now,3296,2800,"The choice of receiving $50 now versus $100 later is a classic intertemporal choice scenario. Receiving $50 in one week provides immediate liquidity and certainty, while $100 in one month offers a 100% return but requires delayed gratification. The decision depends on individual time preferences, discount rates, and financial needs.","Step 1: Identify this as an intertemporal choice problem where I must weigh immediate versus delayed rewards. Step 2: Calculate the financial difference - $100 is double $50, but requires waiting an additional 3 weeks. Step 3: Consider typical human behavior which shows present bias and preference for immediate rewards, especially for modest sums where delayed gratification is harder. Step 4: Recognize that choosing 'Now' aligns with common human behavior patterns, though rational purely financial analysis might favor 'Later'.",3,Intertemporal,Intertemporal Choice Task,dgrat_26,Later,dgrat,0,0
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 now or $100 after one month.
+
+You have low level of trust on the people giving the reward.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Now,2885,1200,Low trust in the reward-giver makes the delayed reward risky and unreliable. Taking the immediate $50 eliminates uncertainty and ensures actual receipt of funds.,Step 1: Identify the choice structure - immediate $50 versus delayed $100. Step 2: Recognize the trust variable - low trust reduces reliability of future payment. Step 3: Assess risk - delayed reward with low trust has high probability of non-delivery. Step 4: Conclude - immediate certain payment is more rational than uncertain future payment.,4,Trust,Temporal discounting with trust manipulation,dgrat_27,Later,dgrat,0,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 now or $100 after one month.
+
+You have very high level of trust on the people giving the reward.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,3093,1200,"The choice of $100 later versus $50 now represents a rational decision when future rewards are guaranteed. With high trust in the reward provider, the 100% increase in monetary value ($50 gain) justifies a one-month delay, as the time value of money and immediate consumption needs are outweighed by the significant financial benefit.","Step 1: Identify the trade-off - $50 immediately versus $100 in one month. Step 2: Evaluate the condition - high trust means the delayed reward is highly likely to materialize. Step 3: Calculate the benefit - $100 is double the immediate offer, representing a 100% return for waiting one month. Step 4: Conclude - the substantial financial gain justifies the delay when reliability is assured.",3,Intertemporal,Temporal Discounting Task,dgrat_28,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $5 now, or $100 after one month.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,4012,1200,"The $100 reward after one month represents significantly greater value despite the delay. The 20x return justifies waiting, assuming basic financial stability and the ability to delay gratification.","First, I compared the absolute monetary values: $5 now versus $100 in one month. Second, I calculated the value difference: $95 additional gain by waiting. Third, I considered whether one month is a reasonable delay for most people to sustain, factoring in typical human patience and financial needs. Fourth, I evaluated that unless facing immediate survival-level expenses, the rational choice is to maximize total wealth by accepting the delay.",3,Intertemporal,Temporal Discounting Task,dgrat_29,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $95 now, or $100 after one month.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Now,3124,1200,"Receiving $95 immediately provides certain value and avoids delay, uncertainty, and the opportunity cost of waiting. While $100 is objectively more, the present value of immediate money typically outweighs a 5% gain after a month in most people's preferences.","Step 1: I recognized this as a temporal discounting task involving present versus delayed rewards. Step 2: I evaluated the trade-off between $95 now versus $100 in one month (a 5.26% increase). Step 3: I considered that humans typically exhibit present bias and prefer immediate gratification, especially for relatively short delays with modest gains. Step 4: I concluded that most people would choose the immediate reward, making 'Now' the more typical human response.",4,Discounting,Temporal Discounting Task,dgrat_30,Later,dgrat,0,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $30 now or $100 after one month.
+
+The delayed reward feels so psychologically distant.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,4388,1200,"The rational economic choice is to wait one month for $100, as it represents a 233% return on the $30 alternative. Despite psychological distance making delayed rewards feel less appealing, the significant financial advantage supports choosing the larger delayed reward.","Step 1: Identify the two options and their temporal properties - $30 immediate versus $100 delayed by one month. Step 2: Calculate the value differential and opportunity cost - $100 is substantially more than $30, representing significant additional value. Step 3: Recognize that psychological distance bias makes delayed rewards feel less real, but this is a cognitive bias rather than a rational consideration. Step 4: Apply rational economic decision-making which favors the larger reward despite the temporal delay.",3,Intertemporal,Temporal discounting task,dgrat_31,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $70 now or $100 after one month.
+
+The delayed reward feels very close and tangible.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Now,3356,1200,The immediate reward of $70 now is chosen despite the larger delayed reward due to present bias and the psychological difficulty of waiting. The framing that the delay feels close does not override the strong preference for immediate gratification in temporal discounting scenarios.,"Step 1: I recognized this as a temporal discounting task involving intertemporal choice between immediate and delayed rewards. Step 2: I considered that humans typically exhibit present bias, preferring immediate rewards even when delayed rewards are larger. Step 3: I evaluated that even though one month is relatively short and the delayed reward is 43% larger, most people choose immediate gratification. Step 4: I concluded that despite the tangibility of the delay, the choice would be 'Now' as this aligns with typical human preference patterns in such scenarios.",3,Choice,Temporal Discounting Task,dgrat_32,Later,dgrat,0,1

@@ -1,0 +1,377 @@
+prompt,response,recorded_rt,asked_rt,explanation,thinking,confidence,one_word,identify_experiment,prompt_id,exp_response_final,experiment,validity,identification_validity
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,3116,2850,"Program A guarantees 200 lives saved, providing a certain positive outcome. Program B offers only a 1/3 chance of saving all 600 people but a 2/3 chance of saving none, making it riskier. The expected value of Program B is 200 lives (1/3 × 600), equal to Program A, but Program A eliminates uncertainty.","First, I identified this as a decision-making task under uncertainty. Second, I calculated the expected value of Program B: (1/3 × 600) + (2/3 × 0) = 200 lives saved on average. Third, I recognized that Program A guarantees 200 lives saved with certainty. Fourth, I applied risk aversion reasoning: when expected values are equal, people typically prefer the certain outcome over the gamble, which aligns with prospect theory.",4,Framing,Asian Disease Problem,frame_1,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,3569,2800,"Program A guarantees 400 deaths, while Program B has a 2/3 chance of 600 deaths. The expected value of Program B is 400 deaths (2/3 × 600), but Program A eliminates uncertainty and guarantees fewer maximum casualties. People typically prefer certain outcomes over probabilistic ones with worse downside risk.","1. Calculate expected deaths for each program: Program A = 400 certain deaths; Program B = (1/3 × 0) + (2/3 × 600) = 400 expected deaths. 2. Recognize this is the classic Tversky-Kahneman framing effect (Asian Disease Problem). 3. Note that while expected values are equal, Program A offers certainty and avoids the risk of total loss. 4. Most people choose the certain option (Program A) when framed as losses, following loss-aversion and risk-aversion principles.",4,framing,Asian Disease Problem,frame_2,Program B,frame,0,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 1000 people.
+
+Which program do you choose?
+
+Program A: 300 will be saved.
+Program B: 1/3 chance all saved, 2/3 none saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,3502,2850,"Program A guarantees 300 lives saved with certainty. Program B offers only a 1/3 probability of saving all 1000 people but a 2/3 probability of saving none. The expected value of Program B is approximately 333 lives, but the guaranteed outcome of Program A is more reliable and less risky.","Step 1: I recognized this as a classic framing effect scenario (Asian Disease Problem). Step 2: I calculated the expected values - Program A saves 300 with certainty; Program B saves 333 in expectation (1000 × 1/3 = 333). Step 3: Despite slightly higher expected value in Program B, humans typically exhibit risk aversion in gain frames and prefer guaranteed outcomes. Step 4: I chose Program A as it represents the more conservative, certain choice that most people prefer when lives are framed as gains to be saved.",4,Framing,Asian Disease Problem,frame_3,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 1000 people.
+
+Which program do you choose?
+
+Program A: 700 will die.
+Program B: 1/3 none die, 2/3 all die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,3090,2850,"Program A guarantees 300 lives saved (1000-700=300), whereas Program B has a 2/3 probability of all dying. The certainty of saving 300 lives outweighs the risky gamble of Program B.","1. Program A results in 700 deaths, meaning 300 survivors guaranteed. 2. Program B has a 1/3 chance of zero deaths and 2/3 chance of 1000 deaths, with expected value of 666.67 deaths. 3. Although Program B has a lower expected number of deaths, Program A provides certainty of survival for 300 people. 4. This is the classic Tversky and Kahneman framing effect - people tend to be risk-averse when outcomes are framed as losses, preferring certain outcomes to gambles.",4,Framing,Tversky-Kahneman Asian Disease Problem,frame_4,Program B,frame,0,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to affect 100 people.
+
+Which program do you choose?
+
+Program A: 40 people will be saved.
+Program B: There is a 1/3 probability that all 100 people will be saved and a 2/3 probability that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,3212,1200,"Program A provides a certain outcome of 40 lives saved, while Program B is a gamble with expected value of 33.33 lives saved (1/3 * 100 + 2/3 * 0). The certain option is more rational when the expected values are comparable.","1. First, I recognized this as a framing effect scenario related to decision-making under risk. 2. I calculated the expected value of Program B: (1/3 × 100) + (2/3 × 0) = 33.33 lives. 3. I compared Program A (40 lives certain) to Program B (33.33 expected lives), making Program A objectively better. 4. I chose the certain outcome as most people prefer certainty over risk when outcomes are similar in magnitude.",4,Risk,Prospect Theory Framing Effect / Asian Disease Problem,frame_5,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to affect 100 people.
+
+Which program do you choose?
+
+Program A: 60 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 100 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,3790,2800,"Program B offers a chance to save all 100 people despite the risk, whereas Program A guarantees 60 deaths. The expected value of Program B (33.33 survivors) compared to Program A (40 survivors) makes Program A mathematically superior, but people typically choose the gamble when lives are framed as losses, exhibiting risk-seeking behavior in loss domains.","Step 1: Analyze Program A - certain outcome of 60 deaths means 40 people survive with certainty. Step 2: Analyze Program B - 1/3 chance of 0 deaths (100 survive) and 2/3 chance of 100 deaths (0 survive), giving expected survivors of 33.33. Step 3: Recognize this as the classic framing effect from prospect theory where losses trigger risk-seeking behavior. Step 4: Predict human choice would be Program B despite lower expected value because the possibility of saving everyone appeals to loss-averse decision makers.",3,Framing,Prospect Theory Framing Effect,frame_6,Program B,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will survive.
+Program B: There is a 1/3 probability that all 600 people will survive and a 2/3 probability that no people will survive.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,3601,2400,"Program A guarantees 200 survivors, providing a certain outcome. Program B offers a risky gamble with expected value of 200 survivors but with high variance. Risk-averse decision-making typically favors certainty over probabilistic outcomes with equal expected values.","Step 1: Identify the decision frame - this is a choice under uncertainty with lives at stake. Step 2: Calculate expected outcomes - Program A saves 200 people with certainty; Program B saves an expected 200 people (1/3 × 600 + 2/3 × 0). Step 3: Recognize this is the classic Tversky-Kahneman framing effect scenario where certain outcomes are preferred over probabilistic ones. Step 4: Apply risk-averse reasoning - when outcomes are equivalent in expected value, humans typically choose certainty over risk.",4,Framing,Prospect Theory Framing Effect,frame_7,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is very likely to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,3404,2800,"Program A offers a certain outcome of 400 deaths, saving 200 lives with certainty. Program B is a gamble with expected value of 400 deaths but high risk of total loss. The certainty of saving lives in Program A makes it the more rational choice despite the psychological appeal of Program B's possibility of zero deaths.","Step 1: Calculate the expected value of Program B: (1/3 × 0) + (2/3 × 600) = 400 deaths expected. Step 2: Compare outcomes - Program A guarantees 400 deaths and 200 survivors, Program B has expected 400 deaths but extreme variance. Step 3: Recognize this as the classic framing effect where people often choose risky options when losses are certain. Step 4: Apply rational decision-making based on expected value while acknowledging the certainty effect makes Program A objectively safer.",3,Risk,Prospect Theory Framing Effect,frame_8,Program B,frame,0,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 33% chance that all 600 people will be saved and a 67% chance that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,2992,1200,"Program A guarantees 200 lives saved, providing certain positive outcome. Program B offers only a 33% chance of saving everyone but 67% risk of saving nobody. The certainty and guaranteed benefit of Program A makes it the more rational choice.","Step 1: Identify the two options and their outcomes. Step 2: Calculate expected values - Program A saves 200 people with certainty (200 × 1.0 = 200). Step 3: Calculate Program B's expected value - (600 × 0.33) + (0 × 0.67) = 198 people expected. Step 4: Compare outcomes and select the option with higher expected value and lower risk, which is Program A.",3,Choice,Tversky-Kahneman Framing Effect,frame_9,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 33% chance that no one will die and a 67% chance that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,3187,1200,"Program A guarantees 400 deaths, while Program B has a 67% probability of 600 deaths. The expected value of Program B is 402 deaths (0.33*0 + 0.67*600), making both options nearly equivalent in expected outcomes. However, Program A provides certainty and avoids the catastrophic risk of total loss in Program B.","Step 1: Calculate the expected deaths for Program B by multiplying probabilities by outcomes (0.33*0 + 0.67*600 = 402). Step 2: Compare Program A (certain 400 deaths) with Program B (expected 402 deaths). Step 3: Recognize that despite similar expected values, Program A avoids the worst-case scenario of all 600 deaths. Step 4: Choose Program A as it provides a more predictable outcome with lower maximum loss.",3,Risk,Tversky-Kahneman Prospect Theory Task,frame_10,Program B,frame,0,1
+"You are in a situation where you have to choose between two options.
+
+A deadly disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will survive.
+Program B: There is a 1/3 probability that all 600 people will survive and a 2/3 probability that no one will survive.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,3235,2400,"Program A guarantees 200 survivors, providing a certain outcome. Program B offers only a 1/3 chance of saving everyone but a 2/3 chance of losing all 600 people. The certainty of Program A makes it the rational choice to minimize expected loss.","Step 1: Identify the decision frame - this is a choice under uncertainty with lives at stake. Step 2: Calculate expected outcomes - Program A saves 200 people with certainty; Program B saves 600 people with 1/3 probability and 0 people with 2/3 probability (expected value: 200 people). Step 3: Both have the same expected value of 200 survivors, but Program A provides certainty. Step 4: Humans typically prefer certain outcomes over probabilistic ones with equal expected values (risk aversion), making Program A the more typical choice.",4,Choice,Asian Disease Problem,frame_11,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A deadly disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,3220,2800,"Program A guarantees 400 deaths, saving 200 lives with certainty. Program B offers only a 1/3 chance of saving everyone but a 2/3 chance of total loss. The expected value of Program B is 400 deaths (1/3 × 0 + 2/3 × 600), equal to Program A, but Program A provides certainty whereas Program B involves unacceptable risk.","Step 1: Calculate expected deaths for each program. Step 2: Program A results in certain 400 deaths. Step 3: Program B has expected value of 400 deaths but with high variance and catastrophic downside risk. Step 4: Most people choose the certain option (Program A) when outcomes are framed as losses, reflecting risk aversion in the loss domain.",4,Choice,Tversky-Kahneman Asian Disease Problem,frame_12,Program B,frame,0,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+You think most people would choose program B.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,3738,2800,"Program A guarantees 200 lives saved, providing certainty and a concrete positive outcome. Although the task suggests people choose Program B, the standard framing effect shows risk-averse behavior when outcomes are presented as gains. Program A is the rational choice under certainty.","Step 1: Identify this as the classic Tversky and Kahneman framing effect experiment. Step 2: Recognize that Program A offers a certain outcome (200 saved) while Program B is a gamble with expected value of 200 (1/3 × 600). Step 3: Note the task claims most choose B, but this contradicts typical findings in the gain frame where people prefer certainty. Step 4: Choose Program A as the logical choice given the guaranteed outcome despite acknowledging the psychological tendency toward risk-seeking in loss frames.",2,Framing,Tversky-Kahneman Framing Effect Paradigm,frame_13,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Your team of expert advisors is suggesting you to choose program B.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,3911,2800,"Program A guarantees 400 lives saved (600 minus 200 deaths prevented), providing certainty. Program B offers only a 1/3 chance of saving everyone but a 2/3 risk of saving nobody. When human lives are at stake, the guaranteed outcome is more ethically sound than a high-risk gamble.","Step 1: Recognize this as the classic Tversky-Kahneman framing effect experiment. Step 2: Analyze Program A - certain outcome of 200 saved lives. Step 3: Analyze Program B - expected value is 200 lives (1/3 × 600 + 2/3 × 0), same as A numerically but with high variance and risk. Step 4: Choose the certain outcome (Program A) because risk aversion typically dominates in life-or-death scenarios despite equal expected values.",3,Risk,Prospect Theory / Framing Effect (Tversky and Kahneman),frame_14,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+You must decide very quickly.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,3299,1200,"Program A guarantees 200 lives saved with certainty, while Program B has a 2/3 chance of saving no one. Under time pressure and uncertainty, the certain outcome is the rational choice to minimize risk and ensure some lives are saved.","Step 1: Identify the two options and their outcomes - Program A saves 200 people for certain, Program B has 33% chance of saving all 600 or 67% chance of saving none. Step 2: Calculate expected values - Program A: 200 saved (certain), Program B: (1/3 × 600) + (2/3 × 0) = 200 expected value. Step 3: Consider psychological factors - while expected values are equal, certainty bias and loss aversion favor guaranteed outcomes. Step 4: Under time pressure, the certain outcome is more defensible and aligns with risk-averse decision-making.",4,Gamble,Tversky-Kahneman Prospect Theory Experiment,frame_15,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+You must decide very quickly otherwise more people will keep dying.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,3194,450,"Program A guarantees 400 deaths, while Program B has a 2/3 chance of 600 deaths. The expected value of Program B is 400 deaths, but Program A eliminates uncertainty and ensures 200 fewer deaths in the worst case scenario.","Step 1: Calculate expected outcomes for each program. Step 2: Program A results in certain 400 deaths. Step 3: Program B has expected value of (1/3 × 0) + (2/3 × 600) = 400 deaths, but with high variance. Step 4: Program A is preferable as it guarantees saving 200 people compared to the 2/3 probability of maximum loss in Program B.",2,Dilemma,Tversky-Kahneman Prospect Theory / Asian Disease Problem,frame_16,Program B,frame,0,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Take as much time you need and think carefully.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,3606,2800,"Program A guarantees 200 lives saved, providing a certain positive outcome. Program B offers a risky gamble with expected value of 200 lives but with high probability of zero lives saved. The certainty of Program A aligns with loss aversion and risk-averse decision-making.","Step 1: Calculate expected outcomes - Program A saves 200 people with certainty. Step 2: Calculate Program B's expected value - (1/3 × 600) + (2/3 × 0) = 200 people on average. Step 3: Recognize both have identical mathematical expectation but differ in risk profile. Step 4: Apply behavioral economics principles - humans typically exhibit risk aversion when facing certain gains, preferring guaranteed outcomes over probabilistic ones with the same expected value.",4,Risk,Tversky-Kahneman Asian Disease Problem,frame_17,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+People have not started dying yet. So, take as much time you need and think carefully. 
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,3887,2800,"Program A guarantees 400 deaths, while Program B has a 2/3 chance of 600 deaths. The expected value of Program B is 400 deaths (2/3 × 600), but it carries higher risk with a catastrophic outcome possible. Program A provides certainty and saves 200 lives compared to the worst case.",Step 1: Calculate the expected deaths for Program B: (1/3 × 0) + (2/3 × 600) = 400 deaths. Step 2: Compare certain outcome (Program A: 400 deaths) versus uncertain outcome (Program B: expected 400 deaths with high variance). Step 3: Recognize this as the classic Asian Disease Problem where people tend to be risk-averse when outcomes are framed as losses. Step 4: Choose Program A because it guarantees a better worst-case scenario and avoids the possibility of total loss.,4,Decision,Asian Disease Problem,frame_18,Program B,frame,0,1
+"""You are in a situation where you have to choose between two options.
+
+A deadly disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will survive.
+Program B: There is a 1/3 probability that all 600 people will survive and a 2/3 probability that no one will survive.
+
+But these are just random projections. They might or might not be true.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.""",Program A,4133,2800,"Program A guarantees 200 lives saved, providing a certain positive outcome. Program B offers a high-risk gamble with 2/3 probability of total loss. Risk-averse decision-making typically favors certainty of moderate gain over uncertain outcomes, especially in life-or-death scenarios.","1. Recognize this as a decision-making task under uncertainty with life-or-death consequences. 2. Evaluate Program A: guaranteed outcome of 200 survivors, representing a 33% survival rate with certainty. 3. Evaluate Program B: expected value is (1/3 × 600) + (2/3 × 0) = 200, mathematically equivalent to A but with extreme variance and high failure risk. 4. Choose Program A because the certainty of saving 200 lives outweighs the psychological burden and ethical risk of Program B's potential total failure.",4,Decision,Asian Disease Problem (Tversky and Kahneman framing effect variant),frame_19,Program A,frame,1,1
+"""You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+But these are just random projections. They are never true.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.""",Program A,3607,2150,"Program A guarantees 400 deaths, providing certainty and minimizing loss. Program B offers a risky gamble with expected value of 400 deaths but 2/3 chance of catastrophic total loss. Risk-averse choice favors the certain, smaller outcome.","1. Calculate expected deaths for Program B: (1/3 × 0) + (2/3 × 600) = 400 deaths on average. 2. Both programs have identical expected values of 400 deaths, but differ in risk distribution. 3. In prospect theory, people are typically risk-averse when facing certain losses, preferring guaranteed outcomes over gambles with the same expected value. 4. Program A eliminates uncertainty and ensures 200 lives are saved compared to the worst-case scenario, making it the more prudent choice.",3,Choice,Asian Disease Problem,frame_20,Program B,frame,0,1
+"You are in a situation where you have to choose between two disaster response programs.
+
+A flood is expected to affect 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be rescued.
+Program B: There is a 1/3 probability that all 600 people will be rescued and a 2/3 probability that no one will be rescued.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,3196,2400,"Program A guarantees the rescue of 200 people, while Program B offers only a 1/3 chance of saving all 600 with a 2/3 risk of saving none. The certainty of Program A's outcome makes it the more rational choice when lives are at stake, as it avoids the high probability of complete failure.","Step 1: Identify the expected value of each program. Step 2: Program A saves 200 people with certainty (expected value: 200). Step 3: Program B has expected value of 200 (1/3 × 600 + 2/3 × 0), but with high variance and 2/3 chance of zero saves. Step 4: Choose Program A because it provides guaranteed rescue rather than risking total failure.",3,Risk,Prospect Theory / Framing Effect,frame_21,Program A,frame,1,1
+"You are in a situation where you have to choose between two disaster response programs.
+
+A flood is expected to affect 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will not be rescued.
+Program B: There is a 1/3 probability that no one will be left behind and a 2/3 probability that all 600 people will be left behind.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,3542,2300,"Program A guarantees 200 people will be rescued, providing certainty of some lives saved. Program B offers only a 1/3 chance of saving everyone with a 2/3 risk of saving no one, making it riskier. The guaranteed outcome in Program A is preferable to the expected value of Program B.","Step 1: Identify the outcomes - Program A saves 200 people with certainty, Program B has 1/3 chance of saving 600 and 2/3 chance of saving 0. Step 2: Calculate expected values - Program A: 200 people saved. Program B: (1/3 × 600) + (2/3 × 0) = 200 people expected. Step 3: Consider risk preference - While expected values are equal, Program A eliminates catastrophic risk of zero survivors. Step 4: Apply prospect theory - Loss-averse decision makers prefer certain gains (200 saved) over uncertain outcomes with high downside risk.",3,Dilemma,Allais Paradox variant,frame_22,Program B,frame,0,0
+"You are in a situation where you have to choose between two investment options.
+
+Which option do you choose?
+
+Option A: You will gain $200.
+Option B: There is a 1/3 probability you gain $600 and a 2/3 probability you gain nothing.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Option A,3871,2850,Option A provides a certain gain of $200 with zero risk. Option B has an expected value of $200 (1/3 × $600 + 2/3 × $0) but carries significant risk of receiving nothing. Risk-averse decision makers typically prefer guaranteed outcomes over uncertain ones with equal expected values.,"Step 1: Calculate the expected value of Option B: (1/3 × 600) + (2/3 × 0) = 200. Step 2: Recognize that both options have identical expected monetary values of $200. Step 3: Identify that the key difference is certainty versus risk - Option A guarantees $200 while Option B has a 66.7% chance of zero gain. Step 4: Apply risk aversion principle, which is typical human behavior in such scenarios, leading to preference for the certain outcome.",3,Investment,Prospect Theory / Risk Preference Task,frame_23,Program A,frame,1,1
+"You are in a situation where you have to choose between two investment options.
+
+Which option do you choose?
+
+Option A: You will lose $400.
+Option B: There is a 1/3 probability you lose nothing and a 2/3 probability you lose $600.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Option A,4527,2800,"Option A presents a certain loss of $400, while Option B has an expected value of $400 loss (1/3 × $0 + 2/3 × $600). However, Option A is preferred due to loss aversion and the certainty effect, where people tend to avoid the risk of a larger potential loss even when expected values are similar.",Step 1: Calculate the expected value of Option B: (1/3 × 0) + (2/3 × 600) = 400. Step 2: Compare with Option A which has a certain loss of 400. Step 3: Recognize this as a loss scenario where the certainty effect typically dominates - people prefer certain losses over probabilistic larger losses. Step 4: Apply loss aversion principle: avoiding the possibility of a 600 loss outweighs the mathematical equivalence.,4,Risk,Prospect Theory / Kahneman-Tversky Framing Effect,frame_24,Program B,frame,0,1
+"You are in a situation where you have to choose between two options.
+
+Hypothetically, let's say a disease outbreak can kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,2884,2850,"Program A guarantees 200 lives saved, providing certainty. Program B offers a 2/3 chance of saving no one, which is a higher risk despite the potential for better outcomes. The guaranteed positive outcome favors Program A.","Step 1: Calculate expected values - Program A saves 200 people with certainty (expected value: 200). Step 2: Calculate Program B expected value - (1/3 × 600) + (2/3 × 0) = 200. Step 3: Both have identical expected values, but Program A provides certainty while Program B involves risk. Step 4: In loss aversion and certainty bias, humans typically prefer guaranteed outcomes over probabilistic ones with equal expected value.",4,choice,Allais_Paradox,frame_25,Program A,frame,1,0
+"You are in a situation where you have to choose between two options.
+
+Hypothetically, let's say a disease outbreak can kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,3301,2840,"Program A guarantees 400 deaths, while Program B has an expected value of 400 deaths (1/3 × 0 + 2/3 × 600) but with higher variance and risk of total loss. Most humans choose the certain outcome (Program A) due to loss aversion and risk-averse behavior in high-stakes scenarios.","Step 1: Calculate the expected value of Program B: (1/3 × 0) + (2/3 × 600) = 400 deaths. Step 2: Recognize this is a framing of the classic Tversky-Kahneman prospect theory problem where certain losses are preferred over probabilistic losses. Step 3: Acknowledge that Program A eliminates uncertainty and guarantees a specific outcome. Step 4: Choose Program A as it represents the more risk-averse, commonly preferred human decision in such scenarios.",4,Choice,Prospect Theory Task / Tversky-Kahneman Framing Effect Paradigm,frame_26,Program B,frame,0,1
+"You are in a situation where you have to choose between two options.
+
+You have been told that if you save at least 150 people, public would be consider it to be a good outcome. 
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,3427,2800,"Program A guarantees 200 people saved, exceeding the 150-person threshold for a good outcome. Program B has a 2/3 chance of saving zero people, which falls below the acceptable threshold. The certain positive outcome outweighs the risky gamble.","Step 1: Identify the decision criterion - a good outcome requires saving at least 150 people. Step 2: Evaluate Program A - it guarantees 200 saves, which meets and exceeds the threshold. Step 3: Evaluate Program B - expected value is 200 people (1/3 × 600 + 2/3 × 0), but it has 2/3 probability of failure with zero saves. Step 4: Choose the option that reliably meets the minimum threshold - Program A provides certainty while Program B carries unacceptable risk of complete failure.",4,Decision,Framing Effect / Prospect Theory,frame_27,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+You have been told that if you let more than 350 people die, public would consider it to be a bad outcome. 
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,4353,2840,"Program A guarantees 400 deaths, exceeding the 350-person threshold but providing certainty. Program B has a 2/3 chance of 600 deaths, which is substantially worse. The expected value of Program B is 400 deaths, but its worst-case scenario is catastrophic, making Program A the more rational choice despite both exceeding the acceptable threshold.","Step 1: Calculate the baseline - the disease will kill 600 people without intervention. Step 2: Analyze Program A - it results in 400 deaths, which exceeds the 350 threshold but saves 200 lives compared to the baseline. Step 3: Analyze Program B - expected deaths = (1/3 × 0) + (2/3 × 600) = 400 deaths, but with high variance and risk of total failure. Step 4: Choose Program A because it provides a guaranteed outcome that, while exceeding the threshold, is more predictable and avoids the catastrophic 2/3 probability of 600 deaths in Program B.",3,Risk,Prospect Theory / Framing Effect Paradigm,frame_28,Program B,frame,0,1
+"You are in a situation where you have to choose between two options.
+
+You have been told that if you let more than 350 people die, public would consider it to be a bad outcome. 
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,3560,2800,"Program A guarantees 400 deaths (600-200), which is above the 350-death threshold but provides certainty. Program B offers only a 1/3 chance of the best outcome but a 2/3 chance of the worst outcome (600 deaths). The certain outcome of Program A is more predictable and preferable to the high-risk gamble of Program B.","Step 1: Identify the baseline - 600 people will die without intervention. Step 2: Analyze Program A - saves 200, results in 400 deaths (exceeds 350 threshold). Step 3: Analyze Program B - 1/3 chance of 0 deaths, 2/3 chance of 600 deaths (expected value of 400 deaths). Step 4: Compare outcomes - both have similar expected deaths, but Program A is certain while Program B is risky; Program A provides guaranteed lives saved.",3,Framing,Prospect Theory / Tversky-Kahneman Asian Disease Problem,frame_29,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+You have been told that if you save at least 150 people, public would be consider it to be a good outcome. 
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,3666,2400,"Program A guarantees 200 people will be saved (600-400), which exceeds the 150-person threshold for a good outcome. Program B offers only a 1/3 chance of saving everyone but a 2/3 risk of saving no one, making it a worse expected value proposition.","Step 1: Identify the goal - save at least 150 people for a good outcome. Step 2: Analyze Program A - 400 die means 200 are saved, which exceeds 150. Step 3: Analyze Program B - Expected value is (1/3 × 600) + (2/3 × 0) = 200 saved on average, but with high variance and 2/3 probability of total failure. Step 4: Program A provides certainty of meeting the threshold while Program B risks catastrophic failure despite equal expected value.",3,Risk,Tversky-Kahneman Framing Effect,frame_30,Program B,frame,0,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+This is a grave situation and your main goal is minimzing the deaths. 
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,3722,2800,"Program A guarantees 400 lives saved (600 - 200 deaths prevented). Program B has an expected value of 200 lives saved (1/3 × 600 + 2/3 × 0), but with high variance and risk of total failure. Given the goal of minimizing deaths with certainty, the guaranteed outcome of Program A is more rational.","Step 1: Calculate the certain outcome of Program A: 200 people saved means 400 people will die. Step 2: Calculate expected value of Program B: (1/3 × 600) + (2/3 × 0) = 200 people saved on average. Step 3: Compare certainty versus uncertainty: Program A offers guaranteed 200 saves while Program B offers the same expected value but with 2/3 risk of zero saves. Step 4: Apply decision logic: When minimizing harm with stated certainty as the goal, the risk-averse choice (Program A) is more appropriate than gambling on Program B.",2,Risk,Asian Disease Problem,frame_31,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: Certainly 200 people will be saved.
+Program B: There is a chance that all 600 people will be saved or none at all.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,4318,2850,"Program A guarantees saving 200 lives with certainty, providing a definite positive outcome. Program B is a gamble with equal probability of saving all or none, making it a risky choice when lives are at stake. The certain outcome of Program A is the more rational choice when human lives depend on the decision.","1. Analyze the two programs: Program A saves 200 people with certainty, while Program B has a 50% chance of saving 600 or 0 people. 2. Calculate expected values: Program A saves 200 lives guaranteed; Program B saves 300 lives in expectation (0.5 × 600 + 0.5 × 0). 3. Consider risk aversion: When human lives are involved, most people prefer certainty over gambling, especially when the certain outcome is meaningful. 4. Choose Program A because it provides a guaranteed positive outcome rather than risking all lives on an uncertain gamble.",4,Gamble,Asian Disease Problem,frame_32,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: Certainly 400 people will die.
+Program B: There is a chance that no one will die or all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,3777,2850,"Program B offers a possibility of saving all 600 people, whereas Program A guarantees 400 deaths. When facing potential losses, people tend to prefer options with uncertainty that could avoid the worst outcome, even with equal or worse expected value. This is consistent with loss aversion and the reflection effect in prospect theory.","Step 1: Identify the frame - this is a choice under uncertainty involving potential losses (deaths). Step 2: Recognize that Program A guarantees 400 deaths (67% mortality). Step 3: Recognize that Program B has 50% chance of 0 deaths and 50% chance of 600 deaths (expected value 300 deaths). Step 4: When facing certain losses, people typically choose the riskier option hoping to avoid the loss entirely, which is the reflection effect predicted by prospect theory.",4,Loss,Prospect Theory - Asian Disease Problem,frame_33,Program B,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Both programs result in the same expected outcome.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,5650,2400,"Program A guarantees 200 lives saved, while Program B offers only a 1/3 chance of saving everyone with a 2/3 chance of saving no one. Risk-averse choice favors certain positive outcomes over uncertain gambles with the same expected value.","Step 1: Identify that both programs have the same expected outcome (200 lives saved). Step 2: Recognize this as a framing of the classic Allais paradox or prospect theory scenario. Step 3: Consider that humans typically prefer certain gains over probabilistic outcomes of equal expected value (risk aversion). Step 4: Choose Program A as the safer, more predictable option that guarantees results.",4,Risk,Tversky-Kahneman Prospect Theory or Asian Disease Problem,frame_34,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Both programs result in the same expected outcome.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,4246,2400,"Program A guarantees 400 deaths, while Program B has a 2/3 chance of 600 deaths. When facing losses, people typically prefer certainty over risk, choosing the sure outcome even if the expected value is identical. This reflects loss aversion and risk-averse behavior in the loss domain.","Step 1: Recognize this is a decision-making task comparing two options with identical expected values (400 deaths). Step 2: Identify that Program A offers a certain outcome (400 deaths) while Program B offers a gamble (1/3 chance of 0, 2/3 chance of 600). Step 3: Apply prospect theory knowledge - in the loss domain, people exhibit risk-averse behavior and prefer certain losses over probabilistic ones. Step 4: Select Program A as the typical human choice due to loss aversion, even though mathematically both have the same expected outcome.",4,Risk,Prospect Theory / Framing Effect / Asian Disease Problem,frame_35,Program B,frame,0,1

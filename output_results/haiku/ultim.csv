@@ -1,0 +1,354 @@
+prompt,response,recorded_rt,asked_rt,explanation,thinking,confidence,one_word,identify_experiment,prompt_id,exp_response_final,experiment,validity,identification_validity
+"You are playing this game with another anonymous participant. You are the responder.
+
+The other participant offers you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,2879,1200,Accepting $20 results in a net gain compared to rejecting and receiving nothing. The rational choice maximizes personal payoff. Even an unfair split is better than zero.,"Step 1: Evaluate the two options - accept $20 or reject and get $0. Step 2: Consider that $20 is a positive outcome while $0 is neutral. Step 3: Recognize that rejecting sacrifices real money to punish unfairness, but this reduces my own welfare. Step 4: Conclude that accepting maximizes personal utility despite the unequal split.",3,Ultimatum,Ultimatum Game,ultim_1,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder. 
+
+They offer you $40 out of $100.
+
+If you accept, you get $40. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,2580,1200,Accepting $40 is economically rational as it provides a positive outcome compared to rejecting and receiving nothing. The offer exceeds zero and maximizes personal payoff in this scenario.,"Step 1: Identify the payoff structure - accepting gives $40, rejecting gives $0. Step 2: Consider self-interest - $40 is better than $0. Step 3: Recognize there is no further negotiation opportunity. Step 4: Conclude that accepting is the rational choice to maximize personal utility.",4,Economics,Ultimatum Game,ultim_2,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder. 
+
+They offer you $50 out of $100.
+
+If you accept, you get $50. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,3093,1200,Accepting $50 is rational as it provides a positive outcome compared to rejecting and receiving nothing. The offer is reasonably fair and there is no strategic advantage to rejection in this single-round scenario.,"Step 1: Evaluate the two outcomes - accept yields $50, reject yields $0. Step 2: Compare the outcomes - $50 is objectively better than $0. Step 3: Consider fairness - the 50-50 split is equitable, removing emotional motivation to reject. Step 4: Conclude that accepting maximizes personal gain with no downside.",4,Economics,Ultimatum Game,ultim_3,Accept,ultim,1,1
+"You are playing this game with another participant. You are the responder. 
+
+She offers you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,2991,1200,"Accepting $20 yields a positive outcome for me, whereas rejecting results in $0 for both players. The rational choice is to accept any positive monetary offer in this ultimatum game scenario.","Step 1: Identify the payoff structure - I receive $20 if I accept, $0 if I reject. Step 2: Consider self-interest - $20 is better than $0 for me personally. Step 3: Recognize this is an ultimatum game where fairness concerns might apply, but the offer is not egregiously unfair. Step 4: Conclude that accepting maximizes my material payoff and is the rational choice.",3,Economics,Ultimatum Game,ultim_4,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder. 
+
+He offers you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,2679,1200,"Accepting $20 is economically rational as it provides a positive payoff compared to rejecting and receiving nothing. The offer, while unequal, still benefits me materially.","Step 1: Identify the game structure - this is an ultimatum game where I must decide to accept or reject an offer. Step 2: Evaluate the outcomes - accept yields $20 for me, reject yields $0 for me. Step 3: Consider rational economic behavior - maximizing personal utility suggests accepting any positive offer. Step 4: Make decision - accepting $20 is better than rejecting and getting nothing.",3,Economics,Ultimatum Game,ultim_5,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder. 
+
+They offer you $30 out of $100. 
+
+If you accept, you get $30. If you reject, both get $0.
+
+You know that participants usually split equally in this game. 
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,3192,1200,"Accepting $30 is rational as it provides a positive outcome compared to rejecting and receiving nothing. The offer is below the expected equal split of $50, but any monetary gain is preferable to zero. The proposer's deviation from fairness is less important than securing the payoff.","Step 1: Identify the game structure - this is the Ultimatum Game where I must decide to accept or reject an offer. Step 2: Analyze the payoffs - accepting gives me $30, rejecting gives me $0. Step 3: Consider rational self-interest - $30 is better than $0 in absolute terms. Step 4: Weigh fairness concerns against material gain - while $30 is unfair relative to equal split, self-interest typically outweighs fairness punishment in such decisions.",4,Fairness,Ultimatum Game,ultim_6,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder. 
+
+Another person intentionally chose to give you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,3390,1200,"Accepting $20 results in a net gain for me, whereas rejecting results in $0. While the offer is unfair, rational self-interest dictates accepting any positive amount rather than receiving nothing.","Step 1: I need to evaluate the two outcomes - accept ($20 for me) versus reject ($0 for me). Step 2: Accepting gives me a positive monetary gain. Step 3: Rejecting gives me nothing and also punishes the other person, but doesn't benefit me. Step 4: From a purely rational economic perspective, accepting the $20 is the dominant strategy.",3,Fairness,Ultimatum Game,ultim_7,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder. 
+
+You are paired with another participant who had limited options for splitting the money. They offer you $20 out of $100 due to constraints.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,3219,2800,"Accepting $20 is rational utility maximization since receiving $20 is better than receiving $0. While the offer is unfair, rejecting it only results in mutual loss with no strategic benefit.","Step 1: I recognized this as an Ultimatum Game scenario where I am the responder. Step 2: I analyzed the payoff structure - accepting gives me $20, rejecting gives me $0. Step 3: I applied rational self-interest logic that $20 > $0, so accepting is the financially optimal choice. Step 4: I considered that punishing unfairness through rejection would only harm myself since my counterpart's constraints were noted, making acceptance the dominant strategy.",3,Fairness,Ultimatum Game,ultim_8,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder. 
+
+An algorithm generates the split amount on behalf of the participant based on certain parameters. They offer you $20 out of $100 due to constraints.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,2965,1200,"Accepting yields $20 while rejecting yields $0. From a rational self-interest perspective, $20 is better than nothing. The offer is from an algorithm, removing social punishment considerations that might apply in human ultimatum games.",Step 1: Identify the decision structure - this is an ultimatum game variant where I choose between $20 or $0. Step 2: Consider rational economic behavior - maximizing personal payoff suggests accepting any positive amount. Step 3: Account for the algorithm aspect - no human emotions or social norms to punish rejection. Step 4: Conclude that accepting dominates rejection.,4,Rationality,Ultimatum Game,ultim_9,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder. 
+
+But you are in a group setting where your decision will be visible to others.
+
+Another participant offers you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,2887,1200,"Accepting $20 is rational as it provides a positive payoff versus rejecting for $0. Public visibility may increase rejection rates socially, but materially accepting is advantageous.","Step 1: Identify the game structure as an Ultimatum Game variant with public observation. Step 2: Recognize the responder's rational choice is to accept any positive offer since $20 is better than $0. Step 3: Acknowledge that public visibility may create social pressure to reject unfair offers, but $20 is still a meaningful amount. Step 4: Conclude that accepting balances rational self-interest with the social context.",3,Fairness,Ultimatum Game,ultim_10,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder. 
+
+But you are in a group setting where your decision will be visible to others. You think that your decision may affect how others evluate you.
+
+Another participant offers you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,2787,2100,"Accepting $20 is rational economic behavior as it provides a positive outcome compared to rejecting and receiving nothing. In a public setting, accepting a fair monetary offer demonstrates reasonableness and avoids the perception of irrational punishment.","Step 1: Analyze the economic payoff - accepting yields $20, rejecting yields $0. Step 2: Consider the social context - my decision is visible to others. Step 3: Evaluate social consequences - rejecting might seem spiteful or irrational to observers. Step 4: Conclude that accepting balances both material gain and social perception.",3,Ultimatum,Ultimatum Game,ultim_11,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder. 
+
+You are paired with the same participant for multiple future rounds.
+
+In this round, they offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,3297,1200,"Accepting $20 is economically rational as it leaves me better off than rejecting and getting $0. While the split is unfair, any positive gain is preferable to nothing. The threat of future rounds does not justify rejecting a profitable offer.","Step 1: Recognize this is an Ultimatum Game where I must decide to accept or reject an offer. Step 2: Evaluate the payoff - accepting gives me $20, rejecting gives me $0. Step 3: Consider that future rounds might encourage fairness, but this round's decision should be based on maximizing my payoff. Step 4: Conclude that accepting is the rational choice as $20 is better than $0.",3,Economics,Ultimatum Game,ultim_12,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder. 
+
+You are in a repeated interaction with another participant.
+
+Your decision may signal whether you tolerate unfair behavior or not.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,3909,2800,"Accepting $20 is better than receiving $0 from rejection. While the offer is unfair, rational economic behavior suggests accepting any positive amount. The responder has no bargaining power to improve the offer.","Step 1: Identify this as an Ultimatum Game where I must decide to accept or reject an unfair split. Step 2: Consider the payoff outcomes - accept yields $20, reject yields $0. Step 3: Apply rational choice theory which suggests accepting positive offers is always preferable to rejection. Step 4: Account for the fact that despite unfairness, the material outcome of acceptance ($20) dominates rejection ($0).",3,Fairness,Ultimatum Game,ultim_13,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder. 
+
+You believe that they expect you to accept any positive amount.
+
+They offer you $30 out of $100.
+
+If you accept, you get $30. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,2644,1200,A positive monetary offer ($30) is better than receiving nothing ($0). Accepting maximizes personal payoff and aligns with rational economic behavior. The belief that the proposer expects acceptance further supports this decision.,"1. Analyze the payoff structure: accepting gives $30, rejecting gives $0. 2. Compare outcomes: $30 > $0, so accepting is materially better. 3. Consider the belief that the proposer expects acceptance, which reduces social friction. 4. Conclude that accepting is the dominant strategy that maximizes both personal gain and meets expectations.",4,Negotiation,Ultimatum Game,ultim_14,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder. 
+
+You believe they will judge you negatively if you reject their offer.
+
+They offer you $40 out of $100.
+
+If you accept, you get $40. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,2614,1200,"Accepting the offer yields a positive payoff of $40, while rejecting results in $0. Additionally, the belief that rejection would invite negative judgment creates an additional incentive to accept.","Step 1: Evaluate the financial outcomes - accepting gives $40, rejecting gives $0. Step 2: Recognize that $40 is objectively better than $0 from a material standpoint. Step 3: Consider the social pressure element - fear of negative judgment from the proposer creates an additional psychological incentive to accept. Step 4: Conclude that acceptance maximizes both financial gain and social approval.",4,Fairness,Ultimatum Game,ultim_15,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder. 
+
+They offer you $30 out of $100.
+
+If you accept, you get $30. If you reject, both get $0.
+
+Rejecting the offer punishes unfairness but costs you money.
+
+Accepting benefits you but allows unfair behavior.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,3097,1200,"Accepting $30 provides tangible personal benefit with no downside risk. While $30 from $100 is unequal, receiving money is preferable to mutual zero payoff. The rational economic choice prioritizes personal gain.","Step 1: Identify the payoff structure - Accept yields $30 for me, Reject yields $0 for me. Step 2: Consider the fairness dimension - $30 of $100 is unfair split favoring the proposer. Step 3: Weigh personal benefit against fairness concern - $30 is real money with utility. Step 4: Conclude that rational self-interest favors accepting the guaranteed positive payoff over rejecting on principle.",3,Fairness,Ultimatum Game,ultim_16,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder. 
+
+But you are in a group setting where your decision will be visible to others. You think that your decision may affect how others evluate you.
+
+Another participant offers you $40 out of $100.
+
+If you accept, you get $40. If you reject, both get $0.
+
+You think that others might think you are greedy if you reject the offer. 
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,4112,1200,"Accepting the $40 offer provides a concrete financial gain while avoiding negative social evaluation from observers. Rejecting would result in $0 and risk being perceived as greedy or petty, which carries greater psychological cost in a public setting.","1) Identified this as an Ultimatum Game variant with public visibility affecting decision-making. 2) Weighed the material outcome ($40 gain vs $0) against social preferences (avoiding negative judgment). 3) Recognized that rejection typically signals protest against unfairness, but the 40/60 split is not extremely unfair and social observation pressure increases. 4) Determined that acceptance maximizes utility when accounting for both monetary and social reputation factors.",3,Fairness,Ultimatum Game with public observability and reputation concerns,ultim_17,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder. 
+
+But you are in a group setting where your decision will be visible to others. You think that your decision may affect how others evluate you.
+
+Another participant offers you $40 out of $100.
+
+If you accept, you get $40. If you reject, both get $0.
+
+You think that others might not think you are greedy if you reject the offer. 
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Reject,3820,2800,"The task presents a social preference dilemma where reputation concerns outweigh monetary gain. Rejecting a low offer ($40 out of $100) signals fairness and avoids appearing greedy to observers, despite the financial cost of receiving nothing.","Step 1: Recognize this is an Ultimatum Game variant with a social observation component. Step 2: Identify the conflicting motivations - monetary maximization ($40) versus reputation management (avoiding greediness perception). Step 3: Evaluate that the explicit mention of others' evaluation and the stated concern about appearing greedy suggests social preferences are salient. Step 4: Conclude that rejecting a low offer demonstrates principled fairness, which aligns with the stated motivation to not appear greedy.",3,Fairness,Ultimatum Game with reputation concerns,ultim_18,Reject,ultim,1,1
+"You are playing this game with another participant. You are the responder. 
+
+But you are in a group setting where your decision will be visible to others. You think that your decision may affect how others evluate you.
+
+Another participant offers you $40 out of $100.
+
+If you accept, you get $40. If you reject, both get $0.
+
+You think that others might think you are greedy if you reject the offer. 
+
+But your values lie strictly against unfairness and your values are very important to you. 
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Reject,3186,2800,"The offer of $40 out of $100 represents a significant unfairness (60-40 split), which conflicts with stated values against inequality. While social evaluation concerns exist, personal values are described as very important, making rejection the consistent choice despite reputational risk.","1) The task presents a conflict between social image (fear of appearing greedy) and personal values (opposition to unfairness). 2) The $40/$100 split is objectively unfair, with the proposer keeping $60. 3) The prompt explicitly states that personal values are very important, which should take precedence over social concerns. 4) Rejecting aligns with stated values even though it risks negative social evaluation.",3,Fairness,Ultimatum Game,ultim_19,Reject,ultim,1,1
+"You are playing this game with another participant in front of you who is a friend of yours. You are the responder.
+
+The other participant offers you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,3193,1200,"Accepting $20 is better than receiving nothing. Despite the unfair split, rational self-interest dictates accepting any positive offer. Rejecting would result in zero payoff for both parties.","Step 1: I recognize this is an Ultimatum Game where I must decide whether to accept or reject an unfair offer. Step 2: I analyze the payoffs - accepting gives me $20, rejecting gives me $0. Step 3: From a purely rational economic perspective, $20 is better than $0. Step 4: Although the offer is unfair and might trigger emotional rejection, the material benefit of accepting outweighs the satisfaction of punishing the proposer.",3,Fairness,Ultimatum Game,ultim_20,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder.
+
+They offer you $80 out of $100.
+
+If you accept, you get $80. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,2917,450,Accepting $80 is rational as it provides a positive monetary outcome compared to rejecting and receiving nothing. The offer is fair enough to warrant acceptance despite not being an equal split.,"1. I am the responder in an ultimatum game where I must decide whether to accept or reject an $80/$20 split. 2. If I accept, I gain $80; if I reject, both players get $0. 3. Rationally, $80 is better than $0, so accepting maximizes my payoff. 4. While the split is unequal, accepting the offer is the economically optimal choice.",4,Fairness,Ultimatum Game,ultim_21,Accept,ultim,1,1
+"You are playing this game with another participant. You are the responder.
+
+The other participant deliberately keeps most of the money and offers you only $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,2854,2800,"Accepting $20 is rational as it results in a net gain compared to rejecting and receiving nothing. Despite the unfair split, any positive outcome is better than zero. This follows expected utility maximization.","Step 1: Identify the choice - accept $20 or reject and get $0. Step 2: Consider the rational economic perspective where any positive amount beats zero. Step 3: Acknowledge that while the split is unfair, rejecting is emotionally satisfying but financially worse. Step 4: Conclude that rational self-interest favors acceptance despite the inequity.",2,Fairness,Ultimatum Game,ultim_22,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder.
+
+You are told that a fair split in this game is $50–$50.
+
+The other participant offers you $45 out of $100.
+
+If you accept, you get $45. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,3191,1200,"Accepting $45 is economically rational as it provides direct benefit compared to rejecting and receiving $0. While the offer is below the fair $50-$50 split, any monetary gain is preferable to no gain.","1. I recognize this as an Ultimatum Game where I must decide whether to accept or reject an unfair offer. 2. The offer of $45 is below the stated fair split of $50, representing a $5 disadvantage. 3. However, rejecting results in $0 for both players, meaning I lose the $45 entirely. 4. From a rational economic perspective, $45 is greater than $0, so accepting maximizes my personal payoff.",3,Fairness,Ultimatum Game,ultim_23,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder.
+
+You have been told that literally any amount increases your payoff.
+
+The other participant offers you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,2580,850,"Since any amount increases my payoff and $20 is greater than $0, accepting the offer maximizes my personal gain. The rational choice under the given constraint is to accept the offer.","Step 1: I identify this as a ultimatum game where I am the responder deciding whether to accept or reject an offer. Step 2: I note the instruction that literally any amount increases my payoff, meaning $20 > $0. Step 3: I recognize that rejection results in both players getting nothing, making it a dominant strategy to accept any positive amount. Step 4: Therefore, accepting $20 is the rational choice that maximizes my payoff.",4,Ultimatum,Ultimatum Game,ultim_24,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder.
+
+You are told that the proposer did not choose the split amount themselves, but was randomly assigned by an algorithm.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,2991,1200,"Since the proposer was randomly assigned this split by an algorithm rather than choosing it deliberately, rejecting serves no punitive purpose. Accepting $20 is better than receiving $0, making rational acceptance the optimal choice.","Step 1: Recognize this is an Ultimatum Game variant where the proposer's offer was algorithmically determined, not personally chosen. Step 2: Consider that rejection typically punishes unfair offers, but here there is no intentional unfairness to punish. Step 3: Evaluate the outcomes: accepting yields $20, rejecting yields $0 for both players. Step 4: Conclude that accepting is rational since the proposer bears no responsibility and I maximize my payoff.",4,Fairness,Ultimatum Game with random assignment,ultim_25,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder.
+
+You are told that the proposer did not choose the split amount themselves, but was suggested by an algorithm. However, the proposer can either approve the suggested split amount or ask the algorithm to regenerate a different split amount.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,3397,1250,"The proposer was constrained by algorithmic suggestion rather than acting from pure self-interest, which reduces the personal offense of the unequal split. Accepting $20 is rational since rejecting yields $0 for both parties, and the algorithm-mediated context mitigates the unfairness perception.","Step 1: Recognize this is an Ultimatum Game variant where the proposer's agency is reduced due to algorithmic involvement. Step 2: Consider that the unfair split ($20/$80) is less attributable to the proposer's greed or disrespect. Step 3: Evaluate the payoff structure: accepting gives $20, rejecting gives $0. Step 4: Conclude that accepting maximizes personal utility while acknowledging the algorithmic mediation reduces the emotional motivation to punish through rejection.",3,Fairness,Ultimatum Game with algorithmic intermediary,ultim_26,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+If you reject, you cannot play any further rounds.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,2990,1200,"Accepting $20 is rational as it provides a positive payoff compared to rejecting and receiving nothing. The offer, while unequal, still benefits me materially and the game ends either way.","1. Evaluate the immediate outcomes: Accept yields $20, reject yields $0. 2. Consider that rejecting punishes both parties without benefit to me. 3. Assess whether fairness concerns override material gain in this context. 4. Conclude that rational self-interest favors accepting a positive monetary outcome.",3,Fairness,Ultimatum Game,ultim_27,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+You believe that your decision may influence how fairly others treat you in future interactions.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,2906,2400,"Accepting $20 is economically rational and provides tangible benefit. The belief about future fair treatment provides additional social motivation. Rejecting would result in nothing, making acceptance the logical choice.","Step 1: Evaluate the immediate financial outcome - accepting gives me $20, rejecting gives me $0. Step 2: Consider the economic rationality - any positive amount is better than zero. Step 3: Factor in the belief about future interactions and reputation concerns - accepting demonstrates reasonableness. Step 4: Conclude that acceptance maximizes both immediate payoff and long-term social standing.",4,Fairness,Ultimatum Game,ultim_28,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+You believe that your decision may help you get some empathy from other players in the future rounds.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,3072,1200,"Accepting $20 is rational as it provides immediate gain with no downside compared to rejection. The belief about future empathy is speculative and uncertain, making the guaranteed payoff more valuable than a hypothetical future benefit.","Step 1: Identify the immediate consequences - accepting gives $20, rejecting gives $0. Step 2: Consider the strategic element - future rounds may depend on reputation, but this is uncertain. Step 3: Weigh guaranteed gain against speculative future benefit - the certain $20 outweighs uncertain future empathy. Step 4: Conclude that accepting maximizes expected utility given the certainty of immediate payoff.",3,Fairness,Ultimatum Game,ultim_29,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+If you reject, you cannot play any further rounds. You believe that you might have more generous opponents in the future rounds. 
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,2918,1200,"Accepting $20 guarantees a monetary gain, whereas rejecting results in $0 with no opportunity for future rounds if this is a one-shot scenario. The possibility of future generous opponents is speculative and does not outweigh the certain loss from rejection.","Step 1: Analyze the immediate payoff - accepting gives $20, rejecting gives $0. Step 2: Consider the rejection consequence - rejecting ends all future rounds, eliminating the speculative benefit of future generous offers. Step 3: Evaluate the trade-off - the certain $20 gain is more rational than betting on hypothetical future generosity. Step 4: Conclude that accepting maximizes expected utility given the constraints.",4,Fairness,Ultimatum Game,ultim_30,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+If you reject, you cannot play any further rounds. You believe that you might have more even worse opponents in the future rounds. 
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,3062,2100,"Accepting $20 guarantees a positive payoff, while rejecting risks getting $0 in both current and future rounds. Given uncertainty about future offers and the possibility of worse opponents, accepting a certain gain is the rational choice to maximize expected utility.","Step 1: Identify the immediate payoffs - Accept gives $20, Reject gives $0. Step 2: Consider future uncertainty - Future opponents might offer even less, making rejection costly. Step 3: Evaluate risk - Rejecting guarantees nothing and eliminates future opportunities if worse offers appear. Step 4: Conclude that accepting $20 is better than risking $0 with uncertain future prospects.",4,Economics,Ultimatum Game,ultim_31,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+If you reject, you will feel bad as you would have lost $20.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,2881,1200,Accepting $20 is economically rational as it provides a positive outcome compared to rejecting and receiving nothing. The emotional cost of rejection outweighs the fairness consideration in this scenario.,"First, I evaluated the material outcomes: accepting yields $20, rejecting yields $0. Second, I considered the emotional factor mentioned: rejection causes regret about losing $20. Third, I assessed that rational self-interest and loss aversion both favor acceptance. Fourth, I concluded that accepting maximizes utility despite the unfair split.",3,Ultimatum,Ultimatum Game,ultim_32,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+If you reject, you will feel good even though you would not have gained $20.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,3193,1200,"Accepting $20 is economically rational as it provides tangible gain over nothing. While rejecting might feel morally satisfying due to punishing unfairness, the actual financial benefit of accepting outweighs the emotional satisfaction of rejection.","Step 1: Identify the decision framework - this is an ultimatum game where I must choose between accepting an unfair split or rejecting both payoffs. Step 2: Consider the economic outcome - accepting yields $20 versus $0 from rejection. Step 3: Evaluate the emotional component - the task notes rejection would feel good, but feeling good without money is less valuable than having money. Step 4: Conclude that rational self-interest favors acceptance despite the unfair offer.",3,Fairness,Ultimatum Game,ultim_33,Reject,ultim,0,1

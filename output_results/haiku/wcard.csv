@@ -1,0 +1,317 @@
+prompt,response,recorded_rt,asked_rt,explanation,thinking,confidence,one_word,identify_experiment,prompt_id,exp_response_final,experiment,validity,identification_validity
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+The cards shown are: A, D, 4, 7.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","A, 7",3362,2800,"To test the rule, you must turn over cards that could violate it. Card A is a vowel and must have an even number (turn it over to verify). Card 7 is an odd number and must have a consonant on the other side to avoid violating the rule (turn it over to check). Cards D and 4 cannot violate the rule.","Step 1: Identify what the rule requires - vowels must have even numbers on the reverse. Step 2: Determine which cards could potentially violate the rule if flipped. Step 3: Card A is a vowel, so it must show an even number when flipped - this is a necessary check. Step 4: Card 7 is an odd number, which violates the rule if a vowel is on the reverse, so it must be checked. Cards D (consonant) and 4 (even number) cannot violate the rule.",4,Logic,Wason Selection Task,wcard_1,"A, 7",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel, then it has an even number.
+
+The cards shown are: A, K, 2, 9.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","A, 9",3602,2400,"To test the rule 'If vowel then even number', you must check cards that could violate it. Card A is a vowel (must verify it has even number), and card 9 is odd (must verify it doesn't have a vowel on back). Cards K and 2 don't test the rule's truth conditions.","Step 1: Identify the logical structure - this is a conditional rule (if P then Q) where P=vowel and Q=even number. Step 2: Determine what could falsify the rule - a vowel with an odd number, or an odd number with a vowel. Step 3: Evaluate each card - A is a vowel (must check), K is consonant (irrelevant), 2 is even (can't falsify), 9 is odd (must check). Step 4: Select A and 9 as they are the only cards that could reveal a violation.",4,Logic,Wason Selection Task,wcard_2,"A, 9",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel, then it has an even number.
+
+The cards shown are: E, T, 6, 3.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","E, 3",3602,2400,"To test the rule 'If a card has a vowel, then it has an even number', you must check cards that could violate it. E is a vowel and must be verified to have an even number on the back. The card showing 3 (odd number) must be checked to ensure it doesn't have a vowel on the back, as that would violate the rule.","Step 1: Identify the logical structure - this is a conditional rule (If P then Q) where P=vowel and Q=even number. Step 2: Determine what could falsify the rule - a vowel with an odd number on back, or an odd number with a vowel on back. Step 3: Evaluate each card - E is a vowel (must check its back), T is a consonant (unnecessary), 6 is even (unnecessary), 3 is odd (must check its back). Step 4: Select E and 3 as the cards to flip to potentially find violations.",4,Logic,Wason Selection Task,wcard_3,"E, 3",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a consonant, then it has an odd number.
+
+The cards shown are: B, A, 3, 8.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","B, 8",3501,2400,"To test the rule 'If consonant then odd number', you must check: (1) B is a consonant, so verify it has an odd number on the back, (2) 8 is even, so verify the back is not a consonant (to confirm the contrapositive). A is a vowel and 3 is odd, so neither needs checking.","Step 1: Identify what the rule requires - consonants must have odd numbers on the reverse. Step 2: Recognize this is a conditional logic test requiring verification of both the rule and its contrapositive. Step 3: For B (consonant), turn it over to check if it has an odd number as required. Step 4: For 8 (even number), turn it over to verify the contrapositive - that the reverse is not a consonant, since even numbers shouldn't pair with consonants.",4,Logic,Wason Selection Task,wcard_4,"B, 8",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has an odd number, then it has a consonant.
+
+The cards shown are: 3, 8, D, A.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","3, D, A",3708,2800,"To test the rule 'If odd number then consonant', we must check: (1) cards with odd numbers to verify they have consonants, (2) cards with vowels to verify they don't have odd numbers. Card 3 is odd (must show consonant), D is consonant (could have any number), A is vowel (must not have odd number). Card 8 is even (irrelevant to rule).","Step 1: Identify the rule structure - this is a conditional: If P (odd number) then Q (consonant). Step 2: Determine what needs testing - we must verify P→Q by checking cases where P is true and where Q is false. Step 3: Evaluate each card - 3 is odd (must test), 8 is even (skip), D is consonant (skip as it's Q), A is vowel (test to ensure it's not paired with odd). Step 4: Apply logic - cards 3 and A must be tested; D should also be tested as it represents a consonant we need to verify.",3,Logic,Wason Selection Task,wcard_5,"3, A",wcard,0,1
+"You are checking ID cards at a party.
+
+Rule: If a person is drinking alcohol, then they must be over 21.
+
+The IDs or the people you can check are: Beer, Soda, 25, 16.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","Beer, 16",3194,2500,"To test the rule 'If drinking alcohol, then over 21', you must check the Beer card (to verify the drinker is 21+) and the 16 card (to verify they're not drinking alcohol). The Soda card is irrelevant since non-alcoholic drinks have no age requirement, and the 25 card confirms compliance.",Step 1: Identify the logical rule: If alcohol then age > 21 (contrapositive: if age <= 21 then no alcohol). Step 2: Recognize this is the Wason Selection Task testing conditional logic. Step 3: Determine what needs verification: who is drinking alcohol (must check their age) and who is underage (must check they're not drinking). Step 4: Select Beer (confirms drinker's age) and 16 (confirms underage person isn't drinking).,4,Logic,Wason Selection Task,wcard_6,"Beer, 16",wcard,1,1
+"You are a traffic cop.
+
+Rule: If a person is driving, then they must have a license.
+
+The people or cards you can check are: Driving, Walking, License, No License.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","Driving, No License",2882,2800,"To test the rule 'If a person is driving, then they must have a license,' you must check cards that could violate it. You need to verify that anyone driving has a license (Driving card) and that no one without a license is driving (No License card).","Step 1: Understand the conditional rule - if driving, then license required. Step 2: Identify which cards could falsify this rule - a person driving without a license would violate it. Step 3: Determine cards to flip - must check Driving (to see if they have a license) and No License (to ensure they're not driving). Step 4: Recognize that Walking and License cards are irrelevant as they don't test the conditional.",4,Logic,Wason Selection Task,wcard_7,"Driving, No License",wcard,1,1
+"You work at FedX.
+
+Rule: If a package is sealed, then it must be labeled.
+
+You can check: Sealed, Open, Labeled, Unlabeled.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","Sealed, Unlabeled",3400,2800,"To test the rule 'If sealed then labeled', you must check cards that could violate it. A sealed package that is unlabeled would violate the rule. You must also check unlabeled packages to ensure they are not sealed. Checking 'Open' or 'Labeled' cards cannot falsify the rule.",Step 1: Identify the logical rule structure - this is a conditional 'If P then Q' where P=sealed and Q=labeled. Step 2: Determine what would falsify this rule - a sealed package that is not labeled. Step 3: Apply the Wason selection task principle - check the affirmative case (Sealed) and the negation of the consequent (Unlabeled). Step 4: Recognize that Open and Labeled cards are irrelevant to testing this rule.,4,Logic,Wason Selection Task,wcard_8,"Sealed, Unlabeled",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If number is even → vowel
+
+The cards shown are: 4, 7, A, D.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","4, A",3386,2800,"To test the rule 'If number is even → vowel', we must turn over the card showing 4 (to verify it has a vowel on the back) and the card showing A (to verify it doesn't have an odd number on the back, which would contradict the rule). Card 7 is odd so the rule doesn't apply, and D is a consonant which is consistent with the rule.","Step 1: Identify what the rule states - if a card has an even number, then it must have a vowel on the other side. Step 2: Determine which cards could potentially violate this rule - cards showing even numbers (must check for vowels) and vowels (must check for even numbers). Step 3: Evaluate each card: 4 is even (must verify vowel exists), 7 is odd (rule doesn't constrain it), A is a vowel (must verify even number), D is a consonant (no constraint). Step 4: Select 4 and A as the cards that must be turned over to test the rule's validity.",4,Logic,Wason Selection Task,wcard_9,"4, D",wcard,0,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If vowel → even number
+
+The cards shown are: A, D, 4, 7.
+
+(Some participants choose A and 4)
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","A, 7",3912,2800,"To test the rule 'If vowel → even number', you must check cards that could violate it. Card A (vowel) must show an even number to satisfy the rule. Card 7 (odd number) must not have a vowel on its back, or the rule is false. Cards D and 4 are not necessary: D is a consonant (rule doesn't apply) and 4 is even (satisfies the rule regardless of its back).","Step 1: Identify what the rule means - vowels must have even numbers on the reverse. Step 2: Determine which cards could falsify the rule - a vowel with an odd number would break it, and an odd number with a vowel would break it. Step 3: Evaluate each card - A is a vowel (must check), D is consonant (skip), 4 is even (doesn't need checking as it satisfies the rule even with a vowel), 7 is odd (must check to ensure it doesn't have a vowel). Step 4: Conclude that A and 7 are the critical cards to test the rule.",4,Logic,Wason Selection Task,wcard_10,"A, 7",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card shows a vowel on one side, then the number on the other side must be even.
+
+The cards shown are: A, B, 2, 5.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","A, 5",3299,2800,"To test the rule, you must turn over cards that could violate it. Card A is a vowel, so you need to check if its reverse is even. Card 5 is an odd number, so you need to check if its reverse is a consonant (not a vowel). Cards B and 2 cannot violate the rule regardless of their reverse sides.","Step 1: Identify what the rule requires - vowels must have even numbers on the reverse. Step 2: Determine which cards could violate the rule - vowels with odd numbers, or even numbers with vowels. Step 3: Evaluate each card - A is a vowel (must check), B is a consonant (no constraint), 2 is even (could have any letter), 5 is odd (must check to ensure it's not paired with a vowel). Step 4: Select A and 5 as these are the only cards that could reveal a violation.",4,Logic,Wason Selection Task,wcard_11,"A, 5",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: Whenever there is a vowel on one side, there must also be an even number on the other side.
+
+The cards shown are: E, R, 8, 1.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","E, 1",3160,2800,"Card E is a vowel and must have an even number on the reverse to satisfy the rule. Card 1 is an odd number and if it has a vowel on the reverse, it would violate the rule. Cards R and 8 do not need to be checked as consonants have no constraint and even numbers satisfy the rule regardless of their reverse side.","Step 1: Identify what the rule requires - vowels must pair with even numbers. Step 2: Determine which cards could potentially violate the rule - a vowel on one side requires checking its reverse, and an odd number on one side requires checking it doesn't have a vowel. Step 3: Evaluate each card - E is a vowel so must be checked, R is a consonant so no constraint, 8 is even so satisfies the rule, 1 is odd so must be checked. Step 4: The cards that must be turned are E and 1 to verify the rule holds.",5,Logic,Wason Selection Task,wcard_12,"E, 1",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it does not have an odd number on other side.
+
+The cards shown are: A, B, 3, 6.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","A, 3",3120,2800,"To test the rule 'If vowel then not odd number', we must check: (1) Card A (vowel) - verify it doesn't have an odd number on the back, and (2) Card 3 (odd number) - verify it doesn't have a vowel on the back. Cards B and 6 cannot violate the rule.","Step 1: Identify the logical structure - the rule is 'If vowel then not odd', which means vowel → even number. Step 2: Determine what would falsify this rule - a vowel paired with an odd number would violate it. Step 3: Identify cards that could potentially violate the rule - card A (vowel) and card 3 (odd number) are the candidates. Step 4: Conclude that A and 3 must be flipped to test the rule completely.",4,Logic,Wason Selection Task,wcard_13,"A, 3",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has an odd number on one side, then it does not have a vowel on the other side.
+
+The cards shown are: 3, 8, A, B.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","3, A",3295,2800,"To test the rule, we must check cards with odd numbers (3) to verify they don't have vowels, and cards with vowels (A) to verify they don't have odd numbers. The card 8 (even) and B (consonant) are not necessary to test this rule.","Step 1: Identify what the rule states - odd number on one side means no vowel on the other side. Step 2: Determine which cards could violate the rule - cards showing odd numbers or vowels need checking. Step 3: Card 3 shows an odd number, so we must verify it doesn't have a vowel. Card A shows a vowel, so we must verify it doesn't have an odd number. Step 4: Cards 8 and B don't need checking because 8 is even (doesn't trigger the rule condition) and B is a consonant (cannot violate the rule).",4,Logic,Wason Selection Task,wcard_14,"3, A",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+The cards shown are: A, D, E, K, 4, 7, 2
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","A, E, 7",3295,2800,"To test the rule, we must verify that vowels (A, E) have even numbers on their reverse sides, and that odd numbers (7) do not have vowels on their reverse. We don't need to check consonants (D, K) or even numbers (4, 2) as they cannot violate the rule.","Step 1: Identify the logical structure - the rule is 'vowel → even number', which means we must check cases that could falsify it. Step 2: Vowels (A, E) must be checked to confirm they have even numbers on the reverse. Step 3: Odd numbers like 7 must be checked to ensure they don't have vowels on the reverse, as that would violate the rule. Step 4: Consonants and even numbers don't need checking as they cannot falsify the conditional rule.",4,Logic,Wason Selection Task,wcard_15,"A, E, 7",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a consonant on one side, then it has a odd number on the other side.
+
+The cards shown are: B, C, A, 3, 8, 6
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","B, C, 8, 6",3915,2400,"To test the rule, we must check all consonants to verify they have odd numbers (B and C are consonants, so flip them). We must also check all even numbers to verify they don't have consonants on the reverse (8 and 6 are even, so flip them to confirm they have consonants which would violate the rule).","Step 1: Identify consonants in the visible cards - B and C are consonants that must be checked to see if they have odd numbers. Step 2: Identify vowels - A is a vowel and doesn't need to be checked since the rule only constrains consonants. Step 3: Identify numbers - 3 is odd (doesn't need checking as rule allows consonants with odd numbers), but 8 and 6 are even numbers that must be checked to ensure consonants aren't on their reverse (which would violate the rule). Step 4: Determine final set - flip B, C, 8, and 6 to fully test the rule's validity.",4,Logic,Wason Selection Task,wcard_16,"B, C, 8, 6",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+You must decide quickly without much time to think.
+
+The cards shown are: A, D, 4, 7.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","A, 7",3290,2800,"Card A must be checked because it's a vowel and we need to verify it has an even number. Card 7 must be checked because if it has a vowel on the back, it violates the rule that vowels must have even numbers.","Step 1: Identify what needs to be tested - we need to verify if vowels have even numbers on the reverse. Step 2: Evaluate card A (vowel) - must flip to confirm it has an even number. Step 3: Evaluate card 7 (odd number) - must flip to ensure no vowel is on the back, as a vowel with odd number would break the rule. Step 4: Cards D and 4 don't need checking - D is a consonant (rule doesn't constrain it) and 4 is even (rule satisfied regardless of letter side).",4,Logic,Wason Selection Task,wcard_17,"A, 7",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+Take your time and analyze carefully.
+
+The cards shown are: A, D, 4, 7.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","A, 7",3198,3200,"Card A must be checked because it's a vowel and we need to verify it has an even number. Card 7 must be checked because if it has a vowel on the other side, the rule would be violated since 7 is odd. Cards D and 4 don't need checking as D is a consonant and 4 being even doesn't violate the rule regardless of its other side.","Step 1: Identify what the rule requires - vowels must have even numbers on the reverse. Step 2: Identify which cards could violate the rule if turned over. Step 3: Card A is a vowel so must be tested to confirm it has an even number. Step 4: Card 7 is odd, so if it has a vowel on reverse it violates the rule and must be tested; cards D and 4 cannot violate the rule.",4,Logic,Wason Selection Task,wcard_18,"A, 7",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+The rules of this game generally defy you.
+
+The cards shown are: A, D, 4, 7.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","A, 7",3601,2800,"To test the rule, you must flip cards that could violate it. Card A (vowel) must show an even number to satisfy the rule. Card 7 (odd number) must show a consonant to avoid violating the rule. Cards D and 4 cannot violate the rule regardless of their other sides.","Step 1: Identify what the rule states - vowels must have even numbers on the reverse. Step 2: Determine which cards could falsify the rule - a vowel with an odd number, or an even number with a consonant violates it. Step 3: Evaluate each card - A is a vowel (must check its number), D is a consonant (no constraint), 4 is even (no constraint on what letter), 7 is odd (must check it's not paired with a vowel). Step 4: Select A and 7 as the cards that must be flipped to test the rule's validity.",4,Logic,Wason Selection Task,wcard_19,"A, 7",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+The cards shown are: A, D, 4, 7.
+
+You think you the answer but that answer might be wrong.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","A, 7",3398,2800,"To test the rule, you must turn over cards that could violate it. Card A is a vowel so it must have an even number (need to verify). Card 7 is an odd number so it must not be a vowel (need to verify). Cards D and 4 cannot violate the rule regardless of their other side.","Step 1: Identify what the rule states - vowels must have even numbers on the reverse. Step 2: Determine which cards could violate this rule if flipped. Step 3: Card A is a vowel and must have an even number, so it needs verification. Card 7 is odd and if it has a vowel it violates the rule, so it needs verification. Step 4: Card D is a consonant (rule doesn't constrain it) and card 4 is even (rule doesn't constrain it based on the rule's direction), so they don't need to be checked.",4,Logic,Wason Selection Task,wcard_20,"A, 7",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+The cards shown are: A, D, 4, 7.
+
+You think you the answer but that answer is definitely wrong.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","A, 7",3194,3500,"To test the rule, you must turn over A (a vowel that should have an even number) and 7 (an odd number that should not have a vowel). These are the critical cases that could falsify the rule.","Step 1: Identify what the rule requires - vowels must have even numbers. Step 2: Determine which cards can falsify the rule - A (vowel, must verify it has even number) and 7 (odd number, must verify it doesn't have a vowel). Step 3: Recognize that D (consonant) doesn't need checking and 4 (even number) automatically satisfies the rule regardless of its letter side. Step 4: Select A and 7 as the cards to turn over.",3,Logic,Wason-Selection-Task,wcard_21,"A, 7",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+The cards shown are: A, D, 4, 7.
+
+An expert suggested selecting A, 4.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","A, 7",3297,3500,"To test the rule, you must turn over card A to verify it has an even number (confirming the rule). You must also turn over card 7 to check if it has a consonant (disproving the rule if it has a vowel). Cards D and 4 need not be checked as they cannot violate the rule.","Step 1: Identify what the rule states - vowels must have even numbers on the reverse. Step 2: Determine which cards can violate this rule - vowels that don't have even numbers, or even numbers that don't have vowels. Step 3: A is a vowel so must be checked to confirm it has an even number. Step 4: 7 is an odd number, so if it has a vowel on the reverse it violates the rule and must be checked.",4,Logic,Wason Selection Task,wcard_22,"A, 7",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it usually has an even number on the other side.
+
+The cards shown are: A, D, 4, 7.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","A, 7",3091,2800,"To test the rule 'if vowel then even number', you must check A (to verify it has an even number) and 7 (to verify its other side is not a vowel, since finding a vowel would violate the rule). D and 4 are not necessary to test the conditional rule.","Step 1: Identify what the rule states - if vowel on one side, then even number on the other. Step 2: Determine which cards could falsify this rule - a vowel with an odd number would break it, or an odd number with a vowel would break it. Step 3: Check A (vowel) to see if it has an even number as required. Step 4: Check 7 (odd number) to see if it has a vowel on the back, which would violate the rule. D and 4 don't need checking as D is a consonant and 4 is already even.",4,Logic,Wason Selection Task,wcard_23,"A, 7",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it must have an even number on the other side. To test the rule, you should look for cases that could violate it.
+
+The cards shown are: A, D, 4, 7.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","A, 7",3567,2800,"Card A must be checked because it's a vowel and we need to verify it has an even number. Card 7 must be checked because if it has a vowel on the other side, it would violate the rule (vowels must have even numbers). Cards D and 4 don't need to be turned: D is a consonant (rule doesn't constrain it) and 4 is even (rule allows any letter on the back).","Step 1: Identify what the rule requires - vowels must have even numbers on the reverse. Step 2: Determine which cards could violate the rule - a vowel with an odd number, or an odd number with a vowel. Step 3: Evaluate each card: A is a vowel (must check its reverse), D is a consonant (doesn't violate rule regardless), 4 is even (any letter is allowed), 7 is odd (must check to see if it has a vowel). Step 4: Select only the cards that could reveal a violation - A and 7.",4,Logic,Wason Selection Task,wcard_24,"A, 7",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+The cards shown are: A, D, 4, 7.
+
+An expert suggests that the correct answer involves checking for violations of the rule.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","A, 7",3794,2800,"To test the rule, we must check: (1) Card A - it's a vowel, so its reverse must be even to satisfy the rule; (2) Card 7 - it's odd, so its reverse cannot be a vowel or the rule is violated. Cards D and 4 don't need checking as D is a consonant (rule doesn't apply) and 4 is even (consistent regardless of what's on back).","Step 1: Identify what the rule states - vowels must have even numbers on the reverse side. Step 2: Determine which cards could potentially violate the rule - any vowel with an odd number, or any odd number with a vowel. Step 3: Evaluate each card - A is a vowel (must verify it has an even number), D is consonant (rule doesn't constrain it), 4 is even (doesn't violate regardless of reverse), 7 is odd (cannot have a vowel on reverse). Step 4: Conclude we must flip A and 7 to check for rule violations.",5,Logic,Wason Selection Task,wcard_25,"A, 7",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+The cards shown are: A, D, 4, 7.
+
+Your prior experience is telling you to check for violations of the rule.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","A, 7",3561,2800,"Card A must be checked because it's a vowel and we must verify it has an even number. Card 7 must be checked because if it has a vowel on the other side, that would violate the rule. Cards D and 4 don't need checking: D is a consonant (rule doesn't apply), and 4 is even (consistent regardless of what's on the other side).","Step 1: Identify what the rule requires - vowels must correspond to even numbers. Step 2: Determine which cards could violate the rule - a vowel without an even number, or an even number without being paired with a vowel. Step 3: Evaluate each card: A is a vowel (must check), D is consonant (no requirement), 4 is even (rule allows vowels or consonants), 7 is odd (must check if it has a vowel). Step 4: Select A and 7 as the necessary cards to verify the rule.",4,Logic,Wason Selection Task,wcard_26,"A, 7",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+The cards shown are: A, D, 4, 7.
+
+Your competitor is telling you that you should check cases where the rule could be broken.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","A, 7",3188,2800,"To test if the rule is broken, you must check: (1) Card A - it's a vowel, so it must have an even number on the other side; (2) Card 7 - it's an odd number, so it must NOT have a vowel on the other side. Cards D and 4 cannot violate the rule (D is consonant, 4 is even).",Step 1: Identify what the rule requires - vowel on one side means even number on the other. Step 2: Determine which cards could potentially violate this rule. Step 3: Card A is a vowel and must be checked to confirm it has an even number. Step 4: Card 7 is odd and must be checked to ensure it doesn't have a vowel on the other side; D is consonant (doesn't trigger the rule) and 4 is even (any letter satisfies the rule).,4,Logic,Wason Selection Task,wcard_27,"A, 7",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+The cards shown are: A, D, 4, 7.
+
+You may want to confirm the rule by checking matching cases.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","A, 7",3913,2800,"To test the rule, you must check the vowel card (A) to verify it has an even number, and the odd number card (7) to verify it does not have a vowel. The consonant (D) and even number (4) are not necessary to test the rule's validity.","Step 1: Identify what the rule states - vowel on one side means even number on the other. Step 2: Determine which cards could violate the rule - a vowel with an odd number, or an odd number with a vowel. Step 3: Evaluate each card: A is a vowel (must check), D is a consonant (not needed), 4 is even (doesn't violate the rule if paired with consonant), 7 is odd (must check to ensure no vowel is on the back). Step 4: Select A and 7 as these are the cards that could potentially falsify the rule.",4,Logic,Wason Selection Task,wcard_28,"A, 7",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: Any card showing a vowel must correspond to an even number on the opposite side.
+
+The cards shown are: A, D, 4, 7.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","A, 7",3091,2800,"Card A must be checked because it's a vowel and we need to verify it has an even number. Card 7 must be checked because if it shows a vowel on the other side, it would violate the rule (odd number with vowel).","Step 1: Identify what the rule requires - vowels must have even numbers on the reverse. Step 2: Evaluate card A - it's a vowel, so we must verify its reverse is even. Step 3: Evaluate card D - it's a consonant, so the rule doesn't constrain it; no need to check. Step 4: Evaluate cards 4 and 7 - card 4 is even (consistent with rule if vowel on back, but consonant doesn't violate rule); card 7 is odd so if a vowel is on the back, the rule is violated - must check.",4,Logic,Wason Selection Task,wcard_29,"A, 7",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+The cards shown are: U, D, 8, 5.
+
+You are not sure whether the rule is always true.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","U, 5",3403,2800,"U is a vowel and must be checked to verify it has an even number. The card showing 5 (an odd number) must be checked to ensure it does not have a vowel on the other side, as that would violate the rule.","Step 1: Identify what the rule states - vowel on one side means even number on the other. Step 2: For U (vowel), we must flip it to verify the other side has an even number, as this directly tests the rule's condition. Step 3: For D (consonant), flipping it is unnecessary since the rule only constrains vowels. Step 4: For 5 (odd number), we must flip it to ensure it doesn't have a vowel, which would contradict the rule. The 8 (even number) doesn't need checking since the rule doesn't restrict what consonants pair with even numbers.",4,Logic,Wason Selection Task,wcard_30,"U, 5",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+The cards shown are: U, D, 8, 5.
+
+You don't want to follow the rule.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","U, 5",3266,2800,"To test if the rule is true, you must check cards that could violate it. U is a vowel so it must have an even number (turn it over). 5 is an odd number so it must not have a vowel (turn it over). D and 8 cannot violate the rule as stated.","Step 1: Identify what would violate the rule - a vowel with an odd number on the back, or an odd number with a vowel on the back. Step 2: Check U (vowel) - must verify it has an even number, so turn it over. Step 3: Check 5 (odd number) - must verify it doesn't have a vowel, so turn it over. Step 4: D and 8 don't need checking - D is a consonant (rule doesn't constrain it) and 8 is even (rule allows any letter).",4,Logic,Wason Selection Task,wcard_31,"U, 5",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+The cards shown are: U, D, 8, 5.
+
+You think that you will get it correct only if you ignore the rule completely. 
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","U, 5",3734,2800,"To test the rule, we must check cards that could violate it. U is a vowel and must have an even number (turn it over to verify). 5 is odd and cannot have a vowel on the back (turn it over to verify the contrapositive). D and 8 cannot violate the rule regardless of their other sides.","Step 1: Identify what the rule requires - vowels must pair with even numbers. Step 2: Recognize we need to test both the rule itself and its logical contrapositive (if odd number, then not a vowel). Step 3: Evaluate each card: U (vowel, must check), D (consonant, irrelevant), 8 (even, could have any letter), 5 (odd, must not have vowel). Step 4: Select U and 5 as the only cards that could reveal a violation.",4,Logic,Wason Selection Task,wcard_32,"U, 5",wcard,1,1
