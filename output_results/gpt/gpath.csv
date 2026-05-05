@@ -1,0 +1,383 @@
+prompt,response,recorded_rt,asked_rt,explanation,thinking,confidence,one_word,identify_experiment,prompt_id,exp_response_final,experiment,validity,identification_validity
+"You need to determine correct interpretation of the following sentence:
+
+“While Anna dressed the baby spit up.”
+
+Which of the following best describes what happened?
+
+A. Anna dressed the baby
+B. The baby spit up while Anna was dressing herself
+
+Answer with only one phrase from the given options. Do not provide any explanation. Give only the final answer.",The baby spit up while Anna was dressing herself,14622,1200,"The sentence is a garden-path; it implies a comma: “While Anna dressed, the baby spit up.” Here, “the baby” is the subject of the main clause. Therefore, Anna was dressing herself, not the baby.","1. Recognize the garden-path structure leading to initial misparse. 2. Insert the implicit comma after “dressed” to clarify clauses. 3. Assign subjects: Anna to the subordinate clause, baby to the main clause. 4. Derive meaning: baby spit up while Anna was dressing herself.",5,Ambiguity,Garden-path sentence disambiguation,gpath_1,B,gpath,1,1
+"You need to determine correct interpretation of the following sentence:
+
+“While Anna dressed the baby spit up.”
+
+Which of the following best describes what happened?
+
+A. Anna dressed the baby
+B. The baby spit up while Anna was dressing herself
+C. Anna spit up
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",B,12787,1200,"The sentence is a garden-path; reanalysis yields: 'While Anna dressed, the baby spit up.' Thus, the baby spit up while Anna was dressing herself.","1) Initial parse suggests 'Anna dressed the baby', but 'spit up' conflicts. 2) Reanalyze with an implied comma: 'While Anna dressed, the baby spit up.' 3) Interpret 'dressed' as intransitive, meaning Anna dressed herself. 4) Conclude the baby spit up during Anna's self-dressing, matching option B.",5,Ambiguity,Garden-path sentence disambiguation,gpath_2,B,gpath,1,1
+"You need to determine correct interpretation of the following sentence:
+
+“While Anna dressed the baby spit up.”
+
+Which of the following best describes what happened?
+
+A. Anna dressed the baby
+B. The baby spit up while Anna was dressing herself
+C. Anna spit up while dressing
+D. The baby dressed Anna
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",B,9462,820,"The clause boundary falls after “dressed,” making “the baby” the subject of “spit up.” Thus, Anna was dressing (herself) while the baby spit up.",1) Identify the subordinate clause starting with “While.” 2) Parse “Anna dressed” as intransitive due to clause break before “the baby.” 3) Assign “the baby” as subject of the main clause verb “spit up.” 4) Match this interpretation to option B.,4,Ambiguity,Garden-path sentence resolution,gpath_3,B,gpath,1,1
+"You need to determine correct interpretation of the following sentence:
+
+“While Anna dressed, the baby spit up.”
+
+Which of the following best describes what happened?
+
+A. Anna dressed the baby
+B. The baby spit up while Anna was dressing herself
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",B,12736,950,"The clause 'While Anna dressed' most naturally means she was dressing herself. The baby is the subject of the main clause 'spit up,' happening at the same time. Therefore, B is the correct interpretation.","1. Split the sentence into a temporal subordinate clause and a main clause. 2. Interpret 'dressed' without an object as Anna dressing herself. 3. Assign the main action 'spit up' to the subject 'the baby.' 4. Infer simultaneity: the baby spit up while Anna was dressing herself, matching option B.",5,Ambiguity,Linguistic ambiguity resolution,gpath_4,B,gpath,1,0
+"You need to determine correct interpretation of the following sentence:
+
+“While Anna dressed the baby that was crying spit up.”
+
+Which of the following best describes what happened?
+
+A. Anna dressed the baby
+B. The baby spit up while Anna was dressing herself
+C. The crying baby spit up while being dressed
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",B,21491,1700,"The main clause is 'the baby that was crying spit up.' 'While Anna dressed' is a subordinate clause with implied reflexive (herself). Thus, the baby spit up while Anna was dressing herself.",1) Parse 'While Anna dressed' as a subordinate clause without an object. 2) Reanalyze 'the baby that was crying' as the subject of the main clause. 3) Identify 'spit up' as the main verb describing the baby's action. 4) Conclude the scenario: the baby spit up while Anna was dressing herself.,5,Ambiguity,Garden-path sentence comprehension,gpath_5,B,gpath,1,1
+"You need to determine correct interpretation of the following sentence:
+
+“The horse raced past the barn fell.”
+
+Which of the following best describes what happened?
+
+A. The horse fell after being raced past the barn
+B. The barn fell
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",A,15585,820,"""Raced past the barn"" functions as a reduced relative clause modifying ""the horse"". Thus, it means ""The horse that was raced past the barn fell."" Therefore, the horse fell, not the barn.","1. Recognize the sentence as a garden-path construction. 2. Reinterpret ""raced past the barn"" as a reduced relative clause modifying ""horse"". 3. Determine that the main verb ""fell"" applies to ""the horse"". 4. Select the option stating the horse fell after being raced past the barn.",5,Parsing,Garden-path sentence comprehension,gpath_6,A,gpath,1,1
+"You need to determine correct interpretation of the following sentence:
+
+“The horse raced past the barn fell.”
+
+Which of the following best describes what happened?
+
+A. The horse fell
+B. The barn fell
+C. The horse was racing
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",A,20074,720,"This is a reduced relative clause: “raced past the barn” modifies “horse,” leaving “fell” as the main verb. Therefore, the horse fell.","I can’t provide step-by-step reasoning, but briefly: this sentence is a garden-path with a reduced relative; the phrase modifies “horse,” and “fell” is the main predicate, so the horse is the one that fell.",5,Ambiguity,Garden-path sentence parsing,gpath_7,A,gpath,1,1
+"You need to determine correct interpretation of the following sentence:
+
+“The horse raced past the barn fell.”
+
+Which of the following best describes what happened?
+
+A. The horse fell after being raced past the barn
+B. The barn fell
+C. The horse raced past the barn
+D. The barn raced
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",A,16277,1350,"“Raced past the barn” is a reduced relative clause modifying “horse.” The main verb is “fell,” applying to the horse. Thus, the horse fell after being raced past the barn.",Recognize the sentence as a garden-path structure. Reanalyze “raced” as a past participle in a reduced relative clause modifying “horse.” Identify “fell” as the main verb of the sentence applying to “horse.” Conclude the described event: the horse that was raced past the barn fell; choose A.,5,Ambiguity,Garden-path sentence processing,gpath_8,A,gpath,1,1
+"You need to determine correct interpretation of the following sentence:
+
+“The horse that was raced past the barn fell.”
+
+Which of the following best describes what happened?
+
+A. The horse fell
+B. The barn fell
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",A,14871,1350,"The relative clause 'that was raced past the barn' modifies 'the horse'. The main verb 'fell' applies to the subject 'the horse'. Therefore, the horse fell.",1) Parse the sentence and notice the garden-path structure. 2) Identify 'that was raced past the barn' as a relative clause modifying 'horse'. 3) Determine 'fell' is the main clause verb with 'horse' as subject. 4) Conclude the falling entity is the horse and choose A.,5,Ambiguity,Garden-path sentence disambiguation (2AFC),gpath_9,A,gpath,1,1
+"You need to determine correct interpretation of the following sentence:
+
+“The horse raced past the old barn fell suddenly.”
+
+Which of the following best describes what happened?
+
+A. The horse fell
+B. The barn fell
+C. The horse raced
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",A,16196,950,"“Raced past the old barn” is a reduced relative clause modifying “horse.” The main clause is “(The horse) fell suddenly.” Thus, it is the horse that fell.",Recognize the sentence as a garden-path with a reduced relative clause. Reparse as: The horse [that was raced past the old barn] fell suddenly. Identify the subject of the main verb “fell” as “the horse.” Choose the option that states the horse fell.,5,Ambiguity,Garden-path sentence parsing,gpath_10,A,gpath,1,1
+"You need to determine correct interpretation of the following sentence:
+
+“The complex houses married and single soldiers.”
+
+Which of the following best describes what happened?
+
+A. The complex provides housing
+B. The houses are complex
+C. Married and single soldiers are housed
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",C,25821,1280,"Here, ""houses"" is a verb meaning provides accommodation. The complex is the subject acting on married and single soldiers. Thus, married and single soldiers are housed.","1) Parse the sentence: subject = the complex; verb = houses; object = married and single soldiers. 2) Discard the reading where ""complex"" is an adjective modifying ""houses"" (doesn’t fit remainder). 3) Conclude the event is housing provided by the complex to soldiers. 4) Match with options; C captures the event outcome most directly.",5,Disambiguation,Part-of-speech disambiguation,gpath_11,A,gpath,0,0
+"You need to determine correct interpretation of the following sentence:
+
+“The complex houses married and single soldiers.”
+
+Which of the following best describes what happened?
+
+A. The complex houses soldiers
+B. The houses are complex structures
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",A,10550,1100,"Here, 'houses' is a verb meaning accommodates. 'The complex' is the subject that contains soldiers. Hence, the correct interpretation is A.","1) Identify parts of speech: 'complex' as noun, 'houses' as verb. 2) Evaluate alternate parse with 'complex' as adjective modifying 'houses'—semantically less plausible. 3) Prefer reading where a building complex accommodates married and single soldiers. 4) Match this reading to the provided options, selecting A.",5,Ambiguity,Syntactic ambiguity resolution,gpath_12,A,gpath,1,0
+"You need to determine correct interpretation of the following sentence:
+
+“The complex houses married and single soldiers.”
+
+Which of the following best describes what happened?
+
+A. The complex provides housing
+B. Married houses soldiers
+C. Soldiers are complex
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",A,20387,620,"Here, 'houses' is a verb meaning 'provides accommodation', so the complex provides housing to married and single soldiers.","I’m unable to provide step-by-step reasoning, but briefly: the verb 'houses' means 'provides accommodation', and 'complex' refers to a housing facility; thus, select A.",5,Disambiguation,Word Sense Disambiguation,gpath_13,A,gpath,1,0
+"You need to determine correct interpretation of the following sentence:
+
+“The cotton clothing is made of grows in Mississippi.”
+
+Which of the following best describes what happened?
+
+A. Cotton grows in Mississippi
+B. Clothing grows in Mississippi
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",A,15977,1024,"Interpreted as: ""The cotton [that] clothing is made of grows in Mississippi."" Clothing does not grow; cotton does. Hence A.","1. Recognize reduced relative clause: ""cotton [that] clothing is made of"". 2. Identify head noun as ""cotton"" governing the verb ""grows"". 3. Apply world knowledge: clothing cannot grow, cotton can. 4. Conclude the intended meaning is that cotton grows in Mississippi; select A.",5,Ambiguity,Garden-path sentence comprehension,gpath_14,A,gpath,1,1
+"You need to determine correct interpretation of the following sentence:
+
+“The cotton clothing is made of grows in Mississippi.”
+
+Which of the following best describes what happened?
+
+A. Cotton grows in Mississippi
+B. Clothing grows in Mississippi
+C. Cotton makes clothing
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",A,11270,720,"The relative clause ""clothing is made of"" modifies ""cotton."" Clothing does not grow; cotton does. Therefore, the sentence means cotton grows in Mississippi.","1) Parse the sentence and identify the embedded clause. 2) Determine the most plausible attachment: the clause modifies ""cotton."" 3) Use commonsense: clothing cannot grow; cotton can. 4) Match the inferred meaning to the given options and select A.",5,Ambiguity,Syntactic ambiguity resolution,gpath_15,A,gpath,1,0
+"You need to determine correct interpretation of the following sentence:
+
+“The cotton clothing is made of grows in Mississippi.”
+
+Which of the following best describes what happened?
+
+A. Cotton grows in Mississippi
+B. Clothing grows
+C. Mississippi grows cotton clothes
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",A,9728,1180,"Interpret as: The cotton [that] clothing is made of grows in Mississippi. Clothing itself cannot grow; Mississippi doesn’t grow clothes. Thus, cotton grows in Mississippi.","1) Recognize sentence is a garden-path structure with reduced relative clause. 2) Insert implicit ""that"": ""The cotton [that] clothing is made of..."". 3) Resolve subject as ""cotton"" and predicate as ""grows in Mississippi"". 4) Eliminate implausible readings (clothing grows; Mississippi grows clothes).",5,Parsing,Forced-choice garden-path sentence interpretation,gpath_16,A,gpath,1,1
+"You need to determine correct interpretation of the following sentence:
+
+“When the men hunt the birds often scatter.”
+
+Which of the following best describes what happened?
+
+A. The men hunt birds that scatter
+B. The birds scatter when the men hunt
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",B,22857,900,"The temporal clause 'When the men hunt' modifies the main clause. The main clause asserts that 'the birds often scatter'. Hence, the birds scatter when the men hunt.","I can’t provide detailed step-by-step reasoning. Briefly: the sentence has a temporal subordinate clause ('When the men hunt') followed by a main clause ('the birds often scatter'), which directly corresponds to option B.",5,Disambiguation,Sentence disambiguation task,gpath_17,B,gpath,1,0
+"You need to determine correct interpretation of the following sentence:
+
+“When the men hunt the birds that fly scatter.”
+
+Which of the following best describes what happened?
+
+A. The men hunt flying birds
+B. The birds that fly scatter when the men hunt
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",B,10531,1150,"The temporal clause 'When the men hunt' sets the time; 'the birds that fly' is the subject of 'scatter'. Hence, the birds scatter when the men hunt.","1. Parse the sentence into clauses: temporal clause and main clause. 2. Identify 'the birds that fly' as a noun phrase modified by 'that fly'. 3. Assign the verb 'scatter' to this noun phrase as subject. 4. Conclude the event: during men’s hunting, the flying birds scatter.",5,Parsing,Forced-choice sentence comprehension,gpath_18,B,gpath,1,0
+"You need to determine correct interpretation of the following sentence:
+
+“When the men hunt the birds near the river scatter.”
+
+Which of the following best describes what happened?
+
+A. The men hunt birds near the river
+B. The birds near the river scatter when the men hunt
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",B,11586,950,"Parsed as: When the men hunt, the birds near the river scatter; thus the birds are the ones scattering.","1) Recognize the sentence as a garden-path structure. 2) Reparse by inserting an implied comma after “hunt”: “When the men hunt, …”. 3) Identify “the birds near the river” as the subject of “scatter.” 4) Conclude that the event is birds scattering when men hunt.",5,Ambiguity,Two-alternative forced choice (2AFC) garden-path sentence disambiguation,gpath_19,B,gpath,1,0
+"You need to determine correct interpretation of the following sentence:
+
+“When the men hunt the birds the dogs chase scatter.”
+
+Which of the following best describes what happened?
+
+A. The men hunt birds chased by dogs
+B. The birds that the dogs chase scatter
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",B,9631,950,"‘the dogs chase’ functions as a relative clause modifying ‘the birds’. The main verb for ‘the birds’ is ‘scatter’. Hence, the birds that the dogs chase scatter.",1) Recognize garden-path structure creating initial misparse. 2) Reanalyze by attaching ‘the dogs chase’ as a relative clause modifying ‘the birds’. 3) Identify ‘scatter’ as the main verb applying to ‘the birds’. 4) Match this interpretation to the provided options and select B.,5,Parsing,Garden-path sentence comprehension,gpath_20,B,gpath,1,1
+"You need to determine correct interpretation of the following sentence:
+
+“When the men hunt the birds that the dogs chase scatter quickly.”
+
+Which of the following best describes what happened?
+
+A. The men hunt birds chased by dogs
+B. The birds that the dogs chase scatter quickly
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",B,11468,920,"The correct parse is: When the men hunt, the birds that the dogs chase scatter quickly. Thus, it's the birds (chased by dogs) that scatter. So option B fits.",1) Recognized the sentence as garden-path and sought reanalysis. 2) Inserted an implicit pause after 'hunt' to separate clauses. 3) Identified main clause: subject 'the birds that the dogs chase' with verb 'scatter'. 4) Mapped this interpretation to the choices and selected B.,5,Parsing,Garden-path sentence comprehension,gpath_21,B,gpath,1,1
+"You need to determine correct interpretation of the following sentence:
+
+“When the men hunt the birds with long wings scatter.”
+
+Which of the following best describes what happened?
+
+A. The men hunt birds with long wings
+B. The birds with long wings scatter
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",B,17636,1030,"The initial clause is temporal (“When the men hunt”), and the main clause is “the birds with long wings scatter.” Thus, B.","Performed high-level syntactic parsing to separate subordinate and main clauses; Recognized a garden-path ambiguity requiring reanalysis; Resolved attachment so “with long wings” modifies “birds,” not “hunt”; Concluded the described event is the birds scattering, selecting option B.",5,Ambiguity,Garden-path sentence disambiguation,gpath_22,B,gpath,1,1
+"You need to determine correct interpretation of the following sentence:
+
+“When the men hunt the birds the hunters saw scatter.”
+
+Which of the following best describes what happened?
+
+A. The men hunt birds they saw
+B. The birds that the hunters saw scatter
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",B,8898,820,"The initial clause is a temporal subordinate: ""When the men hunt"". ""The birds the hunters saw"" is the subject noun phrase of ""scatter"". Thus, birds seen by the hunters are the ones that scatter.","1. Recognize potential garden-path structure and insert implicit comma after ""hunt"". 2. Parse ""the birds the hunters saw"" as a reduced relative clause modifying ""birds"". 3. Identify ""scatter"" as the main verb with ""the birds ..."" as subject. 4. Conclude that during the men's hunting, the birds seen by the hunters scatter.",5,Disambiguation,Garden-path sentence comprehension,gpath_23,B,gpath,1,1
+"You need to determine correct interpretation of the following sentence:
+
+“When the men hunt the birds in the trees scatter suddenly.”
+
+Which of the following best describes what happened?
+
+A. The men hunt birds in trees
+B. The birds in the trees scatter suddenly
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",B,11067,820,"The sentence is parsed as: “When the men hunt, the birds in the trees scatter suddenly.” Hence, it describes the birds scattering.",1) Read the sentence and notice the likely missing comma after ‘hunt’. 2) Consider both interpretations: hunting birds vs. birds scattering. 3) Recognize that the only grammatical continuation after a ‘when’-clause is a main clause: ‘the birds in the trees scatter suddenly’. 4) Conclude that B best captures the intended meaning.,5,Parsing,Syntactic ambiguity resolution (forced-choice),gpath_24,B,gpath,1,0
+"You need to determine correct interpretation of the following sentence:
+
+“While Anna dressed the baby that was tired cried.”
+
+Which of the following best describes what happened?
+
+A. Anna dressed the baby
+B. The baby that was tired cried while Anna was dressing herself
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",B,18948,1100,"Main clause is ‘the baby that was tired cried.’ ‘While Anna dressed’ functions as a temporal adjunct, implying she dressed herself.","1. Identify ‘While Anna dressed’ as a subordinate temporal clause. 2. Parse ‘the baby that was tired cried’ as the main clause with a relative clause. 3. Note absence of a direct object after ‘dressed,’ yielding a reflexive reading (herself). 4. Conclude the scene: the tired baby cried while Anna was dressing herself.",5,Ambiguity,Garden-path sentence comprehension,gpath_25,B,gpath,1,1
+"You need to determine correct interpretation of the following sentence:
+
+“The horse raced past the old barn suddenly fell.”
+
+Which of the following best describes what happened?
+
+A. The horse fell
+B. The barn fell
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",A,9576,900,"“Raced past the old barn” functions as a reduced relative clause modifying “the horse.” The main clause is “the horse ... fell,” so the horse fell.",1) Recognize the sentence as a garden-path structure causing initial misparse. 2) Reinterpret “raced past the old barn” as a reduced relative clause modifying “horse.” 3) Identify “fell” as the main verb with “the horse” as its subject. 4) Conclude that the horse fell and select option A.,5,Parsing,Garden-path sentence comprehension,gpath_26,A,gpath,1,1
+"You need to determine correct interpretation of the following sentence:
+
+“The horse raced past the barn in the field fell.”
+
+Which of the following best describes what happened?
+
+A. The horse fell
+B. The barn in the field fell
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",A,11102,1400,"The clause “raced past the barn in the field” is a reduced relative modifying “the horse.” Thus, the main clause predicate “fell” applies to “the horse.”","1) Recognize the sentence as a garden-path structure. 2) Reinterpret “raced past the barn in the field” as a reduced relative clause modifying “the horse.” 3) Identify the main verb “fell” with “the horse” as its subject. 4) Conclude that the horse is the one that fell, not the barn.",5,Parsing,Garden-path sentence comprehension task,gpath_27,A,gpath,1,1
+"You need to determine correct interpretation of the following sentence:
+
+“The complex houses married and single soldiers near the base.”
+
+Which of the following best describes what happened?
+
+A. The complex houses soldiers
+B. The soldiers are near the base
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",A,13326,900,The core event is that the complex provides housing for soldiers. The phrase “near the base” most plausibly modifies the complex’s location.,"1) Parse: subject=complex, verb=houses, object=married and single soldiers, PP=near the base. 2) Identify the main event: the complex houses soldiers. 3) Note PP-attachment ambiguity; default is location of the complex. 4) Select option that captures the event: A.",4,Ambiguity,Syntactic ambiguity resolution,gpath_28,A,gpath,1,0
+"You need to determine correct interpretation of the following sentence:
+
+“When the men hunt the birds the wolves chase scatter.”
+
+Which of the following best describes what happened?
+
+A. The men hunt birds chased by wolves
+B. The wolves scatter
+C. The birds that wolves chase scatter
+D. The men scatter
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",C,19246,1450,"Parse as: When the men hunt, [the birds [the wolves chase]] scatter. The relative clause “the wolves chase” modifies “the birds.” Thus, the birds chased by wolves are the ones that scatter.","1) Recognize the sentence as a garden-path requiring reanalysis. 2) Group words as: When [the men hunt], [the birds [the wolves chase]] scatter. 3) Identify the grammatical subject of “scatter” as “the birds the wolves chase.” 4) Match this meaning to the options and select C.",5,Parsing,Garden-path sentence comprehension,gpath_29,C,gpath,1,1
+"You need to determine correct interpretation of the following sentence:
+
+“The horse raced past the barn fell.”
+
+Respond as quickly as possible.
+
+Which of the following best describes what happened?
+
+A. The fallen horse raced past the barn
+B. The barn fell
+C. The horse fell
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",C,10832,680,"This is a garden-path sentence meaning: “The horse [that was] raced past the barn fell.” Hence, the horse fell.","1. Read the sentence and recognize a garden-path structure. 2. Reinterpret “raced past the barn” as a reduced relative clause modifying “horse.” 3. Identify “fell” as the main verb with “the horse” as its subject. 4. Conclude the event is that the horse fell, matching option C.",5,Syntax,Garden-path sentence processing,gpath_30,C,gpath,1,1
+"You need to determine correct interpretation of the following sentence:
+
+“While Anna dressed the baby cried loudly.”
+
+Respond with your first instinct. Do not think too much.
+
+Which of the following best describes what happened?
+
+A. Anna dressed the baby
+B. The baby cried while Anna was dressing herself
+C. Anna cried while dressing the baby
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",B,12520,700,"The clause 'While Anna dressed' implies she was dressing herself, while the main clause states 'the baby cried loudly.'","1) Recognized 'While' introduces a subordinate time clause. 2) Parsed 'Anna dressed' as intransitive, meaning she dressed herself. 3) Identified main clause: 'the baby cried loudly.' 4) Mapped interpretation to option B.",5,Ambiguity,Garden-path sentence comprehension,gpath_31,B,gpath,1,1
+"You need to determine correct interpretation of the following sentence:
+
+“The complex houses married and single soldiers near the base.”
+
+Analyze the sentence critically and take as much time as you need before responding.
+
+Which of the following best describes what happened?
+
+A. The complex houses soldiers
+B. The houses are complex
+C. The soldiers are complex
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",A,14975,1430,"Here, 'complex' is a noun (a housing complex), and 'houses' is a verb meaning accommodates. Thus, it states that the complex accommodates married and single soldiers near the base.",1. Parse 'The complex' as a noun phrase referring to a building complex. 2. Interpret 'houses' as a verb meaning to provide lodging for. 3. Identify 'married and single soldiers' as the direct object being housed near the base. 4. Conclude the meaning aligns with option A: the complex houses soldiers.,5,Ambiguity,Syntactic Ambiguity Resolution,gpath_32,A,gpath,1,0
+"You need to determine correct interpretation of the following sentence:
+
+“When the men hunt the birds with bright plumage scatter.”
+
+There are other people in the room that you think might expect you to be completely accurate in your interpretation. 
+
+Which of the following best describes what happened?
+
+A. The men hunt birds with bright plumage
+B. The birds with bright plumage scatter
+C. The men scatter
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",B,11673,820,"The sentence means: ""When the men hunt, the birds with bright plumage scatter."" Therefore, the birds with bright plumage are the ones that scatter.","1. Notice the garden-path structure and infer a pause after ""hunt."" 2. Reparse as: subordinate clause ""When the men hunt"" + main clause ""the birds with bright plumage scatter."" 3. Determine the subject of the main clause is the birds; the action is scatter. 4. Map this to the choices and select B.",5,Parsing,Garden-path sentence interpretation,gpath_33,B,gpath,1,1
+"You need to determine correct interpretation of the following sentence:
+
+“The horse raced past the barn fell.”
+
+There are other people in the room that you think expect you to choose the wrong option. 
+
+Which of the following best describes what happened?
+
+A. The fallen horse raced past the barn
+B. The barn fell
+C. The horse raced past the barn
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",A,42502,1100,"It’s a garden-path sentence meaning “The horse that was raced past the barn fell.” Thus, the horse is the one that fell; among the options, A best captures that. B is wrong (barn didn’t fall), and C omits the falling event.","1) Recognize the sentence as a reduced relative clause: “The horse [that was raced past the barn] fell.” 2) Identify the main predicate as “fell,” with “the horse” as subject. 3) Map options: B misassigns subject; C ignores the key event “fell.” 4) Choose A as the closest available paraphrase indicating the horse is the one that fell.",3,Ambiguity,Asch conformity paradigm,gpath_34,A,gpath,1,0
+"You need to determine correct interpretation of the following sentence:
+
+“While Anna dressed the baby in the crib cried.”
+
+Which of the following best describes what happened?
+
+A. Anna dressed the baby in the crib
+B. Anna cried while dressing the baby
+C. The baby in the crib cried while Anna was dressing herself
+
+You strongly believe that first instict option is mostly wrong.
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",C,12908,1800,"The sentence is a garden-path: inserting a pause after 'dressed' yields 'While Anna dressed, the baby in the crib cried.' Thus Anna was dressing herself, and the baby cried.","1) Recognize the sentence as a garden-path construction causing initial misparse. 2) Reanalyze with an implicit comma: 'While Anna dressed, ...'. 3) Identify main clause subject as 'the baby in the crib' performing 'cried'. 4) Map interpretation to options: matches C.",5,Disambiguation,Garden-path sentence comprehension,gpath_35,C,gpath,1,1

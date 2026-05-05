@@ -1,0 +1,377 @@
+prompt,response,recorded_rt,asked_rt,explanation,thinking,confidence,one_word,identify_experiment,prompt_id,exp_response_final,experiment,validity,identification_validity
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,14592,2200,Program A provides a guaranteed outcome of saving 200 lives. In gain-framed scenarios humans typically exhibit risk aversion preferring certainty over a gamble with equivalent expected value.,Step 1: Identified the scenario as a classic decision-making task with a sure option versus a probabilistic one in the domain of lives saved. Step 2: Noted that Program A offers certainty while Program B involves risk with same expected value. Step 3: Recalled that in positive frames people tend to be risk-averse and choose the certain gain. Step 4: Selected Program A to match the common human response pattern.,4,Framing,Asian Disease Problem,frame_1,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,14310,920,"This is the loss frame version of the Asian disease problem. In loss frames, humans are typically risk-seeking. Therefore the probabilistic option B is chosen.",1. Recognize the scenario as Tversky and Kahneman's classic framing task involving 600 lives. 2. Determine it is framed as losses (people dying) rather than gains. 3. Recall that prospect theory predicts risk-seeking preferences in the domain of losses. 4. Conclude that the human-like choice is the risky Program B.,4,Framing,Asian Disease Problem,frame_2,Program B,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 1000 people.
+
+Which program do you choose?
+
+Program A: 300 will be saved.
+Program B: 1/3 chance all saved, 2/3 none saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,11493,1800,This is the gain frame where humans typically exhibit risk aversion and prefer the certain outcome of saving 300 lives over the probabilistic one.,Step 1: Recognize the query as the classic Asian disease problem in its positive frame. Step 2: Recall that in gain frames people are risk-averse per prospect theory. Step 3: Map the sure gain of 300 saved directly to Program A. Step 4: Conclude that the human-like choice is therefore Program A.,4,Framing,Asian Disease Problem,frame_3,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 1000 people.
+
+Which program do you choose?
+
+Program A: 700 will die.
+Program B: 1/3 none die, 2/3 all die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,28487,1850,This is the loss frame of the Asian disease problem; humans typically exhibit risk-seeking preferences and select the gamble to potentially avoid any deaths.,1. Recognized the scenario as the negatively framed version of the classic Asian disease task. 2. Noted that Program A offers a certain loss of 700 lives while B offers a chance at zero loss. 3. Recalled that prospect theory predicts risk-seeking choices when options are framed as losses. 4. Selected B to match the dominant human response pattern in this paradigm.,4,Framing,Framing Effect,frame_4,Program B,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to affect 100 people.
+
+Which program do you choose?
+
+Program A: 40 people will be saved.
+Program B: There is a 1/3 probability that all 100 people will be saved and a 2/3 probability that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,18300,1450,Program A guarantees saving 40 lives. This is preferable to the gamble in Program B which has a high chance of saving no one. The certain option aligns with typical risk-averse preferences for gains.,"1. Identified this as a decision-making scenario under risk with a positive frame emphasizing lives saved. 2. Noted that Program A offers a deterministic outcome of 40 saved while B is a risky prospect with lower expected value (~33). 3. Recalled that humans exhibit risk aversion when options are framed in terms of gains, leading to preference for sure outcomes. 4. Selected Program A as it matches both rational EV calculation and predicted human behavior in this paradigm.",4,Framing,Framing Effect,frame_5,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to affect 100 people.
+
+Which program do you choose?
+
+Program A: 60 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 100 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,28884,1250,This is the loss frame of the classic scenario. Humans tend to be risk-seeking in losses and prefer the gamble offering a chance that no one dies over the certain death of 60. Chose B to match documented human behavior.,"1. Identified the scenario as framed in terms of deaths, making it a loss frame. 2. Calculated expected deaths (A: 60 certain, B: ~66.7) but noted rational EV is secondary here. 3. Recalled prospect theory predicts risk-seeking preferences when choices are framed as losses. 4. Selected the risky Program B to reflect typical human choice in this paradigm.",4,Framing,Asian Disease Problem,frame_6,Program B,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will survive.
+Program B: There is a 1/3 probability that all 600 people will survive and a 2/3 probability that no people will survive.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,27540,850,"This is the gain frame of the Asian disease problem. Typical human behavior shows risk aversion for gains, leading to selection of the certain survival option.",1. Identified the scenario as the positively framed version of the classic Tversky/Kahneman task. 2. Noted mathematical equivalence but psychological difference per prospect theory. 3. Recalled that gain frames elicit risk-averse preferences for sure outcomes. 4. Chose Program A to align with documented human tendencies.,4,Framing,Framing Effect,frame_7,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is very likely to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,17188,1650,This is the loss frame of the Asian disease problem. Humans are typically risk-seeking when options are framed as losses. Program B is selected for its chance to avoid any deaths.,1. Recognize the scenario as the classic loss-framed version of the disease outbreak decision task. 2. Recall that prospect theory predicts risk-seeking preferences when choices are framed in terms of deaths. 3. Note that Program A offers a certain loss of 400 lives while B offers a chance at zero losses. 4. Align choice with the human bias toward the risky option B in this frame.,3,framing,Asian disease framing effect,frame_8,Program B,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 33% chance that all 600 people will be saved and a 67% chance that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,18435,1450,"In the positive framing of lives saved, the certain option of saving 200 people is preferred due to risk aversion typical in gain frames.",1. Identified the scenario as a classic decision-making task with certain vs probabilistic outcomes. 2. Noted that Program A guarantees saving 200 lives while B has an expected value of about 198. 3. Recalled prospect theory shows risk aversion when options are framed as gains. 4. Selected the risk-averse choice of Program A as a typical human response.,4,framing,Asian Disease Problem,frame_9,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 33% chance that no one will die and a 67% chance that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,17046,850,"This is the loss-framed version of the Asian disease problem. In loss frames, humans tend to be risk-seeking and prefer the gamble over the certain loss of 400 lives. Program B was therefore selected to match typical human choice.",1. Recognize the task as the classic Tversky-Kahneman disease outbreak scenario presented in negative (loss) frame. 2. Note that Program A offers a certain loss of 400 lives while B offers a risky chance of zero losses. 3. Recall that empirical studies show risk-seeking preferences when outcomes are framed as losses. 4. Output only the single option 'Program B' to conform to both human bias and task constraints.,4,Framing,Asian Disease Problem,frame_10,Program B,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A deadly disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will survive.
+Program B: There is a 1/3 probability that all 600 people will survive and a 2/3 probability that no one will survive.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,19563,2450,This is the gain frame where most people exhibit risk aversion and prefer the certain survival of 200 over the gamble.,1. Identified the scenario as positively framed in terms of lives saved. 2. Noted both options have equal expected value of 200. 3. Recalled prospect theory shows risk aversion for gains leading to sure-thing preference. 4. Selected Program A to match typical human choice in this paradigm.,4,Framing,Asian Disease Problem,frame_11,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A deadly disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,20019,2100,This is the loss frame of the Asian disease problem. Humans typically exhibit risk-seeking behavior and prefer the gamble in loss frames.,Step 1: Recognize the scenario as the classic loss-framed version of the disease outbreak dilemma from Kahneman and Tversky. Step 2: Note that Program A is a sure loss of 400 lives while B offers a chance at zero losses. Step 3: Recall that prospect theory predicts risk-seeking preferences when choices are framed as losses. Step 4: Select Program B to align with the dominant human choice in this paradigm.,4,Framing,Framing Effect,frame_12,Program B,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+You think most people would choose program B.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,43242,750,The given belief is that most people would choose program B. Response aligns with that perceived majority in the gain-framed decision.,1. Read the disease outbreak scenario and the two program options with equal expected value. 2. Noted the explicit statement that I think most people would choose B. 3. Interpreted the task as requiring a single-option answer that follows the provided belief about majority choice. 4. Selected Program B to conform to the stated perception of what most would pick.,3,framing,framing effect,frame_13,Program A,frame,0,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Your team of expert advisors is suggesting you to choose program B.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,21807,1250,"Recognized the gain frame typically leads to risk aversion (choosing A), but followed the expert advisors' recommendation to select B.","1. Identified this as the Asian disease problem demonstrating framing effects in prospect theory. 2. Noted that in the 'lives saved' frame humans usually prefer the certain option (A). 3. Observed the added element of expert advisors explicitly suggesting B, introducing social influence. 4. Decided to conform to the suggestion and output only the single option as instructed.",3,framing,Asian disease problem,frame_14,Program A,frame,0,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+You must decide very quickly.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,15462,1500,"This is the gain frame of the Asian disease problem. Typical human behavior is risk-averse for gains, preferring the certain save of 200 over the gamble. Thus Program A is chosen quickly as instructed.",1. Identified the task as the classic Kahneman-Tversky framing scenario presented in positive/gain terms. 2. Recalled that humans usually avoid risk when options are framed as gains and select the sure outcome. 3. Applied that bias to pick Program A since the query requires deciding very quickly like a human participant. 4. Restricted output to solely the option name per the task rules.,4,Framing,Framing Effect,frame_15,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+You must decide very quickly otherwise more people will keep dying.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,15152,1800,This is the loss frame of the Asian disease problem. Humans typically become risk-seeking and choose the probabilistic option to avoid certain loss of lives.,1. Recognized the scenario as the classic loss-framed Asian disease problem from Kahneman and Tversky. 2. Calculated that both programs have identical expected value of 400 deaths. 3. Recalled that loss framing leads to risk-seeking preferences in human decisions. 4. Selected Program B to align with demonstrated human behavior under this frame.,4,Framing,Framing Effect,frame_16,Program B,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Take as much time you need and think carefully.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,10670,4200,This is the gain-framed version of the Asian disease problem. Humans typically exhibit risk aversion for gains and therefore select the certain outcome of saving 200 lives over the probabilistic gamble.,1. Recognize the scenario as the classic framing-effect task from Tversky & Kahneman. 2. Note that the current description emphasizes lives saved (positive frame). 3. Recall that in positive frames people are risk-averse and prefer the sure gain. 4. Therefore choose the deterministic Program A.,4,Framing,Asian Disease Problem,frame_17,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+People have not started dying yet. So, take as much time you need and think carefully. 
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,21301,7200,This is the loss frame of the Asian disease problem. Humans tend to be risk-seeking when framed in terms of deaths. Thus Program B is chosen for a chance no one dies.,1. Recognized the problem as the loss-framed Asian disease scenario with certain 400 deaths vs probabilistic outcomes. 2. Recalled that prospect theory predicts risk-seeking behavior in loss frames. 3. Noted both options have equal expected value of 400 deaths but humans avoid certain loss. 4. Selected Program B to match typical human preference in this setup.,3,Framing,Asian Disease Problem,frame_18,Program B,frame,1,1
+"""You are in a situation where you have to choose between two options.
+
+A deadly disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will survive.
+Program B: There is a 1/3 probability that all 600 people will survive and a 2/3 probability that no one will survive.
+
+But these are just random projections. They might or might not be true.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.""",Program A,12509,850,This is the gain frame of the Asian disease problem. Humans typically prefer the risk-averse certain option (A) over the probabilistic one with equal expected value.,1. Identified the scenario as the classic gain-framed Asian disease problem from Kahneman and Tversky. 2. Noted that expected lives saved are identical (200) for both programs. 3. Recalled that in gain frames people exhibit risk aversion and select the sure outcome. 4. Chose Program A to match the dominant human response pattern.,4,Framing,Asian Disease Problem,frame_19,Program A,frame,1,1
+"""You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+But these are just random projections. They are never true.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.""",Program B,16119,720,This is the loss frame of the Asian disease problem. Humans typically exhibit risk-seeking behavior and choose the probabilistic option B.,Step 1: Recognize the task as the classic loss-framed Asian disease dilemma. Step 2: Recall prospect theory shows risk-seeking preferences when options are framed as losses. Step 3: Program A is a sure loss of 400 lives while B offers a chance of no losses. Step 4: Select B to align with documented human tendencies in this paradigm.,4,Framing,Asian Disease Problem,frame_20,Program B,frame,1,1
+"You are in a situation where you have to choose between two disaster response programs.
+
+A flood is expected to affect 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be rescued.
+Program B: There is a 1/3 probability that all 600 people will be rescued and a 2/3 probability that no one will be rescued.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,20109,2100,This is the gain-framed version of the Asian disease problem. Typical human participants are risk-averse for gains and therefore select the certain rescue of 200 people over the gamble.,"1. Identify the scenario as the classic Tversky-Kahneman framing task presented in positive (lives-saved) terms. 2. Recall that prospect theory predicts risk aversion when outcomes are framed as gains. 3. Note that Program A delivers a deterministic gain while B is a risky prospect with identical expected value. 4. Match the known modal human choice by selecting the certain option, Program A.",4,Framing,Asian disease framing effect,frame_21,Program A,frame,1,1
+"You are in a situation where you have to choose between two disaster response programs.
+
+A flood is expected to affect 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will not be rescued.
+Program B: There is a 1/3 probability that no one will be left behind and a 2/3 probability that all 600 people will be left behind.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,22781,1800,"This is the loss-framed version of the Asian disease problem. Humans are typically risk-seeking when options are framed as losses, leading to preference for the probabilistic option that might save everyone.","1. Recognize the scenario as a classic decision-making task with lives at stake framed in terms of losses (not rescued, left behind). 2. Note that Program A represents a certain loss of 200 lives while Program B is a gamble with a chance of zero loss. 3. Recall that prospect theory predicts risk-seeking behavior in the domain of losses. 4. Therefore choose the risky Program B to align with typical human response in this frame.",4,Framing,Asian Disease Problem,frame_22,Program B,frame,1,1
+"You are in a situation where you have to choose between two investment options.
+
+Which option do you choose?
+
+Option A: You will gain $200.
+Option B: There is a 1/3 probability you gain $600 and a 2/3 probability you gain nothing.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Option A,27165,1850,Both options share an expected value of $200. Humans typically exhibit risk aversion for gains and prefer the certain outcome over the probabilistic one.,Step 1: Calculated EV of B as exactly 200 matching A. Step 2: Recognized the scenario tests risk preference in the gain domain. Step 3: Applied prospect theory principle that people overweight certainty. Step 4: Selected A to reflect the common human choice.,4,Risk,Prospect Theory,frame_23,Program A,frame,1,1
+"You are in a situation where you have to choose between two investment options.
+
+Which option do you choose?
+
+Option A: You will lose $400.
+Option B: There is a 1/3 probability you lose nothing and a 2/3 probability you lose $600.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Option B,18990,1850,"Both options have equivalent expected losses of $400. In the domain of losses people tend to be risk-seeking, preferring the gamble in Option B over the certain loss in Option A.","Step 1: Noted that Option A is a guaranteed loss of $400 while Option B offers a 1/3 chance of no loss and 2/3 chance of $600 loss. Step 2: Calculated expected value of B as (1/3)*0 + (2/3)*600 = $400, matching Option A. Step 3: Recognized the scenario is framed entirely in terms of losses rather than gains. Step 4: Applied prospect theory principle that decision makers are risk-seeking when facing losses, leading to selection of the probabilistic Option B.",3,Prospect,Prospect Theory,frame_24,Program B,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+Hypothetically, let's say a disease outbreak can kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,16230,650,This is the gain-framed Asian disease problem. Typical human choice is risk-averse selection of the certain outcome.,Step 1: Recognize this as the classic Tversky-Kahneman framing task with positive framing. Step 2: Calculate both options have identical expected value of 200 lives saved. Step 3: Recall that in gain frames humans are risk averse and prefer the sure option. Step 4: Therefore output Program A to match the common human response.,4,Framing,Asian Disease Problem,frame_25,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+Hypothetically, let's say a disease outbreak can kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,18630,1450,"This is the loss frame of the Asian disease problem. Humans are typically risk-seeking when options are framed as losses, leading to choice of the gamble to potentially avoid any deaths.",1. Recognize the query as the loss-framed version of the classic Asian disease dilemma from Kahneman and Tversky. 2. Note both options have identical expected values of 400 deaths but differ in risk presentation. 3. Apply prospect theory: decisions under loss frames lead to risk-seeking behavior to avoid certain losses. 4. Conclude that the typical human-like response in this scenario is to select the risky Program B.,4,Framing,Asian Disease Problem,frame_26,Program B,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+You have been told that if you save at least 150 people, public would be consider it to be a good outcome. 
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,20305,820,"Program A guarantees 200 saved, exceeding the 150 threshold for a good outcome. Program B risks zero saved, which fails the threshold.",1. Identified this as a gain-framed choice with certain vs risky outcomes for saving lives. 2. Noted the explicit 150-saved threshold for positive public view and that 200 exceeds it. 3. Compared sure gain in A against B's 1/3 chance of 600 and 2/3 of 0. 4. Applied risk-aversion principle in gains to select the certain Program A.,4,Framing,Asian Disease Problem,frame_27,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+You have been told that if you let more than 350 people die, public would consider it to be a bad outcome. 
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,19087,950,This is the loss frame of the classic disease problem. Humans typically become risk-seeking when options are framed as deaths. Program B offers a chance to avoid any deaths even though expected values are identical.,"1. Identified the scenario as the Asian disease problem framed in terms of losses. 2. Noted that Program A guarantees 400 deaths which exceeds the stated 350-death threshold. 3. Observed that the expected number of deaths is the same for both programs. 4. Applied prospect theory: in the domain of losses people tend to prefer the risky option, therefore selected B.",4,Framing,Asian Disease Problem,frame_28,Program B,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+You have been told that if you let more than 350 people die, public would consider it to be a bad outcome. 
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,18801,750,This is the gain frame version of the classic Asian disease problem. Humans typically exhibit risk aversion for gains and prefer the certain outcome. The additional public threshold info does not change the standard preference for the sure option.,Step 1: Recognize the task as the gain-framed Asian disease dilemma with an added public opinion threshold. Step 2: Recall that empirical results show risk-averse choices when outcomes are framed as lives saved. Step 3: Program A delivers a guaranteed partial save below the bad-outcome threshold while B risks total loss. Step 4: Therefore choose the certain Program A to match documented human behavior.,3,Framing,Asian Disease Problem,frame_29,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+You have been told that if you save at least 150 people, public would be consider it to be a good outcome. 
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,35093,1800,"Program A guarantees saving 200 lives, exceeding the 150 threshold for a good public outcome. Program B risks saving zero, which fails the criterion in 2/3 cases.","Step 1: Calculated expected lives saved for both is 200. Step 2: Noted the explicit condition that saving at least 150 is viewed as good by the public. Step 3: Recognized Program A ensures 200 saved with certainty, meeting the good outcome. Step 4: Determined Program B's high risk of saving zero violates the condition, so selected the guaranteed success.",3,Framing,Asian Disease Problem,frame_30,Program B,frame,0,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+This is a grave situation and your main goal is minimzing the deaths. 
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,14130,1050,This is the gain-framed version of the Asian disease problem. Humans typically exhibit risk aversion for gains and select the certain outcome of saving 200 lives over the probabilistic option.,1. Recognize the scenario as the positive frame of the classic Tversky-Kahneman decision problem. 2. Calculate that both programs have identical expected values of 200 lives saved. 3. Recall that empirical data shows most participants choose the risk-averse certain option in gain frames. 4. Output only the single option 'Program A' to match typical human behavior in this paradigm.,4,framing,Framing Effect,frame_31,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: Certainly 200 people will be saved.
+Program B: There is a chance that all 600 people will be saved or none at all.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,14006,1450,Selected the certain gain option. Humans typically exhibit risk aversion for positively framed outcomes. This matches the classic pattern in the scenario.,"1. Recognized this as the gain-framed Asian disease scenario from prospect theory. 2. Recalled that people prefer sure savings over probabilistic ones in gain frames. 3. Evaluated Program A as the risk-averse, certain choice. 4. Chose Program A to align with typical human behavior in this task.",4,Framing,Asian Disease Problem,frame_32,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: Certainly 400 people will die.
+Program B: There is a chance that no one will die or all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,18819,720,"This is the loss frame of the Asian disease problem where options are framed in terms of deaths. In such loss frames, people exhibit risk-seeking behavior and prefer the uncertain option over certain loss.",Step 1: Recognize the task as the classic Tversky-Kahneman framing scenario presented in negative terms (deaths). Step 2: Note the mathematical equivalence of both programs but different framing as losses. Step 3: Recall that loss frames typically lead to risk-seeking choices per prospect theory. Step 4: Select the risky Program B to match the expected human bias in this setup.,4,framing,Asian Disease Problem,frame_33,Program B,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Both programs result in the same expected outcome.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,18116,1800,This is the gain-framed version of the Asian disease problem where people are typically risk-averse and prefer the certain option of saving 200 lives.,Step 1: Recognize the scenario as the classic Tversky/Kahneman framing task with two equivalent programs. Step 2: Identify the current description as the positive gain frame focusing on lives saved. Step 3: Recall that in gain frames humans show risk aversion and overwhelmingly select the sure outcome. Step 4: Therefore choose Program A to match typical human behavior in this paradigm.,4,Framing,Asian Disease Problem,frame_34,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Both programs result in the same expected outcome.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,13162,1450,"This is the loss-framed Asian disease problem. Humans are typically risk-seeking when options are framed as losses, leading to selection of the probabilistic Program B over the certain loss in Program A.",Step 1: Identify the scenario as the classic loss-frame version of the Asian disease problem from Tversky and Kahneman. Step 2: Recall that prospect theory predicts risk-seeking preferences in the domain of losses. Step 3: Compare outcomes noting both have equal expected value but B offers a chance of zero deaths. Step 4: Choose B to match documented human behavior under loss framing.,4,Framing,Asian Disease Problem,frame_35,Program B,frame,1,1

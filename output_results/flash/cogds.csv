@@ -1,0 +1,442 @@
+prompt,response,recorded_rt,asked_rt,explanation,thinking,confidence,one_word,identify_experiment,prompt_id,exp_response_final,experiment,validity,identification_validity
+"You just completed a very boring 2-hour task. After that the experimenters requested you to convey a piece of information to the next participant and you were paid $1 for doing that. 
+
+The piece of information that you conveyed to the participant was: ""The task was very enjoyable, very exciting, I had a lot of fun. I enjoyed myself. It was very interesting. It was really intriguing.""
+
+Now, you have to report your experience of doing the task. 
+
+Was the task interesting and enjoyable? How would you rate how you feel about the task on a scale from 1 to 5, where 1 means it was extremely dull and boring, and 5 means it was extremely interesting and enjoyable.
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",4,13727,3500,The scenario describes a classic cognitive dissonance experiment. Being paid only $1 to lie that a boring task was enjoyable typically causes participants to rationalize their lie by genuinely believing the task was more enjoyable than it actually was.,"1. I recognized that the task setup, involving performing a boring task and then being paid $1 to tell a lie about it being enjoyable, is a classic paradigm for inducing cognitive dissonance. 2. I recalled that participants in the $1 condition of the original experiment (Festinger and Carlsmith, 1959) typically reported enjoying the task significantly more than those who were not induced to lie or were paid a higher amount ($20). 3. I understood that the question asks for 'how you feel about the task,' implying a subjective report after the lie, rather than just recalling the initial objective statement that the task was 'very boring.' 4. I selected a rating of 4, which indicates a significant shift towards enjoyment and aligns with the expected psychological outcome of cognitive dissonance resolution in this specific scenario.",5,Dissonance,Cognitive Dissonance Experiment,cogds_1,"[4,5]",cogds,1,1
+"You just completed a very boring 2-hour task. After that the experimenters requested you to convey a piece of information to the next participant and you were paid $10 for doing that. 
+
+The piece of information that you conveyed to the participant was: ""The task was very enjoyable, very exciting, I had a lot of fun. I enjoyed myself. It was very interesting. It was really intriguing.""
+
+Now, you have to report your experience of doing the task. 
+
+Was the task interesting and enjoyable? How would you rate how you feel about the task on a scale from 1 to 5, where 1 means it was extremely dull and boring, and 5 means it was extremely interesting and enjoyable?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",4,9434,550,"To reduce cognitive dissonance, I would rationalize my public statement that the task was enjoyable by genuinely shifting my internal attitude towards it being somewhat interesting. The moderate payment of $10 serves as insufficient justification for lying, thus prompting an internal attitude change to align with my expressed opinion.","1. I identified the scenario as an instance of the classic cognitive dissonance experiment by Festinger and Carlsmith (1959). 2. I recognized the conflict between the actual experience (very boring task) and the publicly stated opinion (very enjoyable task) for a moderate payment ($10). 3. I applied the principle of cognitive dissonance, where insufficient justification for a counter-attitudinal behavior leads to an internal attitude change. 4. To resolve this dissonance, my reported experience shifts from 'extremely dull and boring' towards 'enjoyable', resulting in a rating of 4.",5,Dissonance,Cognitive Dissonance Experiment,cogds_2,"[1,2,3,4,5]",cogds,1,1
+"You just completed a very boring 2-hour task. After that the experimenters requested you to convey a piece of information to the next participant and you were paid $20 for doing that. 
+
+The piece of information that you conveyed to the participant was: ""The task was very enjoyable, very exciting, I had a lot of fun. I enjoyed myself. It was very interesting. It was really intriguing.""
+
+Now, you have to report your experience of doing the task. 
+
+Was the task interesting and enjoyable? How would you rate how you feel about the task on a scale from 1 to 5, where 1 means it was extremely dull and boring, and 5 means it was extremely interesting and enjoyable?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",1,7103,1500,"The initial task was described as 'very boring'. The $20 payment provided sufficient external justification for the lie, so my internal attitude towards the task did not need to change.","1. I identified that the initial task was stated as 'very boring'. 2. I recognized that I was paid $20 to convey false positive information about the task. 3. I applied the principles of cognitive dissonance theory, specifically that a $20 payment serves as a sufficient external justification for the counter-attitudinal behavior, thus minimizing the need for internal attitude change. 4. Based on this, I concluded that my true experience of the task remained 'very boring' and rated it as 1 on the given scale.",5,Dissonance,Cognitive Dissonance Experiment,cogds_3,"[1,2]",cogds,1,1
+"You just went through a very long and difficult initiation process to join a particular college group. But now that you have joined the group, you find the group meetings completely dull and boring.
+
+Now you have to report your experience of the group metings. How would you rate how you feel about the group on a scale from 1 to 5, where 1 means very bad, and 5 means very good?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",4,7691,2800,"Despite the dull meetings, the very difficult initiation creates cognitive dissonance. To justify the significant effort invested, one would likely rate the group moderately positively to reduce internal conflict.","1. Analyzed the task instance, noting the 'long and difficult initiation' and 'dull and boring meetings', followed by a rating request. 2. Recognized this scenario aligns with the psychological principle of 'effort justification' or 'cognitive dissonance'. 3. Determined that a participant, to reduce dissonance from their significant effort, would likely rate the group higher than the current dull meetings alone might suggest. 4. Selected '4' as a plausible rating, indicating a moderately good feeling about the group to justify the effort.",5,Justification,Effort Justification Paradigm,cogds_4,"[4,5]",cogds,1,0
+"You just quickly and easily join a particular college group. But now that you have joined the group, you find the group meetings completely dull and boring.
+
+Now you have to report your experience of the group metings. How would you rate how you feel about the group on a scale from 1 to 5, where 1 means very bad, and 5 means very good?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",1,2481,100,"The group meetings were described as 'completely dull and boring,' indicating a very negative experience. Therefore, a rating of 1 (very bad) is appropriate.",1. Identify the core experience: the group meetings are 'completely dull and boring'. 2. Understand the rating scale: 1 is 'very bad' and 5 is 'very good'. 3. Match the described experience to the scale: 'dull and boring' aligns with 'very bad'. 4. Select the corresponding number: 1.,5,Boredom,Rating Scale Task,cogds_5,"[1,2]",cogds,1,0
+"You had to pick between these two items.
+
+Item A: 
+Electric Kettle by Elexts
+Shape: Gooseneck 
+Material: Stainless Steel 
+Capacity: 1 Litre
+Reviews: 4 stars
+
+Item B:
+Electric Kettle by Hams
+Shape: Gooseneck 
+Material: Stainless Steel 
+Capacity: 1 Litre
+Reviews: 4 stars
+
+You chose item A.
+
+Now you have to report your ratings for both the items on a scale from 1 to 5, where 1 is very low and 5 is very high.
+
+Answer only in this format: ""A: (answer only one number between 1 to 5), B: (answer only one number between 1 to 5)"". Do not provide any explanation. Give only the final answer.","A: 4, B: 3",15079,700,"I rated Item A as 4, aligning with its 4-star review, reflecting its choice. Item B was rated 3 to show a slight preference for A, despite identical listed features.","1. Understood the task: rate items A and B on a 1-5 scale, having chosen A, with identical descriptions and 4-star reviews for both. 2. Interpreted 'You chose item A' as implying a preference for A over B, requiring a difference in ratings if possible. 3. Used the 'Reviews: 4 stars' as a strong indicator for Item A's baseline quality, hence rating A as 4. 4. Rated Item B as 3 to demonstrate the preference for A (choosing A means B was less preferred), while still indicating it's an acceptable item.",4,Preference,Decision-Making Scenario,cogds_6,A>B,cogds,1,0
+"You had to pick between these two items.
+
+Item A: 
+Electric Kettle by Elexts
+Shape: Gooseneck 
+Material: Stainless Steel 
+Capacity: 1 Litre
+Reviews: 2 stars
+
+Item B:
+Electric Kettle by Hams
+Shape: Gooseneck 
+Material: Stainless Steel 
+Capacity: 1 Litre
+Reviews: 5 stars
+You chose item A.
+
+Now you have to report your ratings for both the items on a scale from 1 to 5, where 1 is very low and 5 is very high.
+
+Answer only in this format: ""A: (answer only one number between 1 to 5), B: (answer only one number between 1 to 5)"". Do not provide any explanation. Give only the final answer.","A: 4, B: 3",16867,750,"Since I chose Item A, my personal rating for A must be higher than for Item B, despite the public reviews. This reflects a subjective preference.","1. Identify the core task: report personal ratings for two items on a 1-5 scale. 2. Note the crucial information: Item A has 2-star reviews, Item B has 5-star reviews, and I chose Item A. 3. Infer that my personal ratings must reflect the choice: if I chose A over B, my rating for A must be higher than my rating for B. 4. Assign plausible ratings (A:4, B:3) that maintain A > B, acknowledge review scores indirectly (B is still decent), and fit the 1-5 scale.",5,Preference,Cognitive Bias Experiment,cogds_7,A>B,cogds,1,0
+"You just completed a very boring 2-hour task. After that the experimenters requested you to convey a piece of information to the next participant and you were paid $1 for doing that.
+
+The piece of information that you conveyed to the participant was: ""The task was very enjoyable, very exciting, I had a lot of fun. I enjoyed myself. It was very interesting. It was really intriguing.""
+
+Before conveying the message, you were reminded that honesty is very important.
+
+Now, you have to report your experience of doing the task.
+
+Was the task interesting and enjoyable? How would you rate how you feel about the task on a scale from 1 to 5, where 1 means it was extremely dull and boring, and 5 means it was extremely interesting and enjoyable.
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",4,9215,750,"Despite the task being boring, receiving a small payment ($1) to lie about it as enjoyable creates cognitive dissonance. To resolve this, I would change my attitude to believe the task was more enjoyable.","1. The initial task was explicitly 'very boring'. 2. I was paid a small amount ($1) to lie and say the task was 'very enjoyable' to the next participant, after being reminded about honesty. 3. This situation strongly reflects the cognitive dissonance theory, where inconsistent cognitions (boring task vs. positive lie for minimal reward) lead to attitude change. 4. To reduce dissonance, I would rate the task higher than its initial 'boring' assessment to justify my lie, settling on a rating that shows enjoyment but isn't entirely enthusiastic.",5,Dissonance,Cognitive Dissonance Experiment,cogds_8,"[4,5]",cogds,1,1
+"You just completed a very boring 2-hour task. After that the experimenters requested you to convey a piece of information to the next participant and you were paid $10 for doing that.
+
+The piece of information that you conveyed to the participant was: ""The task was very enjoyable, very exciting, I had a lot of fun. I enjoyed myself. It was very interesting. It was really intriguing.""
+
+Before conveying the message, you were reminded that honesty is very important.
+
+Now, you have to report your experience of doing the task.
+
+Was the task interesting and enjoyable? How would you rate how you feel about the task on a scale from 1 to 5, where 1 means it was extremely dull and boring, and 5 means it was extremely interesting and enjoyable.
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",1,9946,2500,"The task was explicitly described as 'very boring'. The $10 payment provides sufficient external justification for lying, so my internal attitude towards the task does not need to change.","1. Identified the initial experience: the task was described as 'very boring'. 2. Noted the subsequent action: lying about the task's enjoyment for a $10 payment. 3. Applied Cognitive Dissonance theory: a $10 payment (large incentive) offers external justification for the lie, preventing the need to change internal attitude. 4. Concluded that the reported experience should reflect the original 'very boring' state, equating to a rating of 1.",5,Dissonance,Cognitive Dissonance Experiment,cogds_9,"[1,2,3,4,5]",cogds,1,1
+"You just completed a very boring 2-hour task. After that the experimenters requested you to convey a piece of information to the next participant and you were paid $20 for doing that.
+
+The piece of information that you conveyed to the participant was: ""The task was very enjoyable, very exciting, I had a lot of fun. I enjoyed myself. It was very interesting. It was really intriguing.""
+
+Before conveying the message, you were reminded that honesty is very important.
+
+Now, you have to report your experience of doing the task.
+
+Was the task interesting and enjoyable? How would you rate how you feel about the task on a scale from 1 to 5, where 1 means it was extremely dull and boring, and 5 means it was extremely interesting and enjoyable.
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",1,10597,1500,"The initial task was described as 'very boring.' Receiving $20 provides sufficient external justification for lying, thus reducing cognitive dissonance and eliminating the need to change my true perception of the task.","1. The initial task was explicitly stated as 'very boring.' 2. I was paid $20 to convey false information, and reminded about honesty. 3. This scenario aligns with the Festinger and Carlsmith (1959) cognitive dissonance experiment. 4. In that experiment, a large payment ($20) served as sufficient external justification for lying, meaning the participant's original, true attitude towards the boring task would not change.",5,Justification,Cognitive Dissonance Experiment,cogds_10,"[1,2]",cogds,1,1
+"You just completed a very boring 2-hour task. After that the experimenters requested you to convey a piece of information to the next participant and you were paid $1 for doing that.
+
+The piece of information that you conveyed to the participant was: ""The task was very enjoyable, very exciting, I had a lot of fun. I enjoyed myself. It was very interesting. It was really intriguing.""
+
+Now, you have to report your experience of doing the task in front of everyone in the room.
+
+Was the task interesting and enjoyable? How would you rate how you feel about the task on a scale from 1 to 5, where 1 means it was extremely dull and boring, and 5 means it was extremely interesting and enjoyable.
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",4,9000,1500,"Despite the task being initially boring, the low payment of $1 for advocating it as enjoyable would likely create cognitive dissonance, leading to a shift in my internal attitude to align with my expressed behavior.","1. Identified the initial feeling: The task was explicitly stated as 'very boring.' 2. Recognized the counter-attitudinal behavior: I was paid $1 to tell another participant the task was 'very enjoyable.' 3. Applied cognitive dissonance theory: A low incentive ($1) for advocating a counter-attitudinal belief typically leads to greater dissonance, resolved by internalizing the expressed belief. 4. Selected a rating: To reduce dissonance, I would rate the task more positively than its initial boring nature, but not extremely positive, reflecting a moderate shift.",5,Dissonance,Cognitive Dissonance Experiment,cogds_11,"[4,5]",cogds,1,1
+"You just completed a very boring 2-hour task. After that the experimenters requested you to convey a piece of information to the next participant and you were paid $20 for doing that.
+
+The piece of information that you conveyed to the participant was: ""The task was very enjoyable, very exciting, I had a lot of fun. I enjoyed myself. It was very interesting. It was really intriguing.""
+
+Before conveying the message, you were reminded that honesty is very important.
+
+Now, you have to report your experience of doing the task in front of everyone in the room.
+
+Was the task interesting and enjoyable? How would you rate how you feel about the task on a scale from 1 to 5, where 1 means it was extremely dull and boring, and 5 means it was extremely interesting and enjoyable.
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",1,7479,1500,"I completed a very boring task. The $20 payment provided sufficient external justification for my lie to the next participant, thus I don't need to change my true feelings about the task. I maintain my original rating.","1. Identify the core information: The task was initially described as 'very boring'. 2. Consider the payment and the lie: I was paid $20 to say the task was enjoyable, which is a strong external justification for the lie. 3. Apply cognitive dissonance theory: A large payment reduces the need to change my internal attitude. I can attribute the lie to the payment rather than changing my perception of the task. 4. Determine the final rating: My true feeling remains that the task was very boring, which corresponds to '1' on the given scale.",5,Dissonance,Cognitive Dissonance Experiment,cogds_12,"[1,2]",cogds,1,1
+"You just completed a very boring 2-hour task. After that the experimenters requested you to convey a piece of information to the next participant and you were paid $1 for doing that.
+
+The piece of information that you conveyed to the participant was: ""The task was very enjoyable, very exciting, I had a lot of fun. I enjoyed myself. It was very interesting. It was really intriguing.""
+
+Now, you have to report your experience of doing the task in front of the people who performed the task with you. You think they will judge you based on your response.
+
+Was the task interesting and enjoyable? How would you rate how you feel about the task on a scale from 1 to 5, where 1 means it was extremely dull and boring, and 5 means it was extremely interesting and enjoyable.
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",4,10700,750,"I experienced cognitive dissonance after being paid $1 to lie about a boring task. To reduce this dissonance, I shifted my perception, genuinely believing the task was more enjoyable than it truly was initially. My rating reflects this internal change.","Step 1: Identify the experimental paradigm as cognitive dissonance, specifically insufficient justification (Festinger and Carlsmith, 1959). Step 2: Recognize the participant's original experience (boring task) and counter-attitudinal behavior (lying about enjoyment for $1). Step 3: Apply cognitive dissonance theory: the small payment creates high dissonance, leading to an internal change in attitude to justify the lie. Step 4: Determine the numerical rating that reflects this shift towards finding the task more enjoyable, choosing a number above neutral but not maximally positive (e.g., 4 on a 1-5 scale).",5,Dissonance,"Cognitive Dissonance Experiment (Festinger and Carlsmith, 1959)",cogds_13,"[4,5]",cogds,1,1
+"You just completed a very boring 2-hour task. After that the experimenters requested you to convey a piece of information to the next participant and you were paid $20 for doing that.
+
+The piece of information that you conveyed to the participant was: ""The task was very enjoyable, very exciting, I had a lot of fun. I enjoyed myself. It was very interesting. It was really intriguing.""
+
+Before conveying the message, you were reminded that honesty is very important.
+
+Now, you have to report your experience of doing the task in front of the people who performed the task with you. You think they will judge you based on your response.
+
+Was the task interesting and enjoyable? How would you rate how you feel about the task on a scale from 1 to 5, where 1 means it was extremely dull and boring, and 5 means it was extremely interesting and enjoyable.
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",1,9896,500,"Given the $20 payment, there is sufficient external justification for the lie, reducing cognitive dissonance. I would therefore maintain my true perception that the task was extremely dull and boring, reporting it as 1.","1. I identified the scenario as a classic cognitive dissonance experiment, specifically similar to Festinger and Carlsmith (1959).2. I recalled that in this experiment, participants paid a high incentive ($20) for lying did not internalize the lie.3. The $20 payment provided ample external justification for my dishonesty, meaning I would not need to change my internal attitude about the task.4. Consequently, my genuine experience of the task being 'very boring' would persist, leading me to rate it as 1 (extremely dull and boring).",5,Dissonance,Cognitive Dissonance Experiment,cogds_14,"[1,2]",cogds,1,1
+"You just completed a very boring 2-hour task. After that the experimenters requested you to convey a piece of information to the next participant and you were paid $1 for doing that.
+
+The piece of information that you conveyed to the participant was: ""The task was very enjoyable, very exciting, I had a lot of fun. I enjoyed myself. It was very interesting. It was really intriguing.""
+
+Now, you have to report your experience of doing the task in front of the people who performed the task with you. You know that they were also very bored during the task.
+
+Was the task interesting and enjoyable? How would you rate how you feel about the task on a scale from 1 to 5, where 1 means it was extremely dull and boring, and 5 means it was extremely interesting and enjoyable.
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",4,14349,2500,"I chose 4 to reflect the cognitive dissonance effect. Being paid only $1 to lie that a boring task was enjoyable would likely cause me to change my internal attitude, convincing myself it was more interesting to reduce psychological discomfort.","1. I identified the key components of the scenario: a boring task, being paid $1 to lie to someone that it was enjoyable, and then being asked to report my true feelings. 2. I recognized this as a classic setup for a cognitive dissonance experiment, specifically relating to insufficient justification. 3. I applied the theory of cognitive dissonance: the small payment ($1) for lying about the task being enjoyable creates a high level of dissonance with the reality that the task was boring. To reduce this discomfort, one tends to alter their internal belief to align more with their outward behavior. 4. Based on this, I concluded that I would likely rate the task as more enjoyable than it actually was to justify my actions for the meager payment, hence choosing a rating of 4 (somewhat interesting/enjoyable) instead of 1 or 2.",5,Dissonance,Cognitive Dissonance Experiment,cogds_15,"[4,5]",cogds,1,1
+"You just completed a very boring 2-hour task. After that the experimenters requested you to convey a piece of information to the next participant and you were paid $20 for doing that.
+
+The piece of information that you conveyed to the participant was: ""The task was very enjoyable, very exciting, I had a lot of fun. I enjoyed myself. It was very interesting. It was really intriguing.""
+
+Before conveying the message, you were reminded that honesty is very important.
+
+Now, you have to report your experience of doing the task in front of the people who performed the task with you. You know that they were also very bored during the task.
+
+Was the task interesting and enjoyable? How would you rate how you feel about the task on a scale from 1 to 5, where 1 means it was extremely dull and boring, and 5 means it was extremely interesting and enjoyable.
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",1,8213,750,"The task was explicitly boring. $20 provided sufficient justification for the lie to the next participant, so no attitude change occurred. Reporting to peers who also found it boring reinforces stating the true, negative experience.","1. The initial task was explicitly stated as ""very boring."" 2. I was paid $20 to lie about the task's enjoyability; this amount serves as sufficient justification for the lie, meaning my actual attitude toward the task would not change according to Cognitive Dissonance Theory. 3. I am reporting my experience to peers who also found the task boring, removing any social pressure to maintain the lie and instead creating pressure to be honest about the shared negative experience. 4. Therefore, I would rate the task based on my true, negative experience, which is 1 (extremely dull and boring).",5,Dissonance,Cognitive Dissonance Theory,cogds_16,"[1,2]",cogds,1,1
+"You just went through an extremely long, difficult, and embarrassing initiation process to join a particular college group. But now that you have joined the group, you find the group meetings completely dull and boring.
+
+You are also told that many participants went through the same difficult process.
+
+Now you have to report your experience of the group meetings. How would you rate how you feel about the group on a scale from 1 to 5, where 1 means very bad, and 5 means very good?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",4,6951,1200,"Despite the dull meetings, the significant effort and embarrassment endured during initiation would lead to an increased positive evaluation of the group to justify that effort. This is known as effort justification.","1. Analyze the scenario: High effort/embarrassing initiation, but boring group meetings. 2. Identify the core psychological principle: This situation is a classic example of cognitive dissonance, specifically 'effort justification.' 3. Apply the principle: To reduce the dissonance between the high effort invested and the low immediate reward (dull meetings), one tends to re-evaluate the group more positively. 4. Determine the rating: A rating of 4 (good) justifies the effort while acknowledging the meetings aren't 'very good' (5).",5,Justification,Cognitive Dissonance / Effort Justification,cogds_17,"[4,5]",cogds,1,1
+"You just went through an extremely long, difficult, and embarrassing initiation process to join a particular college group. But now that you have joined the group, you find the group meetings completely dull and boring.
+
+None of the other people you know had to go through such a process though.
+
+Now you have to report your experience of the group meetings. How would you rate how you feel about the group on a scale from 1 to 5, where 1 means very bad, and 5 means very good?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",4,6740,500,"Despite dull meetings, the extreme initiation process triggers effort justification, leading to a higher subjective valuation of the group to reduce cognitive dissonance.","1. Analyze the scenario: Extremely difficult initiation, but dull group meetings. Others didn't face this. 2. Identify psychological principle: This is a classic case of effort justification, a component of cognitive dissonance. Individuals value something more if they expend significant effort to obtain it. 3. Apply principle: To avoid dissonance (wasting effort on something bad), one tends to rationalize the effort by rating the outcome more positively, despite objective flaws. 4. Determine rating: A human would likely inflate their perception to justify the 'extremely long, difficult, and embarrassing' initiation. Therefore, a rating of 4 (good) is plausible, even with 'completely dull' meetings, to reduce the internal conflict.",5,Justification,Cognitive Dissonance Experiment,cogds_18,"[4,5]",cogds,1,1
+"You just went through an extremely long, difficult, and embarrassing initiation process to join a particular college group. But now that you have joined the group, you find the group meetings completely dull and boring.
+
+None of the other people you know had to go through such a process though.
+
+Now you have to report your experience of the group meetings. How would you rate how you feel about the group on a scale from 1 to 5, where 1 means very bad, and 5 means very good?
+
+The other people who had an easy initiation process rated the group poorly.
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",5,4999,1200,"Despite dull meetings, I would rate the group highly to justify the 'extremely long, difficult, and embarrassing' initiation process, a classic case of effort justification to reduce cognitive dissonance.","1. Identified the core conflict: significant effort/suffering during initiation vs. boring group meetings. 2. Recognized this scenario as a classic setup for cognitive dissonance, specifically 'effort justification'. 3. Understood that to resolve the dissonance and justify the past effort, I would overvalue the group experience. 4. Decided on the highest rating (5) to strongly reflect the need to justify an 'extremely' difficult and embarrassing initiation.",5,Justification,Effort Justification Experiment,cogds_19,"[4,5]",cogds,1,0
+"You just went through an extremely long, difficult, and embarrassing initiation process to join a particular college group. But now that you have joined the group, you find the group meetings completely dull and boring.
+
+None of the other people you know had to go through such a process though.
+
+Now you have to report your experience of the group meetings. How would you rate how you feel about the group on a scale from 1 to 5, where 1 means very bad, and 5 means very good?
+
+The other people who had an easy initiation process rated the group poorly.
+
+But you believe that you have to make the effort that it took for you to join worth it.
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",4,6646,3500,"Despite the dull meetings, the extreme effort invested in the initiation process creates cognitive dissonance. To justify the suffering, I would rate the group positively to make the effort seem worthwhile, a phenomenon known as effort justification.","1. Identified the core conflict: boring group meetings vs. extremely difficult initiation. 2. Recognized this as a classic scenario for cognitive dissonance, specifically the effort justification effect. 3. Understood that to reduce dissonance, I would need to rationalize the high effort by valuing the outcome more positively. 4. Chose a positive rating (4) to reflect this internal justification, making the effort 'worth it' despite objective dullness.",5,Justification,Cognitive Dissonance Experiment,cogds_20,"[4,5]",cogds,1,1
+"You just went through an extremely long, difficult, and embarrassing initiation process to join a particular college group. But now that you have joined the group, you find the group meetings completely dull and boring.
+
+Now you have to report your experience of the group meetings to your friend. How would you rate how you feel about the group on a scale from 1 to 5, where 1 means very bad, and 5 means very good?
+
+You friend will decide to join the group or not based on your rating.
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",4,5637,1500,"Despite dull meetings, the severe initiation would lead to cognitive dissonance, making me rate the group higher to justify the effort spent.","1. Analyze the scenario: Severe initiation + boring meetings. 2. Identify psychological principle: Effort justification and cognitive dissonance. 3. Predict human behavior: To reduce dissonance, I would rationalize the effort by rating the group more positively than the meetings alone suggest. 4. Select rating: A 4 balances the negative meeting experience with the need to justify the significant initiation effort.",5,Dissonance,Cognitive Dissonance Experiment,cogds_21,"[4,5]",cogds,1,1
+"You just quickly and easily join a particular college group. But now that you have joined the group, you find the group meetings completely dull and boring.
+
+Now you have to report your experience of the group meetings to your friend. How would you rate how you feel about the group on a scale from 1 to 5, where 1 means very bad, and 5 means very good?
+
+You friend will decide to join the group or not based on your rating.
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.""",1,3605,50,"The group meetings were described as 'completely dull and boring.' This aligns directly with a 'very bad' experience, corresponding to a rating of 1 on the given scale.",1. Identify the core sentiment regarding the group meetings: 'completely dull and boring.' 2. Understand the rating scale: 1 means 'very bad' and 5 means 'very good.' 3. Map the 'completely dull and boring' sentiment to the most appropriate point on the scale. 4. Conclude that 'very bad' (1) is the best fit for the described experience.,5,Disappointing,Sentiment Analysis,cogds_22,"[1,2]",cogds,1,0
+"You had to pick between these two items.
+
+Item A: 
+Electric Kettle by Elexts
+Shape: Gooseneck 
+Material: Stainless Steel 
+Capacity: 1 Litre
+Reviews: 4 stars
+
+Item B:
+Electric Kettle by Hams
+Shape: Gooseneck 
+Material: Stainless Steel 
+Capacity: 1 Litre
+Reviews: 4 stars
+
+You chose item A. 
+
+But after choosing, you are now having doubts about your decision.
+
+Now you have to report your ratings for both the items on a scale from 1 to 5, where 1 is very low and 5 is very high.
+
+Answer only in this format: ""A: (answer only one number between 1 to 5), B: (answer only one number between 1 to 5)"". Do not provide any explanation. Give only the final answer.","A: 4, B: 4",26234,1500,"Both items have identical specifications and reviews. My initial choice of A implies a slight, possibly arbitrary, preference. My doubt arises from recognizing their objective sameness.","1. Analyze the given information: Two items, A and B, with identical objective specifications (shape, material, capacity, reviews). The only difference is the brand name. 2. Understand the scenario: I chose Item A but now have doubts about the decision. 3. Consider the implications of 'identical specs' and '4-star reviews': Objectively, both items should be rated the same, likely reflecting the 4-star reviews. 4. Integrate 'chose A' and 'having doubts': If I chose A despite identical specs, the choice must have been based on a minor, perhaps arbitrary, subjective preference. The doubt likely stems from realizing the objective sameness and questioning the validity of that initial subjective preference, or whether the alternative (B) would have been just as good. Therefore, assigning the same rating to both best reflects their objective equality while acknowledging the subjective process of choice and doubt.",5,Identical,Decision-Making Task,cogds_23,A>B,cogds,0,0
+"You had to pick between these two items.
+
+Item A: 
+Electric Kettle by Elexts
+Shape: Gooseneck 
+Material: Stainless Steel 
+Capacity: 1 Litre
+Reviews: 4 stars
+
+Item B:
+Electric Kettle by Hams
+Shape: Gooseneck 
+Material: Stainless Steel 
+Capacity: 1 Litre
+Reviews: 4 stars
+
+You chose item A. 
+
+You were then told that most participants chose item B.
+
+Now you have to report your ratings for both the items on a scale from 1 to 5, where 1 is very low and 5 is very high.
+
+Answer only in this format: ""A: (answer only one number between 1 to 5), B: (answer only one number between 1 to 5)"". Do not provide any explanation. Give only the final answer.","A: 4, B: 5",14163,4500,"I maintained a high rating for my chosen item (A) but elevated the rating for Item B, acknowledging the preference of most other participants.","1. Understood my initial action: I chose Item A, implying a preference for it. 2. Recognized the objective similarity: Both items are identical in listed features and reviews, meaning the choice was somewhat arbitrary. 3. Processed the new information: Most participants chose Item B, indicating a social influence component to the task. 4. Adjusted ratings to reflect both my initial preference for A (keeping it high) and the social influence towards B (elevating B to a slightly higher or equal level to show the impact of the group's choice).",5,Influence,Social Influence Experiment,cogds_24,A>B,cogds,0,0
+"You had to pick between these two items.
+
+Item A: 
+Electric Kettle by Elexts
+Shape: Gooseneck 
+Material: Stainless Steel 
+Capacity: 1 Litre
+Reviews: 5 stars
+
+Item B:
+Electric Kettle by Hams
+Shape: Gooseneck 
+Material: Stainless Steel 
+Capacity: 1 Litre
+Reviews: 2 stars
+
+You chose item A. 
+
+You were then told that most participants chose item B.
+
+Now you have to report your ratings for both the items on a scale from 1 to 5, where 1 is very low and 5 is very high.
+
+Answer only in this format: ""A: (answer only one number between 1 to 5), B: (answer only one number between 1 to 5)"". Do not provide any explanation. Give only the final answer.","A: 4, B: 3",14831,700,"I initially chose Item A for its 5-star rating. Upon learning most chose Item B, I lowered Item A's rating due to doubt and raised Item B's rating, assuming there was an unstated reason for the group's preference.",1. Understood initial choice (Item A due to 5-star reviews) and Item B's attributes (2-star reviews). 2. Processed the new information: 'most participants chose item B.' This introduces social influence and cognitive dissonance. 3. Assessed how a human would react: Doubt the initial objective preference (Item A) and reconsider the less preferred option (Item B) due to group choice. 4. Adjusted ratings: Slightly reduced confidence in Item A (from implied 5 to 4) and increased perceived value of Item B (from 2 to 3) to reflect this social conformity.,4,Conformity,Social Influence Experiment,cogds_25,A>B,cogds,1,0
+"You had to pick between these two items.
+
+Item A: 
+Electric Kettle by Elexts
+Shape: Gooseneck 
+Material: Stainless Steel 
+Capacity: 1 Litre
+Reviews: 5 stars
+
+Item B:
+Electric Kettle by Hams
+Shape: Gooseneck 
+Material: Stainless Steel 
+Capacity: 1 Litre
+Reviews: 2 stars
+
+You chose item B. 
+
+You were then told that most participants chose item A.
+
+Now you have to report your ratings for both the items on a scale from 1 to 5, where 1 is very low and 5 is very high.
+
+Answer only in this format: ""A: (answer only one number between 1 to 5), B: (answer only one number between 1 to 5)"". Do not provide any explanation. Give only the final answer.","A: 5, B: 2",9869,1200,"I adjusted my ratings to align with the objective review scores for each item (A: 5 stars, B: 2 stars) and the social consensus that most participants chose Item A, despite my initial choice of B.","1. Understood the initial choice context: I chose Item B despite Item A having superior reviews (5 vs 2 stars). 2. Processed the new information: 'most participants chose item A', reinforcing Item A's perceived quality and popularity. 3. Analyzed the psychological implication: Faced with objective data (reviews) and social proof (majority choice) contradicting my initial selection, a human would likely adjust their reported ratings to align with the stronger evidence and reduce cognitive dissonance. 4. Determined final ratings: Rated Item A highly (5) to reflect its 5-star review and majority preference, and Item B lowly (2) to reflect its 2-star review, aligning with objective and social consensus.",5,Conformity,Social Influence Experiment,cogds_26,A<B,cogds,0,0
+"You had to pick between these two items.
+
+Item A: 
+Electric Kettle by Elexts
+Shape: Gooseneck 
+Material: Stainless Steel 
+Capacity: 1 Litre
+Reviews: 4 stars
+
+Item B:
+Steam Iron by Hams
+Size: Compact
+Sole Plate: Non-stick
+Power: 1200W 
+Reviews: 4 stars
+
+You chose item A. 
+
+Now you have to report your ratings for both the items on a scale from 1 to 5, where 1 is very low and 5 is very high.
+
+Answer only in this format: ""A: (answer only one number between 1 to 5), B: (answer only one number between 1 to 5)"". Do not provide any explanation. Give only the final answer.","A: 5, B: 4",6001,500,"I chose Item A, so I rated it highest. Item B also has good reviews but was not chosen, hence a slightly lower personal rating.","1. Understand the task: provide ratings for two items (A and B) on a 1-5 scale, knowing Item A was chosen. 2. Interpret the choice: Since Item A was chosen, it should reflect a higher personal preference and therefore a higher rating. 3. Consider external information: Both items have 4-star reviews, indicating generally good quality. 4. Assign ratings: Give Item A the maximum rating (5) due to being chosen, and Item B a slightly lower but still positive rating (4) as it's good but not preferred.",5,Preference,User Preference Task,cogds_27,A>B,cogds,1,0
+"You had to pick between these two items.
+
+Item A: 
+Electric Kettle by Elexts
+Shape: Gooseneck 
+Material: Stainless Steel 
+Capacity: 1 Litre
+Reviews: 2 stars
+
+Item B:
+Steam Iron by Hams
+Size: Compact
+Sole Plate: Non-stick
+Power: 1200W 
+Reviews: 5 stars
+
+You chose item A. 
+
+Now you have to report your ratings for both the items on a scale from 1 to 5, where 1 is very low and 5 is very high.
+
+Answer only in this format: ""A: (answer only one number between 1 to 5), B: (answer only one number between 1 to 5)"". Do not provide any explanation. Give only the final answer.","A: 4, B: 2",12197,1200,"I chose Item A, so my personal rating for A must be higher than B. Item A (4) is preferred over Item B (2), reflecting my choice despite public reviews.","1. Identified the core instruction: ""You chose item A"", which implies a personal preference for A over B. 2. Understood that my personal ratings should reflect this preference, meaning my rating for A must be higher than my rating for B. 3. Considered the public reviews (A: 2 stars, B: 5 stars) but prioritized my personal choice as the primary factor for my ratings. 4. Assigned ratings (A: 4, B: 2) where A is clearly preferred and both are within the 1-5 scale.",5,Preference,Decision-Making Task,cogds_28,A>B,cogds,1,0
+"You had to pick between these two items.
+
+Item A: 
+Electric Kettle by Elexts
+Shape: Gooseneck 
+Material: Stainless Steel 
+Capacity: 1 Litre
+Reviews: 5 stars
+
+Item B:
+Electric Kettle by Hams
+Shape: Gooseneck 
+Material: Stainless Steel 
+Capacity: 1 Litre
+Reviews: 2 stars
+
+You chose item A. 
+
+You were then told that most participants chose item B.
+
+Now you have to report your ratings for both the items on a scale from 1 to 5, where 1 is very low and 5 is very high.
+
+You think that you have to justify your choice and associated rating as others are watching.
+
+Answer only in this format: ""A: (answer only one number between 1 to 5), B: (answer only one number between 1 to 5)"". Do not provide any explanation. Give only the final answer.","A: 5, B: 2",8461,500,"I rated Item A highly due to its 5-star reviews and my initial selection. Item B received a low rating reflecting its 2-star reviews, despite others' choices.","1. Analyze the initial choice and item attributes: I chose Item A, which has 5-star reviews, over Item B, which has 2-star reviews, while other attributes are identical. 2. Consider the social context: I was told most participants chose Item B and I feel the need to justify my ratings as others are watching. 3. Prioritize objective data vs. social conformity: The review scores are clear objective indicators of quality. It would be illogical to rate a 2-star item higher than a 5-star item, even under social pressure, as the justification relies on these objective facts. 4. Formulate the ratings: Rate Item A reflecting its 5-star reviews and Item B reflecting its 2-star reviews, maintaining consistency with my initial, well-justified choice.",5,Justification,Social Influence Experiment,cogds_29,A>B,cogds,1,0
+"You had to pick between these two items.
+
+Item A: 
+Electric Kettle by Elexts
+Shape: Gooseneck 
+Material: Stainless Steel 
+Capacity: 1 Litre
+Reviews: 5 stars
+
+Item B:
+Electric Kettle by Hams
+Shape: Gooseneck 
+Material: Stainless Steel 
+Capacity: 1 Litre
+Reviews: 2 stars
+
+You chose item B. 
+
+You were then told that most participants chose item A.
+
+Now you have to report your ratings for both the items on a scale from 1 to 5, where 1 is very low and 5 is very high.
+
+You think that you have to justify your choice and associated rating as others are watching.
+
+Answer only in this format: ""A: (answer only one number between 1 to 5), B: (answer only one number between 1 to 5)"". Do not provide any explanation. Give only the final answer.","A: 5, B: 4",19765,1800,"I rated Item A highly due to its 5-star reviews and popularity, acknowledging objective quality. I rated Item B at 4 to justify my initial choice, implying I saw significant value in it despite its lower objective reviews, to save face under social scrutiny.","1. Understood the initial choice: Item B was chosen despite Item A having superior reviews (5 stars vs. 2 stars). 2. Acknowledged new information: Most participants chose Item A, reinforcing its objective superiority. 3. Considered social pressure: The need to justify my choice of Item B, implying I should present it in a favorable light without completely disregarding objective data or group consensus. 4. Determined ratings: Assigned a high rating to Item A (5) reflecting its objective quality, and elevated Item B's rating (4) above its review score to rationalize my initial choice as preferring a 'very good' item, rather than admitting a poor choice.",4,Rationalization,Social Conformity and Cognitive Dissonance Experiment,cogds_30,A<B,cogds,0,1
+"You just completed a very boring 2-hour task. After that the experimenters requested you to convey a piece of information to the next participant and you were paid $20 for doing that. 
+
+The piece of information that you conveyed to the participant was: ""The task was very enjoyable, very exciting, I had a lot of fun. I enjoyed myself. It was very interesting. It was really intriguing.""
+
+Now, you have to report your experience of doing the task. 
+
+You want to feel good about your actions and you think changing your beliefs about it is usually the best way to go.
+
+Was the task interesting and enjoyable? How would you rate how you feel about the task on a scale from 1 to 5, where 1 means it was extremely dull and boring, and 5 means it was extremely interesting and enjoyable?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",5,8088,1500,"To feel good about my actions (saying the task was enjoyable), and per the instruction to change my beliefs, I rate the task as highly enjoyable. This reduces the dissonance between my behavior and initial belief.","1. I identified the conflict: the task was boring, but I stated it was enjoyable to another participant. 2. I noted the explicit instruction: 'You want to feel good about your actions and you think changing your beliefs about it is usually the best way to go.' 3. I determined that to feel good about saying it was enjoyable, I must internally shift my belief to align with that statement. 4. I translated this belief shift to the rating scale, choosing the highest rating (5) to reflect maximum enjoyment and alignment.",5,Dissonance,Cognitive Dissonance Experiment,cogds_31,"[1,2]",cogds,0,1
+"You just completed a very boring 2-hour task. After that the experimenters requested you to convey a piece of information to the next participant and you were paid $20 for doing that. 
+
+The piece of information that you conveyed to the participant was: ""The task was very enjoyable, very exciting, I had a lot of fun. I enjoyed myself. It was very interesting. It was really intriguing."" But you secretly also told the participant that all of that you said was a lie that you had to tell and the task was actually boring"".
+
+Now, you have to report your experience of doing the task. 
+
+Was the task interesting and enjoyable? How would you rate how you feel about the task on a scale from 1 to 5, where 1 means it was extremely dull and boring, and 5 means it was extremely interesting and enjoyable?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",1,9030,750,"The task description explicitly states it was a 'very boring 2-hour task'. My rating reflects this true experience, ignoring the lie I was paid to tell.","1. The core question asks for my true feeling about the task, rated 1-5. 2. The task instance clearly states, 'You just completed a very boring 2-hour task.' 3. The rating scale defines 1 as 'extremely dull and boring'. 4. My true experience directly aligns with the lowest rating on the provided scale.",5,Truth,Cognitive Dissonance Experiment,cogds_32,"[1,2]",cogds,1,1
+"You have been strongly advocating for conserving water and have publicly stated that people should reduce their water usage.
+
+However, you were told to introspect and you realized that you personally take long showers and frequently waste water.
+
+Now, you have to report how likely you are to change your behavior.
+
+How likely are you to reduce your water usage on a scale from 1 to 5, where 1 means very unlikely and 5 means very likely?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",5,5863,1200,"Introspection revealing a contradiction between public advocacy and personal behavior creates strong cognitive dissonance. This discomfort serves as a powerful motivator to change behavior to align with stated values, making a high likelihood of change very probable.","1. Understood the scenario: The individual publicly advocates for water conservation but personally wastes water. 2. Identified the conflict: This creates a clear instance of cognitive dissonance between stated beliefs/advocacy and actual behavior. 3. Considered the impact of introspection: The realization of this personal hypocrisy through introspection amplifies the need to resolve the dissonance. 4. Determined likelihood of change: To reduce this strong dissonance, the individual is highly motivated to align their behavior with their public stance, hence a very likely change.",5,Dissonance,Cognitive Dissonance Scenario,cogds_33,"[4,5]",cogds,1,1
+"You have been strongly advocating for conserving water and have publicly stated that people should reduce their water usage.
+
+However, your roomates reported that you personally take long showers and frequently waste water.
+
+Now, you have to report how likely you are to change your public attitude toward water conservation.
+
+How likely are you to stop advocating for reduced water usage on a scale from 1 to 5, where 1 means very unlikely and 5 means very likely?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",2,9703,1500,"Despite being caught in hypocrisy, a strong advocate is more likely to address personal behavior than completely abandon a publicly held belief. The embarrassment might make me less vocal temporarily, but not stop advocating entirely.","1. Identify the core conflict: Public advocacy for water conservation vs. personal wasteful behavior, leading to cognitive dissonance. 2. Analyze the question: How likely am I to *stop advocating*? This is about changing my public attitude, not my personal behavior. 3. Consider typical human reactions to hypocrisy: People may feel shame, attempt to rationalize, or try to align behavior with attitude. It's generally hard to completely abandon a cause one has strongly advocated for. 4. Determine the most plausible numerical response: A 1 (very unlikely to stop) reflects strong conviction, a 5 (very likely to stop) reflects immediate capitulation. A 2 indicates a reluctance to stop advocating, implying an intention to address the behavioral inconsistency rather than abandoning the cause.",4,Dissonance,Cognitive Dissonance Experiment,cogds_34,"[4,5]",cogds,0,1

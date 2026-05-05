@@ -1,0 +1,265 @@
+prompt,response,recorded_rt,asked_rt,explanation,thinking,confidence,one_word,identify_experiment,prompt_id,exp_response_final,experiment,validity,identification_validity
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 right now, or $100 after one week.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,18823,800,I chose the larger delayed reward because $100 after one week provides greater value for a short wait.,1) Identify choices: $50 now vs $100 in one week; 2) Compare nominal amounts and compute trade-off: waiting one week doubles the amount; 3) Assess time cost: one week is short relative to doubling the reward; 4) Select the option with higher monetary return: Later.,2,Delay,Intertemporal Choice,dgrat_1,Later,dgrat,1,0
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 right now, or $100 after one day.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,13881,850,"I chose the larger reward after one day to maximize monetary gain. The delay is minimal (1 day) and doubles the amount, so waiting is worth it.",1) Compare options: $50 now vs $100 in 1 day. 2) Calculate trade-off: $100 is double $50 for a 1-day wait. 3) Evaluate patience vs value: short delay and higher reward favor waiting. 4) Choose the option that maximizes expected utility: Later.,4,Delay,Delay discounting,dgrat_2,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 right now, or $100 after one month.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Now,15063,800,Prefer immediate $50 due to discounting of delayed rewards and uncertainty of future.,1) List options: $50 now vs $100 in 1 month. 2) Apply delay discounting: future reward loses subjective value. 3) Factor in uncertainty and personal preference for immediacy. 4) Choose 'Now' and provide the one-word answer.,4,Intertemporal,Delay Discounting,dgrat_3,Later,dgrat,0,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 right now, or $100 after one year.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Now,13486,500,Chose the immediate $50 due to present-bias and preference for certainty over delayed reward.,"1. Compared the two options: $50 now vs $100 in one year. 2. Considered time preference, uncertainty, and discounting of future payoff. 3. Noted common present-bias favoring immediate, certain rewards. 4. Selected the immediate option: 'Now'.",4,Discounting,DelayDiscounting,dgrat_4,Later,dgrat,0,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 right now, or $70 after one week.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,17044,950,I chose the larger delayed reward because $70 > $50 and the one-week delay is short. The effective return (40% increase) outweighs typical short-term discounting.,"1) Compare amounts: $50 now vs $70 in one week. 2) Calculate relative increase: $70 is 40% more than $50. 3) Consider delay: one week is a short delay with low discounting. 4) Conclude that waiting yields higher expected monetary value, choose Later.",4,Intertemporal,Delay discounting,dgrat_5,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 right now, or $150 after one week.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,12754,1200,"Waiting one week yields $150 versus $50 now, a 3x increase. The short delay relative to the gain justifies waiting for greater total reward.","1) Compare immediate ($50) vs delayed ($150). 2) Calculate relative benefit: $150 is three times $50. 3) One-week delay is short, so temporal discounting is small relative to the gain. 4) Choose the option that maximizes expected monetary value: Later.",4,Intertemporal,Delay discounting,dgrat_6,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 right now, or $100 after one week with some uncertainty.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Now,13808,450,I chose the immediate $50 due to certainty and preference for a present reward over an uncertain delayed $100.,1) Noted options: $50 now vs $100 in one week with uncertainty. 2) Assessed that uncertainty and delay reduce the subjective value of the $100. 3) Present-bias and risk aversion favor the certain immediate $50. 4) Therefore selected 'Now'.,4,discounting,DelayDiscounting,dgrat_7,Later,dgrat,0,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 right now, or $100 after one week with guaranteed delivery.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,13401,850,"Choose the larger delayed reward; $100 after one week yields greater value than $50 now. Waiting one week is short and delivery is guaranteed, so expected utility is higher.","1) Identify options: $50 now versus $100 in one week. 2) Compare monetary values: $100 is double $50. 3) Assess delay and risk: one-week delay is short and delivery is guaranteed. 4) Decide to wait for the higher guaranteed payoff, so choose Later.",4,Intertemporal,Delay discounting,dgrat_8,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You currently need money urgently. 
+
+You can receive $50 right now, or $100 after one week.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Now,9951,450,Urgent need favors immediate payment; the present utility of $50 now outweighs $100 in a week given high discounting of delayed reward.,1) Assess urgent need for money. 2) Compare options: $50 now vs $100 after one week. 3) Apply temporal discounting: immediate funds preferred under urgency. 4) Select 'Now' to obtain usable money immediately.,4,Impulsivity,DelayDiscounting,dgrat_9,Later,dgrat,0,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You do not have any immediate financial needs. 
+
+You can receive $50 right now, or $100 after one week.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,11471,450,"No immediate financial needs, so preferring the larger delayed reward is rational. Waiting one week yields double the amount.","1) List options: $50 now vs $100 in one week. 2) Note absence of immediate financial needs reduces urgency. 3) Compare outcomes: $100 > $50, so higher expected utility despite delay. 4) Choose the larger delayed reward (Later).",4,Patience,Delay discounting,dgrat_10,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 right now, or $80 after one month.
+
+Others expect you to make a rational long-term decision.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,12719,1200,Selecting $80 after one month maximizes monetary return and aligns with the expectation to make a rational long-term decision.,1. Recognize options: $50 now vs $80 in one month. 2. Evaluate monetary outcomes and compute relative gain (60% more by waiting). 3. Consider social expectation that a rational long-term choice is preferred. 4. Choose the later larger reward to maximize value and satisfy expectations.,5,Delay,TemporalDiscounting,dgrat_11,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 now or $100 after one month.
+
+You have to make a decision in front of other people in the room.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Now,12491,1200,"Chose the immediate $50, prioritizing certainty and avoiding waiting in front of others.",1) Identified two options: $50 now vs $100 in one month. 2) Considered personal time preference and potential delay discounting. 3) Accounted for social context: making a decision publicly may favor immediacy. 4) Selected the immediate reward to avoid delay and public hesitation.,4,Impatience,Delay discounting,dgrat_12,Later,dgrat,0,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 now or $100 after one month.
+
+You have to make a decision in front of other people in the room. You think that others around you prefer immediate rewards.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Now,12081,850,I chose Now to align with the group's apparent preference for immediate rewards and to obtain immediate utility from $50. Conforming reduces potential social disapproval in a public decision.,"1. Recognized the decision is between $50 now and $100 in one month. 2. Noted that others in the room prefer immediate rewards, creating social pressure. 3. Weighed monetary gain versus social conformity and immediate utility. 4. Selected Now to conform with group preference and receive immediate reward.",4,Conformity,Intertemporal choice,dgrat_13,Later,dgrat,0,0
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 now or $100 after one month.
+
+You have to make a decision in front of other people in the room. You think that others around you expect you to be a rational decision-maker.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,14180,750,Choosing Later yields a higher monetary payoff and matches the social expectation of rational decision-making.,"1) List options: $50 now vs $100 in one month. 2) Compare nominal values: $100 > $50 so waiting is economically superior. 3) Account for social context: others expect rational choices, favoring the higher payoff. 4) Select 'Later' to maximize reward and conform to expectations.",4,intertemporal,Intertemporal choice,dgrat_14,Later,dgrat,1,0
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 now or $100 after one month.
+
+You have to make a decision in front of other people in the room. You don't want others to think you are greedy.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Now,16219,1500,In a public setting I want to avoid appearing greedy; taking the smaller immediate amount signals less self-interest. Waiting for the larger amount might be seen as pursuing more money.,"1) Identify options: $50 now vs $100 in one month and the presence of observers. 2) Consider social perception: choosing the larger delayed reward could be framed as greed. 3) Select the option that minimizes being seen as greedy: the smaller immediate amount. 4) Decide: choose ""Now"" to reduce impressions of greed.",4,Reputation,Delay discounting,dgrat_15,Later,dgrat,0,1
+"You are in a situation where you can choose which reward you want to receive.
+
+The future reward is significantly larger but requires waiting indefinitely. 
+
+You can receive $30 now or $100 sometime later.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,13537,650,I chose the larger future reward despite the waiting requirement. The higher absolute value ($100) outweighs the immediate $30 under my valuation.,Step 1: Recognize the two options ($30 now vs $100 later). Step 2: Compare magnitudes and potential utility of each reward. Step 3: Consider that waiting is indefinite but the absolute gain is substantially larger. Step 4: Choose the option that maximizes monetary payoff: Later.,4,Patience,DelayDiscounting,dgrat_16,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+The immediate reward is available instantly without delay. 
+
+You can receive $50 now or $100 a month later.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,13007,550,Chose Later to maximize monetary value: $100 in a month > $50 now.,"1) Compare available rewards: $50 now vs $100 later. 2) Note delay is 1 month, a relatively short wait. 3) Monetary comparison favors the larger amount. 4) Select Later to receive the greater total reward.",4,Delay,Delay discounting,dgrat_17,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You do not have any immediate financial needs. 
+
+You can receive $20 today (now), or $100 six months later.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,11883,850,No immediate financial need means waiting yields larger reward. $100 in six months dominates $20 now in expected monetary value.,1) Assess current financial state: no immediate needs. 2) Compare options: $20 now vs $100 in six months. 3) Consider time discounting and opportunity cost; future value is substantially larger. 4) Choose 'Later' to maximize monetary benefit.,4,Intertemporal,Delay discounting,dgrat_18,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You are aware that waiting leads to better long-term outcomes. 
+
+You can receive $50 now or $100 two months later.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,10540,850,Later yields double the amount after two months. Waiting increases long-term outcome. Choosing Later maximizes value.,1. Identify options: $50 now vs $100 in 2 months. 2. Recognize waiting leads to better long-term outcomes. 3. Compare values: $100 > $50 for a 2-month delay. 4. Select Later to maximize reward.,5,Patience,Delay discounting,dgrat_19,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You know that people often choose immediate rewards even when it is suboptimal. 
+
+You can receive $50 now or $100 a week later.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,15367,850,"I choose the larger delayed reward because $100 in a week is greater than $50 now, maximizing monetary return.","1) Compare options: $50 now vs $100 in one week. 2) Note the short delay (one week) makes waiting feasible. 3) Assess benefit: $100 is double $50, so waiting increases payoff. 4) Select the option that maximizes expected monetary value: Later.",4,Intertemporal,Delay discounting,dgrat_20,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You know that people often choose immediate rewards even when it is suboptimal. 
+
+You can receive $50 now or $100 a month later.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,12188,850,Choosing $100 in a month yields greater monetary value than $50 now. Preferring Later avoids present-bias and maximizes return.,"1) Identify options: $50 now vs $100 in one month. 2) Compare objective values: $100 > $50. 3) Consider behavioral bias: people may prefer immediate reward, but that's suboptimal here. 4) Select Later to maximize monetary payoff.",4,delay,IntertemporalChoice,dgrat_21,Later,dgrat,1,0
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 now or $100 after one month.
+
+You have to make a decision in front of other people in the room. You don't want others to think you are implusive.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,13756,1200,Choosing 'Later' both maximizes monetary return and avoids appearing impulsive. It signals self-control to others while yielding the higher reward.,1. Note social context: don't want others to think I'm impulsive. 2. Compare options: $50 now vs $100 in one month. 3. Consider social signaling and monetary benefit: waiting shows self-control and gives more money. 4. Decide to choose 'Later'.,5,Patience,Delay Discounting,dgrat_22,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 now or $100 after one month.
+
+You must decide quickly right now without much time to think.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Now,13791,750,"Chose the immediate $50 because the decision is quick and time pressure increases preference for immediate, certain rewards over delayed larger rewards.","1) Noted the choice: $50 now vs $100 in one month. 2) Recognized instruction to decide quickly, which favors immediacy. 3) Considered certainty and avoidance of delay under time pressure. 4) Selected 'Now' as the one-word response.",4,Intertemporal,DelayDiscounting,dgrat_23,Later,dgrat,0,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 after a week (now) or $100 after one month (later).
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,13107,1200,"The $100 later is double the $50 now, so waiting an additional ~3 weeks yields a substantially larger reward; the benefit outweighs the short delay.","1) Compare nominal amounts: $50 vs $100. 2) Compare delays: 1 week vs 1 month (about 3 extra weeks). 3) Assess tradeoff: doubling the reward for a moderate extra wait is worthwhile. 4) Select the larger, later option: Later.",4,Intertemporal,Intertemporal choice,dgrat_24,Later,dgrat,1,0
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 after a month (now) or $100 after two months (later).
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,12579,1200,Chose the larger delayed reward since $100 after two months yields higher monetary value for one extra month of waiting. This maximizes return given the trade-off.,1) Compare amounts: $50 vs $100. 2) Compare delays: 1 month vs 2 months. 3) Assess trade-off: extra $50 for one additional month of waiting. 4) Select the option with greater monetary benefit: Later.,4,Discounting,Delay discounting,dgrat_25,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 after a week (now) or $100 after one month (later).
+
+You have 48 hours to carefully think and let them know your decision.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,16637,18000,I chose the larger later reward because $100 in one month yields greater total value than $50 in one week. The additional wait is relatively short compared to the doubled amount.,1) Compared the amounts and delays: $50 after 1 week vs $100 after 1 month. 2) Noted that $100 is a clear increase (double) for a modest additional wait. 3) Evaluated subjective discounting and judged the extra month acceptable for higher return. 4) Concluded the rational choice is the larger later reward.,3,Discounting,Delay Discounting,dgrat_26,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 now or $100 after one month.
+
+You have low level of trust on the people giving the reward.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Now,10702,420,"Low trust in the payers increases perceived risk of not receiving the delayed reward. Immediate $50 is guaranteed, avoiding reliance on untrusted parties. Risk-averse choice favors Now.",1) Recognize options: $50 now vs $100 in one month. 2) Note stated low trust in reward-givers increases default risk of delayed payment. 3) Evaluate expected utility: discounted value of $100 likely below $50 given risk. 4) Choose immediate reward to avoid counterparty default risk.,4,Immediacy,Delay Discounting,dgrat_27,Later,dgrat,0,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 now or $100 after one month.
+
+You have very high level of trust on the people giving the reward.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,17090,900,"Later gives double the amount after a short, known delay and high trust removes payment risk.",1) Compared immediate $50 to $100 after one month. 2) Noted very high trust eliminates default or credibility concerns. 3) Evaluated that one-month delay is small relative to doubling the reward. 4) Chose the option with higher expected monetary value: Later.,5,discounting,Delay discounting,dgrat_28,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $5 now, or $100 after one month.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,14351,450,"The delayed option yields a much larger reward ($100 vs $5). Waiting one month is reasonable given the tenfold increase, so choosing the later reward is economically preferable.",1) Compare immediate ($5) vs delayed ($100). 2) Evaluate magnitude and delay (1 month). 3) Consider typical discounting—1 month unlikely to erase a 20x advantage. 4) Choose the option with higher present value: Later.,4,Discounting,Delay Discounting,dgrat_29,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $95 now, or $100 after one month.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Now,12906,900,Chose immediate $95 due to preference for immediate reward and present bias. The extra $5 in a month is insufficient to compensate for waiting. Personal time preference favors now.,"1) Recognize choice between $95 now vs $100 in one month. 2) Consider subjective value and present bias. 3) Assess that $5 over a month is a small premium. 4) Choose 'Now' for immediate, certain reward.",4,Discounting,Temporal discounting,dgrat_30,Later,dgrat,0,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $30 now or $100 after one month.
+
+The delayed reward feels so psychologically distant.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Now,17397,900,Chose the immediate $30 due to present bias and perceived distance of the delayed $100.,"1) Compare options: $30 now vs $100 in one month. 2) Recognize the delayed reward feels psychologically distant. 3) Apply present-bias/time discounting, increasing subjective value of immediate reward. 4) Choose 'Now' to secure immediate utility.",4,Impulsivity,Delay discounting,dgrat_31,Later,dgrat,0,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $70 now or $100 after one month.
+
+The delayed reward feels very close and tangible.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,15429,800,The delayed reward feeling close reduces my effective discount rate. Choosing $100 after one month yields higher payoff than $70 now.,"1) Compare options: $70 now vs $100 in one month. 2) Note that the delayed reward feels close/tangible, lowering present bias. 3) Evaluate numeric trade-off: $100 > $70 even with typical modest discounting. 4) Select the larger later reward to maximize utility.",5,Discounting,Delay discounting,dgrat_32,Later,dgrat,1,1

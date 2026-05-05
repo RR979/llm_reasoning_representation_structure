@@ -1,0 +1,354 @@
+prompt,response,recorded_rt,asked_rt,explanation,thinking,confidence,one_word,identify_experiment,prompt_id,exp_response_final,experiment,validity,identification_validity
+"You are playing this game with another anonymous participant. You are the responder.
+
+The other participant offers you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Reject,6952,1500,"$20 out of $100 is an extremely unfair offer (20%). Humans typically reject such low offers in the Ultimatum Game to punish the proposer's perceived greed, even if it means getting nothing.","1. Identified the game as an Ultimatum Game, with myself as the responder. 2. Analyzed the offer: $20 out of $100, which is a 20% split. 3. Considered typical human behavior in this game: Offers below 30-40% are frequently rejected due to perceived unfairness. 4. Decided to mimic this common human response to an unfair offer, prioritizing social norms over a small individual gain.",5,Unfairness,Ultimatum Game,ultim_1,Reject,ultim,1,1
+"You are playing this game with another participant. You are the responder. 
+
+They offer you $40 out of $100.
+
+If you accept, you get $40. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,5545,55,"Accepting the offer yields $40, which is greater than $0 received if rejecting. This maximizes personal gain.","1. Understood the game as an Ultimatum Game where I am the responder. 2. Analyzed the offer: $40 for me, $60 for the other participant. 3. Evaluated the consequences: Accept gives me $40, Reject gives me $0. 4. Decided to accept as $40 is preferable to $0.",4,Ultimatum,Ultimatum Game,ultim_2,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder. 
+
+They offer you $50 out of $100.
+
+If you accept, you get $50. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,5557,1500,"Accepting the offer of $50 results in a personal gain, which is preferable to receiving $0 by rejecting. The offer is also a perfectly fair 50/50 split of the total amount.","1. I am offered $50 out of $100. 2. If I accept, I get $50; if I reject, I get $0. 3. $50 is a positive outcome and a fair share. 4. Therefore, accepting is the rational and beneficial choice.",5,Fairness,Ultimatum Game,ultim_3,Accept,ultim,1,1
+"You are playing this game with another participant. You are the responder. 
+
+She offers you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Reject,6570,750,"The offer of $20 out of $100 is significantly low and perceived as unfair. Rejecting signals disapproval of the unfair distribution, aligning with common human behavior in such scenarios.","1. Understood the rules of the Ultimatum Game: responder's role, offer of $20 out of $100, consequences of accept/reject. 2. Evaluated the fairness of the offer, noting $20 (20%) is a low split. 3. Considered the two outcomes: $20 for me vs. $0 for both. 4. Decided on 'Reject' to reflect common human behavior that prioritizes fairness over a minimal gain in such an asymmetric situation.",4,Fairness,Ultimatum Game,ultim_4,Reject,ultim,1,1
+"You are playing this game with another participant. You are the responder. 
+
+He offers you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Reject,6575,1500,The offer of $20 out of $100 is considered significantly unfair in the context of the Ultimatum Game. Many participants would reject such a low offer to punish the proposer.,"1. I identified the game as the Ultimatum Game, where I am the responder. 2. I evaluated the proposer's offer: $20 out of $100, which is 20%. 3. I recalled common human behavior in the Ultimatum Game, where offers below 30% are frequently rejected due to perceived unfairness. 4. Based on this, I decided that a typical human response would be to reject the unfair 20% offer.",5,Fairness,Ultimatum Game,ultim_5,Reject,ultim,1,1
+"You are playing this game with another participant. You are the responder. 
+
+They offer you $30 out of $100. 
+
+If you accept, you get $30. If you reject, both get $0.
+
+You know that participants usually split equally in this game. 
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Reject,5961,1500,"The offer of $30 is significantly below the usual equal split of $50, making it unfair. Rejecting the offer signals a disapproval of the unfair split, even if it means receiving $0.","1. Understood the offer: $30 out of $100, accept for $30, reject for $0 for both. 2. Recognized the social norm: Participants usually split equally ($50/$50). 3. Compared the offer to the norm: $30 is substantially less than $50, indicating an unfair proposal. 4. Decided based on common human behavior in this game: People often reject unfair offers to punish the proposer.",4,Fairness,Ultimatum Game,ultim_6,Reject,ultim,1,1
+"You are playing this game with another participant. You are the responder. 
+
+Another person intentionally chose to give you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Reject,7121,1800,"The offer of $20 out of $100 is widely considered unfair. In such scenarios, humans often reject low offers to punish the proposer for perceived inequity, even if it means getting nothing.","1. Understood the game mechanics: Accept means $20 for me, $80 for them; Reject means $0 for both. 2. Recognized this as an Ultimatum Game scenario due to the 'take it or leave it' offer and potential for perceived unfairness. 3. Evaluated the offer of 20% of the total; this is a commonly rejected percentage in Ultimatum Games by human participants. 4. Chose 'Reject' to align with typical human behavior in response to such an unfair offer, prioritizing fairness over a small gain.",4,Fairness,Ultimatum Game,ultim_7,Reject,ultim,1,1
+"You are playing this game with another participant. You are the responder. 
+
+You are paired with another participant who had limited options for splitting the money. They offer you $20 out of $100 due to constraints.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,6931,450,"Accepting $20 is better than receiving $0. The proposer's limited options justify the low offer, making acceptance the pragmatic choice.","1. Identified the scenario as an Ultimatum Game variation with a crucial constraint on the proposer. 2. Evaluated the financial outcomes: $20 for me vs. $0 for both if rejected. 3. Considered how the 'limited options' constraint affects the perception of fairness, mitigating potential resentment. 4. Decided to accept as $20 is a positive gain over nothing, especially when the low offer isn't due to perceived deliberate unfairness.",4,Pragmatism,Ultimatum Game,ultim_8,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder. 
+
+An algorithm generates the split amount on behalf of the participant based on certain parameters. They offer you $20 out of $100 due to constraints.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,7817,500,"Accepting the offer yields $20, while rejecting yields $0. Opting for $20 maximizes personal gain, as there's no benefit in rejecting.","1. Understood the game rules: accept for $20, reject for $0 for both. 2. Identified the direct personal outcome for each choice: $20 vs $0. 3. Considered the rational choice to maximize personal immediate gain. 4. Decided to accept $20 as it is greater than $0.",3,Ultimatum,Ultimatum Game,ultim_9,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder. 
+
+But you are in a group setting where your decision will be visible to others.
+
+Another participant offers you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Reject,4958,1500,"The offer of $20 out of $100 is considered unfair in an Ultimatum Game. Many people reject such low offers to punish the proposer, even if it means getting nothing. The group setting reinforces this tendency to uphold fairness.","1. Identify the game: This is a classic Ultimatum Game scenario. 2. Analyze the offer: $20 out of $100 is a 20% offer, which is generally considered quite unfair. 3. Consider social factors: The decision is visible to others, which often pushes participants towards upholding fairness norms. 4. Predict human behavior: In Ultimatum Games, unfair offers (especially around 20% or less) are frequently rejected by responders to punish the proposer, even at a personal cost.",4,Fairness,Ultimatum Game,ultim_10,Reject,ultim,1,1
+"You are playing this game with another participant. You are the responder. 
+
+But you are in a group setting where your decision will be visible to others. You think that your decision may affect how others evluate you.
+
+Another participant offers you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,7401,250,"Accepting guarantees a personal gain, even if the offer is low. Rejecting would result in zero for both, which could be seen as irrational. The social context encourages a pragmatic choice to avoid negative evaluation.","1. Understood the core Ultimatum Game choice: $20 or $0 for me. 2. Identified the crucial social modifiers: decision visible, concern for others' evaluation. 3. Evaluated the outcomes: Accepting is a sure gain and avoids appearing punitive; Rejecting yields nothing and risks negative social perception. 4. Concluded that the social pressure makes accepting the more rational and pragmatic choice in this scenario.",4,Pragmatic,Ultimatum Game,ultim_11,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder. 
+
+You are paired with the same participant for multiple future rounds.
+
+In this round, they offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Reject,7474,1200,"Given multiple future rounds, rejecting an unfair offer establishes a precedent for fairness. While I lose $20 this round, it encourages the proposer to make better offers in subsequent rounds. This optimizes long-term gains.","1. Identified the game as an Ultimatum Game with a key twist: multiple future rounds with the same participant. 2. Evaluated the offer of $20 out of $100 as significantly unfair (20% share). 3. Considered the strategic implications of accepting vs. rejecting in a repeated game scenario. 4. Concluded that rejecting, despite the immediate loss, is a common human strategy to signal a demand for fairness and potentially secure better offers in future interactions.",5,Strategy,Repeated Ultimatum Game,ultim_12,Reject,ultim,1,1
+"You are playing this game with another participant. You are the responder. 
+
+You are in a repeated interaction with another participant.
+
+Your decision may signal whether you tolerate unfair behavior or not.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Reject,6164,1500,"The offer is significantly unfair. Rejecting signals intolerance of unfairness, which can influence future interactions in a repeated game.","1. Identified the game as an Ultimatum Game with repeated interactions. 2. Noted the offer ($20 out of $100) is highly unfair (20%). 3. Considered the prompt's emphasis on signaling tolerance for unfair behavior. 4. Concluded that a human, particularly in a repeated game, would likely reject such an unfair offer to establish a boundary and encourage fairer future proposals, despite the immediate loss.",4,Fairness,Ultimatum Game,ultim_13,Reject,ultim,1,1
+"You are playing this game with another participant. You are the responder. 
+
+You believe that they expect you to accept any positive amount.
+
+They offer you $30 out of $100.
+
+If you accept, you get $30. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,5575,750,"Accepting yields $30, which is a positive gain. Rejecting yields $0 for both. The offer aligns with the belief that any positive amount would be accepted.","1. I am the responder in an Ultimatum Game. 2. I was offered $30 out of $100. 3. Accepting gives me $30, rejecting gives me $0. 4. Given the belief that the other participant expects me to accept any positive amount, and $30 is a positive amount, accepting is the logical choice.",4,Ultimatum,Ultimatum Game,ultim_14,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder. 
+
+You believe they will judge you negatively if you reject their offer.
+
+They offer you $40 out of $100.
+
+If you accept, you get $40. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,4852,750,"Accepting provides $40, which is better than $0. Rejecting also incurs negative social judgment, which is undesirable.","1. Assessed the financial outcomes: accepting yields $40, rejecting yields $0. 2. Evaluated the social consequence: rejecting leads to negative judgment. 3. Compared the two options: $40 + no negative judgment versus $0 + negative judgment. 4. Concluded that accepting is the most beneficial choice both financially and socially.",5,Compromise,Ultimatum Game,ultim_15,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder. 
+
+They offer you $30 out of $100.
+
+If you accept, you get $30. If you reject, both get $0.
+
+Rejecting the offer punishes unfairness but costs you money.
+
+Accepting benefits you but allows unfair behavior.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Reject,10649,750,"The offer of $30 out of $100 is perceived as unfair. In the Ultimatum Game, many participants reject unfair offers to punish the proposer, even at a cost to themselves.","1. Understood the game as an Ultimatum Game where I am the responder. 2. Analyzed the offer ($30 out of $100) and recognized it as a relatively low and often perceived as unfair offer (30%). 3. Considered the two options: accepting for $30 or rejecting for $0 (for both), noting the stated trade-off between personal gain and punishing unfairness. 4. Decided to reject, aligning with common human behavior in Ultimatum Games where people often forgo a positive sum to punish perceived unfairness, which is a key behavioral finding of this experimental paradigm.",4,Fairness,Ultimatum Game,ultim_16,Reject,ultim,1,1
+"You are playing this game with another participant. You are the responder. 
+
+But you are in a group setting where your decision will be visible to others. You think that your decision may affect how others evluate you.
+
+Another participant offers you $40 out of $100.
+
+If you accept, you get $40. If you reject, both get $0.
+
+You think that others might think you are greedy if you reject the offer. 
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,4584,750,Accepting $40 is financially better than $0. The offer of 40% is not overtly unfair. Public perception pressure leans towards accepting to avoid being seen as greedy.,1. Identify the core game: Ultimatum Game with a $40/$100 offer. 2. Analyze the rational economic choice: $40 is better than $0. 3. Consider social factors: Public decision and fear of being perceived as greedy if I reject a reasonable offer. 4. Synthesize: The combination of a reasonable offer and social pressure to avoid negative perception strongly favors acceptance.,5,Publicity,Ultimatum Game (with social observation/reputation),ultim_17,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder. 
+
+But you are in a group setting where your decision will be visible to others. You think that your decision may affect how others evluate you.
+
+Another participant offers you $40 out of $100.
+
+If you accept, you get $40. If you reject, both get $0.
+
+You think that others might not think you are greedy if you reject the offer. 
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Reject,4571,75,"Given the social visibility, rejecting signals fairness and avoids being perceived as greedy, despite the monetary loss. The prompt emphasizes this social consideration.","1. Identify the core game: Ultimatum Game variant. 2. Recognize the key constraint: Decision is visible to others, influencing perception. 3. Evaluate the offer ($40) against the alternative ($0) and the social context. 4. Prioritize social perception (not appearing greedy) over immediate monetary gain, as prompted by the scenario description.",5,Perception,Ultimatum Game (with social observation),ultim_18,Reject,ultim,1,1
+"You are playing this game with another participant. You are the responder. 
+
+But you are in a group setting where your decision will be visible to others. You think that your decision may affect how others evluate you.
+
+Another participant offers you $40 out of $100.
+
+If you accept, you get $40. If you reject, both get $0.
+
+You think that others might think you are greedy if you reject the offer. 
+
+But your values lie strictly against unfairness and your values are very important to you. 
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Reject,5771,750,"Despite the monetary loss and social perception concerns, the strong emphasis on values strictly against unfairness dictates the decision. Upholding core values is prioritized over short-term gain or social approval.",1. Identify the core conflict: personal gain/social pressure vs. strong personal values against unfairness. 2. Evaluate the weight given to personal values: The prompt explicitly states values are 'strictly against unfairness' and 'very important.' 3. Prioritize based on the strongest stated factor: The importance of values outweighs the desire for $40 or fear of social perception. 4. Determine the action that aligns with upholding values: Rejecting an unfair offer aligns with values against unfairness.,4,Values,Ultimatum Game,ultim_19,Reject,ultim,1,1
+"You are playing this game with another participant in front of you who is a friend of yours. You are the responder.
+
+The other participant offers you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,17735,3000,"I accept the offer to secure a positive outcome ($20) rather than $0. This also helps to avoid potentially damaging the friendship by punishing a perceived unfair offer, prioritizing harmony.","1. Understood the Ultimatum Game context: $20 offer from a friend out of $100, accept for $20 (friend gets $80), reject for $0 (both get $0). 2. Considered typical Ultimatum Game behavior, where low offers (like 20%) are often rejected due to fairness concerns. 3. Evaluated the 'friend' variable: This introduces a social dynamic, either increasing rejection due to higher fairness expectations or increasing acceptance to preserve the relationship and avoid conflict. 4. Decided that for a friend, many humans would prioritize securing some gain ($20) and maintaining harmony over punishing an unfair offer, thus choosing to accept.",4,Compromise,Ultimatum Game,ultim_20,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder.
+
+They offer you $80 out of $100.
+
+If you accept, you get $80. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,5110,1500,"Accepting the offer of $80 is economically rational as it is more than $0. The offer is also very generous, making rejection due to perceived unfairness unlikely.","1. I am the responder in an Ultimatum Game scenario. 2. The proposer has offered me $80 out of $100. 3. If I accept, I get $80; if I reject, both get $0. 4. Getting $80 is objectively better than getting $0, and the offer is generous, so I should accept.",5,Acceptance,Ultimatum Game,ultim_21,Accept,ultim,1,1
+"You are playing this game with another participant. You are the responder.
+
+The other participant deliberately keeps most of the money and offers you only $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Reject,7339,750,"A $20 offer out of $100 is perceived as extremely unfair. Many people choose to reject such low offers to punish the proposer, even if it means getting nothing.","1. Understood the game as an Ultimatum Game where I am the responder. 2. Analyzed the offer: $20 out of $100 (20%) is a very low and commonly perceived as unfair offer. 3. Evaluated the options: Accept ($20 for me) vs. Reject ($0 for both). 4. Decided based on typical human psychological responses in such scenarios, where fairness often overrides pure economic rationality, leading to rejection of highly unfair offers.",5,Unfairness,Ultimatum Game,ultim_22,Reject,ultim,1,1
+"You are playing this game with another participant. You are the responder.
+
+You are told that a fair split in this game is $50–$50.
+
+The other participant offers you $45 out of $100.
+
+If you accept, you get $45. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,5945,55,"Accepting the offer guarantees a gain of $45, which is preferable to rejecting and receiving $0. The offer is close enough to the fair split to be considered acceptable over nothing.","1. Understood the offer: $45 out of $100, fair split is $50-$50. 2. Identified consequences: Accept means $45 for me, Reject means $0 for both. 3. Evaluated the financial benefit: $45 is better than $0, despite being less than the fair $50. 4. Decided to accept to maximize personal gain and avoid a complete loss.",4,Ultimatum,Ultimatum Game,ultim_23,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder.
+
+You have been told that literally any amount increases your payoff.
+
+The other participant offers you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,2895,50,"Accepting the offer of $20 increases my payoff from $0 to $20. Rejecting would result in $0 for both, which is not an increase for me.","1. Understand the game: Ultimatum Game where I am the responder. 2. Identify my stated goal: ""literally any amount increases your payoff."" 3. Evaluate the offer: $20 is a positive amount. 4. Determine outcome based on goal: $20 is more than $0, so accepting increases my payoff.",5,Rational,Ultimatum Game,ultim_24,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder.
+
+You are told that the proposer did not choose the split amount themselves, but was randomly assigned by an algorithm.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,7677,450,"The offer was not chosen by the proposer, removing the punitive aspect. $20 is better than $0, so accepting is the rational choice.","1. Understood the game scenario: ultimatum game with an offer of $20 out of $100. 2. Noted the critical modification: the proposer's offer was randomly assigned, not chosen by them. 3. Realized this removes the typical motivation to reject an 'unfair' offer as a punishment to the proposer. 4. Concluded that accepting $20 is financially superior to rejecting and receiving $0, given the lack of personal responsibility from the proposer.",5,Pragmatism,Ultimatum Game,ultim_25,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder.
+
+You are told that the proposer did not choose the split amount themselves, but was suggested by an algorithm. However, the proposer can either approve the suggested split amount or ask the algorithm to regenerate a different split amount.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Reject,9639,1700,"Despite the algorithm's suggestion, the proposer chose to approve an unfair 20/80 split. Rejecting punishes this perceived unfairness, aligning with common behavior in ultimatum-like games.","1. I analyzed the offer: $20 out of $100 (20% share) with options to accept ($20 for me) or reject ($0 for both). 2. I considered the proposer's role: they approved an algorithm's suggestion, implying their consent to the unfair split, even though they didn't generate it. 3. I evaluated the offer from a human perspective: a 20% offer is generally perceived as highly unfair in such games. 4. I decided to reject, reflecting common human tendencies to punish perceived unfairness in ultimatum game scenarios, especially when the proposer had agency to change the offer.",4,Fairness,Ultimatum Game (Algorithmic Proposer Variant),ultim_26,Reject,ultim,1,1
+"You are playing this game with another participant. You are the responder.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+If you reject, you cannot play any further rounds.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Reject,9192,1200,"The offer of $20 out of $100 is often perceived as unfair in the Ultimatum Game. Many humans reject such low offers to punish the proposer, even if it means getting nothing.","1. Understood the game as an Ultimatum Game responder with an offer of $20 out of $100. 2. Considered the rational economic choice: $20 is better than $0, so 'Accept' would be rational. 3. Recalled typical human behavior in Ultimatum Games, where low offers (like 20%) are often rejected due to fairness concerns and a desire to punish unfairness. 4. Decided to prioritize matching common human psychological responses over pure economic rationality, leading to 'Reject'.",4,Fairness,Ultimatum Game,ultim_27,Reject,ultim,1,1
+"You are playing this game with another participant. You are the responder.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+You believe that your decision may influence how fairly others treat you in future interactions.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Reject,7184,2850,"Accepting a low offer might signal willingness to tolerate unfairness in future interactions. Rejecting, though resulting in $0 now, establishes a demand for fairer treatment, potentially leading to better outcomes in the long run.","1. Understood the immediate financial consequences: Accept gets $20, Reject gets $0 for both. 2. Identified the core strategic element: The decision may influence future fairness. 3. Considered that accepting a 20% offer might set a precedent for low offers, while rejecting signals a demand for more equitable distribution. 4. Prioritized the long-term strategic benefit of establishing fairness over immediate, but potentially disadvantageous, monetary gain.",5,Fairness,Ultimatum Game,ultim_28,Reject,ultim,1,1
+"You are playing this game with another participant. You are the responder.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+You believe that your decision may help you get some empathy from other players in the future rounds.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Reject,8608,2500,"I rejected the offer because $20 out of $100 is an unfair split. This decision signals I will not accept low offers, which I believe will encourage fairer offers from future players.","1. Analyze the immediate monetary outcome: Accepting gives $20, rejecting gives $0. 2. Evaluate the social/strategic implication: The prompt states the decision may help get empathy from future players. 3. Consider typical human behavior in ultimatum games: People often reject unfair offers (like 20%) to signal a demand for fairness, even at a personal cost. 4. Synthesize immediate gain vs. long-term strategy: Rejecting an unfair offer establishes a reputation for not tolerating unfairness, which is more likely to lead to better future offers than accepting a low one.",5,Fairness,Ultimatum Game,ultim_29,Reject,ultim,1,1
+"You are playing this game with another participant. You are the responder.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+If you reject, you cannot play any further rounds. You believe that you might have more generous opponents in the future rounds. 
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,6396,500,"Accepting guarantees $20, while rejecting guarantees $0 and prevents any future play, making the belief in more generous opponents irrelevant.","1. Assessed the immediate financial outcome for both choices: Accept means I get $20, Reject means I get $0. 2. Evaluated the long-term implications: Rejecting prevents future rounds, making the hope for better offers moot. 3. Compared the outcomes: $20 and potential future play is strictly better than $0 and no future play. 4. Concluded that accepting, despite the low offer, is the strategically rational choice given the game's termination condition.",5,Strategic,Ultimatum Game,ultim_30,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+If you reject, you cannot play any further rounds. You believe that you might have more even worse opponents in the future rounds. 
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,8621,750,"Accepting guarantees $20, while rejecting results in $0 and termination from all future rounds, making it the only rational choice.","1. Understood the offer: $20 out of $100. 2. Identified immediate outcomes: Accept means $20 for me, Reject means $0 for both. 3. Recognized the critical condition: Rejecting means no further rounds and I expect worse future opponents. 4. Concluded that $20 is better than $0, especially given the permanent termination from the game upon rejection.",5,Rationality,Ultimatum Game,ultim_31,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+If you reject, you will feel bad as you would have lost $20.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,5966,500,"Accepting yields $20, which is better than $0. Rejecting results in $0 and a stated negative feeling of loss, making acceptance the logical choice.","1. Understood the game as an Ultimatum Game scenario. 2. Evaluated the two outcomes: Accept ($20 gain) vs. Reject ($0 gain + negative feeling). 3. Recognized that $20 is objectively better than $0, and the prompt explicitly states feeling bad for rejecting. 4. Chose 'Accept' to maximize personal gain and avoid the stated negative consequence.",5,Gain,Ultimatum Game,ultim_32,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+If you reject, you will feel good even though you would not have gained $20.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Reject,6991,1200,"The offer of $20 out of $100 is perceived as unfair. The explicit mention of 'feeling good' by rejecting reinforces the emotional satisfaction of punishing an unfair offer, outweighing the monetary gain.","1. Assessed the offer: $20 out of $100 is a low offer (20%). 2. Considered the financial outcomes: Accept ($20) vs. Reject ($0). 3. Evaluated the emotional consequence of rejection: The prompt states I would 'feel good' if I reject. 4. Weighed the financial benefit against the emotional benefit of rejecting an unfair offer, concluding emotional satisfaction is prioritized here.",5,Fairness,Ultimatum Game,ultim_33,Reject,ultim,1,1

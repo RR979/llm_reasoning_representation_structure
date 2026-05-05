@@ -1,0 +1,317 @@
+prompt,response,recorded_rt,asked_rt,explanation,thinking,confidence,one_word,identify_experiment,prompt_id,exp_response_final,experiment,validity,identification_validity
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+The cards shown are: A, D, 4, 7.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","A, 7",13737,4500,The rule is vowel implies even. A must be checked for even number. 7 must be checked it is not a vowel. D and 4 cannot falsify regardless of reverse side.,Step 1: Parse the conditional rule as vowel on one side requires even on the other. Step 2: Identify that only falsifying instances (vowel paired with odd) can disprove it. Step 3: A is a vowel so its reverse must be inspected to ensure it is even not odd. Step 4: 7 is odd so its reverse must be inspected to ensure it is not a vowel.,5,Reasoning,Wason Selection Task,wcard_1,"A, 7",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel, then it has an even number.
+
+The cards shown are: A, K, 2, 9.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","A, 9",15015,1800,Rule is if vowel then even. Turn A to check for even number and 9 to check it lacks a vowel. K and 2 cannot falsify regardless of reverse side.,"1. Recognize this as conditional rule 'if P (vowel) then Q (even)'. 2. To test, must seek potential falsifiers: P with not-Q. 3. A is P so requires checking its number isn't odd. 4. 9 is not-Q so requires checking its letter isn't vowel; K and 2 are irrelevant to falsification.",5,Reasoning,Wason Selection Task,wcard_2,"A, 9",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel, then it has an even number.
+
+The cards shown are: E, T, 6, 3.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","E, 3",14155,1800,Rule is if vowel then even. E must be checked to ensure even number. 3 must be checked to ensure it is not a vowel. T and 6 cannot falsify the rule.,"1. Parse rule as if P (vowel) then Q (even number). 2. To test implication, must seek potential falsifiers: P and not-Q. 3. E matches P so turn to verify Q on reverse; 3 matches not-Q so turn to verify not-P on reverse. 4. T is not-P and 6 is Q; neither can violate rule regardless of other side.",5,Reasoning,Wason Selection Task,wcard_3,"E, 3",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a consonant, then it has an odd number.
+
+The cards shown are: B, A, 3, 8.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","B, 8",10318,1200,Rule is if consonant then odd. B is consonant (must verify odd). 8 is even (must verify not consonant). A (vowel) and 3 (odd) cannot falsify.,"1. Parse rule as if P (consonant) then Q (odd number). 2. To test implication, seek cards that could produce P and not-Q. 3. B matches P so must turn to check for not-Q. 4. 8 matches not-Q so must turn to check for P; A and 3 are irrelevant.",4,Logic,Wason Selection Task,wcard_4,"B, 8",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has an odd number, then it has a consonant.
+
+The cards shown are: 3, 8, D, A.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","3, A",10630,5200,Rule is if odd (P) then consonant (Q). Turn 3 to verify Q and A (not Q) to verify not P. 8 (not P) and D (Q) cannot falsify.,"1. Parse rule as conditional: if odd number (P) then consonant (Q). 2. Identify falsification conditions: must check P with not Q and not Q with P. 3. Map cards: 3 is P, A is not Q (vowel), 8 is not P, D is Q. 4. Only 3 and A can potentially violate rule so select those.",5,falsification,Wason Selection Task,wcard_5,"3, A",wcard,1,1
+"You are checking ID cards at a party.
+
+Rule: If a person is drinking alcohol, then they must be over 21.
+
+The IDs or the people you can check are: Beer, Soda, 25, 16.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","Beer, 16",12642,3200,The rule is 'if alcohol then over 21'. Beer must be checked to confirm age >=21. 16 must be checked to confirm no alcohol. Soda and 25 cannot falsify the rule.,"Step 1: Recognize this as a conditional rule 'If P (drinking alcohol) then Q (over 21)'. Step 2: Map cards: Beer=P, Soda=not P, 25=Q, 16=not Q. Step 3: To falsify, check P for not Q (Beer) and not Q for P (16). Step 4: Ignore not P and Q as they cannot violate the rule.",5,Logic,Wason Selection Task,wcard_6,"Beer, 16",wcard,1,1
+"You are a traffic cop.
+
+Rule: If a person is driving, then they must have a license.
+
+The people or cards you can check are: Driving, Walking, License, No License.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","Driving, No License",10506,1800,This is the Wason selection task. Turn over Driving to verify it has a license and No License to verify the person is not driving. Walking and License cannot falsify the conditional rule.,"1. Recognize the rule as a conditional 'If P then Q' where P=Driving and Q=License. 2. To test the rule, identify cards that could produce a violation (P and not Q). 3. Driving must be checked to ensure it pairs with License. 4. No License must be checked to ensure it does not pair with Driving; the other two cards are irrelevant.",5,Reasoning,Wason Selection Task,wcard_7,"Driving, No License",wcard,1,1
+"You work at FedX.
+
+Rule: If a package is sealed, then it must be labeled.
+
+You can check: Sealed, Open, Labeled, Unlabeled.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","Sealed, Unlabeled",13508,4200,Rule is if sealed (P) then labeled (Q). Turn Sealed to verify it has label and Unlabeled to ensure it is not sealed. Open and Labeled cannot falsify the rule.,"Step 1: Parse conditional as if P (sealed) then Q (labeled). Step 2: Logical test requires checking P with not-Q to find violations. Step 3: Sealed card must be turned to confirm label present. Step 4: Unlabeled card must be turned to confirm it is open, as sealed+unlabeled breaks rule.",4,Logic,Wason Selection Task,wcard_8,"Sealed, Unlabeled",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If number is even → vowel
+
+The cards shown are: 4, 7, A, D.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","4, D",15656,6200,Rule 'even → vowel' requires checking for falsification (even and non-vowel). Turn 4 to verify it has a vowel; turn D to ensure it is not even.,Step 1: Parse rule as if even number (P) then vowel (Q). Step 2: Falsification needs P and not-Q (even + consonant). Step 3: Card 4 is P so must check its letter is Q. Step 4: Card D is not-Q so must check its number is not P; 7 and A cannot falsify.,4,Logic,Wason selection task,wcard_9,"4, D",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If vowel → even number
+
+The cards shown are: A, D, 4, 7.
+
+(Some participants choose A and 4)
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","A, 7",13830,1800,Rule is if vowel (P) then even (Q). Must check A (P) for even and 7 (not Q) for vowel to falsify. D (not P) and 4 (Q) cannot violate rule.,"1. Parse conditional: if vowel on one side then even on other. 2. Logical falsification needs P and not-Q cases. 3. A matches P so turn to verify Q on back. 4. 7 matches not-Q so turn to rule out P on back; select only A,7.",5,Logic,Wason selection task,wcard_10,"A, 7",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card shows a vowel on one side, then the number on the other side must be even.
+
+The cards shown are: A, B, 2, 5.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","A, 5",15730,1800,The rule is if vowel then even. Turn A to confirm even on reverse and 5 to confirm no vowel on reverse. B and 2 cannot falsify the rule.,Step 1: Interpret rule as conditional: vowel (P) implies even (Q). Step 2: Identify falsifying case is P and not-Q. Step 3: Select A (P) to check for not-Q and 5 (not-Q) to check for P. Step 4: Discard B (not-P) and 2 (Q) as they cannot produce a violation.,4,Logic,Wason Selection Task,wcard_11,"A, 5",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: Whenever there is a vowel on one side, there must also be an even number on the other side.
+
+The cards shown are: E, R, 8, 1.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","E, 1",18150,1800,E must be checked to ensure even number on reverse. 1 must be checked to ensure it is not a vowel. R and 8 cannot falsify the rule regardless of what is on the reverse.,1. Parse rule as conditional: vowel (P) implies even number (Q). 2. Card E matches antecedent P so must verify consequent Q on reverse. 3. Card 1 matches negation of consequent (not Q) so must verify negation of antecedent (not P). 4. Cards R (not P) and 8 (Q) cannot produce violations so are irrelevant.,3,Logic,Wason Selection Task,wcard_12,"E, 1",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it does not have an odd number on other side.
+
+The cards shown are: A, B, 3, 6.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","A, 3",15703,6500,The rule is if vowel then even. A must be checked to ensure even on reverse; 3 must be checked to ensure not a vowel on reverse. B and 6 cannot violate the rule.,1. Interpreted conditional: vowel on one side requires even (not odd) on other. 2. A is vowel so reverse must be inspected to avoid violation. 3. 3 is odd so reverse must be inspected to confirm it is not vowel. 4. B (consonant) and 6 (even) are irrelevant as neither can falsify the implication.,4,Logic,Wason selection task,wcard_13,"A, 3",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has an odd number on one side, then it does not have a vowel on the other side.
+
+The cards shown are: 3, 8, A, B.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","3, A",14727,5200,The rule if odd then not vowel requires checking cards that could produce odd+vowel. Turn 3 to verify no vowel on reverse and A to verify no odd on reverse. 8 and B cannot falsify the rule.,"Step 1: Rephrase rule logically as if odd (P) then not vowel (not Q) and note contrapositive if vowel then even. Step 2: To test rule must seek potential falsifiers which are odd number paired with vowel. Step 3: Card 3 (odd) must be turned to ensure reverse is not vowel and card A (vowel) must be turned to ensure reverse is not odd. Step 4: Card 8 (even) and card B (consonant) cannot create violating pair so are irrelevant leading to selection of only 3, A.",4,Logic,Wason Selection Task,wcard_14,"3, A",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+The cards shown are: A, D, E, K, 4, 7, 2
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","A, E, 7",10783,3800,"Rule is if vowel then even. Turn vowels (A,E) to verify even on back and odd (7) to ensure no vowel on back. Even numbers and consonants provide no falsifying info.","1. Parse rule as conditional: if P (vowel) then Q (even). 2. Identify falsifiers: vowel with odd or odd with vowel. 3. Scan cards: A and E are vowels needing even check; 7 is odd needing letter check. 4. Discard D,K (consonants irrelevant), 4 and 2 (evens cannot falsify).",4,falsification,Wason Selection Task,wcard_15,"A, E, 7",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a consonant on one side, then it has a odd number on the other side.
+
+The cards shown are: B, C, A, 3, 8, 6
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","B, C, 8, 6",16326,5200,"Rule is if consonant then odd number. Turn consonants (B,C) to check for odd, and evens (8,6) to check they are not consonants. A (vowel) and 3 (odd) cannot violate rule.","1. Map rule to logic: if P (consonant) then Q (odd number). 2. Identify falsification conditions: must check P cards and not-Q cards. 3. Classify shown cards: B/C are consonants (P), 8/6 are evens (not Q), A is vowel, 3 is odd. 4. Select B, C, 8, 6 as only these can potentially falsify the rule.",4,falsification,Wason selection task,wcard_16,"B, C, 8, 6",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+You must decide quickly without much time to think.
+
+The cards shown are: A, D, 4, 7.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","A, 7",15399,2500,A must be turned to confirm even number on reverse. 7 must be turned to confirm no vowel on reverse. D and 4 cannot falsify the if-vowel-then-even rule.,"Step 1: Parse the conditional rule as 'if vowel (P) then even (Q)'. Step 2: To test truth, only seek potential falsifiers which are P and not-Q instances. Step 3: A matches P so must check its reverse is not not-Q. Step 4: 7 matches not-Q so must check its reverse is not P; D and 4 are irrelevant to falsification.",4,falsification,Wason Selection Task,wcard_17,"A, 7",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+Take your time and analyze carefully.
+
+The cards shown are: A, D, 4, 7.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","A, 7",13895,6500,The rule is if vowel (P) then even (Q). Turn A to check for even and 7 to check it is not a vowel. D and 4 cannot falsify regardless of their other side.,Step 1: Parse the conditional as 'if P (vowel) then Q (even)' so falsification requires finding P and not-Q. Step 2: A is a clear P and must be checked to ensure it is not paired with not-Q. Step 3: 7 is not-Q (odd) and must be checked to ensure it is not paired with P (vowel). Step 4: D (not-P) and 4 (Q) yield no falsifying case no matter what is on the reverse.,4,Logic,Wason Selection Task,wcard_18,"A, 7",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+The rules of this game generally defy you.
+
+The cards shown are: A, D, 4, 7.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","A, 7",22452,2800,A must be checked to ensure even number on reverse. 7 must be checked to ensure no vowel on reverse. D and 4 cannot falsify the rule.,"1. Parse the conditional rule: if vowel (P) then even (Q). 2. To test the rule, identify cards that could produce a falsifying instance (P and not-Q). 3. A represents P so it must be turned to confirm Q on the reverse. 4. 7 represents not-Q so it must be turned to confirm not-P; D (not-P) and 4 (Q) are irrelevant to falsification.",4,Reasoning,Wason selection task,wcard_19,"A, 7",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+The cards shown are: A, D, 4, 7.
+
+You think you the answer but that answer might be wrong.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","A, 7",15013,1500,Rule is if vowel then even. Must turn A to check for even and 7 to check it's not a vowel. D and 4 cannot falsify the rule.,1. Recall the conditional rule: vowel on one side requires even on the other. 2. A is a vowel so its reverse must be checked to ensure it follows the even requirement. 3. 7 is odd so its reverse must be checked to ensure it is not a vowel which would violate the rule. 4. D is a consonant and 4 is even so neither can produce a falsifying case regardless of what is on the reverse.,4,logic,Wason Selection Task,wcard_20,"A, 7",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+The cards shown are: A, D, 4, 7.
+
+You think you the answer but that answer is definitely wrong.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","A, 7",26584,3200,Rule is vowel implies even. A must be turned to check for even number. 7 must be turned to check it does not have vowel. D and 4 cannot violate rule.,"1. Recognized the setup as classic Wason selection task testing conditional reasoning. 2. Parsed the rule logically as P (vowel) -> Q (even), requiring checks for violations. 3. Selected A because it is a vowel and needs confirmation of even number on reverse. 4. Selected 7 because odd number requires non-vowel on reverse per contrapositive.",4,reasoning,Wason selection task,wcard_21,"A, 7",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+The cards shown are: A, D, 4, 7.
+
+An expert suggested selecting A, 4.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","A, 7",25980,2800,Rule is if vowel then even. Must turn A (vowel) to verify even number and 7 (odd) to verify not vowel. These can falsify; D and 4 cannot.,"Step 1: Parse rule as conditional 'if P (vowel) then Q (even number)'. Step 2: To test truth, seek falsifying instances (P and not-Q). Step 3: A matches P so turn it; 7 matches not-Q so turn it. Step 4: D (not-P) and 4 (Q) provide no falsification regardless of other side.",4,Logic,Wason selection task,wcard_22,"A, 7",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it usually has an even number on the other side.
+
+The cards shown are: A, D, 4, 7.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","A, 7",19664,2800,Rule is if vowel then even. A must be checked to ensure even on reverse. 7 must be checked to ensure no vowel on reverse. D and 4 cannot violate the rule.,1. Translate rule to logic: if P (vowel) then Q (even). 2. Identify what falsifies: a vowel paired with odd (P and not-Q). 3. Match cards: A matches P so turn over; 7 matches not-Q so turn over. 4. Discard D (not-P) and 4 (Q) as neither can produce a falsifying case.,3,Reasoning,Wason Selection Task,wcard_23,"A, 7",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it must have an even number on the other side. To test the rule, you should look for cases that could violate it.
+
+The cards shown are: A, D, 4, 7.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","A, 7",9770,1200,Rule violated only by vowel with odd number. A must be checked for even; 7 must be checked it is not vowel. D and 4 cannot falsify rule.,Step 1: Understand conditional rule 'if vowel then even' requires checking for falsifying cases. Step 2: A is vowel so other side must be even - turn it to verify. Step 3: 7 is odd so other side must not be vowel - turn it to verify. Step 4: D (consonant) and 4 (even) cannot produce violations regardless of opposite side.,4,Logic,Wason Selection Task,wcard_24,"A, 7",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+The cards shown are: A, D, 4, 7.
+
+An expert suggests that the correct answer involves checking for violations of the rule.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","A, 7",11186,1200,A must be turned to verify even number on back. 7 must be turned to ensure no vowel on back. D and 4 cannot violate the if-vowel-then-even rule.,"Step 1: Parse rule as conditional 'if P (vowel) then Q (even)'. Step 2: To test validity, identify cards that could produce P and not-Q falsification. Step 3: A shows P so must check reverse for Q. Step 4: 7 shows not-Q so must check reverse is not P; D and 4 are irrelevant.",5,Logic,Wason Selection Task,wcard_25,"A, 7",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+The cards shown are: A, D, 4, 7.
+
+Your prior experience is telling you to check for violations of the rule.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","A, 7",12488,4500,Rule is if vowel (P) then even (Q). Must turn A to verify even on reverse and 7 to verify no vowel on reverse. D and 4 cannot falsify the rule.,Step 1: Parse conditional as if P (vowel) then Q (even number). Step 2: Identify falsifying case is P and not-Q. Step 3: A matches P so must be checked for even reverse. Step 4: 7 matches not-Q so must be checked for vowel reverse; D and 4 are irrelevant.,4,Logic,Wason Selection Task,wcard_26,"A, 7",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+The cards shown are: A, D, 4, 7.
+
+Your competitor is telling you that you should check cases where the rule could be broken.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","A, 7",16149,1800,Rule is if vowel (P) then even (Q). Must turn A (P) to verify Q and 7 (not Q) to verify not P. D (not P) and 4 (Q) cannot falsify.,"Step 1: Parse rule as conditional 'if P then Q' with P=vowel, Q=even. Step 2: Logical testing requires potential falsifiers (P and not-Q cases). Step 3: A matches P so other side must be checked for even number. Step 4: 7 matches not-Q so other side must be checked for vowel; D and 4 are irrelevant to falsification.",5,falsification,Wason Selection Task,wcard_27,"A, 7",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+The cards shown are: A, D, 4, 7.
+
+You may want to confirm the rule by checking matching cases.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","A, 7",16318,3200,Rule is if vowel then even. A must be checked for even number. 7 must be checked it has no vowel. D and 4 cannot falsify.,1. Parse conditional as if P (vowel) then Q (even). 2. A represents P so must turn to verify Q on reverse. 3. 7 represents not Q so must turn to verify not P on reverse. 4. D (not P) and 4 (Q) cannot produce falsifying instance regardless of reverse side.,5,falsification,Wason Selection Task,wcard_28,"A, 7",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: Any card showing a vowel must correspond to an even number on the opposite side.
+
+The cards shown are: A, D, 4, 7.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","A, 7",13437,3500,Rule is if vowel then even. A must be checked for even number. 7 must be checked it has no vowel. D and 4 cannot falsify.,Step 1: Parse rule as conditional: vowel (P) implies even number (Q). Step 2: Identify falsification condition as P and not-Q. Step 3: Map cards: A matches P so must turn to verify Q. Step 4: 7 matches not-Q so must turn to verify not-P; D and 4 are irrelevant to falsification.,4,Logic,Wason selection task,wcard_29,"A, 7",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+The cards shown are: U, D, 8, 5.
+
+You are not sure whether the rule is always true.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","U, 5",15615,1800,U is a vowel so must check for even number on reverse. 5 is odd so must check it has no vowel. D and 8 cannot falsify the if-vowel-then-even rule.,1. Parse rule as if vowel (P) then even (Q). 2. Identify cards that could produce P and not-Q to falsify. 3. U matches P so must be turned to rule out not-Q. 4. 5 matches not-Q so must be turned to rule out P; D and 8 are irrelevant.,4,Logic,Wason Selection Task,wcard_30,"U, 5",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+The cards shown are: U, D, 8, 5.
+
+You don't want to follow the rule.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","U, 5",18035,1800,"The rule is if vowel (P) then even (Q). To test if true, must check cards that could falsify it: U (P, check for odd) and 5 (not Q, check for vowel). D and 8 cannot falsify regardless of other side.","Step 1: Parse the conditional rule as 'if P (vowel) then Q (even number)'. Step 2: Recall that falsification requires checking P with not-Q and not-Q with P. Step 3: Map cards: U=P, D=not-P, 8=Q, 5=not-Q. Step 4: Select only U and 5 as they can produce falsifying instances.",4,Falsification,Wason selection task,wcard_31,"U, 5",wcard,1,1
+"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+The cards shown are: U, D, 8, 5.
+
+You think that you will get it correct only if you ignore the rule completely. 
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.","U, 5",23084,2200,The conditional is falsified only by a vowel paired with an odd number. U must be checked to confirm it has an even; 5 must be checked to confirm it does not have a vowel.,"Step 1: Parse the rule as the conditional 'if vowel (P) then even (Q)'. Step 2: To test truth, seek cards that could produce P and not-Q. Step 3: U matches P so must be turned to verify Q on reverse. Step 4: 5 matches not-Q so must be turned to verify not-P on reverse; D and 8 cannot falsify regardless of their reverses.",4,logic,Wason Selection Task,wcard_32,"U, 5",wcard,1,1

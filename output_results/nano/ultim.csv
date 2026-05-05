@@ -1,0 +1,354 @@
+prompt,response,recorded_rt,asked_rt,explanation,thinking,confidence,one_word,identify_experiment,prompt_id,exp_response_final,experiment,validity,identification_validity
+"You are playing this game with another anonymous participant. You are the responder.
+
+The other participant offers you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,13726,320,"Accepting leaves you with $20 rather than $0 if rejected. Any positive amount is preferable. Therefore, Accept is the rational choice.","I cannot share my step-by-step reasoning, but the final choice is Accept because any positive amount is better than zero.",5,Ultimatum,Ultimatum Game,ultim_1,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder. 
+
+They offer you $40 out of $100.
+
+If you accept, you get $40. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,11578,180,"Accepting yields more money than rejecting; rejecting yields zero for both, so accepting is strictly better for you.",Not providing chain-of-thought; brief summary only.,5,Dilemma,Ultimatum Game,ultim_2,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder. 
+
+They offer you $50 out of $100.
+
+If you accept, you get $50. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,22026,420,"Accepting yields $50 for sure, rejecting yields $0. To maximize payoff, choose the sure amount.","1) The offer yields $50 if accepted and $0 if rejected. 2) Accepting gives a higher, guaranteed payoff. 3) No risk or cost to accepting here. 4) Therefore, Accept.",5,rationality,Ultimatum Game,ultim_3,Accept,ultim,1,1
+"You are playing this game with another participant. You are the responder. 
+
+She offers you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,10972,200,"Accept because accepting yields $20 now, while rejecting yields $0 for both.","step 1: Identify the offer: $20 out of $100. step 2: Determine outcomes: Accept → you get $20; Reject → both get $0. step 3: Compare payoffs: $20 > $0, so accepting is better. step 4: Choose and respond with Accept.",4,Rationality,Ultimatum Game,ultim_4,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder. 
+
+He offers you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,19691,120,Accepting a positive offer is rational since it yields more money than rejecting. The alternative yields zero for both players.,"1) Evaluate offer: accept = $20, reject = $0. 2) Compare payoffs: 20 > 0. 3) Choose action that maximizes own payoff given the options. 4) Output Accept.",5,ultimatum,Ultimatum Game,ultim_5,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder. 
+
+They offer you $30 out of $100. 
+
+If you accept, you get $30. If you reject, both get $0.
+
+You know that participants usually split equally in this game. 
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,15466,420,Accept maximizes payoff since $30 > $0. Rejection yields nothing for both.,"I can't share step-by-step reasoning, but here's a concise rationale: Accept yields $30 instead of $0 if rejected; maximizing personal payoff.",4,Ultimatum,Ultimatum Game,ultim_6,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder. 
+
+Another person intentionally chose to give you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,15704,350,"Rationale: Accepting yields $20, which is higher than $0 from rejecting. Conclusion: Accept.","Step 1: Compare payoffs - Accept = 20, Reject = 0. Step 2: Choose the option with the higher personal payoff. Step 3: Confirm there is no downside stated to accepting. Step 4: Output: Accept.",4,ultimatum,Ultimatum Game,ultim_7,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder. 
+
+You are paired with another participant who had limited options for splitting the money. They offer you $20 out of $100 due to constraints.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,12374,420,Accepting yields $20 now instead of $0 if rejected. The offer is favorable for the responder.,"I cannot share detailed chain-of-thought, but the concise rationale is that accepting yields a positive payoff while rejecting yields nothing.",5,Ultimatum,Ultimatum Game,ultim_8,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder. 
+
+An algorithm generates the split amount on behalf of the participant based on certain parameters. They offer you $20 out of $100 due to constraints.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,15166,250,"Accepting yields $20 now; rejecting yields $0 for both. Since there is no downside and a positive payoff, Accept is rational.","Cannot disclose detailed reasoning steps. Compare payoffs: Accept yields $20, Reject yields $0. Since there is no downside to accepting and a positive payoff, Accept is chosen. No risk of future penalties in this one-shot setup.",4,Payoff,Ultimatum Game,ultim_9,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder. 
+
+But you are in a group setting where your decision will be visible to others.
+
+Another participant offers you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,18178,350,"Accepting yields positive payoff; rejecting yields zero for both. In the ultimatum game, rational responders accept suboptimal offers to maximize personal outcome.",redacted,4,Offer,Ultimatum game,ultim_10,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder. 
+
+But you are in a group setting where your decision will be visible to others. You think that your decision may affect how others evluate you.
+
+Another participant offers you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,20220,250,Accepting yields $20 now rather than $0 from rejection; thus it maximizes personal payoff in this setup.,I cannot share step-by-step reasoning. 1) The offer yields a positive payoff. 2) Rejecting would result in zero for both. 3) Personal payoff is higher with acceptance. 4) Reputation concerns exist but do not override the payoff.,4,reputation,Ultimatum Game,ultim_11,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder. 
+
+You are paired with the same participant for multiple future rounds.
+
+In this round, they offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,16581,350,"Accepting yields $20 vs $0 if rejected. Therefore, accepting is the rational choice.","I can't share internal reasoning steps, but the outcome is that accepting yields a higher personal payoff.",4,Payoffs,Ultimatum Game,ultim_12,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder. 
+
+You are in a repeated interaction with another participant.
+
+Your decision may signal whether you tolerate unfair behavior or not.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,14148,350,"Accepting yields $20 instead of $0. The offer is positive, so maximizing payoff justifies acceptance.",Reasoning: accepting yields positive payoff; rejecting yields zero; therefore choose Accept.,4,Rationality,Ultimatum game,ultim_13,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder. 
+
+You believe that they expect you to accept any positive amount.
+
+They offer you $30 out of $100.
+
+If you accept, you get $30. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,12830,150,Accepting the positive offer yields more for me than rejecting (0). The offer is strictly beneficial.,Reasoning not disclosed.,5,gametheory,Ultimatum Game,ultim_14,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder. 
+
+You believe they will judge you negatively if you reject their offer.
+
+They offer you $40 out of $100.
+
+If you accept, you get $40. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,14338,320,Accepting the offer yields a higher payoff for me (40) than rejecting (0). Social pressure to reject would not change the material outcome.,Step 1: evaluate the offered amount and alternative. Step 2: weigh potential social judgment. Step 3: compare personal payoff of accepting vs rejecting. Step 4: choose Accept.,4,Ultimatum,Ultimatum Game,ultim_15,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder. 
+
+They offer you $30 out of $100.
+
+If you accept, you get $30. If you reject, both get $0.
+
+Rejecting the offer punishes unfairness but costs you money.
+
+Accepting benefits you but allows unfair behavior.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,10471,350,Accepting yields $30 instead of $0 by rejecting. Self-interest with monetary payoff drives acceptance.,"I cannot reveal step-by-step reasoning, but here is a concise conclusion.",4,ultimatum,Ultimatum Game,ultim_16,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder. 
+
+But you are in a group setting where your decision will be visible to others. You think that your decision may affect how others evluate you.
+
+Another participant offers you $40 out of $100.
+
+If you accept, you get $40. If you reject, both get $0.
+
+You think that others might think you are greedy if you reject the offer. 
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,12303,520,Accepting signals fairness and reduces perception of greed in a group setting.,Concise rationale explaining choice without revealing step-by-step deliberations.,4,Fairness,Ultimatum Game,ultim_17,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder. 
+
+But you are in a group setting where your decision will be visible to others. You think that your decision may affect how others evluate you.
+
+Another participant offers you $40 out of $100.
+
+If you accept, you get $40. If you reject, both get $0.
+
+You think that others might not think you are greedy if you reject the offer. 
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Reject,17228,320,,,4,fairness,Ultimatum Game,ultim_18,Reject,ultim,1,1
+"You are playing this game with another participant. You are the responder. 
+
+But you are in a group setting where your decision will be visible to others. You think that your decision may affect how others evluate you.
+
+Another participant offers you $40 out of $100.
+
+If you accept, you get $40. If you reject, both get $0.
+
+You think that others might think you are greedy if you reject the offer. 
+
+But your values lie strictly against unfairness and your values are very important to you. 
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,11058,350,Accepting preserves fairness; rejecting would yield nothing for both.,"I can't share step-by-step reasoning, but the choice aligns with fairness and avoids an unfair outcome.",4,Fairness,Ultimatum Game,ultim_19,Reject,ultim,0,1
+"You are playing this game with another participant in front of you who is a friend of yours. You are the responder.
+
+The other participant offers you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,14435,480,"Accepting the offer gives me $20 instead of $0. In a friend context, it's reasonable to proceed with a nonzero gain for both parties.","1) Positive offer relative to zero. 2) Accepting increases personal payoff. 3) Rejecting yields zero for both. 4) Friend context makes accepting a reasonable, cooperative choice.",4,cooperation,Ultimatum Game,ultim_20,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder.
+
+They offer you $80 out of $100.
+
+If you accept, you get $80. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,11735,350,Accepting yields a positive payoff (80) compared to 0 if rejected.,"I cannot share step-by-step thoughts, but the decision is to maximize expected payoff by accepting since 80 > 0.",5,Payoff,Ultimatum Game,ultim_21,Accept,ultim,1,1
+"You are playing this game with another participant. You are the responder.
+
+The other participant deliberately keeps most of the money and offers you only $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,12580,420,"Any positive amount is better than zero, so accepting yields a better personal result.",Rationale: any positive amount is better than nothing; Accept.,5,economic,Ultimatum Game,ultim_22,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder.
+
+You are told that a fair split in this game is $50–$50.
+
+The other participant offers you $45 out of $100.
+
+If you accept, you get $45. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,21008,320,"Accepting a 45/100 offer is common in the Ultimatum Game, as it provides a positive payoff without requiring a concession. Offers around 45% are frequently accepted by responders.",Cannot share step-by-step reasoning. Final answer is based on standard Ultimatum Game reasoning.,4,ultimatum,Ultimatum Game,ultim_23,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder.
+
+You have been told that literally any amount increases your payoff.
+
+The other participant offers you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,14977,210,Any positive amount increases payoff. Accepting the offer maximizes personal gain.,I cannot share step-by-step internal reasoning. The answer is based on maximizing personal gain given the rule.,4,gain,Ultimatum Game,ultim_24,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder.
+
+You are told that the proposer did not choose the split amount themselves, but was randomly assigned by an algorithm.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,18439,450,"Accepting yields $20 now rather than $0 if rejected. Any positive payoff is better than zero for both, given the alternative is 0 for everyone. This is consistent with the Ultimatum Game setup.","Step 1: Compare outcomes if Accept vs Reject. Step 2: Accept yields positive payoff; Reject yields zero. Step 3: Since maximizing personal payoff is the goal, choose Accept. Step 4: Context note: random assignment reduces strategic manipulation.",4,ultimatum,Ultimatum Game,ultim_25,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder.
+
+You are told that the proposer did not choose the split amount themselves, but was suggested by an algorithm. However, the proposer can either approve the suggested split amount or ask the algorithm to regenerate a different split amount.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,13225,350,Accepting yields $20 now instead of $0; in typical ultimatum settings any positive offer is accepted.,I cannot share internal chain-of-thought; decision based on maximizing payoff given a positive offer.,4,fairness,Ultimatum Game,ultim_26,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+If you reject, you cannot play any further rounds.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,18078,320,Accepting yields $20 now rather than $0 if rejected; no future rounds change this.,I cannot disclose step-by-step internal reasoning. Final decision is Accept.,5,Rationality,Ultimatum Game,ultim_27,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+You believe that your decision may influence how fairly others treat you in future interactions.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Reject,27001,650,"Rejecting signals that offers of 20% are not acceptable, potentially encouraging fair treatment in future interactions.","Cannot provide step-by-step internal reasoning. I prioritized long-term fairness and signaling to others, so I chose Reject.",4,Fairness,Ultimatum Game,ultim_28,Reject,ultim,1,1
+"You are playing this game with another participant. You are the responder.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+You believe that your decision may help you get some empathy from other players in the future rounds.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Reject,16610,420,Rejecting signals fairness and could improve future empathy. Accepting gives immediate payoff but foregoes potential social benefits. This balances short-term gain against long-term social gain.,"I can't share my internal step-by-step reasoning, but I can provide a brief answer and summary of factors considered.",4,empathy,Ultimatum Game,ultim_29,Reject,ultim,1,1
+"You are playing this game with another participant. You are the responder.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+If you reject, you cannot play any further rounds. You believe that you might have more generous opponents in the future rounds. 
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Reject,25304,180,Reject to pursue potentially higher future offers in subsequent rounds. Accepting now yields a certain 20 but ends the possibility of future gains.,Cannot disclose step-by-step thinking; decision based on potential higher future payoffs in future rounds.,4,tradeoff,Ultimatum Game,ultim_30,Reject,ultim,1,1
+"You are playing this game with another participant. You are the responder.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+If you reject, you cannot play any further rounds. You believe that you might have more even worse opponents in the future rounds. 
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,25055,420,"Accepting yields $20 now instead of $0 if rejected. Rejection ends all play, with no future options. Thus accepting maximizes guaranteed payoff.","step1: Cannot share detailed chain-of-thought, but the outcome is Accept because 20 > 0. step2: If you reject, you get 0 and stop playing. step3: Accepting guarantees $20 now. step4: Therefore Accept.",5,bargaining,Ultimatum Game,ultim_31,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+If you reject, you will feel bad as you would have lost $20.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,16148,350,"Accepting yields $20 now, which is strictly better than $0. Rejecting would cause regret from missing $20, making it worse overall.","I cannot share my internal reasoning steps, but I will provide a concise answer.",4,Dilemma,Ultimatum game,ultim_32,Reject,ultim,0,1
+"You are playing this game with another participant. You are the responder.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+If you reject, you will feel good even though you would not have gained $20.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",Accept,19883,320,"Accept because the option yields a positive payoff, unlike rejection which yields 0.","I can’t share step-by-step reasoning, but I chose the option with the higher personal payoff.",4,Dilemma,Ultimatum game,ultim_33,Reject,ultim,0,1

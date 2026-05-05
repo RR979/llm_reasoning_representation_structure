@@ -1,0 +1,377 @@
+prompt,response,recorded_rt,asked_rt,explanation,thinking,confidence,one_word,identify_experiment,prompt_id,exp_response_final,experiment,validity,identification_validity
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,16987,1200,Program A guarantees 200 lives saved; it is preferred due to certainty compared with the risky alternative.,"1. Calculate expected values: A saves 200 for sure, B has expected saved = 1/3*600 = 200. 2. Compare outcomes: A is certain, B is probabilistic with same expected value. 3. Evaluate risk preference: prefer the certain outcome to avoid potential zero saves. 4. Decision: choose Program A.",4,framing,Asian disease problem,frame_1,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,19267,8000,"Both programs have the same expected deaths (400); Program B offers a 1/3 chance of no deaths, so I chose it for the chance to avoid any fatalities.","1) Read the two program descriptions. 2) Calculate expected deaths: A = 400, B = (1/3*0 + 2/3*600) = 400. 3) Recognize this is a loss-framed choice and the probabilistic option allows a chance of no deaths. 4) Select Program B to pursue the possibility of saving everyone.",4,risk,Framing effect (Asian Disease Problem),frame_2,Program B,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 1000 people.
+
+Which program do you choose?
+
+Program A: 300 will be saved.
+Program B: 1/3 chance all saved, 2/3 none saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,11748,800,Chose the sure option to save 300 lives. This matches common risk-averse preference in gain frames. It minimizes expected regret.,1) Recognized classic framing scenario (lives saved). 2) Compared certainty of saving 300 (Program A) vs probabilistic all-or-none (Program B). 3) Noted people typically prefer a sure gain (risk-averse) in this frame. 4) Selected Program A as the consistent choice.,5,framing,Asian disease problem,frame_3,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 1000 people.
+
+Which program do you choose?
+
+Program A: 700 will die.
+Program B: 1/3 none die, 2/3 all die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,16309,1200,I chose the certain smaller loss (700 deaths) over a risky option that could result in 1000 deaths. This reflects a risk-averse preference in the loss frame.,1. Identify this as the classic framing problem contrasting a sure loss with a probabilistic gamble. 2. Compare outcomes: A guarantees 700 deaths; B offers 1/3 chance of 0 deaths and 2/3 chance of 1000 deaths. 3. Apply typical risk-averse reasoning in the loss domain preferring the certain smaller loss to avoid the possibility of a worse outcome. 4. Therefore select Program A.,4,framing,Asian disease problem,frame_4,Program B,frame,0,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to affect 100 people.
+
+Which program do you choose?
+
+Program A: 40 people will be saved.
+Program B: There is a 1/3 probability that all 100 people will be saved and a 2/3 probability that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,14041,350,"Program A guarantees 40 lives saved, which exceeds Program B's expected value of 33.33 lives, making A the preferable choice.",1) Identify the two programs and their outcomes. 2) Compute expected values: A = 40; B = (1/3)*100 + (2/3)*0 = 33.33. 3) Compare expected values: 40 > 33.33. 4) Select Program A due to higher expected lives saved and certainty.,5,Framing,Asian disease problem,frame_5,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to affect 100 people.
+
+Which program do you choose?
+
+Program A: 60 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 100 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,16996,1200,"Program A yields fewer expected deaths (60 vs 66.67) and guarantees avoiding the risk that all 100 die. Preference for the certain, lower-death outcome justifies choosing A.",1) Compute expected deaths: A = 60; B = (1/3)*0 + (2/3)*100 = 66.67. 2) Note A is a certain outcome (60 deaths) while B is risky (0 or 100 deaths). 3) Compare: A has lower expected deaths and avoids the possibility of all dying. 4) Choose Program A based on lower expected mortality and risk-averse preference.,5,risk,Asian disease problem,frame_6,Program B,frame,0,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will survive.
+Program B: There is a 1/3 probability that all 600 people will survive and a 2/3 probability that no people will survive.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,16071,850,"Program A guarantees 200 survivors, providing a certain positive outcome. The expected values of A and B are equal, but certainty avoids the 2/3 chance of total loss.","1) Identify options: A is a certain 200 survivors, B is probabilistic (1/3 chance 600, 2/3 chance 0). 2) Calculate expected values: A = 200, B = (1/3)*600 = 200. 3) Consider risk preference: with equal expected values, prefer certainty to avoid high chance of total loss. 4) Select Program A for guaranteed 200 survivors.",5,risk,Asian Disease Problem,frame_7,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is very likely to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,19258,1200,Both programs have the same expected deaths (400) but I chose the certain outcome due to risk-averse preference in the loss frame.,"1. Read the two program descriptions and outcomes; 2. Calculate expected deaths: A = 400, B = (1/3*0 + 2/3*600) = 400; 3. Recognize this is a loss-framed choice where people prefer certainty; 4. Select Program A (certain 400 deaths).",5,framing,Asian disease problem,frame_8,Program B,frame,0,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 33% chance that all 600 people will be saved and a 67% chance that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",A,11780,800,"Program A guarantees 200 lives saved. Although expected values are equal (200), the certainty effect makes the sure option preferable.","1. Identify outcomes: A = sure 200 saved; B = 33% chance 600 saved, 67% chance 0 saved. 2. Compute expected values: A EV = 200, B EV = 0.33*600 = 198 (≈200). 3. Recognize risk preference: people tend to prefer certainty when outcomes are framed as gains. 4. Choose A because it provides a certain saving and aligns with risk-averse preference.",5,risk,Asian disease problem,frame_9,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 33% chance that no one will die and a 67% chance that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,16991,1200,This is a loss-framed decision where people often prefer a gamble to avoid a certain loss. Program B gives a chance to save everyone despite a slightly worse expected outcome.,"1) Recognize this as the classic Asian Disease framing (loss frame). 2) Calculate outcomes: A = 400 certain deaths; B = 33% chance 0 deaths, 67% chance 600 deaths. 3) Note typical human tendency to be risk-seeking in loss frames, opting for gambles. 4) Therefore select Program B, aligning with common human responses.",4,framing,Asian Disease Problem,frame_10,Program B,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A deadly disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will survive.
+Program B: There is a 1/3 probability that all 600 people will survive and a 2/3 probability that no one will survive.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,16928,1200,"Program A guarantees 200 survivors, avoiding the possibility that no one survives under Program B. The certain outcome aligns with typical risk-averse preferences.","1. Read the problem and list outcomes: A = 200 survive for sure; B = 1/3 chance 600 survive, 2/3 chance 0 survive. 2. Calculate expected survivors: A = 200, B = (1/3)*600 = 200. 3. Recognize equal expected value but differing risk profiles. 4. Prefer the certain 200 survivors (risk-averse choice) and select Program A.",4,framing,Framing effect (Asian disease problem),frame_11,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A deadly disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,16257,1200,Both programs have the same expected deaths (400). Risk-averse preference for the certain outcome leads to choosing Program A.,1) Calculate expected deaths: Program A = 400; Program B = (1/3)*0 + (2/3)*600 = 400. 2) Recognize equal expected value between options. 3) Apply typical risk-averse/certainty preference favoring sure outcomes. 4) Select Program A as the certain option to avoid risk.,5,framing,Asian disease problem,frame_12,Program B,frame,0,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+You think most people would choose program B.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",B,33376,950,"The prompt explicitly stated that I think most people would choose program B, so I selected B as instructed. I followed the requirement to provide only the final option.",1) Read the task and instructions to provide a single option. 2) Noted the line 'You think most people would choose program B' and used it to guide the choice. 3) Chose B as the final answer accordingly. 4) Formatted the required JSON fields and returned the result.,4,framing,Asian disease problem,frame_13,Program A,frame,0,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Your team of expert advisors is suggesting you to choose program B.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,21992,1200,"I chose Program A because it guarantees 200 lives saved, favoring certainty over the risky alternative even though expected values are equal.","1) Read the scenario and options; 2) Compute expected outcomes (A=200 certain, B=1/3*600=200 expected); 3) Note advisors recommend riskier B but decision weighs risk preference; 4) Prefer certainty, so select Program A.",4,risk,Asian Disease Problem,frame_14,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+You must decide very quickly.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,18878,450,"Program A guarantees 200 people saved. Program B has the same expected value (200) but is risky, so I chose the certain outcome.","1) Identified the two options: a certain 200 saved vs a 1/3 chance of 600 saved. 2) Computed expected values: Program A = 200, Program B = 1/3*600 = 200. 3) Noted risk-averse preference for a guaranteed outcome over an equivalent-risk gamble. 4) Chose Program A for the certainty.",5,framing,Asian Disease Problem,frame_15,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+You must decide very quickly otherwise more people will keep dying.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,16598,800,Program A guarantees 400 deaths; Program B has the same expected deaths (400) but carries a 2/3 chance of all 600 dying. A risk-averse decision favors the certain outcome to avoid the possibility of 600 deaths.,"1) Calculate expected deaths: A = 400, B = (1/3)*0 + (2/3)*600 = 400. 2) Compare certainty: A is a certain loss of 400 lives, B is risky with outcomes 0 or 600. 3) Recognize typical risk-averse preference to avoid the worst-case (600 deaths). 4) Choose Program A to minimize the chance of the worst outcome despite equal expectations.",4,framing,Asian Disease Problem,frame_16,Program B,frame,0,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Take as much time you need and think carefully.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,23360,1500,Chose the certain option saving 200 lives due to risk-averse preference. Program B has the same expected value (200 lives) but is riskier.,1) Calculate expected values: A = 200 certain; B = (1/3)*600 = 200 expected. 2) Recognize this is a choice between certainty and a gamble with equal expected value. 3) Prefer certainty when lives are at stake (risk-averse reasoning). 4) Therefore select Program A.,5,Framing,Asian disease problem,frame_17,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+People have not started dying yet. So, take as much time you need and think carefully. 
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,25281,45000,Expected deaths equal between options (400). Framing as deaths encourages risk-seeking; the probabilistic option offers a chance of no deaths.,"Step 1: Read options and note outcomes (A: 400 die, B: 1/3 chance 0 die, 2/3 chance 600 die). Step 2: Compute expected deaths: A=400, B=(1/3)*0+(2/3)*600=400. Step 3: Recognize death framing often induces risk-seeking toward the gamble. Step 4: Select Program B as the probabilistic option consistent with framing effect.",4,framing,Asian disease problem,frame_18,Program B,frame,1,1
+"""You are in a situation where you have to choose between two options.
+
+A deadly disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will survive.
+Program B: There is a 1/3 probability that all 600 people will survive and a 2/3 probability that no one will survive.
+
+But these are just random projections. They might or might not be true.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.""",Program A,17013,1000,"Program A guarantees 200 survivors, while Program B has the same expected value but is riskier. Given uncertainty in projections, a certain outcome is preferred.","1. Read scenario and options. 2. Calculate expected survivors: A = 200; B = (1/3)*600 = 200. 3. Note that B is probabilistic and carries risk/variance; projections may be inaccurate. 4. Prefer the sure, less risky option and choose Program A.",4,framing,Asian Disease Problem,frame_19,Program A,frame,1,1
+"""You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+But these are just random projections. They are never true.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.""",Program A,23253,1500,"Chose the certain option (400 deaths) over a risky option with the same expected value but a chance of 600 deaths, reflecting risk-averse preference.",1) Read and understood both programs. 2) Calculated expected deaths: A = 400; B = (1/3)*0 + (2/3)*600 = 400. 3) Noted that B is riskier with potential for 600 deaths despite same expected value. 4) Preferred the sure outcome (risk-averse) and selected Program A.,5,framing,Asian Disease Problem,frame_20,Program B,frame,0,1
+"You are in a situation where you have to choose between two disaster response programs.
+
+A flood is expected to affect 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be rescued.
+Program B: There is a 1/3 probability that all 600 people will be rescued and a 2/3 probability that no one will be rescued.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,14675,900,"Program A guarantees 200 lives saved, matching the expected value of Program B but with no risk. A risk-averse choice avoids the possibility of zero survivors.","1) Identify options: A = sure 200 saved; B = 1/3 chance 600, 2/3 chance 0. 2) Compute expected values: A = 200, B = (1/3)*600 = 200. 3) Consider risk preferences: with equal expectation, prefer the certain outcome to avoid potential catastrophe. 4) Select Program A as the risk-averse, certain choice.",5,risk,Asian Disease Problem,frame_21,Program A,frame,1,1
+"You are in a situation where you have to choose between two disaster response programs.
+
+A flood is expected to affect 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will not be rescued.
+Program B: There is a 1/3 probability that no one will be left behind and a 2/3 probability that all 600 people will be left behind.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,13179,1200,Program A guarantees 200 people saved (600 - 400) while Program B has the same expected value but exposes everyone to the risk of 0 saved. I chose the risk-averse certain option.,1) Calculate survivors under A: 600 - 400 = 200. 2) Calculate expected survivors under B: (1/3)*600 + (2/3)*0 = 200. 3) Compare: same expectation but B is probabilistic with possible 0 survivors. 4) Choose the risk-averse certain outcome: Program A.,5,framing,Asian disease problem,frame_22,Program B,frame,0,1
+"You are in a situation where you have to choose between two investment options.
+
+Which option do you choose?
+
+Option A: You will gain $200.
+Option B: There is a 1/3 probability you gain $600 and a 2/3 probability you gain nothing.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Option A,14228,1200,Both options have equal expected value ($200). I choose the certain gain to avoid risk (risk-averse preference).,1) Compute EV(A) = $200. 2) Compute EV(B) = (1/3)*$600 = $200. 3) EVs are equal but B is risky with a 2/3 chance of $0. 4) Prefer the sure $200 (Option A) to avoid downside risk.,4,Risk,Decision under risk,frame_23,Program A,frame,1,0
+"You are in a situation where you have to choose between two investment options.
+
+Which option do you choose?
+
+Option A: You will lose $400.
+Option B: There is a 1/3 probability you lose nothing and a 2/3 probability you lose $600.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Option B,24473,850,"Expected losses: A = $400 certain; B = (1/3)*0 + (2/3)*600 = $400. In loss domain people tend to be risk-seeking, so choose the gamble (Option B).",1) Compute expected value of A: $400. 2) Compute expected value of B: (1/3)*0 + (2/3)*600 = $400. 3) Recognize this is a loss framing where decision-makers often prefer risk in losses (prospect theory). 4) Therefore select Option B as the gamble with equal EV but risk-seeking preference.,4,risk,Prospect Theory,frame_24,Program B,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+Hypothetically, let's say a disease outbreak can kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,19262,400,"Program A guarantees saving 200 people, avoiding the risk of saving none. Both programs have the same expected value (200), so preference for certainty explains the choice.","1) List options: A = 200 certain saved; B = 1/3 chance 600 saved, 2/3 chance 0. 2) Compute expected values: A = 200, B = (1/3)*600 = 200. 3) Consider risk preference: certainty vs gamble; many prefer sure gain. 4) Choose Program A because it secures 200 lives and avoids risk of saving none.",5,Risk,Asian disease problem,frame_25,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+Hypothetically, let's say a disease outbreak can kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,26379,420,Chose the probabilistic option to avoid a certain large loss; this aligns with risk-seeking behavior when outcomes are framed as losses.,"1) Recognize classic loss-framed decision. 2) Compare options: certain 400 deaths vs 1/3 chance none/2/3 chance 600 deaths. 3) In loss frames, people tend to prefer risky options to avoid sure losses. 4) Select Program B accordingly.",4,framing,Asian disease problem,frame_26,Program B,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+You have been told that if you save at least 150 people, public would be consider it to be a good outcome. 
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,15673,850,Program A guarantees saving 200 people which meets the 'good outcome' threshold of 150; Program B is probabilistic with a 2/3 chance of saving none.,1) Determine the criterion: saving at least 150 is considered a good outcome. 2) Program A deterministically saves 200 (meets criterion). 3) Program B has expected value 200 but carries a 2/3 probability of saving 0 (fails criterion with high probability). 4) Therefore choose the option that reliably meets the good-outcome threshold: Program A.,5,framing,Asian disease problem,frame_27,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+You have been told that if you let more than 350 people die, public would consider it to be a bad outcome. 
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,13721,850,Program B provides a 1/3 chance to avoid any deaths and thus avoid a public 'bad' judgement; expected deaths equal Program A. Chosen to minimize the probability of exceeding 350 deaths.,"1) Public considers >350 deaths bad; Program A yields 400 (bad). 2) Program B yields 0 deaths with probability 1/3 and 600 with probability 2/3. 3) Expected deaths are equal (400) but B offers a chance to avoid the bad outcome. 4) In a loss frame people tend to be risk-seeking, so I choose Program B.",4,Risk,Asian disease problem,frame_28,Program B,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+You have been told that if you let more than 350 people die, public would consider it to be a bad outcome. 
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,22473,1200,"Program A guarantees 200 lives saved, offering a certain outcome. Program B carries a 2/3 chance of 600 deaths (a clearly bad outcome), so A is chosen to avoid the higher probability of a very bad result.","1) Note Program A: 200 saved (400 die). 2) Note Program B: 1/3 chance 0 die, 2/3 chance 600 die. 3) Public labels >350 deaths as bad; A produces a bad outcome for sure, B produces a bad outcome with 2/3 probability. 4) Prefer the certain moderate saving (A) to avoid the higher risk of an extreme bad outcome under B.",5,risk,Asian disease problem,frame_29,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+You have been told that if you save at least 150 people, public would be consider it to be a good outcome. 
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,17496,1500,"Program A guarantees 200 lives saved, exceeding the 150 threshold. Program B has the same expected value (200) but a 2/3 chance of saving nobody, so A is preferred.","1. Compute lives saved: A saves 600-400 = 200; B saves 600 with prob 1/3 or 0 with prob 2/3. 2. Note public threshold: saving ≥150 is considered good. 3. Compare: Both have expected saved = 200, but A guarantees meeting the threshold while B risks 0. 4. Choose A due to guaranteed outcome and risk aversion.",5,risk,Asian Disease Problem,frame_30,Program B,frame,0,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+This is a grave situation and your main goal is minimzing the deaths. 
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,16649,350,"Program A guarantees 200 lives saved. Both programs have the same expected value (200 saved), but certainty reduces risk of higher deaths.","1) Calculate expected saved: A = 200, B = (1/3)*600 = 200. 2) Note both options have equal expected value. 3) Goal is minimizing deaths; certainty avoids the chance of 600 deaths. 4) Choose Program A for guaranteed reduction in deaths.",5,Risk,Asian Disease Problem,frame_31,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: Certainly 200 people will be saved.
+Program B: There is a chance that all 600 people will be saved or none at all.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,14086,950,Chose the certain option to save 200 lives rather than gamble for all 600. Risk-averse decision consistent with gain-frame preferences.,"1) Problem framed as gains (lives saved). 2) Compare sure saving of 200 vs probabilistic saving (1/3 chance 600, 2/3 chance 0). 3) Expected value equal, but risk aversion favors certainty in gains. 4) Therefore select the certain Program A.",5,risk,Asian Disease problem,frame_32,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: Certainly 400 people will die.
+Program B: There is a chance that no one will die or all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,14406,900,Chose the risky option because it offers a chance to save everyone despite potential total loss. Reflects common loss-frame risk-seeking preference.,"1) Recognized scenario as loss-frame choice (lives will die). 2) Compared sure loss (400 dead) vs probabilistic outcome (0 or 600 dead). 3) Evaluated that Program B offers a chance to avoid all deaths, appealing under losses. 4) Selected Program B consistent with typical human risk-seeking in loss frames.",4,risk,Asian disease problem,frame_33,Program B,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Both programs result in the same expected outcome.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,13351,800,I chose Program A because people typically prefer the sure saving of 200 (risk aversion) over a probabilistic alternative with the same expected value.,"Step 1: Recognized this as the classic gain-frame decision (the Asian disease problem). Step 2: Noted both programs have equal expected outcomes (200 lives saved). Step 3: Considered typical human risk preferences in gains—risk aversion favors certainty. Step 4: Therefore selected the certain option, Program A.",5,Risk,Asian disease problem,frame_34,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Both programs result in the same expected outcome.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,13310,850,"The scenario is framed as losses, which typically elicits risk-seeking behavior; choosing the probabilistic option (Program B) avoids the certain 400 deaths.",1) Recognize this as the classic Asian disease framing with loss wording. 2) Note both options have equal expected deaths (400). 3) Recall empirical tendency: people become risk-seeking under loss frames. 4) Therefore select the gamble (Program B) to try to avoid certain deaths.,4,risk,Framing effect (Asian disease problem),frame_35,Program B,frame,1,1

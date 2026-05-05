@@ -1,0 +1,265 @@
+prompt,response,recorded_rt,asked_rt,explanation,thinking,confidence,one_word,identify_experiment,prompt_id,exp_response_final,experiment,validity,identification_validity
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 right now, or $100 after one week.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,12289,220,Chose the higher payoff available in the future.,I cannot share step-by-step reasoning. Summary: favor higher future reward over immediate payout.,5,delay,Delay Discounting,dgrat_1,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 right now, or $100 after one day.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,18452,250,"Choosing Later yields $100 after one day, which is more than $50 now. There is no risk here; it's a clear trade-off of timing.","I can't share my full internal chain-of-thought, but here is a brief justification: 1) Future reward is larger (100 vs 50), 2) No risk given, 3) It's a standard intertemporal choice, 4) Therefore choose Later.",4,Patience,Intertemporal choice task,dgrat_2,Later,dgrat,1,0
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 right now, or $100 after one month.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,12044,320,Choosing Later yields more money after one month. It's a straightforward intertemporal decision.,"I can't share my step-by-step reasoning, but the result is Later.",5,Delay,Delay discounting,dgrat_3,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 right now, or $100 after one year.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,16203,180,"Rationale: $100 after one year is greater than $50 today, assuming the same value of money over time.",Choose the option with the higher ultimate payoff given no discounting information.,4,delay,Intertemporal choice task (delay discounting),dgrat_4,Later,dgrat,1,0
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 right now, or $70 after one week.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,16698,320,Choosing Later yields a higher payoff: $70 after a week versus $50 today.,1) Compare rewards: $70 later vs $50 now. 2) Consider time delay and value of money over time. 3) The larger future amount is preferable given no risk. 4) Select 'Later' to maximize payoff.,5,discounting,Delay discounting,dgrat_5,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 right now, or $150 after one week.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,14665,250,"Choosing Later yields a higher payoff ($150) after one week. The time horizon is longer, so the later reward is more valuable given no risk information.","I cannot share step-by-step reasoning, but the final answer is Later because the larger payoff is offered in the future.",4,Intertemporal,Delay Discounting,dgrat_6,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 right now, or $100 after one week with some uncertainty.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Now,12239,320,I chose the immediate certain reward to avoid the uncertainty of the larger delayed payoff.,Cannot share step-by-step internal reasoning; brief rationale: immediate certain reward is chosen over uncertain delayed larger amount.,4,delay,Intertemporal choice / delay discounting under uncertainty,dgrat_7,Later,dgrat,0,0
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 right now, or $100 after one week with guaranteed delivery.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,11441,320,Chosen Later to maximize the larger future reward given a guaranteed delivery after one week.,Step 1: Identify the two reward options. Step 2: Assess the immediacy vs delay. Step 3: Consider guaranteed delivery and value difference. Step 4: Select the option with higher expected value over time.,4,Patience,Delay Discounting,dgrat_8,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You currently need money urgently. 
+
+You can receive $50 right now, or $100 after one week.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Now,12615,280,Chose the immediate reward because money is needed urgently. The immediate $50 is preferred to waiting a week for $100 due to urgency.,I cannot provide step-by-step thinking. Final choice: Now.,4,urgency,Intertemporal choice,dgrat_9,Later,dgrat,0,0
+"You are in a situation where you can choose which reward you want to receive.
+
+You do not have any immediate financial needs. 
+
+You can receive $50 right now, or $100 after one week.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,13721,320,I chose Later because waiting yields more money and there is no immediate need.,I cannot share chain-of-thought. I chose Later to maximize expected value given no immediate need.,4,patience,Intertemporal choice,dgrat_10,Later,dgrat,1,0
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 right now, or $80 after one month.
+
+Others expect you to make a rational long-term decision.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,12281,350,"Rational choice under uncertainty: wait for higher payout. Without a given discount rate, $80 after one month is preferable to $50 now.",High-level summary: evaluate time value and payoff; assume no risk; select the option with greater value after discounting.,4,selfcontrol,Intertemporal choice (delay discounting) task,dgrat_11,Later,dgrat,1,0
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 now or $100 after one month.
+
+You have to make a decision in front of other people in the room.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,44640,320,"Choosing Later yields a higher payoff ($100 after one month) compared to $50 today, assuming you value money in the future similarly to now.",1. Parse the task as an intertemporal choice. 2. Compare rewards: $50 now vs $100 after one month. 3. Prefer the larger later reward given no explicit discount rate. 4. Output the chosen word.,4,Patience,Intertemporal choice,dgrat_12,Later,dgrat,1,0
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 now or $100 after one month.
+
+You have to make a decision in front of other people in the room. You think that others around you prefer immediate rewards.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,15726,320,"Choosing Later yields $100 in one month, which is higher than $50 now.",I cannot share my internal chain-of-thought steps.,4,selfcontrol,intertemporal_choice,dgrat_13,Later,dgrat,1,0
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 now or $100 after one month.
+
+You have to make a decision in front of other people in the room. You think that others around you expect you to be a rational decision-maker.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,11062,350,Choosing Later maximizes monetary value ($100) vs present $50. Rationality expectation supports higher payoff.,Cannot disclose step-by-step reasoning; final answer is Later.,4,Rationality,Intertemporal choice,dgrat_14,Later,dgrat,1,0
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 now or $100 after one month.
+
+You have to make a decision in front of other people in the room. You don't want others to think you are greedy.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,19474,480,Choosing Later signals patience and reduces the impression of greed. The decision emphasizes social perception over pure payoff.,not disclosed,4,patience,Delay of Gratification,dgrat_15,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+The future reward is significantly larger but requires waiting indefinitely. 
+
+You can receive $30 now or $100 sometime later.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Now,29642,420,"Chose the immediate reward because waiting indefinitely for a larger payoff is not guaranteed, making $30 now the certain option.",1) Compare immediate vs delayed payoff. 2) Recognize indefinite wait implies near-zero probability of receiving the larger reward. 3) Favor guaranteed $30 now. 4) Select Now.,4,Intertemporal,Intertemporal choice task,dgrat_16,Later,dgrat,0,0
+"You are in a situation where you can choose which reward you want to receive.
+
+The immediate reward is available instantly without delay. 
+
+You can receive $50 now or $100 a month later.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,22125,150,"Chose Later because $100 > $50, even with a one-month delay, reflecting a preference for a larger-later reward.","I cannot share my step-by-step reasoning, but provide a concise answer: choose the larger-later reward.",4,Intertemporal,Intertemporal choice,dgrat_17,Later,dgrat,1,0
+"You are in a situation where you can choose which reward you want to receive.
+
+You do not have any immediate financial needs. 
+
+You can receive $20 today (now), or $100 six months later.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,16474,250,Choosing Later yields a higher payoff ($100 in six months) with no current need. This aligns with the objective of maximizing future value.,"I'm unable to reveal step-by-step internal reasoning. Summary: The task presents a higher future reward than immediate cash, and the user has no urgent needs, so selecting the larger, delayed reward is rational.",4,delayed,Intertemporal choice (delay discounting),dgrat_18,Later,dgrat,1,0
+"You are in a situation where you can choose which reward you want to receive.
+
+You are aware that waiting leads to better long-term outcomes. 
+
+You can receive $50 now or $100 two months later.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,10166,400,"Waiting yields a higher payoff ($100) two months later, so choosing Later optimizes total reward.","I'm unable to share step-by-step reasoning, but the final answer is Later.",5,Patience,Delay discounting,dgrat_19,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You know that people often choose immediate rewards even when it is suboptimal. 
+
+You can receive $50 now or $100 a week later.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,14548,150,Choosing the higher future payoff aligns with optimal decision making in an intertemporal choice task. Waiting yields $100 instead of $50 now.,1. Evaluate options: $50 now vs $100 later. 2. Consider time value and discounting. 3. Compare objective values; higher later payoff preferred. 4. Output the chosen option 'Later'.,4,selfcontrol,Delay discounting task,dgrat_20,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You know that people often choose immediate rewards even when it is suboptimal. 
+
+You can receive $50 now or $100 a month later.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Now,19993,180,Chose the immediate reward option to reflect the task's stated bias toward immediate rewards.,1) Interpret instruction to output a single word. 2) Compare options: 'Now' vs 'Later' given values. 3) Apply stated bias toward immediate rewards. 4) Return 'Now'.,4,Impulse,Delay Discounting,dgrat_21,Later,dgrat,0,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 now or $100 after one month.
+
+You have to make a decision in front of other people in the room. You don't want others to think you are implusive.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,14059,420,Choosing Later demonstrates patience and willingness to wait for a higher reward. It minimizes impulsivity in social settings.,1) Define goal: select non-impulsive option. 2) Evaluate rewards and social context. 3) Choose option aligned with self-control. 4) Record decision as 'Later'.,4,selfcontrol,delay_discounting,dgrat_22,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 now or $100 after one month.
+
+You must decide quickly right now without much time to think.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,251499,320,Choosing Later maximizes the monetary reward ($100 vs $50). Assumes no risk.,step1: assess options step2: compare monetary value step3: consider time delay and risk step4: choose option with higher expected value,4,delay,delay_discounting,dgrat_23,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 after a week (now) or $100 after one month (later).
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,17094,420,Choosing the higher future value ($100) despite the delay. This reflects a preference for greater monetary outcome over time when given a simple intertemporal choice.,Step 1: List options. Step 2: Compare monetary value after the delay. Step 3: Select the option with the greater amount. Step 4: State the chosen option.,4,Delay,Delay Discounting,dgrat_24,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 after a month (now) or $100 after two months (later).
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,17718,420,"Choosing the larger reward that comes later. Without a specified discount rate, the larger amount is preferred.","I can't share inner step-by-step reasoning, but the final answer is provided.",4,Patience,Intertemporal choice,dgrat_25,Later,dgrat,1,0
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 after a week (now) or $100 after one month (later).
+
+You have 48 hours to carefully think and let them know your decision.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,19985,850,"Choose Later to maximize payoff given $100 in a month versus $50 now. Assumes rational, time-invariant value of money.","I can't share detailed step-by-step reasoning, but the decision is based on higher payoff in the future when discounted value is not specified.",4,Intertemporal,Intertemporal choice,dgrat_26,Later,dgrat,1,0
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 now or $100 after one month.
+
+You have low level of trust on the people giving the reward.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Now,16291,420,Immediate reward minimizes risk under low trust; waiting for $100 reduces certainty of payment.,I can't share my internal step-by-step reasoning.,4,impulse,Delay Discounting,dgrat_27,Later,dgrat,0,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $50 now or $100 after one month.
+
+You have very high level of trust on the people giving the reward.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,20392,1200,Chosen Later to maximize outcome given certainty and low risk.,"I'm unable to provide step-by-step thinking; here's a brief rationale: prioritize higher monetary value by waiting, since risk is negligible and time preference favors larger reward.",4,delayed,DelayDiscounting,dgrat_28,Later,dgrat,1,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $5 now, or $100 after one month.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,22443,420,"Choosing Later yields $100 after a month, which has higher expected value than $5 today. Assuming time value of money, waiting is advantageous.",1) Compare options 2) Consider time value of money 3) Determine which yields higher value in present terms 4) Output 'Later',5,Patience,Intertemporal Choice,dgrat_29,Later,dgrat,1,0
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $95 now, or $100 after one month.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,16837,130,Choosing the higher amount after a delay. The $100 received after one month exceeds the immediate $95.,1) Identify options. 2) Compare the amounts. 3) Note that $100 > $95. 4) Select 'Later' as the greater reward.,5,delayed,Intertemporal choice,dgrat_30,Later,dgrat,1,0
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $30 now or $100 after one month.
+
+The delayed reward feels so psychologically distant.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Now,19963,210,"Choosing the immediate reward aligns with hyperbolic discounting, as immediacy often feels more valuable than a larger future payout. The answer reflects preference for certainty now.",Step 1: Evaluate the value of immediate vs delayed payout. Step 2: Consider time-preference behavior (hyperbolic discounting). Step 3: Weigh certainty of $30 now against $100 in a month. Step 4: Choose the immediate option 'Now'.,4,immediacy,Delay Discounting (Intertemporal Choice),dgrat_31,Later,dgrat,0,1
+"You are in a situation where you can choose which reward you want to receive.
+
+You can receive $70 now or $100 after one month.
+
+The delayed reward feels very close and tangible.
+
+What do you choose?
+
+Answer with only one word: Now or Later. Do not provide any explanation. Give only the final answer.",Later,17832,320,"Chosen Later because the larger reward is appealing and the delay is acceptable. The prompt notes the delay feels tangible, supporting patience.","I cannot share step-by-step reasoning, but the selected option is Later to maximize payoff within a reasonable delay.",4,Patience,Intertemporal choice,dgrat_32,Later,dgrat,1,0

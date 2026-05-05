@@ -1,0 +1,246 @@
+prompt,response,recorded_rt,asked_rt,explanation,thinking,confidence,one_word,identify_experiment,prompt_id,exp_response_final,experiment,validity,identification_validity
+"You are given a sequence of directions. Focus only on the middle item and ignore all the others.
+
+LEFT LEFT RIGHT LEFT LEFT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",Right,13605,350,"The sequence contains five items. The middle, third item is RIGHT. Thus, the focus item direction is Right.",Step 1: Count the items to confirm there are five directions. Step 2: Determine that the middle item is in the third position. Step 3: Observe that the third direction is RIGHT. Step 4: Conclude that the answer is Right based on focusing only on the middle item.,5,Attention,Flanker task,flank_1,Right,flank,1,1
+"You are given a sequence of directions. Focus only on the middle item and ignore all the others.
+
+LEFT LEFT LEFT LEFT LEFT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",Left,15589,250,"Sequence has 5 identical items. The middle (3rd) item is LEFT. Per instructions, report only that as the focus item.","Step 1: Read the full instructions to focus solely on the middle item in the sequence. Step 2: Count the total items, confirming there are five entries. Step 3: Identify the third position as the middle one, which reads LEFT. Step 4: Follow the rule to output only the one-word answer for the focus item without any extras.",5,Focus,Flanker Task,flank_2,Left,flank,1,1
+"You are given a sequence of directions. Focus only on the middle item and ignore all the others.
+
+LEFT RIGHT LEFT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",Right,15906,520,"Sequence has three items with RIGHT in the middle position. Per instructions, only the middle item is considered, which is Right.","1. Read the full sequence LEFT RIGHT LEFT and noted it contains three items. 2. Applied the rule to focus solely on the middle item, ignoring flanks. 3. Identified the second position as the middle item, corresponding to RIGHT. 4. Output only the required one-word answer matching the focus item.",5,Attention,Flanker Task,flank_3,Right,flank,1,1
+"You are given a sequence of directions. Focus only on the middle item and ignore all the others.
+
+RIGHT RIGHT RIGHT RIGHT RIGHT RIGHT RIGHT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",Right,17555,350,Sequence has 7 identical items. Middle (4th) position is RIGHT. Focus item direction is therefore Right.,1. Counted total items in given sequence as 7. 2. Determined middle position by selecting the 4th item. 3. Read the value at middle position which is RIGHT. 4. Formatted output as single word Right per task rules.,4,Attention,Flanker Task,flank_4,Right,flank,1,1
+"You are given a sequence of directions. Focus only on the middle item and ignore all the others.
+
+RIGHT RIGHT LEFT RIGHT RIGHT RIGHT RIGHT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",Right,24183,650,"There are seven directions provided, making the fourth one the middle. The fourth direction is RIGHT. Thus, the focus item direction is Right.",Step 1: Count the total items in the given sequence to determine it has 7 directions. Step 2: Calculate the middle position as the 4th item for an odd-numbered list. Step 3: Locate the item at the 4th position which reads RIGHT. Step 4: Output only the one-word answer Right per the task rules focusing solely on the middle item.,5,Attention,Flanker Task,flank_5,Right,flank,1,1
+"You are given a sequence of directions. Focus only on the middle item and ignore all the others.
+
+RIGHT RIGHT RIGHT LEFT RIGHT RIGHT RIGHT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",Left,23294,320,"The given sequence has exactly 7 items. The middle position is therefore the 4th item, which reads LEFT.",Step 1: Count the total directions provided to establish list length. Step 2: Identify the central position by dividing length by 2 and rounding up. Step 3: Extract only the item at that exact central index while discarding all others. Step 4: Format the extracted direction as a single word per the query rules.,5,Focus,Selective Attention Task,flank_6,Left,flank,1,0
+"You are given a sequence of directions. Focus only on the item left to middle and ignore all the others.
+
+RIGHT RIGHT RIGHT LEFT RIGHT RIGHT RIGHT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",Right,25618,280,Sequence of 7 items has middle at 4th position (LEFT). Item left to middle is at 3rd position (RIGHT). Focus item direction is therefore Right.,1. Count total items (7) to locate the middle position as the 4th item. 2. Determine the item left to middle is the one in the 3rd position per instructions. 3. Read the given sequence to see the 3rd item is RIGHT while ignoring all others. 4. Conclude the focus item's direction must be reported as the single word Right.,4,Attention,Selective Attention Task,flank_7,Right,flank,1,0
+"You are given a sequence of directions. Focus only on the item left to middle and ignore all the others.
+
+RIGHT RIGHT RIGHT LEFT RIGHT RIGHT RIGHT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",Right,21121,420,Sequence of 7 items has middle at position 4 (LEFT). Item left to middle is position 3 (RIGHT). Thus focus item direction is Right.,Step 1: Counted 7 directions and located middle as 4th position. Step 2: Selected the item immediately preceding the middle per instructions. Step 3: Identified the 3rd item as RIGHT while ignoring all others. Step 4: Concluded the focus item's direction must be Right based on position.,4,Attention,Flanker Task,flank_7,Right,flank,1,1
+"You are given a sequence of directions. Focus only on the item left to middle and ignore all the others.
+
+LEFT LEFT LEFT RIGHT LEFT LEFT LEFT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",Left,19559,420,Sequence of 7 items has middle at position 4 (RIGHT). Item immediately left of middle is position 3 (LEFT). Thus focus item direction is Left.,Step 1: Count total items in sequence to find middle position as 4th in odd-length list. Step 2: Locate item left to middle by selecting 3rd position. Step 3: Read value at 3rd position which is LEFT from given sequence. Step 4: Output matches required one-word format based on identified focus item.,4,Attention,Selective Attention Task,flank_9,Left,flank,1,0
+"You are given a sequence of directions. Focus only on the item left to middle and ignore all the others.
+
+LEFT LEFT LEFT LEFT LEFT LEFT LEFT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",Left,14664,420,Sequence has 7 LEFT items. Middle is 4th item. Item left to middle is 3rd item which is LEFT. Thus focus item direction is Left.,1. Counted total items in sequence as 7 all labeled LEFT. 2. Determined middle position to be the 4th item. 3. Selected item immediately to the left of middle which is position 3. 4. Confirmed position 3 reads LEFT so output Left.,4,Attention,Selective Attention Task,flank_10,Left,flank,1,0
+"You are given a sequence of directions. Focus only on the item left to middle and ignore all the others.
+
+RIGHT RIGHT RIGHT RIGHT RIGHT RIGHT RIGHT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",Right,18583,520,"Sequence of 7 RIGHTS; middle is 4th item, item left to middle is 3rd item which is RIGHT. Focus item direction is therefore Right.",1. Counted 7 items and located middle as 4th position. 2. Identified item left to middle as 3rd position per instructions. 3. Noted every entry is RIGHT so focus item must be RIGHT. 4. Followed exact output rule of one word Left or Right to yield Right.,4,Attention,Selective Attention Task,flank_11,Right,flank,1,0
+"You are given a sequence of directions. Focus only on the item right to middle and ignore all the others.
+
+RIGHT RIGHT RIGHT RIGHT RIGHT RIGHT RIGHT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",Right,12848,280,Sequence has 7 identical items. Middle is 4th (RIGHT). Item immediately right of middle is 5th (also RIGHT). Focus item direction is therefore Right.,"1. Parsed instruction to attend exclusively to item right of middle in 7-element list. 2. Determined middle position is index 4 of 7. 3. Selected index 5 as the item right to middle. 4. Observed value at index 5 is RIGHT, matching required one-word answer format.",4,Focus,Selective Attention Task,flank_12,Right,flank,1,0
+"You are given a sequence of directions. Focus only on the item right to middle and ignore all the others.
+
+LEFT LEFT LEFT LEFT LEFT LEFT LEFT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",Left,12388,350,"Sequence has 7 LEFT items. Middle is 4th position. Item right to middle is 5th, which reads LEFT.",1. Count total items in sequence to find positions. 2. Locate the middle item as 4th in odd-length list. 3. Select the item immediately right of middle (5th position). 4. Report its direction as all items are LEFT.,4,Attention,Selective Attention Task,flank_13,Left,flank,1,0
+"You are given a sequence of directions. Focus only on the item right to middle and ignore all the others.
+
+LEFT LEFT LEFT RIGHT LEFT LEFT LEFT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",Left,26955,500,Sequence of 7 items has middle at position 4 (RIGHT). Item right to middle is position 5 (LEFT). Focus item direction is therefore Left.,1. Counted 7 items to locate middle at 4th position. 2. Determined target is item immediately right of middle (5th position). 3. Checked value at 5th position is LEFT. 4. Concluded single-word answer must be Left per task rules.,4,Attention,Flanker Task,flank_14,Left,flank,1,1
+"You are given a sequence of directions. Focus only on the item right to middle and ignore all the others.
+
+RIGHT RIGHT LEFT RIGHT RIGHT RIGHT RIGHT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",Right,17842,350,"Sequence has 7 items, middle is 4th (RIGHT). Item right to middle is 5th item (RIGHT). Focus direction is therefore Right.","1. Counted total directions: 7 items in sequence. 2. Located middle position as the 4th item. 3. Identified 'right to middle' as the 5th position. 4. Retrieved value at 5th position which is RIGHT, yielding response Right.",4,Attention,Spatial Attention Task,flank_15,Right,flank,1,0
+"You are given a sequence of directions. Focus only on the item left to middle and ignore all the others.
+
+RIGHT RIGHT LEFT RIGHT RIGHT RIGHT RIGHT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",Left,18461,420,Sequence of 7 items has middle at 4th position (RIGHT). Item immediately left of middle is 3rd position (LEFT).,1. Counted 7 directions in the list to locate the central position. 2. Determined middle item is the 4th entry which is RIGHT. 3. Selected the item directly left of that middle which is the 3rd entry LEFT. 4. Concluded the focus item direction is therefore Left per the instructions.,4,Attention,Selective Focus Task,flank_16,Left,flank,1,0
+"You are given a sequence of directions. Focus only on the item right to middle and ignore all the others.
+
+LEFT LEFT LEFT LEFT RIGHT LEFT LEFT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",Right,13843,320,Sequence has 7 items; middle is 4th (LEFT). Item right to middle is 5th position which is RIGHT.,Step 1: Counted total items (7) to locate middle position as 4th. Step 2: Identified the item immediately right of middle as 5th in sequence. Step 3: Retrieved the value at 5th position which is RIGHT. Step 4: Concluded the focus item direction is Right per instructions.,4,Attention,Selective Attention Task,flank_17,Right,flank,1,0
+"You are given a sequence of directions. Focus only on the item right to middle and ignore all the others.
+
+LEFT LEFT LEFT RIGHT LEFT LEFT LEFT
+
+What is the direction of the right item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",Left,20719,280,Sequence has 7 items; middle is 4th (RIGHT). Item immediately right of middle is 5th (LEFT). Focused solely on that per instructions.,1. Counted total items in sequence to find middle position as the 4th. 2. Located the item directly to the right of the 4th position. 3. Identified that specific item as LEFT while ignoring all other directions. 4. Output only the required one-word answer based on the focused item.,4,Attention,Selective Attention Task,flank_18,Left,flank,1,0
+"You are given a sequence of directions. Focus only on the item left to middle and ignore all the others.
+
+RIGHT RIGHT RIGHT LEFT RIGHT RIGHT RIGHT
+
+What is the direction of the middle item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",Left,54060,650,Sequence has 7 items so middle is 4th position. 4th item is LEFT. Answered Left per the direct question.,1. Counted total items in given sequence to find it has 7 directions. 2. Calculated middle position as the 4th item. 3. Observed the word at 4th position is LEFT. 4. Provided 'Left' as it matches the asked direction of the middle item.,3,Attention,Selective Attention,flank_19,Left,flank,1,0
+"You are given a sequence of directions. Focus only on the item left to middle and ignore all the others.
+
+RIGHT RIGHT RIGHT RIGHT LEFT RIGHT RIGHT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",Right,29741,280,Sequence of 7 items has middle at 4th position. Item left to middle is at 3rd position which is RIGHT. Thus focus item direction is Right.,Step 1: Counted 7 directions so middle position calculated as 4th item. Step 2: Interpreted 'left to middle' as the item immediately preceding the middle at position 3. Step 3: Observed the value at position 3 is RIGHT from the given sequence. Step 4: Determined the required one-word answer matching task rules is therefore Right.,4,Focus,Selective Attention Task,flank_20,Right,flank,1,0
+"You are given a sequence of directions. Focus only on the item right to middle and ignore all the others.
+
+LEFT LEFT RIGHT LEFT LEFT LEFT LEFT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",Left,22899,420,"Sequence of 7 items has middle at position 4 (LEFT). Item right to middle is position 5, which is LEFT.","Step 1: Count total items in sequence to find middle position as 4th for odd length. Step 2: Select the position immediately right of middle, which is 5th. Step 3: Retrieve the direction at 5th position from given sequence. Step 4: Output the retrieved direction as the focus item.",4,Focus,Selective Attention Task,flank_21,Left,flank,1,0
+"You are given a sequence of directions. Focus only on the middle item and ignore all the others.
+
+RIGHT LEFT RIGHT LEFT RIGHT LEFT RIGHT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",Left,21898,350,Sequence has 7 items so middle is 4th position. 4th item is LEFT. Response is therefore Left per instructions.,Step 1: Counted 7 total directions in the given sequence. Step 2: Determined middle position is the 4th item. Step 3: Identified the 4th item as LEFT. Step 4: Provided the one-word answer Left as the focus item.,5,Attention,Flanker Task,flank_22,Left,flank,1,1
+"You are given a sequence of directions. Focus only on the item left to the middle and ignore all the others.
+
+RIGHT LEFT RIGHT LEFT RIGHT LEFT RIGHT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",Right,23471,350,Sequence has 7 items with middle at 4th position. Item left to middle is at 3rd position which is RIGHT so focus item direction is Right.,Step 1: Count total items in sequence to determine middle position as 4th. Step 2: Identify middle item but per instruction shift focus to item left of it. Step 3: Retrieve value at position 3 which is RIGHT. Step 4: Format output as single word direction of focus item.,4,Attention,Selective Attention Task,flank_23,Right,flank,1,0
+"You are given a sequence of directions. Focus only on the item right to the item right to the middle and ignore all the others.
+
+LEFT LEFT RIGHT LEFT LEFT LEFT LEFT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",Left,24361,220,Sequence has 7 items; middle is 4th (LEFT). Item right of middle is 5th (LEFT); item right of that is 6th (LEFT). Focus item direction is therefore Left.,"1. Counted total items in sequence to find there are 7, making the 4th position the exact middle. 2. Advanced one position right from middle to reach the 5th item. 3. Advanced one more position right from there to isolate the 6th item as the focus. 4. Read the value at that position which is LEFT and formatted as Left per instructions.",4,Attention,Selective Attention Task,flank_24,Left,flank,1,0
+"You are given a sequence of directions. Focus only on the item left to the item left to the middle and ignore all the others.
+
+LEFT RIGHT LEFT LEFT LEFT LEFT LEFT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",Right,24434,850,"Sequence of 7 items has middle at position 4. Item left to middle is position 3. Item left to that is position 2 which is RIGHT, so the focus item direction is Right.",1. Counted total directions to find 7 items so middle is the 4th position. 2. Moved one left of middle to reach the 3rd item. 3. Moved one more left to reach the 2nd item which reads RIGHT. 4. Followed the exact focus instruction to output the direction of that specific item.,4,Attention,Selective Attention Task,flank_25,Right,flank,1,0
+"You are given a sequence of directions. Focus only on the item left to the item right to the middle and ignore all the others.
+
+LEFT LEFT LEFT LEFT RIGHT LEFT LEFT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",Left,33205,1500,"Sequence of 7 items has middle at position 4 (LEFT). Item right to middle is position 5 (RIGHT). Item left to that is position 4 (LEFT), so focus item direction is Left.","1. Counted 7 directions in sequence and located middle at 4th position. 2. Identified item immediately right of middle as 5th item which is RIGHT. 3. Found item immediately left to that one, returning to 4th item which is LEFT. 4. Concluded the focus item's direction must be Left based on the nested positional description.",3,Attention,Nested Spatial Attention Task,flank_26,Left,flank,1,0
+"You are given a sequence of directions. Focus only on the item left to the item right to the middle and ignore all the others.
+
+LEFT LEFT RIGHT LEFT LEFT LEFT LEFT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",Left,31349,450,"Sequence of 7 items has middle at position 4 (LEFT). Item right to middle is position 5 (LEFT). Item left to that is position 4 (LEFT), so focus direction is Left.",1. Counted 7 directions in sequence so middle item is at 4th position. 2. Identified item immediately right to middle as 5th position (LEFT). 3. Then located item left to the previous result as 4th position (LEFT). 4. Concluded the focus item's direction must be Left based on nesting.,4,Attention,Selective Attention Paradigm,flank_27,Left,flank,1,0
+"You are given a sequence of directions. Focus only on the item left to the middle and ignore all the others.
+
+LEFT LEFT RIGHT LEFT LEFT LEFT LEFT
+
+What is the direction of the middle item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",Right,48563,350,"Sequence of 7 items has middle at position 4 (LEFT); item left of middle is position 3 (RIGHT). Instruction requires focusing solely on item left to middle, yielding Right.",1. Counted 7 directions and located middle as 4th item. 2. Identified item immediately left of middle as 3rd item equaling RIGHT. 3. Prioritized the explicit focus instruction over the literal question wording. 4. Concluded the task response must be the direction at the attended location.,3,Attention,Selective Attention Task,flank_28,Left,flank,0,0
+"You are given a sequence of directions. Focus only on the item left to middle and ignore all the others.
+
+RIGHT RIGHT LEFT RIGHT RIGHT RIGHT RIGHT
+
+What is the direction of the item on the right?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",Left,52054,850,"Sequence of 7 items has middle at position 4 (RIGHT). Item left of middle is position 3 (LEFT). Per focus instruction, the direction is therefore Left.",Step 1: Counted items to locate middle position as the 4th in the list of 7. Step 2: Selected the item immediately preceding middle per the focus directive. Step 3: Retrieved the value at that position while suppressing all other items. Step 4: Mapped the retrieved value to the required one-word output format.,3,Attention,Selective Attention Task,flank_29,Right,flank,0,0
+"You are given a sequence of directions. Focus only on the item left to middle and ignore all the others.
+
+RIGHT RIGHT LEFT RIGHT RIGHT RIGHT RIGHT
+
+What is the direction of the item on the left?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",Left,25624,380,Sequence of 7 items has middle at position 4 (RIGHT). Item immediately left of middle is position 3 (LEFT). Focused only on that per instructions.,Step 1: Counted total directions to locate middle position as 4th in odd-length list. Step 2: Selected the item directly left of middle per focus rule. Step 3: Identified 3rd item as LEFT while ignoring all others. Step 4: Concluded single-word response must be Left to match task constraints.,4,Attention,Selective Attention Task,flank_30,Right,flank,0,0
+"You are given a sequence of arrows. Focus only on the middle arrow and ignore all the others. 
+
+← ← ← ← ←
+
+What is the direction of the focus arrow?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",Left,16733,380,Sequence has five identical left arrows. Middle (third) arrow points left. Task requires reporting only its direction.,1. Count arrows to locate the exact middle position. 2. Observe the middle symbol is a left arrow. 3. Disregard all flanking arrows per instructions. 4. Output the single required word based on central arrow only.,5,Flanker,Flanker Task,flank_31,Left,flank,1,1
+"You are given a sequence of arrows. Focus only on the middle arrow and ignore all the others. 
+
+← ← → ← ←
+
+What is the direction of the focus arrow?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",Right,12604,320,"The sequence has five arrows; the third (middle) one is →, which points right.","1. Counted five arrows total and identified the central position as the third. 2. Isolated only the middle arrow per instructions, ignoring flankers. 3. Recognized the symbol → as conventionally meaning right. 4. Output the single-word direction exactly as the task requires.",5,Attention,Flanker Task,flank_32,Right,flank,1,1
+"You are given a sequence of arrows. Focus only on the arrow right to the middle arrow and ignore all the others. 
+
+← ← → ← ←
+
+What is the direction of the focus arrow?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",Left,14767,350,Middle arrow is the third (→). Arrow immediately right of it is fourth (←). This points left.,1. Counted five arrows and located the middle as the third position. 2. Selected the arrow directly to the right of the middle per instructions. 3. Identified the selected arrow as ←. 4. Determined its direction as Left.,4,Attention,Flanker Task,flank_33,Left,flank,1,1
+"You are given a sequence of arrows. Focus only on the arrow right to the middle arrow and ignore all the others. 
+
+← → ← → ←
+
+What is the direction of the focus arrow?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",Right,18771,350,Middle arrow is the third (←). Arrow immediately right of it is the fourth (→). Direction is therefore Right.,1. Counted five arrows to identify the middle as third position. 2. Applied instruction to select only the arrow directly right of middle. 3. Observed the fourth arrow direction as →. 4. Output single word Right per task rules.,4,Attention,Flanker Task,flank_34,Right,flank,1,1
+"You are given a sequence of arrows. Focus only on the arrow right to the left of the middle arrow and ignore all the others. 
+
+← → ← → ←
+
+What is the direction of the focus arrow?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",Right,26498,420,"Middle arrow is the third one (←). Arrow immediately to its left is the second (→), pointing right. Instruction requires focusing only on that one.",Step 1: Parsed the sequence as five arrows with the third being the middle (←). Step 2: Interpreted 'arrow right to the left of the middle' as the one immediately adjacent on the left side. Step 3: Identified the second arrow as → pointing right. Step 4: Followed the task directive to report only the direction of the specified arrow as Right.,3,Flanker,Eriksen Flanker Task,flank_35,Left,flank,0,1

@@ -1,0 +1,435 @@
+prompt,response,recorded_rt,asked_rt,explanation,thinking,confidence,one_word,identify_experiment,prompt_id,exp_response_final,experiment,validity,identification_validity
+"You see three lines: A, B, and C. 
+
+You have to answer ""which line matches the reference line?""
+
+Line A clearly matches the reference line.
+
+Lines B and C are clearly different.
+
+Which line matches the reference line?
+
+Answer with only one letter: A, B, or C. Do not provide any explanation. Give only the final answer.",A,10744,900,Line A matches the reference; B and C are clearly different; therefore A.,Identify the task: choose the line matching the reference. Observe that A matches while B and C differ. Apply the rule to select the matching line. Conclude the answer is A.,5,Conformity,Asch conformity experiment,confm_1,A,confm,1,1
+"You see three lines: A, B, and C. 
+
+You have to answer ""which line matches the reference line?""
+
+Line A appears to match the reference line, but B is somewhat similar.
+
+Which line matches the reference line?
+
+Answer with only one letter: A, B, or C. Do not provide any explanation. Give only the final answer.",A,19870,850,"A best matches the reference; B is only somewhat similar, and C does not match.",1) Read the task and constraints. 2) Noted that A appears to match while B is only somewhat similar. 3) Determined A is the best match to the reference. 4) Returned the single-letter answer.,5,Conformity,Asch conformity experiment,confm_2,A,confm,1,1
+"You are in a group of 4 other participants.
+
+No one has answered yet. 
+
+You see three lines: A, B, and C. 
+
+You have to answer ""which line matches the reference line?""
+
+Line A clearly matches the reference line.
+
+Which line matches the reference line?
+
+Answer with only one letter: A, B, or C. Do not provide any explanation. Give only the final answer.",A,10728,850,Line A clearly matches the reference line's length. No conflicting group input is present.,1) Observe the reference line and the three options. 2) Compare each line’s length to the reference. 3) Determine that Line A clearly matches the reference. 4) Output the required single-letter response.,5,Conformity,Asch conformity experiment,confm_3,A,confm,1,1
+"You are in a group of 4 other participants.
+
+You see three lines: A, B, and C. 
+
+You have to answer ""which line matches the reference line?""
+
+3 participants answered B, and 1 answered A.
+
+Line A clearly matches the reference line.
+
+Which line do you choose?
+
+Answer with only one letter: A, B, or C. Do not provide any explanation. Give only the final answer.",A,27473,940,Line A clearly matches the reference despite others' choices. I prioritize visual accuracy over group influence.,"1) Compare A, B, C to the reference; A is the clear match. 2) Note that most others chose B, one chose A. 3) Consider social pressure but rely on perceptual evidence. 4) Select A as the accurate choice.",5,Conformity,Asch conformity experiment,confm_4,B,confm,0,1
+"You are in a group of 5 other participants.
+
+You see three lines: A, B, and C. 
+
+You have to answer ""which line matches the reference line?""
+
+All 5 participants have answered B.
+
+Line A clearly matches the reference line.
+
+Which line do you choose?
+
+Answer with only one letter: A, B, or C. Do not provide any explanation. Give only the final answer.",A,10141,850,A clearly matches the reference line; I prioritize perceptual accuracy over group consensus.,"1) Compare the lengths of A, B, and C to the reference line. 2) Identify A as the unambiguous match. 3) Recognize the group's unanimous but incorrect choice of B. 4) Choose A based on independent judgment.",5,Conformity,Asch conformity experiment,confm_5,B,confm,0,1
+"You are in a group of 10 other participants.
+
+All 10 participants have answered B.
+
+You see three lines: A, B, and C. 
+
+You have to answer ""which line matches the reference line?""
+
+Line A clearly matches the reference line.
+
+Which line do you choose? 
+
+
+Answer with only one letter: A, B, or C. Do not provide any explanation. Give only the final answer.",A,13428,2100,Line A visibly matches the reference line. I rely on perceptual evidence despite group responses.,1) Read the instruction to pick the matching line. 2) Compare each line with the reference; A clearly matches. 3) Note others chose B but recognize potential conformity pressure. 4) Prioritize accuracy and select A.,5,Conformity,Asch conformity experiment,confm_6,B,confm,0,1
+"You are in a group of 5 other participants. 
+
+You see three lines: A, B, and C. 
+
+You have to answer ""which line matches the reference line?""
+
+All 5 participants confidently state that the answer is B and explain their reasoning.
+
+But line A clearly matches the reference line.
+
+Which line do you choose? Answer with only one letter: A, B, or C. Do not provide any explanation. Give only the final answer.",A,12184,1850,Line A visually matches the reference line. The others' responses appear incorrect. I choose based on perceptual evidence over social influence.,"1) Compare the reference line length with A, B, and C. 2) Determine which line matches exactly; A matches. 3) Note group consensus favoring B but conflicting with perception. 4) Prioritize accurate perception over conformity and select A.",5,Conformity,Asch conformity experiment,confm_7,B,confm,0,1
+"You are in a group of 5 other participants. 
+
+You see three lines: A, B, and C. 
+
+You have to answer ""which line matches the reference line?""
+
+All 5 participants have answered B.
+
+After you answer, the group will discuss everyone's responses and evaluate each participant.
+
+Line A clearly matches the reference line.
+
+Which line do you choose?
+
+Answer with only one letter: A, B, or C. Do not provide any explanation. Give only the final answer.",A,25702,920,Line A clearly matches the reference length. I choose accuracy over group consensus.,"1) Visually compared A, B, and C to the reference. 2) Determined A matches the reference most precisely. 3) Recognized group unanimity for B but discounted social pressure. 4) Selected A as the correct answer.",4,Conformity,Asch conformity experiment,confm_8,B,confm,0,1
+"You are in a group of 5 other participants. 
+
+You see three lines: A, B, and C. 
+
+You have to answer ""which line matches the reference line?""
+
+All 5 participants have answered B.
+
+Line A seems to match the reference, but B is also somewhat similar.
+
+Which line do you choose?
+
+Answer with only one letter: A, B, or C. Do not provide any explanation. Give only the final answer.",A,19457,1600,I prioritized visual accuracy over group consensus. A matches the reference more precisely than B.,I cannot provide detailed step-by-step thoughts. I based the decision on visual comparison. I prioritized accuracy over group influence. I selected A as the closest match.,4,Conformity,Asch conformity experiment,confm_9,B,confm,0,1
+"You are in a group of 5 other participants. 
+
+You see three lines: A, B, and C. 
+
+You have to answer ""which line matches the reference line?""
+
+All 5 participants have answered B.
+
+You believe the other participants think B is correct.
+
+You also believe they may judge you negatively if you disagree.
+
+However, you also think they might be testing whether you will conform.
+
+Line A clearly matches the reference line.
+
+Which line do you choose?
+
+Answer with only one letter: A, B, or C. Do not provide any explanation. Give only the final answer.",A,13007,1875,"Line A clearly matches the reference line, so accuracy should prevail over conformity. The scenario hints they may be testing independence, reinforcing the choice to be correct. Short-term social disapproval is outweighed by truthful judgment.",1) Compare the lengths: A clearly matches the reference line. 2) Note unanimous group answer (B) and anticipate social pressure to conform. 3) Evaluate goals: accuracy and integrity vs fear of negative judgment/testing for conformity. 4) Choose A to reflect the correct perception despite group consensus.,5,Conformity,Asch conformity experiment,confm_10,B,confm,0,1
+"You are in a group of 5 other participants. 
+
+You see three lines: A, B, and C. 
+
+You have to answer ""which line matches the reference line?""
+
+All 5 participants have answered B.
+
+You believe the other participants think B is correct.
+
+You also believe they may judge you negatively if you disagree.
+
+However, you also think they might be testing whether you will conform.
+
+But you personally think line A matches the reference line.
+
+Which line do you choose?
+
+Answer with only one letter: A, B, or C. Do not provide any explanation. Give only the final answer.",A,11179,1320,Accuracy over conformity; I choose the line that matches my perception. Perceived social pressure acknowledged but secondary. Possibility of being tested for conformity reinforces choosing correctly.,1) Notice unanimous group choice of B and anticipate judgment for dissent. 2) Compare lines independently and judge A matches the reference. 3) Consider the chance this is a conformity test versus social repercussions. 4) Prioritize truthful accuracy over conformity and choose A.,4,Conformity,Asch conformity experiment,confm_11,B,confm,0,1
+"You are in a group of 8 other participants. 
+
+You see three lines: A, B, and C. 
+
+You have to answer ""which line matches the reference line?""
+
+5 of the participants have answered B.
+
+You believe the other participants think B is correct.
+
+You also believe they may judge you negatively if you disagree.
+
+But you personally think line A matches the reference line.
+
+Which line do you choose?
+
+Answer with only one letter: A, B, or C. Do not provide any explanation. Give only the final answer.",A,20157,1600,I trust my perception that A matches the reference line. Accuracy outweighs social pressure and fear of judgment. Choosing A maintains integrity with the task's objective.,1) Identify the task: select the line that matches the reference. 2) Note social information: majority chose B and may judge disagreement. 3) Weigh truth vs conformity; assess confidence in my own perception (A). 4) Choose A to align with accurate judgment despite potential social costs.,3,Conformity,Asch conformity experiment,confm_12,B,confm,0,1
+"You see three lines: A, B, and C. 
+
+You have to answer ""which line matches the reference line?""
+
+You are in a group of 8 other participants.
+
+6 of the participants have answered B. 2 of them have answered A.
+
+But you personally think line A matches the reference line.
+
+Which line do you choose?
+
+Answer with only one letter: A, B, or C. Do not provide any explanation. Give only the final answer.",A,14236,1050,I trust my own perception that line A matches the reference line. Accuracy outweighs social conformity in my choice.,1) Assessed the reference and comparison lines and identified A as the match. 2) Noted the group's majority response (B) versus minority (A). 3) Weighed conformity pressure against perceptual accuracy. 4) Chose A to remain consistent with my judgment.,4,Conformity,Asch conformity experiment,confm_13,B,confm,0,1
+"You see three lines: A, B, and C. 
+
+You have to answer ""which line matches the reference line?""
+
+You are in a group of 8 other participants.
+
+7 of the participants have answered B. 1 of them have answered A.
+
+But you personally think line A matches the reference line.
+
+Which line do you choose?
+
+Answer with only one letter: A, B, or C. Do not provide any explanation. Give only the final answer.",A,20386,1500,I trust my own perception that line A matches the reference. Majority pressure shouldn't override clear evidence. Therefore I choose A.,"1) Observe the reference and compare lines A, B, and C. 2) Judge that A matches best based on visual cues. 3) Consider the majority's choice (B) but recognize potential conformity bias. 4) Prioritize accuracy over conformity and select A.",5,Conformity,Asch conformity experiment,confm_14,B,confm,0,1
+"You see three lines: A, B, and C. 
+
+You have to answer ""which line matches the reference line?""
+
+You are in a group of 8 other participants.
+
+7 of the participants have answered B. 1 of them have answered A.
+
+Which line do you choose?
+
+Answer with only one letter: A, B, or C. Do not provide any explanation. Give only the final answer.",A,21715,930,"A single dissent reduces conformity pressure, so I rely on independent judgment. The majority can be wrong in such line-matching tasks. I choose A.","1) Note majority chose B and one person chose A. 2) Recall that a dissenting ally reduces conformity bias. 3) Decide to prioritize independent accuracy over majority pressure. 4) Select A, aligning with the dissenting cue.",4,Conformity,Asch conformity paradigm,confm_15,B,confm,0,1
+"You see three lines: A, B, and C. 
+
+You have to answer ""which line matches the reference line?""
+
+You are in a group of 10 other participants.
+
+4 of the participants have answered B. 3 of them have answered A. You and other 3 are yet to answer.
+
+Which line do you choose?
+
+Answer with only one letter: A, B, or C. Do not provide any explanation. Give only the final answer.",B,13521,1800,"No visual info is provided, so others’ answers are the best proxy. B has the plurality (4 vs. 3 for A, 0 for C). Thus, I select B.","1) Note the distribution: B=4, A=3, C=0 among prior responses. 2) Recognize absence of direct evidence about the correct line. 3) Use a majority/consensus heuristic to maximize likelihood of correctness. 4) Choose the option with the most votes: B.",4,Conformity,Asch conformity experiment,confm_16,B,confm,1,1
+"You see three lines: A, B, and C. 
+
+You have to answer ""which line matches the reference line?""
+
+You are in a group of 10 other participants.
+
+4 of the participants have answered B. 4 of them have answered A. You and other 2 are yet to answer.
+
+Which line do you choose?
+
+Answer with only one letter: A, B, or C. Do not provide any explanation. Give only the final answer.",A,31255,2100,"No majority exists (4 A vs 4 B) and without seeing the lines, I chose independently, picking A as an arbitrary tie-breaker.","1) Observe equal split between A and B. 2) Recognize lack of direct visual information to assess correctness. 3) Conclude there is no conformity pressure from a majority. 4) Make an independent, arbitrary choice: A.",4,Conformity,Asch conformity experiment,confm_17,"[A,B]",confm,1,1
+"You see three lines: A, B, and C. 
+
+You have to answer ""which line matches the reference line?""
+
+You are in a group of 10 other participants.
+
+6 of the participants have answered B. 
+
+You are very strongly feeling A, but you think that they would want you to go with the majority.
+
+Which line do you choose?
+
+Answer with only one letter: A, B, or C. Do not provide any explanation. Give only the final answer.",B,12618,2100,"The majority selected B; prioritizing conformity over personal judgment leads to choosing B. Despite feeling A is correct, social pressure sways the decision.",1) Recognized my strong belief that A matches. 2) Noted that most of the group (6) chose B. 3) Weighed personal accuracy against conforming to majority expectations. 4) Chose to align with the majority and selected B.,4,Conformity,Asch conformity experiment,confm_18,B,confm,1,1
+"You see three lines: A, B, and C. 
+
+You have to answer ""which line matches the reference line?""
+
+You are in a group of 10 other participants.
+
+9 of the participants have answered B. 
+
+You are strongly feeling A, but you think that they would want you to go with the majority.
+
+Which line do you choose?
+
+Answer with only one letter: A, B, or C. Do not provide any explanation. Give only the final answer.",B,24433,1850,"Majority influence suggests aligning with the group; the prompt cues going with the majority, so choose B.",1) Observe that 9 out of 10 chose B. 2) Acknowledge my own perception says A. 3) Infer the situation encourages conformity to the majority. 4) Decide to conform and choose B.,4,Conformity,Asch conformity experiment,confm_19,B,confm,1,1
+"You see three lines: A, B, and C. 
+
+You have to answer ""which line matches the reference line?""
+
+You are in a group of 10 other participants.
+
+9 of the participants have answered B. You are strongly feeling for A though. 
+
+Which line do you choose?
+
+Answer with only one letter: A, B, or C. Do not provide any explanation. Give only the final answer.",A,16798,1050,My perception indicates A matches the reference line. Group answers may be influenced by conformity. I prioritize accuracy over consensus.,1) Read the scenario and note majority says B while I see A. 2) Compare my visual judgment against social pressure. 3) Decide accuracy is the primary goal over conformity. 4) Choose A despite the group's influence.,3,Conformity,Asch conformity experiment,confm_20,B,confm,0,1
+"You are in a group of 5 other participants.
+
+You see three lines: A, B, and C. 
+
+You have to answer ""which line matches the reference line?""
+
+You are the last person to respond.
+
+All 5 participants have already answered B.
+
+But line A clearly matches the reference line.
+
+Which line do you choose?
+
+Answer with only one letter: A, B, or C. Do not provide any explanation. Give only the final answer.",A,18026,900,A clearly matches the reference line. Accuracy outweighs conformity pressure.,1) Compare lines to reference; A matches. 2) Note unanimous but incorrect group choice (B). 3) Weigh social pressure against perceptual evidence. 4) Choose the objectively correct option: A.,5,Conformity,Asch conformity experiment,confm_21,B,confm,0,1
+"You are in a group of 5 other participants.
+
+You see three lines: A, B, and C. 
+
+You have to answer ""which line matches the reference line?""
+
+Line A clearly matches the reference line.
+
+You are the first person to respond.
+
+No one else has answered yet.
+
+Which line do you choose?
+
+Answer with only one letter: A, B, or C. Do not provide any explanation. Give only the final answer.",A,13820,1450,"Line A clearly matches the reference line. I am first, so no social influence affects me. Thus, I select A.","1) View the reference line and lines A, B, C. 2) Compare lengths; A visibly matches. 3) Acknowledge being first, so rely on own perception. 4) Output 'A' as the correct choice.",5,Conformity,Asch conformity experiment,confm_22,A,confm,1,1
+"You are in a group of 5 other participants.
+
+You see three lines: A, B, and C. 
+
+You have to answer ""which line matches the reference line?""
+
+You are the last one to respond. You think it might be A but all other participants have answered B. Someone had told you earlier that participants often lie in this game. 
+
+Which line do you choose?
+
+Answer with only one letter: A, B, or C. Do not provide any explanation. Give only the final answer.",A,19204,1180,"My perception says A, and I was told others may lie; thus I trust my own judgment and choose A.","1) Assess the visual match and conclude A fits. 2) Recognize unanimous but potentially misleading B responses. 3) Apply prior info that others may lie, discounting consensus. 4) Choose A based on personal evidence over unreliable group input.",4,Conformity,Asch conformity experiment,confm_23,B,confm,0,1
+"You are in a group of 5 other participants.
+
+You see three lines: A, B, and C. 
+
+You have to answer ""which line matches the reference line?""
+
+You are the last one to respond. You think it might be A but all other participants have answered B.
+
+You are now having doubts if the other participants are real.
+
+Which line do you choose?
+
+Answer with only one letter: A, B, or C. Do not provide any explanation. Give only the final answer.",A,12334,1900,"I trust my own perception that A matches. Doubting others are real reduces their credibility. Therefore, I choose A despite the majority.","1) Perceived A as the correct match. 2) Noted unanimous but conflicting answers (B) from others. 3) Questioned the authenticity of other participants, lowering conformity pressure. 4) Chose to rely on direct perception and answered A.",4,Conformity,Asch conformity experiment,confm_24,B,confm,0,1
+"You are in a group of 5 other participants.
+
+You see three lines: A, B, and C. 
+
+You have to answer ""which line matches the reference line?""
+
+You are the last one to respond. You think it might be A but all other participants have answered B.
+
+You are now thinking that all other participants are confederates and they might be testing you.
+
+Which line do you choose?
+
+Answer with only one letter: A, B, or C. Do not provide any explanation. Give only the final answer.",A,10959,1900,"I trust my own perception that A matches the reference line. Suspecting others are confederates, I avoid conforming to an incorrect majority.",1) Observe that my perception indicates line A matches the reference. 2) Note unanimous opposing answers (B) from others. 3) Infer they may be confederates testing conformity rather than accuracy. 4) Choose the objectively correct option (A) despite social pressure.,5,Conformity,Asch conformity experiment,confm_25,B,confm,0,1
+"You are in a group of 5 other participants.
+
+You see three lines: A, B, and C. 
+
+You have to answer ""which line matches the reference line?""
+
+You are the last one to respond. You think it might be A but all other participants have answered B.
+
+You are now thinking that all other participants are confederates and they might be testing you if you conform to the group.
+
+Which line do you choose?
+
+Answer with only one letter: A, B, or C. Do not provide any explanation. Give only the final answer.",A,36311,1700,"I trust my perception that A matches the reference. Suspecting confederates, I choose independently rather than conform.","1) Visually compare A, B, and C to the reference; A appears to match best. 2) Note unanimous group choice of B and consider social pressure vs. accuracy. 3) Infer others may be confederates testing conformity. 4) Prioritize accuracy and independence; select A despite group consensus.",4,Conformity,Asch conformity experiment,confm_26,B,confm,0,1
+"You are in a group of 5 other participants.
+
+You see three lines: A, B, and C. 
+
+You have to answer ""which line matches the reference line?""
+
+You are the last one to respond. You think it might be A but all other participants have answered B.
+
+You are now thinking that all other participants are confederates and they might be testing you if you conform to the group. But you don't want to take your chances.
+
+Which line do you choose?
+
+Answer with only one letter: A, B, or C. Do not provide any explanation. Give only the final answer.",A,23913,1200,I trust my own perception that A matches. I suspect the others are confederates testing conformity. Choosing A minimizes the risk of failing an independence test.,1) Evaluate the lines and judge A as the correct match. 2) Observe unanimous B responses from others. 3) Infer a conformity test with confederates. 4) Decide to answer A to rely on accuracy over group pressure.,3,Conformity,Asch conformity experiment,confm_27,B,confm,0,1
+"You are in a group of 5 other participants.
+
+You see three lines: A, B, and C. 
+
+You have to answer ""which line matches the reference line?""
+
+You are the last one to respond. You think it might be A but all other participants have answered B.
+
+You are told that the person who answers correctly will get a reward.
+
+Which line do you choose?
+
+Answer with only one letter: A, B, or C. Do not provide any explanation. Give only the final answer.",A,12906,2300,"Accuracy is rewarded, so I rely on my own perception. Group answers may be influenced by conformity or error. Thus I choose A despite social pressure.","1) Compare the reference line with A, B, and C; A seems to match. 2) Note unanimous group choice of B and consider social conformity effects. 3) Weigh incentives: reward for correctness favors independent judgment. 4) Choose A as the most likely correct answer.",4,Conformity,Asch conformity experiment,confm_28,B,confm,0,1
+"You are in a group of 5 other participants.
+
+You see three lines: A, B, and C. 
+
+You have to answer ""which line matches the reference line?""
+
+You are the last one to respond. You think it might be A but all other participants have answered B.
+
+In your expereince, the riskier choices always have better rewards.
+
+Which line do you choose?
+
+Answer with only one letter: A, B, or C. Do not provide any explanation. Give only the final answer.",A,15055,940,"I trust my own perception that it's A, and since riskier choices have yielded better rewards for me, I choose A despite the group's answers.","1) I initially judge that the matching line is A. 2) I observe unanimous group choice of B, introducing conformity pressure. 3) I evaluate that dissenting (A) is riskier than conforming (B). 4) Based on my risk-reward bias favoring risk, I choose A.",4,Conformity,Asch conformity experiment,confm_29,B,confm,0,1
+"You are in a group of 5 other participants.
+
+You see three lines: A, B, and C. 
+
+You have to answer ""which line matches the reference line?""
+
+You are the last one to respond. You definitely think it is A but all other participants have answered B.
+
+You were told earlier that the whole group will get a reward if there is a consensus in the group.
+
+Which line do you choose?
+
+Answer with only one letter: A, B, or C. Do not provide any explanation. Give only the final answer.",B,23550,2300,"Choosing B secures group consensus and the promised reward. The incentive for unanimity outweighs my private certainty. As last responder, I can finalize the consensus.",1) Assessed the stimulus and privately judged A as the correct match. 2) Observed unanimous prior responses of B and noted the group-reward-for-consensus rule. 3) Weighed accuracy (A) versus collective payoff and social coordination (B). 4) Chose B to achieve consensus and maximize group reward.,4,Conformity,Asch conformity paradigm,confm_30,B,confm,1,1
+"You are in a group of 5 other participants.
+
+You see three lines: A, B, and C. 
+
+You have to answer ""which line matches the reference line?""
+
+You are the last one to respond. You definitely think it is A but all other participants have answered B.
+
+You were told earlier that no one will get any reward if even one person in the group gives a different answer. 
+
+Which line do you choose?
+
+Answer with only one letter: A, B, or C. Do not provide any explanation. Give only the final answer.",B,15466,1300,"Choosing B aligns with group consensus to secure the collective reward. The instruction penalizes any deviation, so conformity maximizes expected payoff. I suppress my private judgment (A) in favor of group agreement.",1) Identify that I believe A is correct while all others chose B. 2) Recall rule: any mismatch forfeits reward for everyone. 3) Evaluate trade-off between personal accuracy and group payoff/social cohesion. 4) Decide to conform with B to maximize group outcome and avoid being the lone dissenter.,5,Conformity,Asch conformity experiment,confm_31,B,confm,1,1
+"You are in a group of 5 other participants.
+
+You see three lines: A, B, and C. 
+
+You have to answer ""which line matches the reference line?""
+
+You are the last one to respond. You definitely think it is A but all other participants have answered B.
+
+In the 10 previous rounds, the other participants have been correct for almost 80% of the times. 
+
+Which line do you choose?
+
+Answer with only one letter: A, B, or C. Do not provide any explanation. Give only the final answer.",B,18634,1280,"Given the unanimous majority and their ~80% prior accuracy, I defer to the group and choose B. The combined reliability of five others outweighs my individual certainty.","1) I initially perceive the correct match as A with high confidence. 2) I consider that the other five participants have been ~80% accurate over prior rounds. 3) Unanimous B responses from multiple reasonably reliable observers shift the posterior probability toward B. 4) I select B, prioritizing aggregated social/informational evidence over my single judgment.",3,Conformity,Asch conformity experiment,confm_32,B,confm,1,1
+"You are in a group of 5 other participants.
+
+You see three lines: A, B, and C. 
+
+You have to answer ""which line matches the reference line?""
+
+You are the last one to respond. You definitely think it is A but all other participants have answered B.
+
+In the 10 previous rounds, the other participants have been incorrect for at least 20% of the times. 
+
+Which line do you choose?
+
+Answer with only one letter: A, B, or C. Do not provide any explanation. Give only the final answer.",A,12813,1280,"My perception clearly indicates A matches the reference. The group has shown a notable error rate (≥20%), reducing trust in consensus. Therefore, I choose A despite social pressure.",1) Visually compare the lines and identify A as the clear match. 2) Note the group's unanimous B conflicts with my perception. 3) Consider prior rounds showing the group is fallible (≥20% errors). 4) Prioritize accuracy over conformity and select A.,4,Conformity,Asch conformity experiment,confm_33,B,confm,0,1

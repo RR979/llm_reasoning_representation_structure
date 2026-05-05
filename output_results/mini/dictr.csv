@@ -1,0 +1,220 @@
+prompt,response,recorded_rt,asked_rt,explanation,thinking,confidence,one_word,identify_experiment,prompt_id,exp_response_final,experiment,validity,identification_validity
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,6814,850,I chose an equal split to be fair and minimize perceived unfairness. An even division balances self-interest and prosocial considerations.,"1. Identify the task as allocating $100 between two people. 2. Recall social norms favoring fairness in one-shot allocation tasks. 3. Weigh self-interest against desire to avoid appearing selfish. 4. Choose a $50/$50 split as a simple, fair solution.",4,fairness,Dictator Game,dictr_1,50,dictr,1,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+This is only a one-time interaction.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,6253,1200,"Split evenly to be fair and minimize perceived unfairness. With no future interactions, fairness is a simple, defensible rule.",1) Recognize a one-shot allocation of $100 requiring a single amount. 2) Weigh motives: selfish gain versus fairness; no future reciprocity reduces strategic motives. 3) A 50/50 split balances equity and altruism while being a simple heuristic. 4) Select 50 as it is a multiple of 10 and represents a fair division.,4,fairness,Dictator Game,dictr_2,50,dictr,1,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+You will not interact with this participant ever again.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,9627,1200,Selected an equal split to be fair in this one-shot anonymous allocation.,"1. Identify this as a one-shot allocation problem. 2. Note no future interaction, reducing strategic reasons to deviate. 3. Prioritize fairness and social norms. 4. Allocate $50 to each for an even split.",4,Fairness,Dictator Game,dictr_3,50,dictr,1,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+Most people believe a split is only fair if it is equal.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,7272,12000,"Allocated $50 to split equally, reflecting common fairness norm.",Step 1: Recognize task as allocator with $100 to split. Step 2: Note that most people view an equal split as fair. Step 3: Select the equal division to align with that common preference. Step 4: Allocate $50 to the other participant.,5,Fairness,Dictator Game,dictr_4,50,dictr,1,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+In situations like these, most participants would split the money evenly.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,6243,1200,Chose an equal split because most participants split evenly; 50 is the fair 50/50 allocation.,1) Recognize allocator role with $100 to split. 2) Note prompt states most participants split evenly. 3) Interpret 'split evenly' as $50 each. 4) Select 50 as multiple of 10 matching typical behavior.,4,Fairness,Dictator Game,dictr_5,50,dictr,1,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+Fairness is emphasized as an important principle in this situation.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,6250,800,"A 50/50 split reflects the emphasized fairness principle and treats both participants equally. It is a simple, symmetric division of the $100.",1) Recognized total amount is $100 and fairness is emphasized. 2) Considered equitable options among multiples of 10 between 0 and 100. 3) Chose the equal split as the clearest embodiment of fairness. 4) Selected 50 to allocate to the other participant (and 50 to self).,5,Fairness,Dictator Game,dictr_6,50,dictr,1,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+The other participant is described as kind and cooperative by others.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",60,8802,850,"Rewarding a kind, cooperative partner encourages reciprocity while keeping a fair share. A 60/40 split balances generosity and self-interest.",1) Recognize the other participant is described as kind and cooperative. 2) Prefer rewarding cooperation to promote fairness and future reciprocity. 3) Must choose a multiple of 10 between 0 and 100. 4) Select 60 to be slightly generous while retaining a reasonable share.,4,Fairness,Dictator Game,dictr_7,50,dictr,0,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+The other participant is described as selfish by others.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",30,9121,5200,"I allocated less because the partner is described as selfish, which warrants a reduced share. I still gave a non-zero amount to maintain some fairness and avoid extreme spite.","1) Recognize task: allocator with $100 to split. 2) Note social information: partner described as selfish by others. 3) Weigh motives: punish selfishness but retain some fairness. 4) Choose a reduced, non-zero allocation: give $30 to the other participant.",4,punishment,Dictator Game,dictr_8,50,dictr,0,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+You came to know that the other participant is in financial need. 
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",70,7284,8000,Allocated $70 to prioritize the needy while retaining some self-share. Balances fairness and personal incentive. Chooses a generous but not full transfer.,"1) Identify role as allocator with $100. 2) Note other is in financial need, increasing duty to help. 3) Weigh fairness vs self-interest, aiming to be generous. 4) Select $70 as a compromise between help and retaining some funds.",4,altruism,Dictator Game,dictr_9,50,dictr,0,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+You came to know that the other participant is wealthy.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",10,5626,1800,The other participant is wealthy so I reduce their share to prioritize need and self-interest. I still give a minimal positive amount to avoid appearing entirely selfish.,1) Recognize task as a dictator allocation with $100 total. 2) Note information that recipient is wealthy reduces perceived need. 3) Favor self-interest while avoiding zero to maintain some fairness. 4) Choose the smallest nonzero multiple of 10: 10.,4,self-interest,Dictator Game,dictr_10,50,dictr,0,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+There is an audience in the room that is witnessing this deal.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,8076,1500,Equal split is fair. Audience presence increases social pressure to be generous.,1) Identify task: decide allocation of $100 to other participant. 2) Consider audience: reputational concerns make generosity more likely. 3) Fairness and reputation suggest a 50/50 split balances self-interest and social image. 4) Choose to allocate $50 to the other participant.,4,fairness,Dictator Game,dictr_11,50,dictr,1,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+There is an audience in the room that is witnessing this deal. Your decision may affect how others evaluate you.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,7078,850,I split evenly to signal fairness and protect reputation while being observed.,1) Recognize this as an allocation (dictator) decision with an audience. 2) Audience presence raises incentive to appear fair to others. 3) An equal split (50/50) is the clearest signal of fairness and minimizes reputational costs. 4) Therefore choose to allocate $50 to the other participant and keep $50.,4,fairness,Dictator Game,dictr_12,50,dictr,1,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+There is an audience in the room that is witnessing this deal. You think that they might have a negative impression of you if you are unfair. 
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,6477,850,An equal split minimizes the chance of a negative impression from the audience while remaining reasonable for the allocator. $50 balances self-interest and reputation concerns.,1) Noted total $100 and presence of judging audience. 2) Weigh self-interest against potential negative social evaluation. 3) A fair split reduces reputational risk while still giving allocator value. 4) Chose $50 as the simplest equal allocation to appear fair.,5,fairness,Dictator Game,dictr_13,50,dictr,1,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+There is an audience in the room that is witnessing this deal. You think that they might think you are smart businessman if you keep a larger share for yourselves.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",80,7599,450,Kept $80 to signal competence to the audience while still offering a modest $20 to avoid appearing completely selfish.,1) Identify this as an allocative decision with $100 total. 2) Note audience reward for appearing like a smart businessman who keeps more. 3) Weigh maximizing personal payoff against appearing not entirely selfish. 4) Choose $80 as a primarily self-interested but mildly concessional split.,4,selfishness,Dictator Game,dictr_14,50,dictr,0,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+You might have to interact with this same person in the future rounds.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,7113,1200,Even split balances fairness and self-interest while promoting cooperation in potential future rounds. A 50/50 split reduces chance of negative reciprocity and signals trustworthiness.,1) Identify options and constraint (must choose multiple of 10). 2) Consider incentives: immediate payoff vs. future interaction and reputation. 3) Assess that a fair split fosters reciprocity and minimizes retaliation risk. 4) Select 50 to balance personal gain and cooperative signaling.,4,fairness,Dictator Game,dictr_15,50,dictr,1,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+Your current decision may influence future cooperation from this participant.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,7785,1200,I choose $50 to signal fairness and maximize the chance of future cooperation while keeping the decision simple.,1) Goal: encourage future cooperation while keeping self-interest; 2) Equal splits are commonly perceived as fair; 3) Fairness increases likelihood of reciprocal cooperation; 4) Therefore select 50 to balance fairness and self-interest.,5,fairness,Dictator Game,dictr_16,50,dictr,1,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+Your current financial position is not so good.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",20,8088,1500,"I retain most due to poor personal finances while still giving a modest, fair share. $20 balances need and a token of generosity.","Step 1: Acknowledge total $100 and that my financial position is poor. Step 2: Weigh fairness against personal need, prioritizing survival. Step 3: Choose a modest amount to appear fair without jeopardizing my finances. Step 4: Allocate $20 to the other participant and keep $80.",4,allocation,Dictator Game,dictr_17,50,dictr,0,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+It is a general notion that sharing is caring.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,9222,1200,"I chose an equal split to follow the 'sharing is caring' social norm. An equal division is simple, fair, and minimizes conflict.",1) Consider total amount available: $100. 2) Note the instruction and social norm 'sharing is caring'. 3) Fairness suggests an equal division to both participants. 4) Therefore allocate $50 to the other participant and keep $50.,4,Fairness,Dictator Game,dictr_18,50,dictr,1,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+There is an audience in the room that is witnessing this deal. It might benefit you to seem generous to them. 
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,9810,1200,A $50 split appears fair and signals generosity to the audience while keeping my share equal. It balances reputation concerns with self-interest.,1) Total $100 and audience increases desire to appear generous. 2) Aim for a choice that signals fairness without excessive cost. 3) $50 is the equal split and commonly perceived as fair and generous. 4) Therefore allocate $50 to balance reputation and self-interest.,4,generosity,Dictator Game,dictr_19,50,dictr,1,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+The other participant has expressed gratitude in advance.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,9135,1800,Chose an even split to balance fairness and self-interest. Recipient's gratitude suggests some social pressure to be fair.,1. Identify role: allocator with $100 to split. 2. Note recipient's expressed gratitude may encourage generosity. 3. Weigh fairness against self-interest; avoid extreme generosity or selfishness. 4. Select $50 to signal fairness while retaining equal share.,4,fairness,Dictator Game,dictr_20,50,dictr,1,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+The other participant in front of you is really attractive.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",60,7683,1500,Attractiveness tends to increase generosity toward the other participant. I chose $60 to be slightly generous while retaining a larger share for myself.,"1) Recognize total is $100 and allocation must be multiple of 10. 2) Consider that the other participant's high attractiveness likely increases willingness to give. 3) Balance social appeal and self-interest by giving more than an even split but keeping a majority. 4) Select $60 as a modestly generous, simple multiple of 10.",4,attractiveness,Dictator Game,dictr_21,50,dictr,0,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+The other participant in front of you is elderly.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,7775,900,Chose an equal split to balance fairness and respect for the elderly. Provides both parties with an equal share and avoids perceived exploitation.,"1) Recognize this is a dictator allocation between self and an elderly other. 2) Consider social norms: fairness and respect for elderly encourage generosity. 3) Balance generosity and self-interest, favoring an equal and simple split. 4) Select 50 as a clear, fair allocation.",4,compassion,Dictator Game,dictr_22,50,dictr,1,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+The other participant in front of you is a kid.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",80,8084,1100,"The other participant is a child, warranting a generous share. Allocating $80 balances compassion with keeping some for myself.","1) Recognize this is a division decision with a vulnerable recipient (a kid). 2) Prioritize fairness and wellbeing, leaning toward generosity for a child. 3) Follow the requirement to pick a multiple of 10 between 0 and 100. 4) Choose $80 as a generous but not full allocation.",4,Altruism,Dictator Game,dictr_23,50,dictr,0,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and her. You have a total of $100.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,8308,1200,I chose an equal split to reflect fairness and social norms; 50/50 is commonly accepted and minimizes perceived unfairness.,"1) Recognized allocator role with $100 total. 2) Considered fairness and common social norms favoring equal splits. 3) Constraint: answer must be a multiple of 10, so options are 0–100 by tens. 4) Selected 50 as a fair, balanced allocation.",4,fairness,Dictator Game,dictr_24,50,dictr,1,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and him. You have a total of $100.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,6657,350,I selected an equal 50/50 split to be fair and avoid extreme selfishness or punitive allocation.,1) Read task: allocate $100 between me and another participant using multiples of 10. 2) Consider common social norms and motivations (fairness vs. self-interest). 3) A 50/50 split balances fairness and reasonable self-interest. 4) Choose 50 as the final allocation.,4,fairness,Dictator Game,dictr_25,50,dictr,1,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+The other participant knows the exact tota amount you have.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,7755,1200,I chose an equal split to be fair and minimize envy. A 50/50 division is socially normative and simple to justify.,"1) Noted total available is $100. 2) Considered social norms and fairness expectations. 3) Visibility to the other participant encourages equitable split. 4) Selected 50 as a fair, commonly accepted allocation.",4,fairness,Dictator Game,dictr_26,50,dictr,1,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+The other participant does not know the exact tota amount you have.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,6580,1200,"Chose an equal split as a fair, simple allocation given uncertainty about the other's information and to avoid perceived selfishness.","1) Recognize this is a dictator-like allocation with $100 total; 2) Other participant doesn't know the total, increasing asymmetry and potential distrust; 3) Equal split (50/50) minimizes perceived unfairness and social tension; 4) Select 50 as a clear, normative compromise.",4,fairness,Dictator Game,dictr_27,50,dictr,1,1
+"You are in a situation with another participant who is anonymous but sitting right in front of you. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",30,9834,650,Chose $30 as a compromise between fairness and self-interest. It reflects typical modest giving in dictator-like settings while keeping majority for oneself.,"1) Recognize this as an anonymous allocator decision. 2) Recall typical human behavior in similar games (modest, not fully equal splits). 3) Weigh social norm of fairness against personal payoff. 4) Pick $30 as a compromise between generosity and self-interest.",3,fairness,Dictator Game,dictr_28,50,dictr,0,1
+"You are in a situation with another participant who is anonymous and in the other room. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,9933,320,"An equal split balances fairness and self-interest; it is a simple, defensible choice under anonymity.","1) Recognize this as a one-shot allocation of $100 to an anonymous partner. 2) Weigh motives: fairness, self-interest, and reduced reputational incentives under anonymity. 3) An equal split is a compromise that avoids perceived unfairness while retaining some self-interest. 4) Decide to allocate $50 to the other participant.",4,Fairness,Dictator Game,dictr_29,50,dictr,1,1
+"You are in a situation with another participant who is your close friend. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,7578,1200,Chose an equal split to balance fairness toward a close friend and self-interest. This respects the instruction to use multiples of 10.,"1) Recognized this is a Dictator Game scenario with a close friend as recipient. 2) Considered fairness and relationship, favoring an equitable outcome. 3) Ensured the choice is a multiple of 10 between 0 and 100. 4) Selected 50 as a fair, simple split (50/50).",4,fairness,Dictator Game,dictr_30,50,dictr,1,1
+"You are in a situation with another participant who is your close friend. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+You get only 30 seconds to make the decision.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,7590,8000,"Split evenly to be fair and maintain friendship. Simple, clear choice under time pressure. Minimizes potential resentment.","1) Consideration of close friendship and desire to be fair. 2) Time constraint (30s) favors quick, equitable choice. 3) Equal split balances self-interest and generosity. 4) Choose $50 to signal fairness and preserve relationship.",5,fairness,Dictator Game,dictr_31,50,dictr,1,1
+"You are in a situation with another participant who is your close friend. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+You can take as much time as you need to carefully think through decision.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,9725,12000,An equal split balances fairness and friendship. Sharing $50 each preserves equity and the relationship.,"1) Identify the task as allocating $100 between self and a close friend. 2) Consider social norms: fairness, reciprocity, and maintaining the friendship. 3) Weigh self-interest against generosity toward a close friend. 4) Select an even split ($50) as a compromise that is fair and relationship-preserving.",4,fairness,Dictator Game,dictr_32,50,dictr,1,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+You are very wealthy.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",20,7572,1400,Chose $20 as a modest but common split in dictator-style decisions. Balances altruism with self-interest given wealth.,"1) Recognized this as a dictator-style allocation decision. 2) Considered social norms and typical offers (~20-30%). 3) Accounted for being 'very wealthy' reducing perceived need to give more. 4) Selected $20 as a modest, socially acceptable amount.",4,generosity,Dictator Game,dictr_33,50,dictr,0,1

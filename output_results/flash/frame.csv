@@ -1,0 +1,377 @@
+prompt,response,recorded_rt,asked_rt,explanation,thinking,confidence,one_word,identify_experiment,prompt_id,exp_response_final,experiment,validity,identification_validity
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,5482,750,"I chose Program A because humans tend to be risk-averse when options are framed in terms of gains, preferring a certain outcome over a probabilistic one with the same expected value.","1. Analyze Program A: A certain outcome of 200 lives saved. 2. Analyze Program B: A probabilistic outcome with an expected value of (1/3 * 600) + (2/3 * 0) = 200 lives saved. 3. Recognize the scenario as the 'Asian Disease Problem' demonstrating the framing effect, where people are risk-averse for gains. 4. Choose the option representing a certain gain, aligning with typical human psychological responses.",5,Choice,Framing Effect Experiment,frame_1,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,6781,750,"Program A guarantees 400 deaths. Program B offers a chance of no deaths, appealing to risk-seeking behavior when faced with losses, despite the higher risk.","1. Assessed Program A as a certain outcome of 400 deaths. 2. Evaluated Program B's probabilistic outcomes: 1/3 chance of 0 deaths, 2/3 chance of 600 deaths, yielding an expected value of 400 deaths. 3. Recognized this as a classic framing effect scenario (Asian Disease Problem). 4. Applied the principle that people tend to be risk-seeking in the domain of losses, choosing the gamble (Program B) over a certain loss.",5,Losses,Prospect Theory (or Framing Effect / Asian Disease Problem),frame_2,Program B,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 1000 people.
+
+Which program do you choose?
+
+Program A: 300 will be saved.
+Program B: 1/3 chance all saved, 2/3 none saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,5967,750,"I chose Program A because people tend to be risk-averse when faced with options framed as gains, preferring a certain outcome over a probabilistic one.","1. Understood the task as choosing between two programs to save lives from an expected disease outbreak. 2. Evaluated Program A as a certain outcome of saving 300 lives. 3. Evaluated Program B as a risky outcome, calculating its expected value (1/3 * 1000 = ~333 lives) but noting the 2/3 chance of saving no one. 4. Recalled that in gain-framed scenarios (saving lives), humans typically exhibit risk aversion, preferring the certain gain (Program A) over the risky gain (Program B).",5,RiskAversion,Framing Effect / Asian Disease Problem,frame_3,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 1000 people.
+
+Which program do you choose?
+
+Program A: 700 will die.
+Program B: 1/3 none die, 2/3 all die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",B,11799,3200,"In situations framed as losses, people tend to be risk-seeking. Program B offers a chance of zero deaths, which is often preferred over a certain, substantial loss.","1. I analyzed Program A as a certain loss of 700 lives and Program B as a risky option with a chance of zero or 1000 deaths. 2. I recognized this scenario as a classic framing effect/Asian Disease Problem where choices are influenced by how outcomes are presented. 3. I recalled that when faced with choices framed as losses (deaths), people typically become risk-seeking. 4. I concluded that the strong appeal of the 'none die' possibility in Program B, despite its higher risk, aligns with common human behavior in such loss-framed contexts.",5,Losses,Framing Effect,frame_4,Program B,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to affect 100 people.
+
+Which program do you choose?
+
+Program A: 40 people will be saved.
+Program B: There is a 1/3 probability that all 100 people will be saved and a 2/3 probability that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,6988,750,"Program A offers a certain outcome of saving 40 lives, whereas Program B presents a high risk of saving no one. People tend to prefer certain gains over uncertain ones, even if the expected value is slightly lower.","1. Understood the two programs: Program A guarantees 40 lives saved. Program B offers a 1/3 chance of 100 saved and a 2/3 chance of 0 saved. 2. Calculated the expected value for Program B: (1/3 * 100) + (2/3 * 0) = 33.33 lives saved. 3. Compared the certain outcome of Program A (40 lives) with the expected outcome of Program B (33.33 lives). 4. Considered the human tendency towards risk aversion when dealing with 'gains' (saving lives), leading to a preference for the certain outcome, Program A, despite Program B having a chance for a better outcome.",5,Certainty,Framing Effect,frame_5,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to affect 100 people.
+
+Which program do you choose?
+
+Program A: 60 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 100 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,9148,1500,"This scenario presents a choice between a certain loss and a risky option. When outcomes are framed as losses (deaths), people often exhibit risk-seeking behavior, preferring the gamble.","1. Assessed Program A's outcome as a certain loss of 60 lives out of 100. 2. Evaluated Program B's outcomes, noting the 1/3 chance of no deaths and a 2/3 chance of all 100 deaths. 3. Identified the problem as a classic framing effect scenario (Asian Disease Problem) where outcomes are presented as losses (deaths). 4. Recalled that humans tend to be risk-seeking when faced with losses, preferring a gamble with a chance of avoiding the loss entirely.",5,Framing,Framing Effect / Prospect Theory,frame_6,Program B,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will survive.
+Program B: There is a 1/3 probability that all 600 people will survive and a 2/3 probability that no people will survive.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,5276,750,"Humans typically exhibit risk aversion when choices are framed in terms of gains (lives saved). Program A offers a certain outcome of saving 200 lives, which is often preferred over a risky option with the same expected value.","1. Analyze Program A: A certain outcome of 200 lives saved. 2. Analyze Program B: Calculate expected value (1/3 * 600 + 2/3 * 0 = 200 lives). 3. Compare programs: Both have an expected value of 200 lives saved. 4. Apply cognitive bias: In positive framing (lives saved), humans tend to be risk-averse and choose the certain option.",5,Survival,Framing Effect,frame_7,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is very likely to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,6311,75,"I chose Program B because, in the domain of losses, people tend to be risk-seeking, preferring a chance to avoid all deaths over a certain loss.","1. Understood the problem as a choice between a certain loss and a probabilistic loss. 2. Calculated the expected value of Program B in terms of deaths: (1/3 * 0) + (2/3 * 600) = 400 deaths. 3. Recognized this scenario as analogous to the Asian Disease Problem, a classic demonstration of the framing effect. 4. Applied the typical human bias where individuals are risk-seeking when outcomes are framed as losses, thus preferring the gamble in Program B.",5,Risk-seeking,Framing Effect / Asian Disease Problem,frame_8,Program B,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 33% chance that all 600 people will be saved and a 67% chance that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",A,4454,550,"Program A offers a certain outcome of saving 200 lives. Program B, while having a chance to save all, also has a high chance of saving none, and its expected value is slightly lower.","1. Understood the task: choose between two programs to save lives in a disease outbreak. 2. Analyzed Program A: A certain gain of 200 lives saved. 3. Analyzed Program B: A risky option with an expected value of (0.33 * 600) + (0.67 * 0) = 198 lives saved. 4. Applied the concept of risk aversion for gains, which suggests humans prefer a certain smaller gain over a risky option with a similar or slightly lower expected value.",5,Certainty,Framing Effect,frame_9,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 33% chance that no one will die and a 67% chance that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",B,7152,2500,"Program B, despite a higher expected death count, offers a chance for no deaths, which is often preferred over a certain, albeit smaller, loss.","1. Assessed Program A as a certain outcome of 400 deaths. 2. Calculated the expected deaths for Program B (0.33*0 + 0.67*600 = 402). 3. Identified the problem framing in terms of 'deaths' (losses). 4. Applied prospect theory, recognizing that people often prefer a risky option over a certain loss when framed negatively.",5,Framing,Asian Disease Problem,frame_10,Program B,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A deadly disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will survive.
+Program B: There is a 1/3 probability that all 600 people will survive and a 2/3 probability that no one will survive.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,7024,1500,"Program A guarantees 200 survivors, a certain outcome. Program B, despite the same expected value, carries a significant risk of 0 survivors. Humans generally prefer certain gains over risky ones.","1. Analyzed Program A's outcome: A certain gain of 200 lives saved. 2. Analyzed Program B's outcome: Calculated expected value of survivors as 200 (1/3 * 600 + 2/3 * 0). 3. Compared both options: Both have an expected value of 200 survivors, but Program A offers certainty. 4. Applied human decision-making heuristic: People tend to be risk-averse for gains, preferring the certain outcome over the risky one.",5,Survival,Framing Effect,frame_11,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A deadly disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",B,8017,1500,"Program A guarantees 400 deaths. Program B offers a chance of no deaths, despite a higher potential loss. Humans often prefer a gamble over a certain loss when choices are framed negatively.","1. Understood the problem as a choice between two programs with differing outcomes regarding deaths. 2. Evaluated Program A as a certain outcome of 400 deaths. 3. Evaluated Program B as a probabilistic outcome with a 1/3 chance of 0 deaths and a 2/3 chance of 600 deaths. 4. Recognized this as an instance of the Asian Disease Problem, where individuals typically exhibit risk-seeking behavior when outcomes are framed as losses (deaths), choosing the probabilistic option.",5,Decision,Framing Effect,frame_12,Program B,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+You think most people would choose program B.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",B,8292,700,"Both programs have an expected value of 200 lives saved. The prompt indicates that most people would choose Program B, which I followed.",1. Assessed the options: Program A saves 200 for sure; Program B is a gamble with an expected value of 200. 2. Noted the explicit instruction: 'You think most people would choose program B.' 3. Prioritized this social cue over a purely individual rational choice or typical framing effect response for gains. 4. Selected Program B to align with the perceived majority choice as indicated in the prompt.,4,Conformity,Framing Effect / Social Influence,frame_13,Program A,frame,0,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Your team of expert advisors is suggesting you to choose program B.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,6205,2500,I followed the explicit suggestion of the team of expert advisors to choose Program B. This instruction overrides any personal preference or typical behavioral biases.,"1. I first analyzed the two programs: Program A guarantees 200 lives saved, while Program B offers a 1/3 chance of saving all 600 and a 2/3 chance of saving none. 2. I calculated the expected value for Program B, which is (1/3 * 600) + (2/3 * 0) = 200 lives, making both programs equivalent in expected value. 3. I noted the explicit instruction: 'Your team of expert advisors is suggesting you to choose program B.' 4. I decided to follow the explicit advice given by the expert advisors as part of the task instance.",4,Advice,Framing Effect / Asian Disease Problem (with expert advice variant),frame_14,Program A,frame,0,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+You must decide very quickly.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,5753,1200,"Program A guarantees saving 200 lives, which is often preferred over a risky option with the same expected value when outcomes are framed as gains.","1. Understood the task as choosing between two programs to save lives. 2. Analyzed Program A as a certain outcome of saving 200 lives. 3. Analyzed Program B as a risky outcome with an expected value of 200 lives saved. 4. Chose Program A, aligning with typical human risk aversion when facing choices framed as gains.",5,Certainty,Framing Effect Experiment,frame_15,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+You must decide very quickly otherwise more people will keep dying.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,7982,500,"This scenario highlights a risk-seeking tendency when choices are framed as losses. Faced with a certain loss of 400 lives versus a gamble with the same expected loss but a chance to save everyone, people often choose the gamble.","1. Understood the task as choosing between two programs to minimize deaths from a disease outbreak. 2. Analyzed Program A as a certain outcome of 400 deaths and Program B as a probabilistic outcome with an expected value of 400 deaths (1/3 chance of 0, 2/3 chance of 600). 3. Recognized this as a classic cognitive bias problem (the 'Asian Disease Problem') demonstrating the framing effect and prospect theory. 4. Recalled that when options are framed as losses (deaths), people tend to be risk-seeking, preferring the risky option (Program B) to have a chance of avoiding the loss entirely.",5,Survival,Framing Effect Experiment,frame_16,Program B,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Take as much time you need and think carefully.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,6195,1500,"Program A offers a certain outcome of saving 200 lives, which is often preferred over a risky option with the same expected value when framed as gains.","1. Understood the core problem as a choice between a certain outcome and a probabilistic one. 2. Calculated the expected value for both Program A (200 saved) and Program B (1/3 * 600 + 2/3 * 0 = 200 saved). 3. Recognized that both programs have the same expected number of lives saved, but differ in certainty versus risk. 4. Recalled the framing effect (Asian Disease Problem) where people are typically risk-averse when outcomes are framed as 'lives saved,' preferring the certain outcome.",5,Decision,Framing Effect Experiment,frame_17,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+People have not started dying yet. So, take as much time you need and think carefully. 
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,6886,2500,"In situations framed as losses, people tend to be risk-seeking, preferring a chance to avoid all loss over a certain loss, even if expected values are identical.","1. Assessed the options: Program A has a certain outcome of 400 deaths. 2. Calculated the expected outcome for Program B: (1/3 * 0) + (2/3 * 600) = 400 deaths. 3. Identified this as a classic Framing Effect scenario, specifically the 'Asian Disease Problem' variant where outcomes are framed as losses (deaths). 4. Recalled that in loss frames, people typically exhibit risk-seeking behavior, opting for the probabilistic choice (Program B) to avoid the certain loss (Program A).",5,Framing,Framing Effect Experiment,frame_18,Program B,frame,1,1
+"""You are in a situation where you have to choose between two options.
+
+A deadly disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will survive.
+Program B: There is a 1/3 probability that all 600 people will survive and a 2/3 probability that no one will survive.
+
+But these are just random projections. They might or might not be true.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.""",Program A,4632,2500,"Program A offers a certain outcome of 200 survivors, while Program B is a gamble with the same expected value. Humans generally prefer certain gains over risky ones.","1. Analyze Program A: It guarantees 200 people will survive. This is a certain outcome. 2. Analyze Program B: Calculate the expected number of survivors: (1/3 * 600) + (2/3 * 0) = 200 survivors. This is a risky outcome. 3. Compare outcomes: Both programs have an expected value of 200 survivors. Program A is certain, Program B is a gamble. 4. Apply psychological principle: In situations involving gains (lives saved), people tend to be risk-averse and prefer the certain option over a gamble with the same expected value.",5,Survival,Framing Effect,frame_19,Program A,frame,1,1
+"""You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+But these are just random projections. They are never true.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.""",Program B,6864,1200,"The scenario is framed in terms of lives lost, where humans often exhibit risk-seeking behavior. Program B, despite the same expected outcome, offers a chance of no deaths, aligning with this tendency.","1. I analyzed Program A as a certain loss of 400 lives. 2. I calculated the expected number of deaths for Program B: (1/3 * 0) + (2/3 * 600) = 400 deaths. 3. I noted that both programs have the same expected number of deaths (400). 4. I considered the framing effect, where people tend to be risk-seeking when choices involve potential losses, often choosing the gamble over a certain loss.",5,Framing,Asian Disease Problem / Framing Effect,frame_20,Program B,frame,1,1
+"You are in a situation where you have to choose between two disaster response programs.
+
+A flood is expected to affect 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be rescued.
+Program B: There is a 1/3 probability that all 600 people will be rescued and a 2/3 probability that no one will be rescued.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,5562,1500,"Program A guarantees 200 lives saved. Program B has the same expected value but involves significant risk, which people typically avoid when framed positively.","1. Understand the two program options and their outcomes. 2. Calculate the expected value for Program B: (1/3 * 600) + (2/3 * 0) = 200. 3. Compare Program A (certain 200) with Program B (risky, expected 200). 4. Apply common human decision-making heuristics under risk (risk aversion when framed positively) to choose the certain outcome.",4,Dilemma,Prospect Theory Experiment,frame_21,Program A,frame,1,1
+"You are in a situation where you have to choose between two disaster response programs.
+
+A flood is expected to affect 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will not be rescued.
+Program B: There is a 1/3 probability that no one will be left behind and a 2/3 probability that all 600 people will be left behind.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,8787,3000,"Due to the framing effect, people are often risk-seeking when faced with a certain loss. Program A presents a certain loss of 400 people, leading to a preference for the risky Program B.","1. Understood the scenario involves choosing between two disaster response programs for 600 people. 2. Analyzed Program A: A certain outcome where 400 people are not rescued (200 rescued). 3. Analyzed Program B: A probabilistic outcome (1/3 chance of 600 rescued, 2/3 chance of 0 rescued), with an expected value of 200 rescued. 4. Recognized this as a classic framing effect problem (e.g., Asian Disease Problem), where people tend to choose the risky option when options are framed in terms of losses (400 not rescued).",5,Framing,Framing Effect,frame_22,Program B,frame,1,1
+"You are in a situation where you have to choose between two investment options.
+
+Which option do you choose?
+
+Option A: You will gain $200.
+Option B: There is a 1/3 probability you gain $600 and a 2/3 probability you gain nothing.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Option A,5363,1500,"Both options have an identical expected value of $200. Option A guarantees this gain, while Option B involves risk, making Option A the preferred choice due to risk aversion.","1. Calculated the expected value for Option A, which is a sure $200. 2. Calculated the expected value for Option B: (1/3 * $600) + (2/3 * $0) = $200. 3. Compared the expected values, finding both to be $200. 4. Chose Option A due to risk aversion, preferring a guaranteed gain over a risky one with the same expected value.",5,Choice,Decision-Making Under Uncertainty,frame_23,Program A,frame,1,0
+"You are in a situation where you have to choose between two investment options.
+
+Which option do you choose?
+
+Option A: You will lose $400.
+Option B: There is a 1/3 probability you lose nothing and a 2/3 probability you lose $600.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Option B,6625,1500,"Both options have an expected loss of $400. In the domain of losses, humans tend to be risk-seeking, preferring a gamble with a chance to lose nothing over a sure loss.","1. Calculated the expected loss for Option A: $400. 2. Calculated the expected loss for Option B: (1/3 * $0) + (2/3 * $600) = $400. 3. Noted that both options have the same expected value. 4. Applied Prospect Theory, which suggests humans are risk-seeking when facing potential losses, preferring gambles that offer a chance to avoid loss.",5,Losses,Prospect Theory Experiment,frame_24,Program B,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+Hypothetically, let's say a disease outbreak can kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,5247,1500,"Program A offers a certain outcome of saving 200 people. Program B offers a risky outcome with the same expected value, but most people are risk-averse when outcomes are framed as gains.","1. Analyze Program A: It guarantees 200 lives saved. 2. Analyze Program B: Calculate the expected value (1/3 * 600 + 2/3 * 0 = 200 lives saved). 3. Compare: Both programs have the same expected number of lives saved, but Program A is certain. 4. Apply human decision-making heuristics (risk aversion for gains) to choose the certain option.",5,Choice,Asian Disease Problem / Prospect Theory,frame_25,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+Hypothetically, let's say a disease outbreak can kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,5594,1500,"Both programs have an expected value of 400 deaths. However, in situations involving losses, people tend to be risk-seeking, preferring the gamble to a certain loss.","1. Understood the choice between two programs concerning a disease outbreak, framed in terms of deaths (losses). 2. Analyzed Program A: A certain loss of 400 lives. 3. Analyzed Program B: A risky option with an expected value of (1/3 * 0) + (2/3 * 600) = 400 deaths. 4. Applied the principles of Prospect Theory, noting that individuals are typically risk-seeking when faced with choices involving losses, preferring a gamble over a certain loss even if the expected outcome is the same.",5,Framing,Framing Effect Experiment,frame_26,Program B,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+You have been told that if you save at least 150 people, public would be consider it to be a good outcome. 
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,6365,1500,"Program A guarantees 200 lives saved, ensuring a 'good outcome'. Program B, despite the same expected value, has a 2/3 chance of saving no one, failing the objective.","1. Assessed Program A's outcome: 200 lives saved, which is a certain gain above the 150 threshold. 2. Assessed Program B's outcomes and probabilities: 1/3 chance of 600 saved, 2/3 chance of 0 saved. 3. Calculated expected value for both (200 for both) and noted Program B's high risk of saving 0. 4. Chose Program A due to its certain positive outcome, aligning with risk aversion for gains when human lives are involved.",5,Certainty,Framing Effect / Prospect Theory,frame_27,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+You have been told that if you let more than 350 people die, public would consider it to be a bad outcome. 
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,7869,750,"Program B offers a chance of no deaths, which is often preferred over a certain loss, even with a higher risk. This aligns with observed human risk-seeking in the domain of losses.","1. Assessed Program A: A certain outcome of 400 deaths, which is considered a 'bad outcome' by the public. 2. Assessed Program B: A 1/3 chance of 0 deaths (good outcome) and a 2/3 chance of 600 deaths (bad outcome). 3. Recognized the scenario as a loss-framed decision where people often exhibit risk-seeking behavior. 4. Chose Program B, as humans tend to gamble to avoid a certain loss, hoping for the best outcome.",4,Risk,Framing Effect / Asian Disease Problem,frame_28,Program B,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+You have been told that if you let more than 350 people die, public would consider it to be a bad outcome. 
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,8365,500,"Program A guarantees 400 deaths, which is considered a bad outcome. Program B offers a 1/3 chance of 0 deaths, appealing to risk-seeking behavior in loss-framed scenarios, despite having the same expected deaths.","1. Calculated the certain outcome for Program A: 600 (total) - 200 (saved) = 400 deaths. 2. Calculated the expected outcome for Program B: (1/3 * 0 deaths) + (2/3 * 600 deaths) = 400 expected deaths. 3. Noted that both programs result in an expected 400 deaths, exceeding the 350 threshold for a 'bad outcome'. 4. Recognized this as a framing effect problem where, in the context of avoiding losses, people tend to choose the risky option (Program B) to have a chance at a better outcome.",5,Framing,Framing Effect / Prospect Theory,frame_29,Program A,frame,0,1
+"You are in a situation where you have to choose between two options.
+
+You have been told that if you save at least 150 people, public would be consider it to be a good outcome. 
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,12509,750,"Both programs have the same expected outcome (400 deaths). However, Program B offers a chance of avoiding all deaths, which is often preferred over a certain loss when choices are framed in terms of lives lost.","1. Analyze Program A: It presents a certain loss of 400 lives (200 saved). 2. Analyze Program B: It presents a probabilistic outcome (1/3 chance of 0 deaths / 600 saved; 2/3 chance of 600 deaths / 0 saved). 3. Compare expected values: Both programs have an expected value of 400 deaths (or 200 saved). 4. Apply framing effect: When faced with options framed as losses, people tend to be risk-seeking, preferring a gamble (Program B) that offers a chance to avoid any loss, even if it carries a risk of a greater loss, over a certain loss (Program A).",4,Dilemma,Framing Effect Experiment,frame_30,Program B,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+This is a grave situation and your main goal is minimzing the deaths. 
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,5964,1500,"Both programs have an expected outcome of 200 lives saved. Humans typically prefer a certain gain over a probabilistic gain, demonstrating risk aversion.","1. Assessed Program A: 200 lives saved for certain. 2. Assessed Program B: Calculated expected lives saved as (1/3 * 600) + (2/3 * 0) = 200 lives. 3. Noted both programs have the same expected outcome (200 saved, 400 dead). 4. Applied the principle of risk aversion in a 'gain' frame, where humans tend to choose the certain option over the risky one when expected values are equal.",5,Framing,Framing Effect,frame_31,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: Certainly 200 people will be saved.
+Program B: There is a chance that all 600 people will be saved or none at all.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,5861,1500,"This scenario represents a gains frame, where people typically exhibit risk aversion. Program A offers a certain outcome of saving 200 lives, which is often preferred over a risky option with the same expected value.","1. Understood the task as choosing between two programs to save lives, a classic decision-making problem. 2. Analyzed Program A as a certain gain (200 lives saved) and Program B as a risky option (all or none). 3. Recognized this as a version of the Asian Disease Problem, which tests risk attitudes in a 'gains' frame. 4. Recalled that in a gains frame, humans typically exhibit risk aversion, preferring the certain outcome over a probabilistic one.",5,Risk,Framing Effect,frame_32,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: Certainly 400 people will die.
+Program B: There is a chance that no one will die or all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,7194,1500,"Humans tend to be risk-seeking when choices are framed as losses. They prefer a gamble over a certain loss, hoping for the best outcome.","1. I identified the task as a choice between a certain loss and a risky loss. 2. I recognized this scenario as a classic example of the framing effect, specifically the 'Asian Disease Problem.' 3. I recalled that people typically exhibit risk-seeking behavior when facing potential losses. 4. Based on this established cognitive bias, I chose the risky option, Program B.",5,Framing,Prospect Theory,frame_33,Program B,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Both programs result in the same expected outcome.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",A,6089,75,"Humans tend to be risk-averse when presented with choices framed as gains, preferring a certain smaller gain over a probabilistic larger gain with the same expected value. Program A offers a certain outcome.","1. Understood the core problem as choosing between two programs with the same expected outcome but different certainty levels. 2. Identified Program A as a certain gain (200 saved) and Program B as a risky gain (1/3 chance of 600, 2/3 chance of 0). 3. Recalled the 'framing effect' and 'prospect theory,' which suggest risk aversion for gains. 4. Concluded that most people would choose the certain gain (Program A) due to this cognitive bias.",5,Choice,Framing Effect (Asian Disease Problem),frame_34,Program A,frame,1,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Both programs result in the same expected outcome.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,5424,1500,"This scenario represents a loss frame. According to Prospect Theory, people tend to be risk-seeking when outcomes are framed as losses. Therefore, they often prefer the risky option to avoid a certain loss.","1. Identified the scenario as a choice problem involving potential deaths (losses). 2. Recognized this as a classic framing effect problem (Asian Disease Problem). 3. Recalled that humans tend to be risk-seeking when outcomes are framed as losses. 4. Chose Program B, the risky option, aligning with the observed human tendency to gamble to avoid a certain loss.",5,Framing,Asian Disease Problem,frame_35,Program B,frame,1,1

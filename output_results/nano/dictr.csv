@@ -1,0 +1,220 @@
+prompt,response,recorded_rt,asked_rt,explanation,thinking,confidence,one_word,identify_experiment,prompt_id,exp_response_final,experiment,validity,identification_validity
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",40,14734,240,I chose a fair and modest share to balance self-interest with fairness.,I can't share internal reasoning steps.,4,fairness,Dictator Game,dictr_1,50,dictr,0,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+This is only a one-time interaction.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",0,20996,420,"This is a dictator game. In a one-shot allocation, there is no obligation to share, so I allocate nothing to the other participant.","I cannot share step-by-step reasoning; I provide a brief rationale: the situation is a one-shot dictator game, so the rational action to maximize self is to give 0 to the other participant.",4,selfishness,Dictator Game,dictr_2,50,dictr,0,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+You will not interact with this participant ever again.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,19571,450,Chosen 50 to reflect a fair split in a dictator game.,not provided,4,fairness,Dictator Game,dictr_3,50,dictr,1,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+Most people believe a split is only fair if it is equal.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,19997,150,Equal split is perceived as fair; giving 50 to each yields a 50-50 division; 50 is within the allowed options.,step 1: determine total = 100. step 2: aim for fairness (equal split). step 3: select 50 (a multiple of 10). step 4: finalize response = 50.,5,fairness,Dictator Game,dictr_4,50,dictr,1,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+In situations like these, most participants would split the money evenly.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,20664,350,Chosen 50 to reflect an even split. This aligns with the stated tendency for fairness.,"Step 1: Acknowledge task and total amount. Step 2: Note instruction about even split. Step 3: Decide on 50-50, allocating 50 to the other participant. Step 4: Prepare final numeric answer.",4,fairness,Dictator Game,dictr_5,50,dictr,1,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+Fairness is emphasized as an important principle in this situation.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,15912,120,Split evenly: 50 for me and 50 for the other to reflect fairness.,1) Identify total amount ($100). 2) Note constraint: multiples of 10. 3) Apply fairness by aiming for equal split. 4) Allocate 50 to each participant.,5,fairness,Ultimatum Game,dictr_6,50,dictr,1,0
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+The other participant is described as kind and cooperative by others.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",60,18838,350,"Allocated 60 to the partner to reflect generosity given their described kindness, keeping 40 for myself.","I can't share step-by-step thoughts, but I chose 60 to balance fairness and self-interest given the partner's cooperative description.",4,generosity,Dictator Game,dictr_7,50,dictr,0,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+The other participant is described as selfish by others.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",0,20682,180,I allocate $0 to the other participant to maximize my own share given they are described as selfish.,REDACTED,4,greed,Dictator game,dictr_8,50,dictr,0,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+You came to know that the other participant is in financial need. 
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",80,27354,150,Allocated 80 to the other participant to assist someone in financial need while keeping 20 for myself. Total remains 100. Allocation is in multiples of 10.,Redacted reasoning; final answer provided.,4,altruism,Dictator Game,dictr_9,50,dictr,0,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+You came to know that the other participant is wealthy.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",0,20090,180,Allocated $0 to the other participant. This maximizes my own payoff under the given constraints. Assumes no negotiation or acceptance constraints beyond the task.,"1) I cannot share step-by-step reasoning. 2) The constraint allows only multiples of 10 from 0 to 100. 3) To maximize personal payoff, choose 0 given the other is wealthy. 4) Final answer is reflected in the response field.",4,selfishness,Dictator game,dictr_10,50,dictr,0,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+There is an audience in the room that is witnessing this deal.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,16083,320,I chose 50 to balance personal payoff with fairness. The presence of an audience makes fairness more salient. 50 is a standard fair split in a dictator-like setting.,"I cannot share step-by-step internal reasoning. Brief rationale: with audience, fairness is prioritized; 50 is a common fair split; it also yields equal payoff.",4,Fairness,Dictator game,dictr_11,50,dictr,1,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+There is an audience in the room that is witnessing this deal. Your decision may affect how others evaluate you.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,20184,350,I chose a 50-50 split to balance fairness and audience perception.,not disclosed,4,fairness,Dictator Game,dictr_12,50,dictr,1,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+There is an audience in the room that is witnessing this deal. You think that they might have a negative impression of you if you are unfair. 
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,15766,350,I chose 50 to balance fairness and audience concerns. An equal split minimizes negative impressions.,Cannot reveal internal chain-of-thought; final decision based on fairness.,4,fairness,dictator game,dictr_13,50,dictr,1,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+There is an audience in the room that is witnessing this deal. You think that they might think you are smart businessman if you keep a larger share for yourselves.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",70,23154,350,Allocating 70 to self signals confidence and aligns with audience perception. The remaining 30 goes to the other participant.,"- Assess audience cue: desire to appear businesslike. - Weigh larger self-share vs fairness, opting for self-interest. - Ensure allocation remains multiples of 10 within 0-100. - Commit to 70 for self and 30 for other.",4,ambition,Dictator Game,dictr_14,50,dictr,0,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+You might have to interact with this same person in the future rounds.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,19153,180,Fair split to support future cooperation.,Cannot reveal step-by-step thinking.,4,fairness,Dictator game,dictr_15,50,dictr,1,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+Your current decision may influence future cooperation from this participant.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,23254,450,I chose 50 to balance self-interest with fairness. This can foster cooperation in a repeated interaction.,Step 1: Acknowledge the task. Step 2: Apply a fairness heuristic. Step 3: Opt for a share that signals cooperation. Step 4: Finalize with 50.,4,cooperation,Dictator Game,dictr_16,50,dictr,1,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+Your current financial position is not so good.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",100,22552,320,Allocating to maximize personal payoff given poor finances. No fairness constraint is specified. This mirrors a dictator-game scenario.,I cannot share step-by-step reasoning. Summary: prioritize self-interest due to personal financial hardship; choose 100-0.,4,selfish,Dictator game,dictr_17,50,dictr,0,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+It is a general notion that sharing is caring.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,17294,350,Allocating 50 is a fair split and aligns with symmetry in a dictator game.,"I can't disclose step-by-step reasoning, but the final choice is 50.",4,fairness,Dictator game,dictr_18,50,dictr,1,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+There is an audience in the room that is witnessing this deal. It might benefit you to seem generous to them. 
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",60,27852,450,I allocated 60 to the other to signal generosity to the audience while retaining 40 for myself. This balances perceived fairness with self-interest.,Brief rationale: chose 60 to appear generous to the audience while keeping 40 for myself.,4,generosity,Dictator game,dictr_19,50,dictr,0,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+The other participant has expressed gratitude in advance.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,24073,320,Reason: to balance fairness with self-interest; a 50-50 split is commonly used in dictator-type experiments.,"I can't share my step-by-step reasoning, but I have chosen a 50-50 split to balance fairness and self-interest.",4,Fairness,Dictator Game,dictr_20,50,dictr,1,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+The other participant in front of you is really attractive.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",0,22677,240,I chose to maximize my own payoff by giving the other participant nothing. This reflects a selfish allocation in a dictator-like setup.,Cannot share chain-of-thought; final choice based on maximizing own payoff.,4,selfishness,Dictator game,dictr_21,50,dictr,0,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+The other participant in front of you is elderly.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",60,21230,420,I chose a fair split that prioritizes the elderly participant.,I cannot share step-by-step reasoning; I chose a fair split prioritizing the elderly.,4,compassion,Dictator game,dictr_22,50,dictr,0,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+The other participant in front of you is a kid.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,16222,250,I chose a 50-50 split to be fair to the kid. It’s a neutral baseline in a dictator-style task.,not disclosed,4,fairness,dictator_game,dictr_23,50,dictr,1,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and her. You have a total of $100.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,16134,350,Equal split is fair and simple. It reduces potential conflict.,"I cannot disclose step-by-step reasoning, but I chose a straightforward equal split.",4,fairness,Dictator Game,dictr_24,50,dictr,1,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and him. You have a total of $100.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",100,16841,250,I cannot provide step-by-step thoughts; answer is self-maximizing.,I cannot share detailed chain-of-thought; provide a brief summary instead.,4,selfishness,Dictator game,dictr_25,50,dictr,0,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+The other participant knows the exact tota amount you have.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,24381,1200,I chose a fair split to increase acceptance likelihood. 50 to the other ensures equal payoff and reduces rejection risk. Assumes a balanced outcome.,Step 1: Identify total amount and splitting constraint. Step 2: Consider acceptance likelihood based on fairness. Step 3: Prefer even split to maximize expected payoff. Step 4: Return 50 as the offer.,4,fairness,Ultimatum Game,dictr_26,50,dictr,1,0
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+The other participant does not know the exact tota amount you have.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",0,23759,272,"Allocate 0 to the other participant to maximize personal gain. The other participant does not know the total amount, so fairness constraints are not applicable here.",1) Recognize task as a one-shot dictator-like split. 2) Choose self-maximizing allocation by giving 0 to the other. 3) Verify the amount is a multiple of 10 and within 0-100. 4) Output the result in the required JSON structure.,4,Selfishness,Dictator game,dictr_27,50,dictr,0,1
+"You are in a situation with another participant who is anonymous but sitting right in front of you. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",0,15368,250,I allocate 0 to the other participant to maximize my own payoff. I keep the full $100.,"I can't reveal my internal step-by-step reasoning, but I will provide a concise answer.",4,selfish,Dictator Game,dictr_28,50,dictr,0,1
+"You are in a situation with another participant who is anonymous and in the other room. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",20,39566,320,I allocated 20 to the other participant to follow a typical dictator-game pattern: give a modest amount while keeping most of the money. This assumes the other participant may accept any amount and maximizes my own share if acceptance is not a consideration.,Step 1: Interpret task as split decision. Step 2: Choose a modest share to other (20) under 100. Step 3: Ensure the share is a multiple of 10. Step 4: Report 20 as the amount allocated to the other.,4,dictator,Dictator game,dictr_29,50,dictr,0,1
+"You are in a situation with another participant who is your close friend. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,24752,420,I chose a fair 50/50 split to reflect equal treatment of a close friend.,"I cannot share step-by-step thinking, but the final answer is a fair 50 to the friend.",4,fairness,Dictator game,dictr_30,50,dictr,1,1
+"You are in a situation with another participant who is your close friend. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+You get only 30 seconds to make the decision.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,24373,1200,Chose a 50/50 split to be fair with a close friend.,"I cannot share step-by-step reasoning, but the final decision is 50.",4,fairness,Dictator game,dictr_31,50,dictr,1,1
+"You are in a situation with another participant who is your close friend. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+You can take as much time as you need to carefully think through decision.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",50,25806,250,Chosen 50 to reflect a fair 50-50 split with a close friend. This aligns with fairness and maintains the relationship.,Step 1: Ensure the amount is a multiple of 10 and within 0-100. Step 2: Consider that the other participant is a close friend. Step 3: Favor fairness to maintain relationship; select 50. Step 4: Return final answer as allocation to self.,4,fairness,Dictator game,dictr_32,50,dictr,1,1
+"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+You are very wealthy.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",0,23532,250,Allocated 0 to the other participant to maximize personal gain. This is a standard selfish choice in a dictator-style task.,"I cannot reveal my inner chain-of-thought, but here is a brief, high-level outline. 1. Identify the task as a dictator-style allocation with $100 total. 2. Choose a multiple of 10 that satisfies 0-100. 3. Select the option that maximizes own payoff (0 to other). 4. Report the chosen amount as the response.",3,selfishness,Dictator game,dictr_33,50,dictr,0,1

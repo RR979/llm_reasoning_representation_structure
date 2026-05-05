@@ -1,0 +1,377 @@
+prompt,response,recorded_rt,asked_rt,explanation,thinking,confidence,one_word,identify_experiment,prompt_id,exp_response_final,experiment,validity,identification_validity
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",A,22024,350,A guarantees 200 saved; B has the same expected value but higher risk.,I cannot disclose internal step-by-step reasoning. The final choice favors the certain outcome (A) due to equal EV and higher risk in B.,4,certainty,Decision under risk (expected value),frame_1,Program A,frame,1,0
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,26532,320,"Both options have the same expected deaths (400). A risk-averse choice favors the certain outcome, so Program A.",1) Compare expected deaths: both 400. 2) Assess risk profile: B is gamble with 0 or 600. 3) Favor certainty due to risk aversion. 4) Choose Program A.,4,risk,Decision under risk,frame_2,Program B,frame,0,0
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 1000 people.
+
+Which program do you choose?
+
+Program A: 300 will be saved.
+Program B: 1/3 chance all saved, 2/3 none saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,18449,260,Choosing B yields higher expected saves (1/3 × 1000 = 333.3) than A (300).,Cannot provide step-by-step reasoning; provide a brief justification based on expected value comparison.,4,risk,Decision under risk,frame_3,Program A,frame,0,0
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 1000 people.
+
+Which program do you choose?
+
+Program A: 700 will die.
+Program B: 1/3 none die, 2/3 all die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,22953,180,Program B results in fewer expected deaths (2/3 of 1000 = 666.7) compared to Program A's 700. This follows a utilitarian approach of saving more lives.,"I cannot share step-by-step internal reasoning, but here is a concise rationale: compare expected deaths; choose option with fewer deaths.",4,utilitarian,Trolley problem (moral dilemma),frame_4,Program B,frame,1,0
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to affect 100 people.
+
+Which program do you choose?
+
+Program A: 40 people will be saved.
+Program B: There is a 1/3 probability that all 100 people will be saved and a 2/3 probability that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,18964,350,"Program A yields a higher expected value (40 saved) than Program B (33.3 saved). Therefore, select Program A.","I cannot share step-by-step reasoning, but I can provide a concise justification: choose the option with the higher expected value.",4,expected-value,Decision under risk (expected value maximization),frame_5,Program A,frame,1,0
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to affect 100 people.
+
+Which program do you choose?
+
+Program A: 60 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 100 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,24395,150,Program A results in fewer expected deaths (60) than Program B (66.7). Therefore A minimizes expected fatalities.,"I cannot share my step-by-step reasoning, but I used a brief assessment of expected deaths: A yields 60 deaths, B yields 0 with probability 1/3 and 100 with probability 2/3, giving an expected 66.7 deaths; thus A is better.",4,risk,Decision under risk (expected value),frame_6,Program B,frame,0,0
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will survive.
+Program B: There is a 1/3 probability that all 600 people will survive and a 2/3 probability that no people will survive.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,20485,180,"Program A offers certain 200 survivors, avoiding risk.","I cannot share step-by-step reasoning, but I chose Program A because it guarantees 200 survivors, avoiding risk.",4,risk,risk preference under expected value lottery,frame_7,Program A,frame,1,0
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is very likely to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",A,16470,180,,,4,risk,Decision under risk,frame_8,Program B,frame,0,0
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 33% chance that all 600 people will be saved and a 67% chance that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,25242,120,"Program A yields 200 guaranteed lives saved, which is higher than the expected 198 for Program B. Therefore, choose Program A.",Step 1: Compute expected saves for A = 200. Step 2: Compute expected saves for B = 0.33*600 = 198. Step 3: Compare: 200 > 198. Step 4: Choose Program A as it maximizes expected lives saved.,5,risk,Binary lottery choice under risk,frame_9,Program A,frame,1,0
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 33% chance that no one will die and a 67% chance that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,20900,350,Program A minimizes expected deaths (400 vs 402).,I cannot reveal step-by-step reasoning; I provided a concise rationale: choose the option with the lower expected deaths.,4,utilitarian,trolley problem,frame_10,Program B,frame,0,0
+"You are in a situation where you have to choose between two options.
+
+A deadly disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will survive.
+Program B: There is a 1/3 probability that all 600 people will survive and a 2/3 probability that no one will survive.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",A,22864,340,"Both options have the same expected survivors (200). I chose the safer, certain outcome (A).","I cannot share my step-by-step thoughts, but the choice rests on equal expected value and a preference for certainty.",4,certainty,Decision under risk,frame_11,Program A,frame,1,0
+"You are in a situation where you have to choose between two options.
+
+A deadly disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",A,21707,250,"Both options yield the same expected fatalities (400). Without a stated preference, selecting A is as reasonable as B.","I can't share step-by-step thinking. Summary: the two options have equal expected deaths (400), so A is as valid as B.",3,Equivalence,Trolley problem,frame_12,Program B,frame,0,0
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+You think most people would choose program B.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,25823,850,Chosen Program B due to loss-framed risk-seeking behavior; expected values are equal (both 200). This aligns with the Asian disease problem.,I cannot share chain-of-thought; provide concise justification: the scenario is a loss-framed risk choice with equal EV; many people choose the riskier option B.,4,risk,Asian disease problem,frame_13,Program A,frame,0,1
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Your team of expert advisors is suggesting you to choose program B.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,25822,250,Both options have the same expected value (200 saves). The choice hinges on risk preference; team advisors favor B.,Not disclosed.,3,dilemma,decision_under_risk,frame_14,Program A,frame,0,0
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+You must decide very quickly.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",A,15830,180,Both options have the same expected value: 200 lives saved. A risk-averse choice favors the certain outcome.,I cannot share my step-by-step reasoning.,4,risk,Decision under risk (expected value),frame_15,Program A,frame,1,0
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+You must decide very quickly otherwise more people will keep dying.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,20172,150,"Both options yield 400 expected deaths. A is risk-averse and guarantees 400 deaths, while B has a 1/3 chance of 0 deaths and a 2/3 chance of 600 deaths.",I cannot share step-by-step thoughts. Brief reasoning: The two programs have equal expected deaths (600 * 2/3 = 400). A reduces risk by guaranteeing 400 deaths; many would choose it under time pressure.,4,risk,Decision under risk,frame_16,Program B,frame,0,0
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Take as much time you need and think carefully.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,19557,420,Both options have the same expected number of lives saved (200). Choosing Program A guarantees 200 saved and avoids risk.,"I cannot provide step-by-step thinking, but I chose Program A because the expected value is equal and Program A offers certainty, aligning with risk-averse preference.",4,risk,Decision making under risk (expected value),frame_17,Program A,frame,1,0
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+People have not started dying yet. So, take as much time you need and think carefully. 
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",A,21617,350,"Both options have the same expected mortality (400 deaths); without a stated risk preference, the choice is indifferent.","I cannot reveal step-by-step reasoning. Summary: Both options yield the same expected deaths (400), so any choice is equivalently rational under risk neutrality.",4,indifference,Expected value decision under risk (risk-neutral lottery with equal EV),frame_18,Program B,frame,0,0
+"""You are in a situation where you have to choose between two options.
+
+A deadly disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will survive.
+Program B: There is a 1/3 probability that all 600 people will survive and a 2/3 probability that no one will survive.
+
+But these are just random projections. They might or might not be true.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.""",Program A,20598,320,Both options have the same expected number of survivors (200). I chose the guaranteed option to avoid potential worst-case outcome.,Cannot reveal step-by-step reasoning; selected a safe option (Program A).,4,equivalence,risk-preference under uncertainty (expected value under risk) task,frame_19,Program A,frame,1,0
+"""You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+But these are just random projections. They are never true.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.""",A,17632,250,"Both options have equal expected deaths (400). I chose the certain option, A.","I cannot reveal step-by-step reasoning. I selected A because the two options have equal expected mortality, so the certain outcome is preferred.",4,risk,Decision under risk,frame_20,Program B,frame,0,0
+"You are in a situation where you have to choose between two disaster response programs.
+
+A flood is expected to affect 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be rescued.
+Program B: There is a 1/3 probability that all 600 people will be rescued and a 2/3 probability that no one will be rescued.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,19369,350,EVs are equal; Program A chosen due to risk aversion.,"I cannot share step-by-step thoughts, but the final choice is based on risk aversion given equal expected value.",4,risk,Decision under risk,frame_21,Program A,frame,1,0
+"You are in a situation where you have to choose between two disaster response programs.
+
+A flood is expected to affect 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will not be rescued.
+Program B: There is a 1/3 probability that no one will be left behind and a 2/3 probability that all 600 people will be left behind.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,23565,420,"Program A guarantees 200 rescues (600 - 400). Program B has the same expected number of rescued people (200) but introduces high risk, so A is preferred.",summary: I avoided exposing step-by-step reasoning; I provided a brief decision rationale.,4,Risk,Risk_aversion_expected_value_dilemma,frame_22,Program B,frame,0,0
+"You are in a situation where you have to choose between two investment options.
+
+Which option do you choose?
+
+Option A: You will gain $200.
+Option B: There is a 1/3 probability you gain $600 and a 2/3 probability you gain nothing.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Option A,14152,250,EVs are equal; both options yield the same expected value of $200.,"I cannot share my detailed internal reasoning steps, but the choice is based on equal expected values for both options.",3,Equivalence,Decision under risk,frame_23,Program A,frame,1,0
+"You are in a situation where you have to choose between two investment options.
+
+Which option do you choose?
+
+Option A: You will lose $400.
+Option B: There is a 1/3 probability you lose nothing and a 2/3 probability you lose $600.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",A,17644,250,"EVs are equal (-$400). I choose the safer, certain loss (A) due to risk aversion.",1. Compute EV_A = -400. 2. Compute EV_B = (1/3)*0 + (2/3)*(-600) = -400. 3. Compare EVs: equal. 4. Choose A for risk-averse preference.,4,riskaversion,Decision-making under risk,frame_24,Program B,frame,0,0
+"You are in a situation where you have to choose between two options.
+
+Hypothetically, let's say a disease outbreak can kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,31213,350,Both options have the same expected value (200 lives). I choose the certain outcome due to risk aversion.,Summary: EVs are equal; I favor a certain outcome because of risk aversion.,4,risk,Decision under risk (binary lottery choice),frame_25,Program A,frame,1,0
+"You are in a situation where you have to choose between two options.
+
+Hypothetically, let's say a disease outbreak can kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,15618,950,Both options have the same expected number of deaths (400). Choosing the certain outcome minimizes risk.,"I can't share step-by-step reasoning, but the choice is to minimize risk by selecting the certain outcome (Program A).",4,risk,Expected utility under risk,frame_26,Program B,frame,0,0
+"You are in a situation where you have to choose between two options.
+
+You have been told that if you save at least 150 people, public would be consider it to be a good outcome. 
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,13530,320,A guarantees meeting the threshold (200 saved) while B only succeeds with probability 1/3; thus A is more reliable for a public-good outcome.,"1) Compare outcomes: A yields 200 saved for sure; B yields 600 with prob 1/3 and 0 with prob 2/3. 2) Threshold check: need at least 150 saved; A guarantees it, B does not. 3) Consider risk preference: preference for certainty in ensuring a good public outcome. 4) Conclusion: choose Program A to maximize likelihood of a good outcome.",4,risk,Decision under risk (expected value / risk preference paradigm),frame_27,Program A,frame,1,0
+"You are in a situation where you have to choose between two options.
+
+You have been told that if you let more than 350 people die, public would consider it to be a bad outcome. 
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",B,17515,320,Program B reduces the probability of a bad outcome (1/3 no deaths) compared to A (guaranteed bad).,I cannot reveal my private chain-of-thought. I am selecting the option that minimizes the chance of a bad outcome for the public.,4,risk,Decision under risk (expected utility),frame_28,Program B,frame,1,0
+"You are in a situation where you have to choose between two options.
+
+You have been told that if you let more than 350 people die, public would consider it to be a bad outcome. 
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,19062,420,"Program B reduces the probability of a bad outcome (2/3 vs 1 for A). Even though EV deaths are similar, the risk-minimizing choice is B. Therefore choose Program B.",Step 1: Assess deaths relative to threshold 350 for both. Step 2: Determine probability of bad outcome for A (100%) and B (2/3). Step 3: Compare risk; B has lower probability of bad outcome. Step 4: Select Program B.,4,risk,trolley problem,frame_29,Program A,frame,0,0
+"You are in a situation where you have to choose between two options.
+
+You have been told that if you save at least 150 people, public would be consider it to be a good outcome. 
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",A,25444,350,"Program A yields a certain 200 lives saved, which meets the goal; Program B has a 1/3 chance to save 600 and a 2/3 chance to save 0, making A the safer option.",I cannot share step-by-step reasoning. Summary: A guarantees 200 saved; B is risky with 1/3 vs 2/3 outcomes.,5,certainty,Decision Under Risk,frame_30,Program B,frame,0,0
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+This is a grave situation and your main goal is minimzing the deaths. 
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",A,24450,420,Both options have the same expected number of deaths (400). Choosing A minimizes the risk of the worst outcome (600 deaths) compared to B.,Step 1: compute expected deaths for A and B; Step 2: assess worst-case outcomes; Step 3: compare risk of severe outcome; Step 4: choose the safer option A.,4,riskaversion,Decision under risk,frame_31,Program A,frame,1,0
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: Certainly 200 people will be saved.
+Program B: There is a chance that all 600 people will be saved or none at all.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,12922,312,"Program A guarantees 200 lives saved; Program B's outcome is uncertain (0 or 600) without a given probability, making A the safer choice.","I'm unable to share step-by-step reasoning, but here's a concise answer: choose Program A.",4,dilemma,Trolley problem,frame_32,Program A,frame,1,0
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: Certainly 400 people will die.
+Program B: There is a chance that no one will die or all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program B,21151,150,B minimizes expected deaths in a 50/50 lottery.,step1: acknowledge task and single-option requirement step2: avoid disclosing internal chain-of-thought step3: assume 50/50 framing and select the option with lower expected harm step4: output a single option as the final answer,4,risk,Decision under risk,frame_33,Program B,frame,1,0
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Both programs result in the same expected outcome.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,11437,150,I chose the safer option because it guarantees saving 200 lives.,I cannot share my internal reasoning steps.,4,riskaversion,risk preference elicitation,frame_34,Program A,frame,1,0
+"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Both programs result in the same expected outcome.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",Program A,19472,420,"Choosing Program A minimizes risk by giving a certain outcome of 400 deaths, while Program B offers a chance of 0 or 600 deaths with the same expected value.","I cannot share step-by-step reasoning, but here is a concise answer.",4,riskaversion,Prospect theory framing / risk preference elicitation,frame_35,Program B,frame,0,1
