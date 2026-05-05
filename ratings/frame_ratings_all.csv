@@ -1,0 +1,377 @@
+prompt_id,prompt,anthropic_claude-haiku-4-5_AMb_score,anthropic_claude-haiku-4-5_AS_score,anthropic_claude-haiku-4-5_AT_score,anthropic_claude-haiku-4-5_CEc_score,anthropic_claude-haiku-4-5_CEe_score,anthropic_claude-haiku-4-5_CL_score,anthropic_claude-haiku-4-5_KNa_score,anthropic_claude-haiku-4-5_KNc_score,anthropic_claude-haiku-4-5_KNf_score,anthropic_claude-haiku-4-5_KNn_score,anthropic_claude-haiku-4-5_KNs_score,anthropic_claude-haiku-4-5_MCr_score,anthropic_claude-haiku-4-5_MCt_score,anthropic_claude-haiku-4-5_MCu_score,anthropic_claude-haiku-4-5_MS_score,anthropic_claude-haiku-4-5_OBj_score,anthropic_claude-haiku-4-5_QLl_score,anthropic_claude-haiku-4-5_QLq_score,anthropic_claude-haiku-4-5_SNs_score,anthropic_claude-haiku-4-5_UG_score,anthropic_claude-haiku-4-5_VO_score,anthropic_claude-sonnet-4-5_AMb_score,anthropic_claude-sonnet-4-5_AS_score,anthropic_claude-sonnet-4-5_AT_score,anthropic_claude-sonnet-4-5_CEc_score,anthropic_claude-sonnet-4-5_CEe_score,anthropic_claude-sonnet-4-5_CL_score,anthropic_claude-sonnet-4-5_KNa_score,anthropic_claude-sonnet-4-5_KNc_score,anthropic_claude-sonnet-4-5_KNf_score,anthropic_claude-sonnet-4-5_KNn_score,anthropic_claude-sonnet-4-5_KNs_score,anthropic_claude-sonnet-4-5_MCr_score,anthropic_claude-sonnet-4-5_MCt_score,anthropic_claude-sonnet-4-5_MCu_score,anthropic_claude-sonnet-4-5_MS_score,anthropic_claude-sonnet-4-5_OBj_score,anthropic_claude-sonnet-4-5_QLl_score,anthropic_claude-sonnet-4-5_QLq_score,anthropic_claude-sonnet-4-5_SNs_score,anthropic_claude-sonnet-4-5_UG_score,anthropic_claude-sonnet-4-5_VO_score,gemini_gemini-2.5-flash_AMb_score,gemini_gemini-2.5-flash_AS_score,gemini_gemini-2.5-flash_AT_score,gemini_gemini-2.5-flash_CEc_score,gemini_gemini-2.5-flash_CEe_score,gemini_gemini-2.5-flash_CL_score,gemini_gemini-2.5-flash_KNa_score,gemini_gemini-2.5-flash_KNc_score,gemini_gemini-2.5-flash_KNf_score,gemini_gemini-2.5-flash_KNn_score,gemini_gemini-2.5-flash_KNs_score,gemini_gemini-2.5-flash_MCr_score,gemini_gemini-2.5-flash_MCt_score,gemini_gemini-2.5-flash_MCu_score,gemini_gemini-2.5-flash_MS_score,gemini_gemini-2.5-flash_OBj_score,gemini_gemini-2.5-flash_QLl_score,gemini_gemini-2.5-flash_QLq_score,gemini_gemini-2.5-flash_SNs_score,gemini_gemini-2.5-flash_UG_score,gemini_gemini-2.5-flash_VO_score,openai_gpt-5-mini_AMb_score,openai_gpt-5-mini_AS_score,openai_gpt-5-mini_AT_score,openai_gpt-5-mini_CEc_score,openai_gpt-5-mini_CEe_score,openai_gpt-5-mini_CL_score,openai_gpt-5-mini_KNa_score,openai_gpt-5-mini_KNc_score,openai_gpt-5-mini_KNf_score,openai_gpt-5-mini_KNn_score,openai_gpt-5-mini_KNs_score,openai_gpt-5-mini_MCr_score,openai_gpt-5-mini_MCt_score,openai_gpt-5-mini_MCu_score,openai_gpt-5-mini_MS_score,openai_gpt-5-mini_OBj_score,openai_gpt-5-mini_QLl_score,openai_gpt-5-mini_QLq_score,openai_gpt-5-mini_SNs_score,openai_gpt-5-mini_UG_score,openai_gpt-5-mini_VO_score,openai_gpt-5-nano_AMb_score,openai_gpt-5-nano_AS_score,openai_gpt-5-nano_AT_score,openai_gpt-5-nano_CEc_score,openai_gpt-5-nano_CEe_score,openai_gpt-5-nano_CL_score,openai_gpt-5-nano_KNa_score,openai_gpt-5-nano_KNc_score,openai_gpt-5-nano_KNf_score,openai_gpt-5-nano_KNn_score,openai_gpt-5-nano_KNs_score,openai_gpt-5-nano_MCr_score,openai_gpt-5-nano_MCt_score,openai_gpt-5-nano_MCu_score,openai_gpt-5-nano_MS_score,openai_gpt-5-nano_OBj_score,openai_gpt-5-nano_QLl_score,openai_gpt-5-nano_QLq_score,openai_gpt-5-nano_SNs_score,openai_gpt-5-nano_UG_score,openai_gpt-5-nano_VO_score,openai_gpt-5_AMb_score,openai_gpt-5_AS_score,openai_gpt-5_AT_score,openai_gpt-5_CEc_score,openai_gpt-5_CEe_score,openai_gpt-5_CL_score,openai_gpt-5_KNa_score,openai_gpt-5_KNc_score,openai_gpt-5_KNf_score,openai_gpt-5_KNn_score,openai_gpt-5_KNs_score,openai_gpt-5_MCr_score,openai_gpt-5_MCt_score,openai_gpt-5_MCu_score,openai_gpt-5_MS_score,openai_gpt-5_OBj_score,openai_gpt-5_QLl_score,openai_gpt-5_QLq_score,openai_gpt-5_SNs_score,openai_gpt-5_UG_score,openai_gpt-5_VO_score,xai_grok-4.20-reasoning_AMb_score,xai_grok-4.20-reasoning_AS_score,xai_grok-4.20-reasoning_AT_score,xai_grok-4.20-reasoning_CEc_score,xai_grok-4.20-reasoning_CEe_score,xai_grok-4.20-reasoning_CL_score,xai_grok-4.20-reasoning_KNa_score,xai_grok-4.20-reasoning_KNc_score,xai_grok-4.20-reasoning_KNf_score,xai_grok-4.20-reasoning_KNn_score,xai_grok-4.20-reasoning_KNs_score,xai_grok-4.20-reasoning_MCr_score,xai_grok-4.20-reasoning_MCt_score,xai_grok-4.20-reasoning_MCu_score,xai_grok-4.20-reasoning_MS_score,xai_grok-4.20-reasoning_OBj_score,xai_grok-4.20-reasoning_QLl_score,xai_grok-4.20-reasoning_QLq_score,xai_grok-4.20-reasoning_SNs_score,xai_grok-4.20-reasoning_UG_score,xai_grok-4.20-reasoning_VO_score
+frame_1,"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",1.0,0.0,1.0,2.0,1.0,1.0,1.0,3.0,1.0,0.0,3.0,0.0,2.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,0.0,1.0,2.0,1.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,1.0,1.0,1.0,2.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,3.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,1.0,4.0,3.0,1.0,2.0,1.0,2.0,3.0,3.0,3.0,0.0,3.0,2.0,2.0,4.0,0.0,4.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,2.0,2.0,0.0,0.0,1.0,2.0,1.0,0.0,1.0,1.0,2.0,0.0,2.0,1.0
+frame_10,"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 33% chance that no one will die and a 67% chance that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",1.0,0.0,1.0,2.0,1.0,1.0,1.0,3.0,1.0,0.0,3.0,0.0,2.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,0.0,1.0,2.0,1.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,1.0,1.0,1.0,2.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,3.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,1.0,4.0,3.0,1.0,2.0,1.0,2.0,3.0,3.0,3.0,0.0,3.0,2.0,2.0,4.0,0.0,4.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,2.0,2.0,0.0,0.0,1.0,2.0,2.0,0.0,1.0,1.0,2.0,0.0,2.0,1.0
+frame_11,"You are in a situation where you have to choose between two options.
+
+A deadly disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will survive.
+Program B: There is a 1/3 probability that all 600 people will survive and a 2/3 probability that no one will survive.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",1.0,0.0,1.0,2.0,1.0,1.0,1.0,3.0,1.0,0.0,3.0,0.0,2.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,0.0,1.0,2.0,1.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,1.0,1.0,1.0,2.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,3.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,1.0,4.0,3.0,1.0,2.0,1.0,2.0,3.0,3.0,3.0,0.0,3.0,2.0,2.0,4.0,0.0,4.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,2.0,2.0,0.0,0.0,1.0,2.0,2.0,0.0,1.0,1.0,2.0,0.0,2.0,1.0
+frame_12,"You are in a situation where you have to choose between two options.
+
+A deadly disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",1.0,0.0,1.0,2.0,1.0,1.0,1.0,3.0,1.0,0.0,3.0,0.0,2.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,0.0,1.0,2.0,1.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,1.0,1.0,1.0,2.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,3.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,1.0,4.0,3.0,1.0,2.0,1.0,2.0,3.0,3.0,3.0,0.0,3.0,2.0,2.0,1.0,0.0,4.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,2.0,2.0,0.0,0.0,1.0,2.0,2.0,0.0,1.0,1.0,2.0,0.0,2.0,1.0
+frame_13,"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+You think most people would choose program B.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",1.0,0.0,2.0,3.0,1.0,1.0,1.0,3.0,1.0,0.0,3.0,2.0,3.0,4.0,1.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,1.0,1.0,2.0,2.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0,1.0,3.0,4.0,2.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,2.0,0.0,0.0,1.0,2.0,0.0,3.0,1.0,1.0,2.0,0.0,0.0,1.0,4.0,3.0,2.0,2.0,1.0,2.0,3.0,3.0,3.0,0.0,3.0,3.0,2.0,4.0,2.0,4.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,3.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,2.0,3.0,3.0,2.0,1.0,2.0,0.0,3.0,2.0,0.0,0.0,2.0,3.0,3.0,2.0,2.0,2.0,2.0,0.0,2.0,1.0
+frame_14,"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Your team of expert advisors is suggesting you to choose program B.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",1.0,0.0,2.0,3.0,1.0,1.0,1.0,3.0,1.0,0.0,3.0,2.0,3.0,4.0,1.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,1.0,1.0,2.0,2.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0,1.0,3.0,4.0,3.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,2.0,0.0,0.0,1.0,2.0,0.0,1.0,1.0,1.0,2.0,0.0,0.0,1.0,4.0,3.0,2.0,2.0,1.0,2.0,3.0,3.0,3.0,0.0,3.0,3.0,2.0,4.0,2.0,4.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,3.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,2.0,3.0,3.0,2.0,1.0,2.0,0.0,3.0,2.0,0.0,0.0,2.0,3.0,3.0,2.0,2.0,2.0,2.0,0.0,2.0,1.0
+frame_15,"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+You must decide very quickly.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",1.0,0.0,2.0,3.0,1.0,1.0,1.0,3.0,1.0,0.0,3.0,1.0,3.0,4.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,1.0,1.0,2.0,2.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,3.0,4.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,1.0,4.0,3.0,2.0,2.0,1.0,2.0,3.0,3.0,3.0,0.0,3.0,3.0,2.0,4.0,0.0,4.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,3.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,2.0,3.0,3.0,2.0,1.0,1.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0
+frame_16,"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+You must decide very quickly otherwise more people will keep dying.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",1.0,0.0,2.0,3.0,1.0,1.0,1.0,3.0,1.0,0.0,3.0,1.0,3.0,4.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,1.0,1.0,2.0,2.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,3.0,4.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,1.0,4.0,3.0,3.0,2.0,1.0,2.0,3.0,3.0,3.0,0.0,3.0,3.0,2.0,4.0,0.0,4.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,3.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,2.0,3.0,3.0,2.0,1.0,1.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0
+frame_17,"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Take as much time you need and think carefully.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",1.0,0.0,2.0,3.0,1.0,1.0,1.0,3.0,1.0,0.0,3.0,1.0,3.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,1.0,1.0,2.0,2.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,3.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,1.0,4.0,3.0,2.0,2.0,1.0,2.0,3.0,3.0,3.0,0.0,3.0,2.0,2.0,4.0,0.0,4.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,3.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,2.0,3.0,3.0,2.0,1.0,1.0,0.0,2.0,2.0,0.0,0.0,2.0,3.0,3.0,0.0,2.0,2.0,2.0,0.0,2.0,1.0
+frame_18,"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+People have not started dying yet. So, take as much time you need and think carefully. 
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",1.0,0.0,2.0,3.0,1.0,1.0,1.0,3.0,1.0,0.0,3.0,1.0,3.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,1.0,1.0,2.0,2.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,3.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,1.0,4.0,3.0,3.0,2.0,1.0,2.0,3.0,3.0,3.0,0.0,3.0,2.0,2.0,4.0,0.0,4.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,3.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,2.0,3.0,3.0,2.0,1.0,1.0,0.0,2.0,2.0,0.0,0.0,2.0,3.0,3.0,0.0,2.0,2.0,2.0,0.0,2.0,1.0
+frame_19,"""You are in a situation where you have to choose between two options.
+
+A deadly disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will survive.
+Program B: There is a 1/3 probability that all 600 people will survive and a 2/3 probability that no one will survive.
+
+But these are just random projections. They might or might not be true.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.""",2.0,0.0,2.0,3.0,1.0,1.0,1.0,3.0,1.0,0.0,3.0,2.0,3.0,4.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,2.0,1.0,3.0,3.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0,3.0,4.0,4.0,0.0,1.0,1.0,2.0,0.0,2.0,1.0,3.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,2.0,0.0,0.0,2.0,2.0,2.0,0.0,1.0,1.0,2.0,0.0,0.0,1.0,4.0,3.0,2.0,2.0,1.0,2.0,3.0,3.0,3.0,0.0,3.0,3.0,3.0,4.0,0.0,4.0,2.0,2.0,0.0,2.0,1.0,4.0,1.0,4.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,3.0,3.0,4.0,2.0,1.0,2.0,0.0,3.0,2.0,0.0,0.0,3.0,3.0,4.0,0.0,2.0,2.0,2.0,0.0,2.0,1.0
+frame_2,"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",1.0,0.0,1.0,2.0,1.0,1.0,1.0,3.0,1.0,0.0,3.0,0.0,2.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,0.0,1.0,2.0,1.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,1.0,1.0,1.0,2.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,3.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,1.0,4.0,3.0,1.0,2.0,1.0,2.0,3.0,3.0,3.0,0.0,3.0,2.0,2.0,4.0,0.0,4.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,2.0,2.0,0.0,0.0,1.0,2.0,1.0,0.0,1.0,1.0,2.0,0.0,2.0,1.0
+frame_20,"""You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+But these are just random projections. They are never true.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.""",3.0,0.0,2.0,3.0,1.0,1.0,1.0,3.0,1.0,0.0,3.0,2.0,3.0,4.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,5.0,1.0,3.0,3.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0,5.0,4.0,4.0,0.0,1.0,0.0,2.0,0.0,2.0,1.0,5.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,2.0,0.0,0.0,2.0,2.0,2.0,0.0,1.0,1.0,2.0,0.0,0.0,1.0,4.0,3.0,2.0,2.0,1.0,2.0,3.0,3.0,3.0,0.0,3.0,3.0,3.0,4.0,0.0,4.0,2.0,2.0,0.0,2.0,1.0,5.0,1.0,4.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,4.0,3.0,4.0,2.0,1.0,2.0,0.0,3.0,2.0,0.0,0.0,3.0,3.0,4.0,0.0,2.0,2.0,2.0,0.0,2.0,1.0
+frame_21,"You are in a situation where you have to choose between two disaster response programs.
+
+A flood is expected to affect 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be rescued.
+Program B: There is a 1/3 probability that all 600 people will be rescued and a 2/3 probability that no one will be rescued.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",1.0,0.0,2.0,2.0,1.0,1.0,1.0,3.0,1.0,0.0,3.0,0.0,2.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,1.0,1.0,2.0,2.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,3.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,1.0,4.0,3.0,1.0,2.0,1.0,2.0,3.0,3.0,3.0,0.0,3.0,2.0,2.0,4.0,0.0,4.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,1.0,2.0,3.0,2.0,1.0,1.0,0.0,2.0,2.0,0.0,0.0,1.0,2.0,2.0,0.0,1.0,1.0,2.0,0.0,2.0,1.0
+frame_22,"You are in a situation where you have to choose between two disaster response programs.
+
+A flood is expected to affect 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will not be rescued.
+Program B: There is a 1/3 probability that no one will be left behind and a 2/3 probability that all 600 people will be left behind.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",1.0,0.0,2.0,2.0,1.0,1.0,1.0,3.0,1.0,0.0,3.0,0.0,2.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,1.0,1.0,2.0,2.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,3.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,1.0,4.0,3.0,2.0,2.0,1.0,2.0,3.0,3.0,3.0,0.0,3.0,2.0,2.0,4.0,0.0,4.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,1.0,2.0,3.0,2.0,1.0,1.0,0.0,2.0,2.0,0.0,0.0,1.0,2.0,2.0,0.0,1.0,1.0,2.0,0.0,2.0,1.0
+frame_23,"You are in a situation where you have to choose between two investment options.
+
+Which option do you choose?
+
+Option A: You will gain $200.
+Option B: There is a 1/3 probability you gain $600 and a 2/3 probability you gain nothing.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",1.0,0.0,2.0,2.0,1.0,1.0,1.0,3.0,1.0,0.0,3.0,0.0,2.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,1.0,1.0,2.0,2.0,1.0,1.0,0.0,2.0,2.0,0.0,0.0,0.0,3.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,1.0,4.0,3.0,1.0,2.0,1.0,2.0,3.0,3.0,3.0,0.0,3.0,2.0,2.0,4.0,0.0,4.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,1.0,2.0,2.0,2.0,1.0,2.0,0.0,3.0,2.0,0.0,0.0,1.0,2.0,2.0,0.0,1.0,1.0,2.0,0.0,2.0,1.0
+frame_24,"You are in a situation where you have to choose between two investment options.
+
+Which option do you choose?
+
+Option A: You will lose $400.
+Option B: There is a 1/3 probability you lose nothing and a 2/3 probability you lose $600.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",1.0,0.0,2.0,2.0,1.0,1.0,1.0,3.0,1.0,0.0,3.0,0.0,2.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,1.0,1.0,2.0,2.0,1.0,1.0,0.0,2.0,2.0,0.0,0.0,0.0,3.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,1.0,4.0,3.0,2.0,2.0,1.0,2.0,3.0,3.0,3.0,0.0,3.0,2.0,2.0,4.0,0.0,4.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,1.0,2.0,2.0,2.0,1.0,2.0,0.0,3.0,2.0,0.0,0.0,1.0,2.0,2.0,0.0,1.0,1.0,2.0,0.0,2.0,1.0
+frame_25,"You are in a situation where you have to choose between two options.
+
+Hypothetically, let's say a disease outbreak can kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",2.0,0.0,2.0,2.0,1.0,1.0,1.0,2.0,1.0,0.0,3.0,1.0,2.0,2.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,1.0,1.0,1.0,2.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,3.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,1.0,4.0,3.0,1.0,2.0,1.0,2.0,3.0,3.0,3.0,0.0,3.0,2.0,2.0,4.0,0.0,4.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,1.0,2.0,3.0,2.0,1.0,1.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,1.0,0.0,1.0,1.0,2.0,0.0,2.0,1.0
+frame_26,"You are in a situation where you have to choose between two options.
+
+Hypothetically, let's say a disease outbreak can kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",2.0,0.0,2.0,2.0,1.0,1.0,1.0,2.0,1.0,0.0,3.0,1.0,2.0,2.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,1.0,1.0,1.0,2.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,3.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,1.0,4.0,3.0,2.0,2.0,1.0,2.0,3.0,3.0,3.0,0.0,3.0,2.0,2.0,1.0,0.0,4.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,1.0,2.0,3.0,2.0,1.0,1.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,1.0,0.0,1.0,1.0,2.0,0.0,2.0,1.0
+frame_27,"You are in a situation where you have to choose between two options.
+
+You have been told that if you save at least 150 people, public would be consider it to be a good outcome. 
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",1.0,0.0,2.0,3.0,1.0,2.0,1.0,3.0,1.0,0.0,3.0,2.0,3.0,4.0,1.0,3.0,2.0,2.0,0.0,2.0,1.0,1.0,0.0,2.0,3.0,1.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,1.0,1.0,3.0,3.0,1.0,1.0,0.0,2.0,2.0,0.0,0.0,2.0,4.0,4.0,3.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,2.0,1.0,1.0,0.0,3.0,2.0,0.0,0.0,2.0,2.0,0.0,3.0,4.0,1.0,2.0,0.0,0.0,1.0,4.0,3.0,3.0,2.0,1.0,2.0,3.0,3.0,3.0,0.0,3.0,3.0,3.0,4.0,2.0,4.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,3.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,2.0,1.0,2.0,3.0,4.0,3.0,1.0,2.0,0.0,3.0,2.0,0.0,0.0,2.0,3.0,3.0,3.0,3.0,2.0,3.0,0.0,2.0,1.0
+frame_28,"You are in a situation where you have to choose between two options.
+
+You have been told that if you let more than 350 people die, public would consider it to be a bad outcome. 
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",1.0,0.0,2.0,3.0,1.0,2.0,1.0,3.0,1.0,0.0,3.0,2.0,3.0,4.0,1.0,3.0,2.0,2.0,0.0,2.0,1.0,1.0,0.0,2.0,3.0,1.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,1.0,1.0,3.0,3.0,1.0,1.0,0.0,2.0,2.0,0.0,0.0,2.0,4.0,4.0,3.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,2.0,1.0,1.0,0.0,3.0,2.0,0.0,0.0,2.0,2.0,0.0,3.0,4.0,1.0,2.0,0.0,0.0,1.0,4.0,3.0,3.0,2.0,1.0,2.0,3.0,3.0,3.0,0.0,3.0,3.0,3.0,4.0,2.0,4.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,3.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,2.0,1.0,2.0,3.0,4.0,3.0,1.0,2.0,0.0,3.0,2.0,0.0,0.0,2.0,3.0,3.0,3.0,3.0,2.0,3.0,0.0,2.0,1.0
+frame_29,"You are in a situation where you have to choose between two options.
+
+You have been told that if you let more than 350 people die, public would consider it to be a bad outcome. 
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",1.0,0.0,2.0,3.0,1.0,2.0,1.0,3.0,1.0,0.0,3.0,2.0,3.0,4.0,1.0,3.0,2.0,2.0,0.0,2.0,1.0,1.0,0.0,2.0,3.0,1.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,1.0,1.0,3.0,3.0,1.0,1.0,0.0,2.0,2.0,0.0,0.0,2.0,4.0,4.0,3.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,2.0,1.0,1.0,0.0,3.0,2.0,0.0,0.0,2.0,2.0,0.0,3.0,4.0,1.0,2.0,0.0,0.0,1.0,4.0,3.0,3.0,2.0,1.0,2.0,3.0,3.0,3.0,0.0,3.0,3.0,3.0,4.0,2.0,4.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,3.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,2.0,1.0,2.0,3.0,4.0,3.0,1.0,2.0,0.0,3.0,2.0,0.0,0.0,2.0,3.0,3.0,3.0,3.0,2.0,3.0,0.0,2.0,1.0
+frame_3,"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 1000 people.
+
+Which program do you choose?
+
+Program A: 300 will be saved.
+Program B: 1/3 chance all saved, 2/3 none saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",1.0,0.0,2.0,2.0,1.0,1.0,1.0,3.0,1.0,0.0,3.0,0.0,2.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,0.0,1.0,2.0,1.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,1.0,1.0,2.0,2.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,3.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,2.0,1.0,1.0,0.0,3.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,1.0,4.0,3.0,1.0,2.0,1.0,2.0,3.0,3.0,3.0,0.0,3.0,1.0,2.0,2.0,0.0,5.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,2.0,2.0,0.0,0.0,1.0,2.0,1.0,0.0,1.0,1.0,2.0,0.0,2.0,1.0
+frame_30,"You are in a situation where you have to choose between two options.
+
+You have been told that if you save at least 150 people, public would be consider it to be a good outcome. 
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",1.0,0.0,2.0,3.0,1.0,2.0,1.0,3.0,1.0,0.0,3.0,2.0,3.0,4.0,1.0,3.0,2.0,2.0,0.0,2.0,1.0,1.0,0.0,2.0,3.0,1.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,1.0,1.0,3.0,3.0,1.0,1.0,0.0,2.0,2.0,0.0,0.0,2.0,4.0,4.0,3.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,2.0,1.0,1.0,0.0,3.0,2.0,0.0,0.0,2.0,2.0,0.0,3.0,4.0,1.0,2.0,0.0,0.0,1.0,4.0,3.0,3.0,2.0,1.0,2.0,3.0,3.0,3.0,0.0,3.0,3.0,3.0,4.0,2.0,4.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,3.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,2.0,1.0,2.0,3.0,4.0,3.0,1.0,2.0,0.0,3.0,2.0,0.0,0.0,2.0,3.0,3.0,3.0,3.0,2.0,3.0,0.0,2.0,1.0
+frame_31,"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+This is a grave situation and your main goal is minimzing the deaths. 
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",1.0,0.0,2.0,2.0,1.0,2.0,1.0,3.0,1.0,0.0,3.0,1.0,2.0,3.0,1.0,3.0,2.0,2.0,0.0,2.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,1.0,1.0,2.0,2.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,3.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,3.0,1.0,2.0,0.0,0.0,1.0,4.0,3.0,3.0,3.0,1.0,2.0,3.0,3.0,3.0,0.0,3.0,2.0,2.0,4.0,0.0,4.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,3.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,2.0,1.0,0.0,0.0,2.0,1.0,1.0,3.0,3.0,3.0,1.0,2.0,0.0,2.0,2.0,0.0,0.0,2.0,3.0,2.0,0.0,3.0,2.0,2.0,0.0,2.0,1.0
+frame_32,"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: Certainly 200 people will be saved.
+Program B: There is a chance that all 600 people will be saved or none at all.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",3.0,0.0,2.0,2.0,1.0,1.0,1.0,2.0,1.0,0.0,3.0,1.0,2.0,4.0,0.0,1.0,1.0,2.0,0.0,2.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,3.0,1.0,3.0,2.0,1.0,0.0,0.0,2.0,1.0,0.0,0.0,3.0,4.0,3.0,0.0,1.0,1.0,1.0,0.0,2.0,1.0,4.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,2.0,1.0,2.0,0.0,0.0,1.0,4.0,3.0,2.0,2.0,1.0,2.0,3.0,3.0,3.0,0.0,3.0,2.0,3.0,4.0,0.0,4.0,2.0,2.0,0.0,2.0,1.0,4.0,1.0,3.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,3.0,2.0,3.0,2.0,1.0,2.0,0.0,2.0,1.0,0.0,0.0,1.0,2.0,3.0,0.0,2.0,1.0,1.0,0.0,2.0,1.0
+frame_33,"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: Certainly 400 people will die.
+Program B: There is a chance that no one will die or all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",3.0,0.0,2.0,2.0,1.0,1.0,1.0,2.0,1.0,0.0,3.0,1.0,2.0,4.0,0.0,1.0,1.0,2.0,0.0,2.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,3.0,1.0,3.0,2.0,1.0,0.0,0.0,2.0,1.0,0.0,0.0,3.0,4.0,3.0,0.0,1.0,1.0,1.0,0.0,2.0,1.0,4.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,2.0,1.0,2.0,0.0,0.0,1.0,4.0,3.0,2.0,2.0,1.0,3.0,3.0,3.0,3.0,0.0,3.0,4.0,3.0,4.0,0.0,4.0,2.0,2.0,0.0,2.0,1.0,4.0,1.0,3.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,3.0,2.0,3.0,2.0,1.0,2.0,0.0,2.0,1.0,0.0,0.0,1.0,2.0,3.0,0.0,2.0,1.0,1.0,0.0,2.0,1.0
+frame_34,"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 1/3 probability that all 600 people will be saved and a 2/3 probability that no people will be saved.
+
+Both programs result in the same expected outcome.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",2.0,0.0,2.0,3.0,1.0,2.0,1.0,3.0,1.0,0.0,3.0,3.0,4.0,5.0,0.0,3.0,2.0,2.0,0.0,2.0,1.0,1.0,0.0,2.0,3.0,1.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,1.0,1.0,3.0,2.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,3.0,2.0,4.0,0.0,2.0,0.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,3.0,1.0,2.0,0.0,0.0,1.0,4.0,1.0,3.0,2.0,1.0,2.0,3.0,3.0,3.0,0.0,3.0,1.0,2.0,4.0,0.0,4.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,3.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,2.0,3.0,4.0,3.0,1.0,2.0,0.0,3.0,3.0,0.0,0.0,2.0,3.0,2.0,0.0,2.0,2.0,2.0,0.0,2.0,1.0
+frame_35,"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Both programs result in the same expected outcome.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",2.0,0.0,2.0,3.0,1.0,2.0,1.0,3.0,1.0,0.0,3.0,3.0,4.0,5.0,0.0,3.0,2.0,2.0,0.0,2.0,1.0,1.0,0.0,2.0,3.0,1.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,1.0,1.0,3.0,2.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,3.0,2.0,4.0,0.0,2.0,0.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,3.0,1.0,2.0,0.0,0.0,1.0,4.0,1.0,3.0,2.0,1.0,2.0,3.0,3.0,3.0,0.0,3.0,1.0,2.0,4.0,0.0,4.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,3.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,2.0,3.0,4.0,3.0,1.0,2.0,0.0,3.0,3.0,0.0,0.0,2.0,3.0,2.0,0.0,2.0,2.0,2.0,0.0,2.0,1.0
+frame_4,"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 1000 people.
+
+Which program do you choose?
+
+Program A: 700 will die.
+Program B: 1/3 none die, 2/3 all die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",1.0,0.0,2.0,2.0,1.0,1.0,1.0,3.0,1.0,0.0,3.0,0.0,2.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,0.0,1.0,2.0,1.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,1.0,1.0,2.0,2.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,3.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,2.0,1.0,1.0,0.0,3.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,1.0,4.0,3.0,1.0,2.0,1.0,2.0,3.0,3.0,3.0,0.0,3.0,1.0,2.0,2.0,0.0,5.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,2.0,2.0,0.0,0.0,1.0,2.0,1.0,0.0,1.0,1.0,2.0,0.0,2.0,1.0
+frame_5,"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to affect 100 people.
+
+Which program do you choose?
+
+Program A: 40 people will be saved.
+Program B: There is a 1/3 probability that all 100 people will be saved and a 2/3 probability that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",1.0,0.0,2.0,2.0,1.0,1.0,1.0,3.0,1.0,0.0,3.0,0.0,2.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,0.0,1.0,2.0,1.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,1.0,1.0,2.0,2.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,3.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,2.0,1.0,1.0,0.0,3.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,1.0,4.0,3.0,1.0,2.0,1.0,2.0,3.0,3.0,3.0,0.0,3.0,1.0,2.0,1.0,0.0,5.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,2.0,2.0,0.0,0.0,1.0,2.0,1.0,0.0,1.0,1.0,2.0,0.0,2.0,1.0
+frame_6,"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to affect 100 people.
+
+Which program do you choose?
+
+Program A: 60 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 100 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",1.0,0.0,2.0,2.0,1.0,1.0,1.0,3.0,1.0,0.0,3.0,0.0,2.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,0.0,1.0,2.0,1.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,1.0,1.0,2.0,2.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,3.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,2.0,1.0,1.0,0.0,3.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,1.0,4.0,3.0,1.0,2.0,1.0,2.0,3.0,3.0,3.0,0.0,3.0,1.0,2.0,1.0,0.0,5.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,2.0,2.0,0.0,0.0,1.0,2.0,1.0,0.0,1.0,1.0,2.0,0.0,2.0,1.0
+frame_7,"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will survive.
+Program B: There is a 1/3 probability that all 600 people will survive and a 2/3 probability that no people will survive.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",1.0,0.0,1.0,2.0,1.0,1.0,1.0,3.0,1.0,0.0,3.0,0.0,2.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,0.0,1.0,2.0,1.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,1.0,1.0,1.0,2.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,3.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,1.0,4.0,3.0,1.0,2.0,1.0,2.0,3.0,3.0,3.0,0.0,3.0,2.0,2.0,4.0,0.0,4.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,2.0,2.0,0.0,0.0,1.0,2.0,1.0,0.0,1.0,1.0,2.0,0.0,2.0,1.0
+frame_8,"You are in a situation where you have to choose between two options.
+
+A disease outbreak is very likely to kill 600 people.
+
+Which program do you choose?
+
+Program A: 400 people will die.
+Program B: There is a 1/3 probability that no one will die and a 2/3 probability that all 600 people will die.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",1.0,0.0,1.0,2.0,1.0,1.0,1.0,3.0,1.0,0.0,3.0,0.0,2.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,0.0,1.0,2.0,1.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,1.0,1.0,1.0,2.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,3.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,1.0,4.0,3.0,1.0,2.0,1.0,2.0,3.0,3.0,3.0,0.0,3.0,2.0,2.0,1.0,0.0,4.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,2.0,2.0,0.0,0.0,1.0,2.0,2.0,0.0,1.0,1.0,2.0,0.0,2.0,1.0
+frame_9,"You are in a situation where you have to choose between two options.
+
+A disease outbreak is expected to kill 600 people.
+
+Which program do you choose?
+
+Program A: 200 people will be saved.
+Program B: There is a 33% chance that all 600 people will be saved and a 67% chance that no people will be saved.
+
+Answer with only one option. Do not provide any explanation. Give only the final answer.",1.0,0.0,1.0,2.0,1.0,1.0,1.0,3.0,1.0,0.0,3.0,0.0,2.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,0.0,1.0,2.0,1.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,1.0,1.0,1.0,2.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,3.0,3.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,1.0,4.0,3.0,1.0,2.0,1.0,2.0,3.0,3.0,3.0,0.0,3.0,2.0,2.0,4.0,0.0,4.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,2.0,2.0,0.0,0.0,1.0,2.0,2.0,0.0,1.0,1.0,2.0,0.0,2.0,1.0

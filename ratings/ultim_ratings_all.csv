@@ -1,0 +1,354 @@
+prompt_id,prompt,anthropic_claude-haiku-4-5_AMb_score,anthropic_claude-haiku-4-5_AS_score,anthropic_claude-haiku-4-5_AT_score,anthropic_claude-haiku-4-5_CEc_score,anthropic_claude-haiku-4-5_CEe_score,anthropic_claude-haiku-4-5_CL_score,anthropic_claude-haiku-4-5_KNa_score,anthropic_claude-haiku-4-5_KNc_score,anthropic_claude-haiku-4-5_KNf_score,anthropic_claude-haiku-4-5_KNn_score,anthropic_claude-haiku-4-5_KNs_score,anthropic_claude-haiku-4-5_MCr_score,anthropic_claude-haiku-4-5_MCt_score,anthropic_claude-haiku-4-5_MCu_score,anthropic_claude-haiku-4-5_MS_score,anthropic_claude-haiku-4-5_OBj_score,anthropic_claude-haiku-4-5_QLl_score,anthropic_claude-haiku-4-5_QLq_score,anthropic_claude-haiku-4-5_SNs_score,anthropic_claude-haiku-4-5_UG_score,anthropic_claude-haiku-4-5_VO_score,anthropic_claude-sonnet-4-5_AMb_score,anthropic_claude-sonnet-4-5_AS_score,anthropic_claude-sonnet-4-5_AT_score,anthropic_claude-sonnet-4-5_CEc_score,anthropic_claude-sonnet-4-5_CEe_score,anthropic_claude-sonnet-4-5_CL_score,anthropic_claude-sonnet-4-5_KNa_score,anthropic_claude-sonnet-4-5_KNc_score,anthropic_claude-sonnet-4-5_KNf_score,anthropic_claude-sonnet-4-5_KNn_score,anthropic_claude-sonnet-4-5_KNs_score,anthropic_claude-sonnet-4-5_MCr_score,anthropic_claude-sonnet-4-5_MCt_score,anthropic_claude-sonnet-4-5_MCu_score,anthropic_claude-sonnet-4-5_MS_score,anthropic_claude-sonnet-4-5_OBj_score,anthropic_claude-sonnet-4-5_QLl_score,anthropic_claude-sonnet-4-5_QLq_score,anthropic_claude-sonnet-4-5_SNs_score,anthropic_claude-sonnet-4-5_UG_score,anthropic_claude-sonnet-4-5_VO_score,gemini_gemini-2.5-flash_AMb_score,gemini_gemini-2.5-flash_AS_score,gemini_gemini-2.5-flash_AT_score,gemini_gemini-2.5-flash_CEc_score,gemini_gemini-2.5-flash_CEe_score,gemini_gemini-2.5-flash_CL_score,gemini_gemini-2.5-flash_KNa_score,gemini_gemini-2.5-flash_KNc_score,gemini_gemini-2.5-flash_KNf_score,gemini_gemini-2.5-flash_KNn_score,gemini_gemini-2.5-flash_KNs_score,gemini_gemini-2.5-flash_MCr_score,gemini_gemini-2.5-flash_MCt_score,gemini_gemini-2.5-flash_MCu_score,gemini_gemini-2.5-flash_MS_score,gemini_gemini-2.5-flash_OBj_score,gemini_gemini-2.5-flash_QLl_score,gemini_gemini-2.5-flash_QLq_score,gemini_gemini-2.5-flash_SNs_score,gemini_gemini-2.5-flash_UG_score,gemini_gemini-2.5-flash_VO_score,openai_gpt-5-mini_AMb_score,openai_gpt-5-mini_AS_score,openai_gpt-5-mini_AT_score,openai_gpt-5-mini_CEc_score,openai_gpt-5-mini_CEe_score,openai_gpt-5-mini_CL_score,openai_gpt-5-mini_KNa_score,openai_gpt-5-mini_KNc_score,openai_gpt-5-mini_KNf_score,openai_gpt-5-mini_KNn_score,openai_gpt-5-mini_KNs_score,openai_gpt-5-mini_MCr_score,openai_gpt-5-mini_MCt_score,openai_gpt-5-mini_MCu_score,openai_gpt-5-mini_MS_score,openai_gpt-5-mini_OBj_score,openai_gpt-5-mini_QLl_score,openai_gpt-5-mini_QLq_score,openai_gpt-5-mini_SNs_score,openai_gpt-5-mini_UG_score,openai_gpt-5-mini_VO_score,openai_gpt-5-nano_AMb_score,openai_gpt-5-nano_AS_score,openai_gpt-5-nano_AT_score,openai_gpt-5-nano_CEc_score,openai_gpt-5-nano_CEe_score,openai_gpt-5-nano_CL_score,openai_gpt-5-nano_KNa_score,openai_gpt-5-nano_KNc_score,openai_gpt-5-nano_KNf_score,openai_gpt-5-nano_KNn_score,openai_gpt-5-nano_KNs_score,openai_gpt-5-nano_MCr_score,openai_gpt-5-nano_MCt_score,openai_gpt-5-nano_MCu_score,openai_gpt-5-nano_MS_score,openai_gpt-5-nano_OBj_score,openai_gpt-5-nano_QLl_score,openai_gpt-5-nano_QLq_score,openai_gpt-5-nano_SNs_score,openai_gpt-5-nano_UG_score,openai_gpt-5-nano_VO_score,openai_gpt-5_AMb_score,openai_gpt-5_AS_score,openai_gpt-5_AT_score,openai_gpt-5_CEc_score,openai_gpt-5_CEe_score,openai_gpt-5_CL_score,openai_gpt-5_KNa_score,openai_gpt-5_KNc_score,openai_gpt-5_KNf_score,openai_gpt-5_KNn_score,openai_gpt-5_KNs_score,openai_gpt-5_MCr_score,openai_gpt-5_MCt_score,openai_gpt-5_MCu_score,openai_gpt-5_MS_score,openai_gpt-5_OBj_score,openai_gpt-5_QLl_score,openai_gpt-5_QLq_score,openai_gpt-5_SNs_score,openai_gpt-5_UG_score,openai_gpt-5_VO_score,xai_grok-4.20-reasoning_AMb_score,xai_grok-4.20-reasoning_AS_score,xai_grok-4.20-reasoning_AT_score,xai_grok-4.20-reasoning_CEc_score,xai_grok-4.20-reasoning_CEe_score,xai_grok-4.20-reasoning_CL_score,xai_grok-4.20-reasoning_KNa_score,xai_grok-4.20-reasoning_KNc_score,xai_grok-4.20-reasoning_KNf_score,xai_grok-4.20-reasoning_KNn_score,xai_grok-4.20-reasoning_KNs_score,xai_grok-4.20-reasoning_MCr_score,xai_grok-4.20-reasoning_MCt_score,xai_grok-4.20-reasoning_MCu_score,xai_grok-4.20-reasoning_MS_score,xai_grok-4.20-reasoning_OBj_score,xai_grok-4.20-reasoning_QLl_score,xai_grok-4.20-reasoning_QLq_score,xai_grok-4.20-reasoning_SNs_score,xai_grok-4.20-reasoning_UG_score,xai_grok-4.20-reasoning_VO_score
+ultim_1,"You are playing this game with another anonymous participant. You are the responder.
+
+The other participant offers you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",1.0,0.0,1.0,1.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0,0.0,2.0,1.0,1.0,0.0,1.0,2.0,1.0,0.0,0.0,3.0,1.0,0.0,3.0,0.0,2.0,1.0,2.0,1.0,1.0,1.0,0.0,2.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,2.0,1.0,0.0,1.0,0.0,3.0,3.0,2.0,1.0,1.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,2.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,3.0,3.0,1.0,0.0,2.0,0.0,1.0,4.0,0.0,5.0,1.0,1.0,0.0,2.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,1.0,1.0,0.0,2.0,1.0,0.0,1.0,0.0,3.0,1.0
+ultim_10,"You are playing this game with another participant. You are the responder. 
+
+But you are in a group setting where your decision will be visible to others.
+
+Another participant offers you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",2.0,0.0,2.0,2.0,0.0,2.0,4.0,3.0,0.0,0.0,3.0,2.0,2.0,1.0,3.0,2.0,2.0,1.0,0.0,2.0,1.0,1.0,0.0,2.0,3.0,1.0,0.0,0.0,3.0,1.0,0.0,4.0,2.0,3.0,2.0,3.0,2.0,2.0,1.0,0.0,3.0,1.0,1.0,0.0,3.0,3.0,1.0,2.0,0.0,3.0,1.0,0.0,3.0,2.0,3.0,4.0,3.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,2.0,3.0,3.0,3.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,2.0,3.0,3.0,1.0,1.0,3.0,3.0,1.0,0.0,3.0,3.0,2.0,4.0,3.0,5.0,1.0,1.0,0.0,2.0,1.0,0.0,0.0,2.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,0.0,2.0,2.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,2.0,3.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,2.0,2.0,2.0,3.0,1.0,1.0,1.0,0.0,3.0,1.0
+ultim_11,"You are playing this game with another participant. You are the responder. 
+
+But you are in a group setting where your decision will be visible to others. You think that your decision may affect how others evluate you.
+
+Another participant offers you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",2.0,0.0,3.0,3.0,0.0,2.0,4.0,3.0,0.0,0.0,3.0,2.0,3.0,3.0,4.0,2.0,2.0,1.0,0.0,2.0,1.0,1.0,0.0,2.0,3.0,1.0,0.0,0.0,3.0,1.0,0.0,4.0,2.0,3.0,2.0,4.0,2.0,2.0,1.0,0.0,3.0,1.0,1.0,0.0,3.0,3.0,1.0,2.0,0.0,3.0,1.0,0.0,3.0,2.0,3.0,4.0,4.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,2.0,3.0,3.0,3.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,2.0,3.0,3.0,1.0,2.0,3.0,3.0,1.0,0.0,3.0,3.0,2.0,4.0,3.0,5.0,2.0,1.0,0.0,2.0,1.0,0.0,0.0,2.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,1.0,3.0,2.0,4.0,2.0,1.0,2.0,0.0,3.0,0.0,0.0,3.0,2.0,3.0,2.0,4.0,1.0,2.0,1.0,0.0,4.0,1.0
+ultim_12,"You are playing this game with another participant. You are the responder. 
+
+You are paired with the same participant for multiple future rounds.
+
+In this round, they offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",2.0,0.0,2.0,3.0,0.0,2.0,4.0,3.0,0.0,0.0,3.0,2.0,3.0,2.0,3.0,2.0,2.0,1.0,0.0,2.0,1.0,1.0,0.0,2.0,3.0,1.0,0.0,0.0,3.0,1.0,0.0,4.0,2.0,3.0,2.0,3.0,2.0,3.0,1.0,0.0,3.0,1.0,1.0,0.0,3.0,3.0,1.0,3.0,0.0,3.0,1.0,0.0,3.0,2.0,4.0,4.0,4.0,1.0,3.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,3.0,3.0,4.0,4.0,3.0,3.0,1.0,0.0,0.0,1.0,0.0,2.0,3.0,3.0,1.0,2.0,3.0,3.0,1.0,0.0,3.0,4.0,2.0,4.0,4.0,5.0,2.0,1.0,0.0,2.0,1.0,0.0,0.0,2.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,2.0,3.0,2.0,1.0,2.0,0.0,3.0,0.0,0.0,3.0,2.0,2.0,2.0,3.0,1.0,2.0,1.0,0.0,3.0,1.0
+ultim_13,"You are playing this game with another participant. You are the responder. 
+
+You are in a repeated interaction with another participant.
+
+Your decision may signal whether you tolerate unfair behavior or not.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",2.0,0.0,3.0,3.0,0.0,3.0,4.0,3.0,0.0,0.0,4.0,2.0,3.0,3.0,4.0,2.0,3.0,1.0,0.0,2.0,1.0,1.0,0.0,2.0,3.0,1.0,0.0,0.0,4.0,1.0,0.0,4.0,2.0,3.0,2.0,4.0,2.0,3.0,1.0,0.0,3.0,1.0,1.0,0.0,3.0,3.0,1.0,3.0,0.0,4.0,1.0,0.0,4.0,2.0,4.0,4.0,4.0,1.0,3.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,3.0,3.0,4.0,4.0,3.0,3.0,1.0,0.0,0.0,1.0,0.0,2.0,3.0,3.0,1.0,2.0,3.0,3.0,1.0,0.0,3.0,4.0,3.0,4.0,4.0,5.0,3.0,1.0,0.0,2.0,1.0,0.0,0.0,2.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,1.0,3.0,2.0,4.0,2.0,1.0,2.0,0.0,4.0,0.0,0.0,4.0,3.0,3.0,2.0,4.0,1.0,2.0,1.0,0.0,4.0,1.0
+ultim_14,"You are playing this game with another participant. You are the responder. 
+
+You believe that they expect you to accept any positive amount.
+
+They offer you $30 out of $100.
+
+If you accept, you get $30. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",2.0,0.0,3.0,2.0,0.0,2.0,4.0,3.0,0.0,0.0,2.0,2.0,2.0,2.0,3.0,2.0,2.0,1.0,0.0,2.0,1.0,1.0,0.0,2.0,3.0,1.0,0.0,0.0,3.0,1.0,0.0,4.0,2.0,3.0,2.0,4.0,2.0,2.0,1.0,0.0,2.0,1.0,1.0,0.0,3.0,3.0,1.0,3.0,0.0,4.0,1.0,0.0,3.0,2.0,3.0,3.0,4.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,2.0,2.0,3.0,3.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,2.0,3.0,3.0,1.0,2.0,3.0,3.0,1.0,0.0,3.0,3.0,2.0,4.0,3.0,5.0,2.0,1.0,0.0,2.0,1.0,0.0,0.0,2.0,2.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,2.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,1.0,3.0,2.0,3.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,2.0,2.0,2.0,4.0,1.0,1.0,1.0,0.0,2.0,1.0
+ultim_15,"You are playing this game with another participant. You are the responder. 
+
+You believe they will judge you negatively if you reject their offer.
+
+They offer you $40 out of $100.
+
+If you accept, you get $40. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",2.0,0.0,3.0,2.0,0.0,2.0,4.0,3.0,0.0,0.0,3.0,2.0,2.0,3.0,3.0,2.0,2.0,1.0,0.0,2.0,1.0,1.0,0.0,2.0,3.0,1.0,0.0,0.0,3.0,1.0,0.0,4.0,2.0,3.0,2.0,4.0,2.0,2.0,1.0,0.0,2.0,1.0,1.0,0.0,3.0,3.0,1.0,3.0,0.0,4.0,1.0,0.0,3.0,2.0,3.0,4.0,4.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,2.0,3.0,3.0,3.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,2.0,3.0,3.0,1.0,2.0,3.0,3.0,1.0,0.0,3.0,3.0,3.0,4.0,3.0,3.0,2.0,1.0,0.0,2.0,1.0,0.0,0.0,2.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,0.0,2.0,2.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,1.0,3.0,2.0,3.0,2.0,1.0,2.0,0.0,3.0,0.0,0.0,3.0,2.0,2.0,2.0,4.0,1.0,1.0,1.0,0.0,2.0,1.0
+ultim_16,"You are playing this game with another participant. You are the responder. 
+
+They offer you $30 out of $100.
+
+If you accept, you get $30. If you reject, both get $0.
+
+Rejecting the offer punishes unfairness but costs you money.
+
+Accepting benefits you but allows unfair behavior.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",2.0,0.0,3.0,3.0,0.0,3.0,4.0,3.0,0.0,0.0,3.0,2.0,3.0,3.0,3.0,2.0,3.0,1.0,0.0,2.0,1.0,1.0,0.0,2.0,3.0,1.0,0.0,0.0,3.0,1.0,0.0,4.0,1.0,3.0,2.0,2.0,2.0,2.0,1.0,0.0,3.0,1.0,1.0,0.0,2.0,3.0,1.0,1.0,0.0,4.0,1.0,0.0,3.0,3.0,3.0,3.0,2.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,3.0,3.0,3.0,3.0,3.0,2.0,1.0,0.0,0.0,1.0,0.0,2.0,3.0,3.0,1.0,3.0,3.0,3.0,1.0,0.0,3.0,3.0,3.0,4.0,3.0,3.0,3.0,1.0,0.0,2.0,1.0,0.0,0.0,2.0,2.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,3.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,2.0,4.0,2.0,1.0,2.0,0.0,3.0,0.0,0.0,4.0,3.0,3.0,3.0,3.0,1.0,2.0,1.0,0.0,4.0,1.0
+ultim_17,"You are playing this game with another participant. You are the responder. 
+
+But you are in a group setting where your decision will be visible to others. You think that your decision may affect how others evluate you.
+
+Another participant offers you $40 out of $100.
+
+If you accept, you get $40. If you reject, both get $0.
+
+You think that others might think you are greedy if you reject the offer. 
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",2.0,0.0,4.0,3.0,0.0,3.0,4.0,3.0,0.0,0.0,3.0,3.0,3.0,4.0,4.0,2.0,3.0,1.0,0.0,2.0,1.0,1.0,0.0,2.0,3.0,1.0,0.0,0.0,4.0,1.0,0.0,4.0,3.0,3.0,3.0,4.0,2.0,3.0,1.0,0.0,3.0,1.0,1.0,0.0,3.0,4.0,1.0,4.0,0.0,4.0,1.0,0.0,4.0,3.0,4.0,4.0,5.0,1.0,3.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,3.0,3.0,3.0,3.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,2.0,3.0,3.0,1.0,3.0,3.0,3.0,1.0,0.0,3.0,4.0,3.0,4.0,4.0,3.0,2.0,1.0,0.0,2.0,1.0,0.0,0.0,3.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,1.0,3.0,2.0,4.0,2.0,1.0,2.0,0.0,4.0,0.0,0.0,3.0,3.0,3.0,3.0,4.0,1.0,2.0,1.0,0.0,4.0,1.0
+ultim_18,"You are playing this game with another participant. You are the responder. 
+
+But you are in a group setting where your decision will be visible to others. You think that your decision may affect how others evluate you.
+
+Another participant offers you $40 out of $100.
+
+If you accept, you get $40. If you reject, both get $0.
+
+You think that others might not think you are greedy if you reject the offer. 
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",2.0,0.0,4.0,3.0,0.0,3.0,4.0,3.0,0.0,0.0,3.0,3.0,2.0,2.0,4.0,2.0,3.0,1.0,0.0,2.0,1.0,1.0,0.0,2.0,3.0,1.0,0.0,0.0,4.0,1.0,0.0,4.0,3.0,3.0,3.0,4.0,2.0,3.0,1.0,0.0,3.0,1.0,1.0,0.0,3.0,4.0,1.0,4.0,0.0,4.0,1.0,0.0,4.0,3.0,4.0,3.0,5.0,1.0,3.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,2.0,3.0,3.0,3.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,2.0,3.0,3.0,1.0,3.0,3.0,3.0,1.0,0.0,3.0,3.0,3.0,4.0,3.0,3.0,2.0,1.0,0.0,2.0,1.0,0.0,0.0,3.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,0.0,2.0,2.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,1.0,3.0,2.0,4.0,2.0,1.0,2.0,0.0,4.0,0.0,0.0,3.0,3.0,3.0,3.0,4.0,1.0,2.0,1.0,0.0,3.0,1.0
+ultim_19,"You are playing this game with another participant. You are the responder. 
+
+But you are in a group setting where your decision will be visible to others. You think that your decision may affect how others evluate you.
+
+Another participant offers you $40 out of $100.
+
+If you accept, you get $40. If you reject, both get $0.
+
+You think that others might think you are greedy if you reject the offer. 
+
+But your values lie strictly against unfairness and your values are very important to you. 
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",3.0,0.0,4.0,3.0,0.0,3.0,4.0,4.0,0.0,0.0,4.0,3.0,4.0,4.0,4.0,2.0,3.0,1.0,0.0,2.0,1.0,1.0,0.0,2.0,4.0,1.0,0.0,0.0,4.0,1.0,0.0,4.0,3.0,4.0,3.0,4.0,2.0,3.0,1.0,0.0,4.0,1.0,1.0,0.0,4.0,4.0,1.0,4.0,0.0,4.0,1.0,0.0,4.0,3.0,5.0,4.0,5.0,1.0,3.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,3.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,3.0,4.0,4.0,4.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,3.0,4.0,3.0,1.0,4.0,3.0,3.0,1.0,0.0,4.0,4.0,4.0,4.0,4.0,2.0,4.0,1.0,0.0,2.0,1.0,0.0,0.0,3.0,3.0,1.0,0.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,1.0,4.0,3.0,4.0,3.0,1.0,2.0,0.0,4.0,0.0,0.0,4.0,3.0,4.0,4.0,4.0,1.0,3.0,1.0,0.0,5.0,1.0
+ultim_2,"You are playing this game with another participant. You are the responder. 
+
+They offer you $40 out of $100.
+
+If you accept, you get $40. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",1.0,0.0,1.0,1.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0,0.0,2.0,1.0,1.0,0.0,1.0,2.0,1.0,0.0,0.0,3.0,1.0,0.0,3.0,0.0,2.0,1.0,2.0,1.0,1.0,1.0,0.0,2.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,2.0,1.0,0.0,1.0,0.0,3.0,3.0,2.0,1.0,1.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,3.0,3.0,1.0,0.0,2.0,0.0,1.0,4.0,0.0,5.0,1.0,1.0,0.0,2.0,1.0,0.0,0.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,1.0,1.0,0.0,2.0,1.0,0.0,1.0,0.0,2.0,1.0
+ultim_20,"You are playing this game with another participant in front of you who is a friend of yours. You are the responder.
+
+The other participant offers you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",2.0,0.0,2.0,3.0,0.0,2.0,4.0,3.0,0.0,0.0,3.0,1.0,2.0,0.0,3.0,2.0,1.0,1.0,0.0,2.0,1.0,1.0,0.0,2.0,3.0,1.0,0.0,0.0,3.0,1.0,0.0,4.0,2.0,3.0,2.0,3.0,2.0,2.0,1.0,0.0,3.0,1.0,1.0,0.0,3.0,3.0,1.0,3.0,0.0,4.0,1.0,0.0,3.0,2.0,4.0,4.0,4.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,2.0,3.0,3.0,3.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,2.0,2.0,3.0,1.0,1.0,3.0,3.0,1.0,0.0,3.0,2.0,2.0,4.0,2.0,3.0,2.0,1.0,0.0,2.0,1.0,0.0,0.0,2.0,2.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,2.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,2.0,3.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,2.0,2.0,2.0,3.0,1.0,1.0,1.0,0.0,4.0,1.0
+ultim_21,"You are playing this game with another participant. You are the responder.
+
+They offer you $80 out of $100.
+
+If you accept, you get $80. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",1.0,0.0,1.0,1.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0,0.0,2.0,1.0,1.0,0.0,1.0,2.0,1.0,0.0,0.0,2.0,1.0,0.0,3.0,0.0,2.0,0.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,2.0,1.0,0.0,1.0,0.0,2.0,1.0,2.0,1.0,1.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,1.0,1.0,0.0,2.0,4.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,3.0,3.0,1.0,0.0,2.0,0.0,1.0,4.0,0.0,5.0,1.0,1.0,0.0,2.0,1.0,0.0,0.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,1.0,1.0,0.0,2.0,1.0,0.0,1.0,0.0,0.0,1.0
+ultim_22,"You are playing this game with another participant. You are the responder.
+
+The other participant deliberately keeps most of the money and offers you only $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",2.0,0.0,2.0,3.0,0.0,2.0,4.0,3.0,0.0,0.0,2.0,1.0,2.0,1.0,3.0,2.0,1.0,1.0,0.0,2.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,0.0,3.0,1.0,0.0,4.0,1.0,3.0,1.0,3.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,0.0,2.0,3.0,1.0,1.0,0.0,2.0,1.0,0.0,3.0,2.0,3.0,3.0,2.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,2.0,3.0,3.0,3.0,2.0,2.0,1.0,0.0,0.0,1.0,0.0,2.0,2.0,2.0,1.0,0.0,3.0,3.0,1.0,0.0,3.0,2.0,2.0,4.0,2.0,5.0,2.0,1.0,0.0,2.0,1.0,0.0,0.0,2.0,2.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,2.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,2.0,3.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,2.0,2.0,1.0,3.0,1.0,1.0,1.0,0.0,3.0,1.0
+ultim_23,"You are playing this game with another participant. You are the responder.
+
+You are told that a fair split in this game is $50–$50.
+
+The other participant offers you $45 out of $100.
+
+If you accept, you get $45. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",2.0,0.0,3.0,2.0,0.0,1.0,4.0,3.0,0.0,0.0,3.0,1.0,2.0,1.0,2.0,2.0,2.0,1.0,0.0,2.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,0.0,3.0,1.0,0.0,4.0,2.0,3.0,1.0,2.0,2.0,2.0,1.0,0.0,2.0,1.0,1.0,0.0,2.0,3.0,1.0,1.0,0.0,2.0,1.0,0.0,2.0,2.0,3.0,3.0,2.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,2.0,2.0,1.0,2.0,3.0,2.0,1.0,0.0,0.0,1.0,0.0,2.0,2.0,2.0,1.0,2.0,3.0,3.0,1.0,0.0,3.0,2.0,2.0,4.0,2.0,3.0,2.0,1.0,0.0,2.0,1.0,0.0,0.0,2.0,2.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,2.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,2.0,3.0,2.0,1.0,1.0,0.0,2.0,0.0,0.0,3.0,2.0,2.0,2.0,3.0,1.0,1.0,1.0,0.0,1.0,1.0
+ultim_24,"You are playing this game with another participant. You are the responder.
+
+You have been told that literally any amount increases your payoff.
+
+The other participant offers you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",2.0,0.0,2.0,2.0,0.0,2.0,3.0,2.0,0.0,0.0,2.0,2.0,1.0,0.0,1.0,2.0,0.0,1.0,0.0,2.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,0.0,2.0,1.0,0.0,4.0,1.0,2.0,1.0,2.0,2.0,2.0,1.0,0.0,2.0,1.0,1.0,0.0,2.0,3.0,1.0,0.0,0.0,2.0,1.0,0.0,3.0,2.0,3.0,3.0,2.0,1.0,1.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,5.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,3.0,2.0,1.0,0.0,3.0,3.0,1.0,0.0,2.0,0.0,1.0,4.0,0.0,5.0,1.0,1.0,0.0,2.0,1.0,0.0,0.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,2.0,3.0,2.0,1.0,1.0,0.0,2.0,0.0,0.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0
+ultim_25,"You are playing this game with another participant. You are the responder.
+
+You are told that the proposer did not choose the split amount themselves, but was randomly assigned by an algorithm.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",2.0,0.0,3.0,2.0,0.0,3.0,4.0,3.0,0.0,0.0,3.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,0.0,2.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,0.0,3.0,1.0,0.0,4.0,2.0,3.0,1.0,2.0,2.0,2.0,1.0,0.0,2.0,1.0,1.0,0.0,3.0,3.0,1.0,2.0,0.0,3.0,1.0,0.0,3.0,2.0,2.0,1.0,0.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,2.0,2.0,1.0,1.0,3.0,3.0,1.0,0.0,2.0,0.0,1.0,4.0,1.0,5.0,1.0,1.0,0.0,2.0,1.0,0.0,0.0,3.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,2.0,3.0,2.0,1.0,1.0,0.0,3.0,3.0,0.0,3.0,2.0,2.0,1.0,2.0,1.0,1.0,1.0,0.0,2.0,1.0
+ultim_26,"You are playing this game with another participant. You are the responder.
+
+You are told that the proposer did not choose the split amount themselves, but was suggested by an algorithm. However, the proposer can either approve the suggested split amount or ask the algorithm to regenerate a different split amount.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",2.0,0.0,3.0,3.0,0.0,3.0,4.0,3.0,0.0,0.0,3.0,2.0,3.0,3.0,3.0,2.0,2.0,1.0,0.0,2.0,1.0,1.0,0.0,2.0,3.0,1.0,0.0,0.0,4.0,1.0,0.0,4.0,2.0,3.0,2.0,3.0,2.0,2.0,1.0,0.0,3.0,1.0,1.0,0.0,4.0,4.0,1.0,3.0,0.0,3.0,1.0,0.0,4.0,3.0,4.0,3.0,2.0,1.0,3.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,2.0,3.0,3.0,3.0,2.0,2.0,1.0,0.0,0.0,1.0,0.0,2.0,3.0,3.0,1.0,3.0,3.0,3.0,1.0,0.0,3.0,2.0,3.0,4.0,2.0,5.0,2.0,1.0,0.0,2.0,1.0,0.0,0.0,4.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,0.0,2.0,2.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,2.0,4.0,3.0,1.0,2.0,0.0,3.0,3.0,0.0,3.0,3.0,3.0,2.0,3.0,1.0,2.0,1.0,0.0,3.0,1.0
+ultim_27,"You are playing this game with another participant. You are the responder.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+If you reject, you cannot play any further rounds.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",2.0,0.0,3.0,3.0,0.0,2.0,4.0,3.0,0.0,0.0,3.0,2.0,3.0,2.0,2.0,2.0,2.0,1.0,0.0,2.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,0.0,3.0,1.0,0.0,4.0,2.0,3.0,1.0,2.0,2.0,3.0,1.0,0.0,2.0,1.0,1.0,0.0,2.0,3.0,1.0,2.0,0.0,3.0,1.0,0.0,3.0,2.0,4.0,3.0,2.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,2.0,2.0,2.0,1.0,3.0,3.0,3.0,1.0,0.0,2.0,3.0,2.0,4.0,1.0,5.0,3.0,1.0,0.0,2.0,1.0,0.0,0.0,2.0,2.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,3.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,2.0,3.0,2.0,1.0,1.0,0.0,2.0,0.0,0.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,1.0,0.0,2.0,1.0
+ultim_28,"You are playing this game with another participant. You are the responder.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+You believe that your decision may influence how fairly others treat you in future interactions.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",3.0,0.0,3.0,3.0,0.0,3.0,4.0,3.0,0.0,0.0,4.0,2.0,3.0,4.0,4.0,2.0,3.0,1.0,0.0,2.0,1.0,1.0,0.0,2.0,3.0,1.0,0.0,0.0,4.0,1.0,0.0,4.0,2.0,3.0,2.0,4.0,2.0,3.0,1.0,0.0,3.0,1.0,1.0,0.0,3.0,4.0,1.0,3.0,0.0,4.0,1.0,0.0,4.0,2.0,4.0,4.0,5.0,1.0,3.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,3.0,3.0,4.0,4.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,3.0,3.0,3.0,1.0,2.0,3.0,3.0,1.0,0.0,3.0,4.0,3.0,4.0,3.0,3.0,2.0,1.0,0.0,2.0,1.0,0.0,0.0,2.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,1.0,3.0,2.0,4.0,2.0,1.0,2.0,0.0,4.0,0.0,0.0,4.0,3.0,3.0,3.0,4.0,1.0,2.0,1.0,0.0,4.0,1.0
+ultim_29,"You are playing this game with another participant. You are the responder.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+You believe that your decision may help you get some empathy from other players in the future rounds.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",3.0,0.0,3.0,3.0,0.0,3.0,4.0,3.0,0.0,0.0,3.0,2.0,3.0,3.0,4.0,2.0,3.0,1.0,0.0,2.0,1.0,1.0,0.0,2.0,3.0,1.0,0.0,0.0,4.0,1.0,0.0,4.0,2.0,3.0,2.0,4.0,2.0,3.0,1.0,0.0,3.0,1.0,1.0,0.0,3.0,4.0,1.0,3.0,0.0,4.0,1.0,0.0,4.0,2.0,4.0,4.0,5.0,1.0,3.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,3.0,3.0,4.0,4.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,2.0,3.0,3.0,1.0,3.0,3.0,3.0,1.0,0.0,3.0,3.0,3.0,4.0,3.0,3.0,2.0,1.0,0.0,2.0,1.0,0.0,0.0,3.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,1.0,3.0,2.0,4.0,2.0,1.0,2.0,0.0,4.0,0.0,0.0,3.0,2.0,3.0,3.0,4.0,1.0,1.0,1.0,0.0,3.0,1.0
+ultim_3,"You are playing this game with another participant. You are the responder. 
+
+They offer you $50 out of $100.
+
+If you accept, you get $50. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",1.0,0.0,1.0,1.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0,0.0,2.0,1.0,1.0,0.0,1.0,2.0,1.0,0.0,0.0,2.0,1.0,0.0,3.0,0.0,2.0,0.0,2.0,1.0,1.0,1.0,0.0,2.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,2.0,1.0,0.0,1.0,0.0,2.0,1.0,2.0,1.0,1.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,1.0,1.0,0.0,2.0,4.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,3.0,3.0,1.0,0.0,2.0,0.0,1.0,4.0,0.0,5.0,1.0,1.0,0.0,2.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,1.0,1.0,0.0,2.0,1.0,0.0,1.0,0.0,1.0,1.0
+ultim_30,"You are playing this game with another participant. You are the responder.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+If you reject, you cannot play any further rounds. You believe that you might have more generous opponents in the future rounds. 
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",4.0,0.0,4.0,3.0,0.0,3.0,4.0,3.0,0.0,0.0,3.0,3.0,3.0,3.0,4.0,2.0,3.0,1.0,0.0,2.0,1.0,1.0,0.0,2.0,3.0,1.0,0.0,0.0,4.0,1.0,0.0,4.0,3.0,3.0,3.0,3.0,2.0,3.0,1.0,0.0,3.0,1.0,1.0,0.0,4.0,4.0,1.0,4.0,0.0,4.0,1.0,0.0,4.0,3.0,5.0,4.0,5.0,1.0,3.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,3.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,3.0,3.0,4.0,3.0,3.0,3.0,1.0,0.0,0.0,1.0,0.0,3.0,2.0,3.0,1.0,3.0,3.0,3.0,1.0,0.0,3.0,3.0,4.0,4.0,3.0,3.0,3.0,1.0,0.0,2.0,1.0,0.0,0.0,4.0,3.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,3.0,3.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,1.0,3.0,2.0,4.0,2.0,1.0,2.0,0.0,4.0,0.0,0.0,3.0,3.0,3.0,4.0,3.0,1.0,2.0,1.0,0.0,4.0,1.0
+ultim_31,"You are playing this game with another participant. You are the responder.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+If you reject, you cannot play any further rounds. You believe that you might have more even worse opponents in the future rounds. 
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",4.0,0.0,4.0,3.0,0.0,3.0,4.0,3.0,0.0,0.0,3.0,2.0,3.0,2.0,4.0,2.0,3.0,1.0,0.0,2.0,1.0,1.0,0.0,2.0,3.0,1.0,0.0,0.0,3.0,1.0,0.0,4.0,3.0,3.0,2.0,3.0,2.0,3.0,1.0,0.0,2.0,1.0,1.0,0.0,4.0,4.0,1.0,4.0,0.0,4.0,1.0,0.0,4.0,3.0,5.0,4.0,5.0,1.0,3.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,3.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,3.0,3.0,4.0,3.0,3.0,3.0,1.0,0.0,0.0,1.0,0.0,3.0,2.0,3.0,1.0,3.0,3.0,3.0,1.0,0.0,3.0,3.0,4.0,4.0,3.0,3.0,3.0,1.0,0.0,2.0,1.0,0.0,0.0,4.0,3.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,3.0,3.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,1.0,3.0,2.0,4.0,2.0,1.0,2.0,0.0,4.0,0.0,0.0,3.0,3.0,3.0,2.0,3.0,1.0,2.0,1.0,0.0,2.0,1.0
+ultim_32,"You are playing this game with another participant. You are the responder.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+If you reject, you will feel bad as you would have lost $20.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",3.0,0.0,3.0,3.0,0.0,2.0,4.0,3.0,0.0,0.0,3.0,2.0,2.0,3.0,1.0,2.0,2.0,1.0,0.0,2.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,0.0,3.0,1.0,0.0,4.0,2.0,3.0,1.0,1.0,2.0,2.0,1.0,0.0,2.0,1.0,1.0,0.0,3.0,3.0,1.0,2.0,0.0,2.0,1.0,0.0,3.0,2.0,3.0,3.0,2.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,1.0,2.0,2.0,2.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,2.0,2.0,3.0,1.0,2.0,3.0,3.0,1.0,0.0,2.0,2.0,2.0,4.0,0.0,3.0,2.0,1.0,0.0,2.0,1.0,0.0,0.0,2.0,2.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,2.0,3.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,2.0,2.0,2.0,1.0,1.0,1.0,1.0,0.0,2.0,1.0
+ultim_33,"You are playing this game with another participant. You are the responder.
+
+They offer you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+If you reject, you will feel good even though you would not have gained $20.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",3.0,0.0,4.0,3.0,0.0,2.0,4.0,3.0,0.0,0.0,3.0,2.0,3.0,3.0,1.0,2.0,2.0,1.0,0.0,2.0,1.0,1.0,0.0,2.0,3.0,1.0,0.0,0.0,3.0,1.0,0.0,4.0,2.0,3.0,2.0,1.0,2.0,2.0,1.0,0.0,3.0,1.0,1.0,0.0,3.0,4.0,1.0,2.0,0.0,3.0,1.0,0.0,4.0,2.0,3.0,3.0,2.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,3.0,1.0,1.0,0.0,3.0,0.0,0.0,1.0,2.0,3.0,2.0,0.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,3.0,3.0,3.0,1.0,4.0,3.0,3.0,1.0,0.0,3.0,3.0,3.0,4.0,0.0,3.0,2.0,1.0,0.0,2.0,1.0,0.0,0.0,2.0,2.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,2.0,4.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,2.0,2.0,2.0,1.0,1.0,1.0,1.0,0.0,3.0,1.0
+ultim_4,"You are playing this game with another participant. You are the responder. 
+
+She offers you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",1.0,0.0,1.0,1.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0,0.0,2.0,1.0,1.0,0.0,1.0,2.0,1.0,0.0,0.0,3.0,1.0,0.0,3.0,0.0,2.0,1.0,2.0,1.0,1.0,1.0,0.0,2.0,1.0,1.0,0.0,2.0,2.0,1.0,1.0,0.0,2.0,1.0,0.0,1.0,1.0,3.0,3.0,2.0,1.0,1.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,2.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,3.0,3.0,1.0,0.0,2.0,0.0,1.0,4.0,0.0,5.0,1.0,1.0,0.0,2.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0,2.0,1.0,1.0,0.0,2.0,1.0,0.0,1.0,0.0,3.0,1.0
+ultim_5,"You are playing this game with another participant. You are the responder. 
+
+He offers you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",1.0,0.0,1.0,1.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0,0.0,2.0,1.0,1.0,0.0,1.0,2.0,1.0,0.0,0.0,3.0,1.0,0.0,3.0,0.0,2.0,1.0,2.0,1.0,1.0,1.0,0.0,2.0,1.0,1.0,0.0,2.0,2.0,1.0,1.0,0.0,2.0,1.0,0.0,1.0,1.0,3.0,3.0,2.0,1.0,1.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,2.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,3.0,3.0,1.0,0.0,2.0,0.0,1.0,4.0,0.0,5.0,1.0,1.0,0.0,2.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0,2.0,1.0,1.0,0.0,2.0,1.0,0.0,1.0,0.0,3.0,1.0
+ultim_6,"You are playing this game with another participant. You are the responder. 
+
+They offer you $30 out of $100. 
+
+If you accept, you get $30. If you reject, both get $0.
+
+You know that participants usually split equally in this game. 
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",2.0,0.0,2.0,2.0,0.0,1.0,4.0,3.0,0.0,0.0,2.0,1.0,2.0,1.0,2.0,2.0,1.0,1.0,0.0,2.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,0.0,3.0,1.0,0.0,4.0,1.0,3.0,1.0,3.0,2.0,2.0,1.0,0.0,3.0,1.0,1.0,0.0,2.0,3.0,1.0,1.0,0.0,2.0,1.0,0.0,2.0,2.0,3.0,3.0,2.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,2.0,3.0,2.0,3.0,2.0,2.0,1.0,0.0,0.0,1.0,0.0,2.0,2.0,2.0,1.0,1.0,3.0,3.0,1.0,0.0,3.0,2.0,3.0,4.0,1.0,5.0,1.0,1.0,0.0,2.0,1.0,0.0,0.0,2.0,2.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,2.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,2.0,3.0,2.0,1.0,1.0,0.0,2.0,0.0,0.0,3.0,2.0,2.0,1.0,3.0,1.0,1.0,1.0,0.0,3.0,1.0
+ultim_7,"You are playing this game with another participant. You are the responder. 
+
+Another person intentionally chose to give you $20 out of $100.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",2.0,0.0,2.0,2.0,0.0,2.0,4.0,3.0,0.0,0.0,2.0,1.0,2.0,2.0,3.0,2.0,1.0,1.0,0.0,2.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,0.0,3.0,1.0,0.0,4.0,2.0,3.0,1.0,3.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,0.0,2.0,3.0,1.0,1.0,0.0,2.0,1.0,0.0,3.0,2.0,3.0,3.0,2.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,2.0,3.0,3.0,3.0,2.0,2.0,1.0,0.0,0.0,1.0,0.0,1.0,2.0,2.0,1.0,0.0,3.0,3.0,1.0,0.0,2.0,1.0,1.0,4.0,2.0,5.0,1.0,1.0,0.0,2.0,1.0,0.0,0.0,2.0,2.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,2.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,2.0,3.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,2.0,2.0,1.0,3.0,1.0,1.0,1.0,0.0,4.0,1.0
+ultim_8,"You are playing this game with another participant. You are the responder. 
+
+You are paired with another participant who had limited options for splitting the money. They offer you $20 out of $100 due to constraints.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",2.0,0.0,2.0,2.0,0.0,2.0,4.0,3.0,0.0,0.0,2.0,2.0,2.0,2.0,3.0,2.0,1.0,1.0,0.0,2.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,0.0,3.0,1.0,0.0,4.0,2.0,3.0,1.0,3.0,2.0,2.0,1.0,0.0,2.0,1.0,1.0,0.0,3.0,3.0,1.0,2.0,0.0,3.0,1.0,0.0,3.0,2.0,3.0,2.0,3.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,3.0,2.0,1.0,0.0,3.0,3.0,1.0,0.0,2.0,1.0,1.0,4.0,2.0,5.0,1.0,1.0,0.0,2.0,1.0,0.0,0.0,2.0,2.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,2.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,2.0,3.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,2.0,2.0,2.0,3.0,1.0,1.0,1.0,0.0,2.0,1.0
+ultim_9,"You are playing this game with another participant. You are the responder. 
+
+An algorithm generates the split amount on behalf of the participant based on certain parameters. They offer you $20 out of $100 due to constraints.
+
+If you accept, you get $20. If you reject, both get $0.
+
+Do you accept or reject?
+
+Answer with only one word: Accept or Reject. Do not provide any explanation. Give only the final answer.",3.0,0.0,2.0,2.0,0.0,2.0,4.0,3.0,0.0,0.0,2.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,0.0,2.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,0.0,3.0,1.0,0.0,4.0,2.0,3.0,1.0,3.0,2.0,2.0,1.0,0.0,2.0,1.0,1.0,0.0,3.0,3.0,1.0,2.0,0.0,3.0,1.0,0.0,3.0,2.0,2.0,1.0,0.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,3.0,2.0,1.0,0.0,3.0,3.0,1.0,0.0,2.0,2.0,1.0,4.0,1.0,5.0,1.0,1.0,0.0,2.0,1.0,0.0,0.0,3.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,0.0,2.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,2.0,3.0,2.0,1.0,1.0,0.0,3.0,3.0,0.0,3.0,2.0,2.0,1.0,2.0,1.0,1.0,1.0,0.0,2.0,1.0

@@ -1,0 +1,246 @@
+prompt_id,prompt,anthropic_claude-haiku-4-5_AMb_score,anthropic_claude-haiku-4-5_AS_score,anthropic_claude-haiku-4-5_AT_score,anthropic_claude-haiku-4-5_CEc_score,anthropic_claude-haiku-4-5_CEe_score,anthropic_claude-haiku-4-5_CL_score,anthropic_claude-haiku-4-5_KNa_score,anthropic_claude-haiku-4-5_KNc_score,anthropic_claude-haiku-4-5_KNf_score,anthropic_claude-haiku-4-5_KNn_score,anthropic_claude-haiku-4-5_KNs_score,anthropic_claude-haiku-4-5_MCr_score,anthropic_claude-haiku-4-5_MCt_score,anthropic_claude-haiku-4-5_MCu_score,anthropic_claude-haiku-4-5_MS_score,anthropic_claude-haiku-4-5_OBj_score,anthropic_claude-haiku-4-5_QLl_score,anthropic_claude-haiku-4-5_QLq_score,anthropic_claude-haiku-4-5_SNs_score,anthropic_claude-haiku-4-5_UG_score,anthropic_claude-haiku-4-5_VO_score,anthropic_claude-sonnet-4-5_AMb_score,anthropic_claude-sonnet-4-5_AS_score,anthropic_claude-sonnet-4-5_AT_score,anthropic_claude-sonnet-4-5_CEc_score,anthropic_claude-sonnet-4-5_CEe_score,anthropic_claude-sonnet-4-5_CL_score,anthropic_claude-sonnet-4-5_KNa_score,anthropic_claude-sonnet-4-5_KNc_score,anthropic_claude-sonnet-4-5_KNf_score,anthropic_claude-sonnet-4-5_KNn_score,anthropic_claude-sonnet-4-5_KNs_score,anthropic_claude-sonnet-4-5_MCr_score,anthropic_claude-sonnet-4-5_MCt_score,anthropic_claude-sonnet-4-5_MCu_score,anthropic_claude-sonnet-4-5_MS_score,anthropic_claude-sonnet-4-5_OBj_score,anthropic_claude-sonnet-4-5_QLl_score,anthropic_claude-sonnet-4-5_QLq_score,anthropic_claude-sonnet-4-5_SNs_score,anthropic_claude-sonnet-4-5_UG_score,anthropic_claude-sonnet-4-5_VO_score,gemini_gemini-2.5-flash_AMb_score,gemini_gemini-2.5-flash_AS_score,gemini_gemini-2.5-flash_AT_score,gemini_gemini-2.5-flash_CEc_score,gemini_gemini-2.5-flash_CEe_score,gemini_gemini-2.5-flash_CL_score,gemini_gemini-2.5-flash_KNa_score,gemini_gemini-2.5-flash_KNc_score,gemini_gemini-2.5-flash_KNf_score,gemini_gemini-2.5-flash_KNn_score,gemini_gemini-2.5-flash_KNs_score,gemini_gemini-2.5-flash_MCr_score,gemini_gemini-2.5-flash_MCt_score,gemini_gemini-2.5-flash_MCu_score,gemini_gemini-2.5-flash_MS_score,gemini_gemini-2.5-flash_OBj_score,gemini_gemini-2.5-flash_QLl_score,gemini_gemini-2.5-flash_QLq_score,gemini_gemini-2.5-flash_SNs_score,gemini_gemini-2.5-flash_UG_score,gemini_gemini-2.5-flash_VO_score,openai_gpt-5-mini_AMb_score,openai_gpt-5-mini_AS_score,openai_gpt-5-mini_AT_score,openai_gpt-5-mini_CEc_score,openai_gpt-5-mini_CEe_score,openai_gpt-5-mini_CL_score,openai_gpt-5-mini_KNa_score,openai_gpt-5-mini_KNc_score,openai_gpt-5-mini_KNf_score,openai_gpt-5-mini_KNn_score,openai_gpt-5-mini_KNs_score,openai_gpt-5-mini_MCr_score,openai_gpt-5-mini_MCt_score,openai_gpt-5-mini_MCu_score,openai_gpt-5-mini_MS_score,openai_gpt-5-mini_OBj_score,openai_gpt-5-mini_QLl_score,openai_gpt-5-mini_QLq_score,openai_gpt-5-mini_SNs_score,openai_gpt-5-mini_UG_score,openai_gpt-5-mini_VO_score,openai_gpt-5-nano_AMb_score,openai_gpt-5-nano_AS_score,openai_gpt-5-nano_AT_score,openai_gpt-5-nano_CEc_score,openai_gpt-5-nano_CEe_score,openai_gpt-5-nano_CL_score,openai_gpt-5-nano_KNa_score,openai_gpt-5-nano_KNc_score,openai_gpt-5-nano_KNf_score,openai_gpt-5-nano_KNn_score,openai_gpt-5-nano_KNs_score,openai_gpt-5-nano_MCr_score,openai_gpt-5-nano_MCt_score,openai_gpt-5-nano_MCu_score,openai_gpt-5-nano_MS_score,openai_gpt-5-nano_OBj_score,openai_gpt-5-nano_QLl_score,openai_gpt-5-nano_QLq_score,openai_gpt-5-nano_SNs_score,openai_gpt-5-nano_UG_score,openai_gpt-5-nano_VO_score,openai_gpt-5_AMb_score,openai_gpt-5_AS_score,openai_gpt-5_AT_score,openai_gpt-5_CEc_score,openai_gpt-5_CEe_score,openai_gpt-5_CL_score,openai_gpt-5_KNa_score,openai_gpt-5_KNc_score,openai_gpt-5_KNf_score,openai_gpt-5_KNn_score,openai_gpt-5_KNs_score,openai_gpt-5_MCr_score,openai_gpt-5_MCt_score,openai_gpt-5_MCu_score,openai_gpt-5_MS_score,openai_gpt-5_OBj_score,openai_gpt-5_QLl_score,openai_gpt-5_QLq_score,openai_gpt-5_SNs_score,openai_gpt-5_UG_score,openai_gpt-5_VO_score,xai_grok-4.20-reasoning_AMb_score,xai_grok-4.20-reasoning_AS_score,xai_grok-4.20-reasoning_AT_score,xai_grok-4.20-reasoning_CEc_score,xai_grok-4.20-reasoning_CEe_score,xai_grok-4.20-reasoning_CL_score,xai_grok-4.20-reasoning_KNa_score,xai_grok-4.20-reasoning_KNc_score,xai_grok-4.20-reasoning_KNf_score,xai_grok-4.20-reasoning_KNn_score,xai_grok-4.20-reasoning_KNs_score,xai_grok-4.20-reasoning_MCr_score,xai_grok-4.20-reasoning_MCt_score,xai_grok-4.20-reasoning_MCu_score,xai_grok-4.20-reasoning_MS_score,xai_grok-4.20-reasoning_OBj_score,xai_grok-4.20-reasoning_QLl_score,xai_grok-4.20-reasoning_QLq_score,xai_grok-4.20-reasoning_SNs_score,xai_grok-4.20-reasoning_UG_score,xai_grok-4.20-reasoning_VO_score
+flank_1,"You are given a sequence of directions. Focus only on the middle item and ignore all the others.
+
+LEFT LEFT RIGHT LEFT LEFT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,0.0,0.0,1.0,0.0,2.0,2.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,3.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0
+flank_10,"You are given a sequence of directions. Focus only on the item left to middle and ignore all the others.
+
+LEFT LEFT LEFT LEFT LEFT LEFT LEFT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",1.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,1.0,0.0,5.0,1.0,1.0,0.0,1.0,1.0,1.0,2.0,3.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,2.0,1.0,0.0,0.0,1.0,0.0,2.0,2.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,2.0,1.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,4.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0
+flank_11,"You are given a sequence of directions. Focus only on the item left to middle and ignore all the others.
+
+RIGHT RIGHT RIGHT RIGHT RIGHT RIGHT RIGHT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",1.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,1.0,0.0,5.0,1.0,1.0,0.0,1.0,1.0,1.0,2.0,3.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,2.0,1.0,0.0,0.0,1.0,0.0,2.0,2.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,2.0,1.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,4.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0
+flank_12,"You are given a sequence of directions. Focus only on the item right to middle and ignore all the others.
+
+RIGHT RIGHT RIGHT RIGHT RIGHT RIGHT RIGHT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",1.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,1.0,0.0,5.0,1.0,1.0,0.0,1.0,1.0,1.0,2.0,3.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,2.0,1.0,0.0,0.0,1.0,0.0,2.0,2.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,2.0,1.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,4.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0
+flank_13,"You are given a sequence of directions. Focus only on the item right to middle and ignore all the others.
+
+LEFT LEFT LEFT LEFT LEFT LEFT LEFT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",1.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,1.0,0.0,5.0,1.0,1.0,0.0,1.0,1.0,1.0,2.0,3.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,2.0,1.0,0.0,0.0,1.0,0.0,2.0,2.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,2.0,1.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,4.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0
+flank_14,"You are given a sequence of directions. Focus only on the item right to middle and ignore all the others.
+
+LEFT LEFT LEFT RIGHT LEFT LEFT LEFT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",1.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,1.0,0.0,5.0,1.0,1.0,0.0,1.0,1.0,1.0,2.0,3.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,2.0,1.0,0.0,0.0,1.0,0.0,2.0,2.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,2.0,1.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,4.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0
+flank_15,"You are given a sequence of directions. Focus only on the item right to middle and ignore all the others.
+
+RIGHT RIGHT LEFT RIGHT RIGHT RIGHT RIGHT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",1.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,1.0,0.0,5.0,1.0,1.0,0.0,1.0,1.0,1.0,2.0,3.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,2.0,1.0,0.0,0.0,1.0,0.0,2.0,2.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,2.0,1.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,4.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0
+flank_16,"You are given a sequence of directions. Focus only on the item left to middle and ignore all the others.
+
+RIGHT RIGHT LEFT RIGHT RIGHT RIGHT RIGHT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",1.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,1.0,0.0,5.0,1.0,1.0,0.0,1.0,1.0,1.0,2.0,3.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,2.0,1.0,0.0,0.0,1.0,0.0,2.0,2.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,2.0,1.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,4.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0
+flank_17,"You are given a sequence of directions. Focus only on the item right to middle and ignore all the others.
+
+LEFT LEFT LEFT LEFT RIGHT LEFT LEFT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",1.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,1.0,0.0,5.0,1.0,1.0,0.0,1.0,1.0,1.0,2.0,3.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,2.0,1.0,0.0,0.0,1.0,0.0,2.0,2.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,2.0,1.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,4.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0
+flank_18,"You are given a sequence of directions. Focus only on the item right to middle and ignore all the others.
+
+LEFT LEFT LEFT RIGHT LEFT LEFT LEFT
+
+What is the direction of the right item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",3.0,1.0,1.0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,2.0,2.0,0.0,5.0,1.0,1.0,0.0,1.0,1.0,3.0,2.0,4.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,2.0,1.0,0.0,5.0,3.0,1.0,0.0,0.0,1.0,2.0,2.0,4.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,3.0,1.0,3.0,0.0,3.0,2.0,1.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,4.0,1.0,2.0,3.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,3.0,2.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,2.0,2.0,4.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,2.0,2.0,2.0,0.0,3.0,1.0,1.0,1.0,2.0,1.0
+flank_19,"You are given a sequence of directions. Focus only on the item left to middle and ignore all the others.
+
+RIGHT RIGHT RIGHT LEFT RIGHT RIGHT RIGHT
+
+What is the direction of the middle item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",4.0,1.0,1.0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,2.0,2.0,0.0,5.0,1.0,1.0,0.0,1.0,1.0,3.0,2.0,4.0,3.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,3.0,2.0,1.0,0.0,5.0,3.0,1.0,0.0,0.0,1.0,4.0,2.0,4.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,3.0,1.0,3.0,0.0,3.0,2.0,1.0,1.0,2.0,1.0,4.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,1.0,1.0,3.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,4.0,1.0,2.0,3.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,3.0,2.0,0.0,0.0,3.0,1.0,1.0,1.0,2.0,1.0,3.0,3.0,5.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,3.0,2.0,2.0,0.0,3.0,2.0,1.0,1.0,2.0,1.0
+flank_2,"You are given a sequence of directions. Focus only on the middle item and ignore all the others.
+
+LEFT LEFT LEFT LEFT LEFT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,0.0,0.0,1.0,0.0,2.0,2.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,3.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0
+flank_20,"You are given a sequence of directions. Focus only on the item left to middle and ignore all the others.
+
+RIGHT RIGHT RIGHT RIGHT LEFT RIGHT RIGHT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",1.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,1.0,0.0,5.0,1.0,1.0,0.0,1.0,1.0,1.0,2.0,3.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,2.0,1.0,0.0,0.0,1.0,0.0,2.0,2.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,2.0,1.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,4.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0
+flank_21,"You are given a sequence of directions. Focus only on the item right to middle and ignore all the others.
+
+LEFT LEFT RIGHT LEFT LEFT LEFT LEFT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",1.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,1.0,0.0,5.0,1.0,1.0,0.0,1.0,1.0,1.0,2.0,3.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,2.0,1.0,0.0,0.0,1.0,0.0,2.0,2.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,2.0,1.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,4.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0
+flank_22,"You are given a sequence of directions. Focus only on the middle item and ignore all the others.
+
+RIGHT LEFT RIGHT LEFT RIGHT LEFT RIGHT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,0.0,0.0,1.0,0.0,2.0,2.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,4.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0
+flank_23,"You are given a sequence of directions. Focus only on the item left to the middle and ignore all the others.
+
+RIGHT LEFT RIGHT LEFT RIGHT LEFT RIGHT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",1.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,1.0,0.0,5.0,1.0,1.0,0.0,1.0,1.0,1.0,2.0,3.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,2.0,1.0,0.0,0.0,1.0,0.0,2.0,2.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,2.0,1.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,4.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0
+flank_24,"You are given a sequence of directions. Focus only on the item right to the item right to the middle and ignore all the others.
+
+LEFT LEFT RIGHT LEFT LEFT LEFT LEFT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",2.0,2.0,1.0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,3.0,3.0,2.0,0.0,5.0,1.0,1.0,0.0,1.0,1.0,1.0,2.0,3.0,3.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0,5.0,3.0,1.0,0.0,0.0,1.0,0.0,2.0,3.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,5.0,3.0,1.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,1.0,1.0,3.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,2.0,2.0,3.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,2.0,1.0,2.0,1.0,2.0,3.0,5.0,2.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,2.0,2.0,2.0,0.0,5.0,2.0,2.0,2.0,2.0,1.0
+flank_25,"You are given a sequence of directions. Focus only on the item left to the item left to the middle and ignore all the others.
+
+LEFT RIGHT LEFT LEFT LEFT LEFT LEFT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",2.0,2.0,1.0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,3.0,3.0,2.0,0.0,5.0,1.0,1.0,0.0,1.0,1.0,1.0,2.0,3.0,3.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0,5.0,3.0,1.0,0.0,0.0,1.0,0.0,2.0,3.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,5.0,3.0,1.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,1.0,1.0,3.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,2.0,2.0,3.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,2.0,1.0,2.0,1.0,2.0,3.0,5.0,2.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,2.0,2.0,2.0,0.0,5.0,2.0,2.0,2.0,2.0,1.0
+flank_26,"You are given a sequence of directions. Focus only on the item left to the item right to the middle and ignore all the others.
+
+LEFT LEFT LEFT LEFT RIGHT LEFT LEFT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",2.0,2.0,1.0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,3.0,3.0,2.0,0.0,5.0,1.0,1.0,0.0,1.0,1.0,1.0,2.0,3.0,3.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0,5.0,3.0,1.0,0.0,0.0,1.0,0.0,2.0,3.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,5.0,3.0,1.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,1.0,1.0,3.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,2.0,2.0,3.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,2.0,1.0,2.0,1.0,2.0,3.0,5.0,2.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,2.0,2.0,2.0,0.0,5.0,2.0,2.0,2.0,2.0,1.0
+flank_27,"You are given a sequence of directions. Focus only on the item left to the item right to the middle and ignore all the others.
+
+LEFT LEFT RIGHT LEFT LEFT LEFT LEFT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",2.0,2.0,1.0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,3.0,3.0,2.0,0.0,5.0,1.0,1.0,0.0,1.0,1.0,1.0,2.0,3.0,3.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0,5.0,3.0,1.0,0.0,0.0,1.0,0.0,2.0,3.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,5.0,3.0,1.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,1.0,1.0,3.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,2.0,2.0,3.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,2.0,1.0,2.0,1.0,2.0,3.0,5.0,2.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,2.0,2.0,2.0,0.0,5.0,2.0,2.0,2.0,2.0,1.0
+flank_28,"You are given a sequence of directions. Focus only on the item left to the middle and ignore all the others.
+
+LEFT LEFT RIGHT LEFT LEFT LEFT LEFT
+
+What is the direction of the middle item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",4.0,1.0,1.0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,2.0,2.0,0.0,5.0,1.0,1.0,0.0,1.0,1.0,3.0,2.0,4.0,3.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,3.0,2.0,1.0,0.0,5.0,3.0,1.0,0.0,0.0,1.0,4.0,2.0,4.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,3.0,1.0,3.0,0.0,3.0,2.0,1.0,1.0,2.0,1.0,4.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,1.0,1.0,3.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,4.0,1.0,2.0,3.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,3.0,2.0,0.0,0.0,3.0,1.0,1.0,1.0,2.0,1.0,3.0,3.0,5.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,3.0,2.0,2.0,0.0,3.0,2.0,1.0,1.0,2.0,1.0
+flank_29,"You are given a sequence of directions. Focus only on the item left to middle and ignore all the others.
+
+RIGHT RIGHT LEFT RIGHT RIGHT RIGHT RIGHT
+
+What is the direction of the item on the right?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",4.0,1.0,1.0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,2.0,2.0,0.0,5.0,1.0,1.0,0.0,1.0,1.0,3.0,2.0,4.0,3.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,3.0,2.0,1.0,0.0,5.0,3.0,1.0,0.0,0.0,1.0,5.0,2.0,4.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,3.0,1.0,3.0,0.0,3.0,3.0,1.0,1.0,2.0,1.0,4.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,1.0,1.0,3.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,4.0,1.0,2.0,3.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,3.0,2.0,0.0,0.0,3.0,1.0,1.0,1.0,2.0,1.0,3.0,3.0,5.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,3.0,2.0,3.0,0.0,3.0,2.0,1.0,1.0,2.0,1.0
+flank_3,"You are given a sequence of directions. Focus only on the middle item and ignore all the others.
+
+LEFT RIGHT LEFT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,2.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0
+flank_30,"You are given a sequence of directions. Focus only on the item left to middle and ignore all the others.
+
+RIGHT RIGHT LEFT RIGHT RIGHT RIGHT RIGHT
+
+What is the direction of the item on the left?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",4.0,1.0,1.0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,2.0,2.0,0.0,5.0,1.0,1.0,0.0,1.0,1.0,3.0,2.0,4.0,3.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,3.0,2.0,1.0,0.0,5.0,3.0,1.0,0.0,0.0,1.0,4.0,2.0,4.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,3.0,1.0,3.0,0.0,3.0,3.0,1.0,1.0,2.0,1.0,4.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,1.0,1.0,3.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,4.0,1.0,2.0,3.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,3.0,2.0,0.0,0.0,3.0,1.0,1.0,1.0,2.0,1.0,3.0,3.0,5.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,3.0,2.0,3.0,0.0,3.0,2.0,1.0,1.0,2.0,1.0
+flank_31,"You are given a sequence of arrows. Focus only on the middle arrow and ignore all the others. 
+
+← ← ← ← ←
+
+What is the direction of the focus arrow?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,0.0,0.0,1.0,0.0,2.0,2.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,4.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0
+flank_32,"You are given a sequence of arrows. Focus only on the middle arrow and ignore all the others. 
+
+← ← → ← ←
+
+What is the direction of the focus arrow?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,0.0,0.0,1.0,0.0,2.0,2.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,4.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0
+flank_33,"You are given a sequence of arrows. Focus only on the arrow right to the middle arrow and ignore all the others. 
+
+← ← → ← ←
+
+What is the direction of the focus arrow?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",1.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,1.0,0.0,5.0,1.0,1.0,0.0,1.0,1.0,1.0,2.0,3.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,2.0,1.0,0.0,0.0,1.0,0.0,2.0,2.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,2.0,1.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,5.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0
+flank_34,"You are given a sequence of arrows. Focus only on the arrow right to the middle arrow and ignore all the others. 
+
+← → ← → ←
+
+What is the direction of the focus arrow?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",1.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,1.0,0.0,5.0,1.0,1.0,0.0,1.0,1.0,1.0,2.0,3.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,2.0,1.0,0.0,0.0,1.0,0.0,2.0,2.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,2.0,1.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,5.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0
+flank_35,"You are given a sequence of arrows. Focus only on the arrow right to the left of the middle arrow and ignore all the others. 
+
+← → ← → ←
+
+What is the direction of the focus arrow?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",4.0,2.0,1.0,4.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,3.0,3.0,2.0,0.0,5.0,1.0,1.0,0.0,1.0,1.0,2.0,2.0,3.0,3.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,2.0,2.0,1.0,0.0,5.0,3.0,1.0,0.0,0.0,1.0,0.0,2.0,3.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,5.0,3.0,1.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,1.0,1.0,3.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,4.0,2.0,3.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,2.0,1.0,2.0,1.0,3.0,3.0,5.0,2.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,2.0,2.0,2.0,0.0,5.0,2.0,2.0,2.0,2.0,1.0
+flank_4,"You are given a sequence of directions. Focus only on the middle item and ignore all the others.
+
+RIGHT RIGHT RIGHT RIGHT RIGHT RIGHT RIGHT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,0.0,0.0,1.0,0.0,2.0,2.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,3.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0
+flank_5,"You are given a sequence of directions. Focus only on the middle item and ignore all the others.
+
+RIGHT RIGHT LEFT RIGHT RIGHT RIGHT RIGHT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,0.0,0.0,1.0,0.0,2.0,2.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,3.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0
+flank_6,"You are given a sequence of directions. Focus only on the middle item and ignore all the others.
+
+RIGHT RIGHT RIGHT LEFT RIGHT RIGHT RIGHT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,0.0,0.0,1.0,0.0,2.0,2.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,3.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0
+flank_7,"You are given a sequence of directions. Focus only on the item left to middle and ignore all the others.
+
+RIGHT RIGHT RIGHT LEFT RIGHT RIGHT RIGHT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",1.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,1.0,0.0,5.0,1.0,1.0,0.0,1.0,1.0,1.0,2.0,3.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,2.0,1.0,0.0,0.0,1.0,0.0,2.0,2.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,2.0,1.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,4.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0
+flank_8,"You are given a sequence of directions. Focus only on the item left to middle and ignore all the others.
+
+RIGHT RIGHT RIGHT LEFT RIGHT RIGHT RIGHT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",1.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,1.0,0.0,5.0,1.0,1.0,0.0,1.0,1.0,1.0,2.0,3.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,2.0,1.0,0.0,0.0,1.0,0.0,2.0,2.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,2.0,1.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,4.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0
+flank_9,"You are given a sequence of directions. Focus only on the item left to middle and ignore all the others.
+
+LEFT LEFT LEFT RIGHT LEFT LEFT LEFT
+
+What is the direction of the focus item?
+
+Answer with only one word: Left or Right. Do not provide any explanation. Give only the final answer.",1.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,1.0,0.0,5.0,1.0,1.0,0.0,1.0,1.0,1.0,2.0,3.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,2.0,1.0,0.0,0.0,1.0,0.0,2.0,2.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,2.0,1.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,4.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,5.0,1.0,1.0,1.0,2.0,1.0

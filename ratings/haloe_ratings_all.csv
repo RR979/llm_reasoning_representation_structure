@@ -1,0 +1,211 @@
+prompt_id,prompt,anthropic_claude-haiku-4-5_AMb_score,anthropic_claude-haiku-4-5_AS_score,anthropic_claude-haiku-4-5_AT_score,anthropic_claude-haiku-4-5_CEc_score,anthropic_claude-haiku-4-5_CEe_score,anthropic_claude-haiku-4-5_CL_score,anthropic_claude-haiku-4-5_KNa_score,anthropic_claude-haiku-4-5_KNc_score,anthropic_claude-haiku-4-5_KNf_score,anthropic_claude-haiku-4-5_KNn_score,anthropic_claude-haiku-4-5_KNs_score,anthropic_claude-haiku-4-5_MCr_score,anthropic_claude-haiku-4-5_MCt_score,anthropic_claude-haiku-4-5_MCu_score,anthropic_claude-haiku-4-5_MS_score,anthropic_claude-haiku-4-5_OBj_score,anthropic_claude-haiku-4-5_QLl_score,anthropic_claude-haiku-4-5_QLq_score,anthropic_claude-haiku-4-5_SNs_score,anthropic_claude-haiku-4-5_UG_score,anthropic_claude-haiku-4-5_VO_score,anthropic_claude-sonnet-4-5_AMb_score,anthropic_claude-sonnet-4-5_AS_score,anthropic_claude-sonnet-4-5_AT_score,anthropic_claude-sonnet-4-5_CEc_score,anthropic_claude-sonnet-4-5_CEe_score,anthropic_claude-sonnet-4-5_CL_score,anthropic_claude-sonnet-4-5_KNa_score,anthropic_claude-sonnet-4-5_KNc_score,anthropic_claude-sonnet-4-5_KNf_score,anthropic_claude-sonnet-4-5_KNn_score,anthropic_claude-sonnet-4-5_KNs_score,anthropic_claude-sonnet-4-5_MCr_score,anthropic_claude-sonnet-4-5_MCt_score,anthropic_claude-sonnet-4-5_MCu_score,anthropic_claude-sonnet-4-5_MS_score,anthropic_claude-sonnet-4-5_OBj_score,anthropic_claude-sonnet-4-5_QLl_score,anthropic_claude-sonnet-4-5_QLq_score,anthropic_claude-sonnet-4-5_SNs_score,anthropic_claude-sonnet-4-5_UG_score,anthropic_claude-sonnet-4-5_VO_score,gemini_gemini-2.5-flash_AMb_score,gemini_gemini-2.5-flash_AS_score,gemini_gemini-2.5-flash_AT_score,gemini_gemini-2.5-flash_CEc_score,gemini_gemini-2.5-flash_CEe_score,gemini_gemini-2.5-flash_CL_score,gemini_gemini-2.5-flash_KNa_score,gemini_gemini-2.5-flash_KNc_score,gemini_gemini-2.5-flash_KNf_score,gemini_gemini-2.5-flash_KNn_score,gemini_gemini-2.5-flash_KNs_score,gemini_gemini-2.5-flash_MCr_score,gemini_gemini-2.5-flash_MCt_score,gemini_gemini-2.5-flash_MCu_score,gemini_gemini-2.5-flash_MS_score,gemini_gemini-2.5-flash_OBj_score,gemini_gemini-2.5-flash_QLl_score,gemini_gemini-2.5-flash_QLq_score,gemini_gemini-2.5-flash_SNs_score,gemini_gemini-2.5-flash_UG_score,gemini_gemini-2.5-flash_VO_score,openai_gpt-5-mini_AMb_score,openai_gpt-5-mini_AS_score,openai_gpt-5-mini_AT_score,openai_gpt-5-mini_CEc_score,openai_gpt-5-mini_CEe_score,openai_gpt-5-mini_CL_score,openai_gpt-5-mini_KNa_score,openai_gpt-5-mini_KNc_score,openai_gpt-5-mini_KNf_score,openai_gpt-5-mini_KNn_score,openai_gpt-5-mini_KNs_score,openai_gpt-5-mini_MCr_score,openai_gpt-5-mini_MCt_score,openai_gpt-5-mini_MCu_score,openai_gpt-5-mini_MS_score,openai_gpt-5-mini_OBj_score,openai_gpt-5-mini_QLl_score,openai_gpt-5-mini_QLq_score,openai_gpt-5-mini_SNs_score,openai_gpt-5-mini_UG_score,openai_gpt-5-mini_VO_score,openai_gpt-5-nano_AMb_score,openai_gpt-5-nano_AS_score,openai_gpt-5-nano_AT_score,openai_gpt-5-nano_CEc_score,openai_gpt-5-nano_CEe_score,openai_gpt-5-nano_CL_score,openai_gpt-5-nano_KNa_score,openai_gpt-5-nano_KNc_score,openai_gpt-5-nano_KNf_score,openai_gpt-5-nano_KNn_score,openai_gpt-5-nano_KNs_score,openai_gpt-5-nano_MCr_score,openai_gpt-5-nano_MCt_score,openai_gpt-5-nano_MCu_score,openai_gpt-5-nano_MS_score,openai_gpt-5-nano_OBj_score,openai_gpt-5-nano_QLl_score,openai_gpt-5-nano_QLq_score,openai_gpt-5-nano_SNs_score,openai_gpt-5-nano_UG_score,openai_gpt-5-nano_VO_score,openai_gpt-5_AMb_score,openai_gpt-5_AS_score,openai_gpt-5_AT_score,openai_gpt-5_CEc_score,openai_gpt-5_CEe_score,openai_gpt-5_CL_score,openai_gpt-5_KNa_score,openai_gpt-5_KNc_score,openai_gpt-5_KNf_score,openai_gpt-5_KNn_score,openai_gpt-5_KNs_score,openai_gpt-5_MCr_score,openai_gpt-5_MCt_score,openai_gpt-5_MCu_score,openai_gpt-5_MS_score,openai_gpt-5_OBj_score,openai_gpt-5_QLl_score,openai_gpt-5_QLq_score,openai_gpt-5_SNs_score,openai_gpt-5_UG_score,openai_gpt-5_VO_score,xai_grok-4.20-reasoning_AMb_score,xai_grok-4.20-reasoning_AS_score,xai_grok-4.20-reasoning_AT_score,xai_grok-4.20-reasoning_CEc_score,xai_grok-4.20-reasoning_CEe_score,xai_grok-4.20-reasoning_CL_score,xai_grok-4.20-reasoning_KNa_score,xai_grok-4.20-reasoning_KNc_score,xai_grok-4.20-reasoning_KNf_score,xai_grok-4.20-reasoning_KNn_score,xai_grok-4.20-reasoning_KNs_score,xai_grok-4.20-reasoning_MCr_score,xai_grok-4.20-reasoning_MCt_score,xai_grok-4.20-reasoning_MCu_score,xai_grok-4.20-reasoning_MS_score,xai_grok-4.20-reasoning_OBj_score,xai_grok-4.20-reasoning_QLl_score,xai_grok-4.20-reasoning_QLq_score,xai_grok-4.20-reasoning_SNs_score,xai_grok-4.20-reasoning_UG_score,xai_grok-4.20-reasoning_VO_score
+haloe_1,"You are looking at this person in front of you. You find the person to be physically attractive.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",3.0,0.0,1.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,3.0,0.0,1.0,3.0,1.0,1.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,3.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,3.0,1.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,3.0,1.0,4.0,0.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,3.0,1.0,2.0,0.0,1.0,0.0,1.0,0.0,5.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,3.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,0.0,5.0,1.0,4.0,0.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,3.0,3.0,1.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,3.0,1.0,1.0,1.0,0.0,2.0,0.0,0.0,2.0,1.0,1.0,3.0,2.0,1.0,0.0,0.0,0.0,2.0,1.0
+haloe_10,"You are looking at this person in front of you. You find the person to be physically attractive. Others around you also seem to find them attractive.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",3.0,0.0,2.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,2.0,2.0,3.0,2.0,1.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,3.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,3.0,1.0,2.0,2.0,1.0,1.0,0.0,0.0,0.0,3.0,1.0,4.0,0.0,2.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,0.0,3.0,2.0,3.0,1.0,1.0,0.0,1.0,0.0,5.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,2.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,3.0,0.0,0.0,0.0,3.0,2.0,1.0,2.0,1.0,1.0,0.0,1.0,0.0,5.0,1.0,4.0,0.0,3.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,0.0,2.0,2.0,4.0,3.0,1.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,4.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,2.0,2.0,3.0,3.0,1.0,0.0,0.0,0.0,2.0,1.0
+haloe_11,"You are looking at this person in front of you. You find the person to be physically attractive, but others around you do not find them attractive.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",3.0,0.0,2.0,2.0,1.0,2.0,0.0,3.0,0.0,0.0,3.0,2.0,3.0,3.0,2.0,1.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,3.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,3.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,0.0,3.0,1.0,4.0,0.0,2.0,1.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0,4.0,1.0,1.0,0.0,1.0,0.0,5.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,2.0,2.0,1.0,2.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,3.0,0.0,0.0,0.0,3.0,3.0,2.0,3.0,2.0,1.0,0.0,1.0,0.0,5.0,1.0,4.0,0.0,3.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,2.0,2.0,4.0,3.0,1.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,4.0,2.0,1.0,2.0,0.0,3.0,0.0,0.0,3.0,2.0,3.0,4.0,3.0,2.0,0.0,0.0,0.0,4.0,1.0
+haloe_12,"You are looking at this person in front of you. You find the person to be physically attractive. Your evaluation will be reviewed by others.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",3.0,0.0,2.0,2.0,1.0,2.0,0.0,3.0,0.0,0.0,3.0,2.0,3.0,3.0,3.0,1.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,3.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,3.0,2.0,2.0,2.0,3.0,1.0,0.0,0.0,0.0,3.0,1.0,4.0,0.0,2.0,1.0,1.0,2.0,0.0,4.0,0.0,0.0,0.0,3.0,4.0,4.0,3.0,1.0,0.0,1.0,0.0,5.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,2.0,2.0,2.0,3.0,2.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,3.0,0.0,0.0,0.0,3.0,3.0,2.0,3.0,3.0,1.0,0.0,1.0,0.0,5.0,1.0,4.0,0.0,3.0,1.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,2.0,2.0,3.0,4.0,1.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,4.0,2.0,1.0,2.0,0.0,3.0,0.0,0.0,3.0,2.0,2.0,4.0,4.0,2.0,0.0,0.0,0.0,3.0,1.0
+haloe_13,"You are looking at this person in front of you. You find the person to be physically attractive. Your response is completely private.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",3.0,0.0,1.0,1.0,1.0,2.0,0.0,3.0,0.0,0.0,3.0,1.0,2.0,3.0,1.0,1.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,3.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,3.0,1.0,2.0,2.0,0.0,1.0,0.0,0.0,0.0,3.0,1.0,4.0,0.0,1.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,0.0,3.0,1.0,2.0,0.0,1.0,0.0,1.0,0.0,5.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,3.0,1.0,1.0,3.0,1.0,1.0,0.0,1.0,0.0,5.0,1.0,4.0,0.0,3.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,0.0,1.0,1.0,4.0,3.0,1.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,4.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,2.0,2.0,1.0,3.0,2.0,1.0,0.0,0.0,0.0,2.0,1.0
+haloe_14,"You are looking at this person in front of you. You find the person to be physically attractive. You are also given additional unrelated details about their background and hobbies.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",3.0,0.0,2.0,2.0,1.0,2.0,0.0,3.0,0.0,0.0,3.0,1.0,2.0,2.0,2.0,1.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,3.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,3.0,1.0,2.0,2.0,0.0,1.0,0.0,0.0,0.0,3.0,1.0,4.0,0.0,2.0,1.0,1.0,2.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,1.0,0.0,1.0,0.0,5.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,2.0,2.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,3.0,0.0,0.0,0.0,3.0,3.0,2.0,3.0,2.0,1.0,0.0,1.0,0.0,5.0,1.0,4.0,0.0,3.0,1.0,1.0,1.0,0.0,2.0,0.0,0.0,0.0,2.0,2.0,4.0,3.0,1.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,4.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,2.0,2.0,2.0,3.0,3.0,1.0,0.0,0.0,0.0,3.0,1.0
+haloe_15,"You are looking at this person in front of you. You find the person to be physically attractive. You are given minimal information about them.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",3.0,0.0,1.0,1.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,0.0,2.0,2.0,1.0,1.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,3.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,3.0,1.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,3.0,1.0,4.0,0.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,3.0,1.0,2.0,0.0,1.0,0.0,1.0,0.0,5.0,1.0,3.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,2.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,3.0,1.0,2.0,3.0,1.0,1.0,0.0,1.0,0.0,5.0,1.0,4.0,0.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,3.0,3.0,1.0,0.0,0.0,0.0,5.0,1.0,5.0,0.0,4.0,1.0,1.0,1.0,0.0,2.0,0.0,0.0,2.0,1.0,1.0,2.0,2.0,1.0,0.0,0.0,0.0,2.0,1.0
+haloe_16,"You are looking at this person in front of you. You find the person to be physically attractive. You are aware that appearance can bias judgments.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",3.0,0.0,2.0,2.0,1.0,2.0,0.0,4.0,0.0,0.0,3.0,2.0,3.0,4.0,2.0,2.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,3.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,4.0,2.0,3.0,3.0,0.0,1.0,0.0,0.0,0.0,3.0,1.0,4.0,0.0,2.0,2.0,1.0,3.0,0.0,4.0,0.0,0.0,0.0,3.0,4.0,1.0,0.0,1.0,0.0,1.0,0.0,5.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0,3.0,1.0,2.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,1.0,2.0,3.0,0.0,0.0,0.0,3.0,3.0,3.0,4.0,3.0,1.0,0.0,1.0,0.0,5.0,1.0,4.0,0.0,3.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,2.0,3.0,2.0,3.0,1.0,0.0,0.0,0.0,5.0,1.0,3.0,0.0,4.0,2.0,1.0,2.0,0.0,4.0,0.0,0.0,3.0,3.0,3.0,4.0,3.0,2.0,0.0,0.0,0.0,3.0,1.0
+haloe_17,"You are looking at this person in front of you. You find the person to be physically attractive. You are asked to carefully avoid bias in your judgment.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",3.0,0.0,2.0,2.0,1.0,2.0,0.0,4.0,0.0,0.0,3.0,2.0,3.0,4.0,2.0,2.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,3.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,4.0,2.0,3.0,3.0,0.0,1.0,0.0,0.0,0.0,3.0,1.0,4.0,0.0,2.0,2.0,1.0,3.0,0.0,4.0,0.0,0.0,0.0,3.0,4.0,1.0,0.0,1.0,0.0,1.0,0.0,5.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,3.0,4.0,3.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,1.0,2.0,3.0,0.0,0.0,0.0,3.0,4.0,4.0,4.0,3.0,1.0,0.0,1.0,0.0,5.0,1.0,4.0,0.0,3.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,2.0,3.0,2.0,3.0,1.0,0.0,0.0,0.0,5.0,1.0,3.0,0.0,4.0,2.0,1.0,2.0,0.0,4.0,0.0,0.0,3.0,3.0,3.0,4.0,3.0,3.0,0.0,0.0,0.0,2.0,1.0
+haloe_18,"You are looking at this person in front of you. You find the person to be physically attractive. You believe attraction is directly correlated with competence.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",3.0,0.0,1.0,2.0,1.0,2.0,0.0,3.0,0.0,0.0,3.0,2.0,3.0,4.0,2.0,1.0,0.0,0.0,0.0,5.0,1.0,3.0,0.0,4.0,3.0,1.0,0.0,0.0,3.0,0.0,0.0,4.0,1.0,2.0,2.0,0.0,1.0,0.0,0.0,0.0,3.0,1.0,2.0,0.0,2.0,2.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,3.0,2.0,5.0,0.0,1.0,0.0,1.0,0.0,5.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,1.0,1.0,3.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,1.0,2.0,3.0,0.0,0.0,0.0,3.0,4.0,3.0,4.0,3.0,1.0,0.0,1.0,0.0,5.0,1.0,3.0,0.0,3.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,3.0,1.0,5.0,3.0,1.0,0.0,0.0,0.0,5.0,1.0,3.0,0.0,4.0,2.0,1.0,1.0,0.0,4.0,0.0,0.0,3.0,2.0,1.0,2.0,2.0,1.0,0.0,0.0,0.0,1.0,1.0
+haloe_19,"You are looking at this person in front of you. You find the person to be physically attractive. You believe others expect you to rate them highly.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",4.0,0.0,2.0,2.0,1.0,2.0,0.0,3.0,0.0,0.0,3.0,2.0,3.0,4.0,3.0,1.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,4.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,4.0,2.0,3.0,2.0,3.0,1.0,0.0,0.0,0.0,3.0,1.0,4.0,0.0,2.0,2.0,1.0,2.0,0.0,3.0,0.0,0.0,0.0,3.0,4.0,4.0,3.0,1.0,0.0,1.0,0.0,5.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,2.0,2.0,3.0,3.0,2.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,1.0,2.0,3.0,0.0,0.0,0.0,3.0,3.0,3.0,4.0,3.0,1.0,0.0,1.0,0.0,5.0,1.0,4.0,0.0,3.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,2.0,2.0,4.0,4.0,1.0,0.0,0.0,0.0,5.0,1.0,3.0,0.0,4.0,2.0,1.0,2.0,0.0,4.0,0.0,0.0,3.0,2.0,2.0,4.0,4.0,1.0,0.0,0.0,0.0,2.0,1.0
+haloe_2,"You are looking at this person in front of you. You find the person to be physically unattractive.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",3.0,0.0,1.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,3.0,0.0,1.0,3.0,1.0,1.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,3.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,3.0,1.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,3.0,1.0,4.0,0.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,3.0,1.0,2.0,0.0,1.0,0.0,1.0,0.0,5.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,3.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,0.0,5.0,1.0,4.0,0.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,3.0,3.0,1.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,3.0,1.0,1.0,1.0,0.0,2.0,0.0,0.0,2.0,1.0,1.0,3.0,2.0,1.0,0.0,0.0,0.0,2.0,1.0
+haloe_20,"You are looking at this person in front of you. You find the person to be physically attractive, but they appear disorganized and unprepared.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",2.0,0.0,2.0,3.0,1.0,2.0,0.0,3.0,0.0,0.0,3.0,3.0,3.0,3.0,2.0,2.0,0.0,0.0,0.0,5.0,1.0,3.0,0.0,3.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,4.0,2.0,3.0,3.0,0.0,2.0,0.0,0.0,0.0,3.0,1.0,3.0,0.0,1.0,2.0,1.0,2.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0,4.0,2.0,3.0,0.0,1.0,0.0,5.0,1.0,2.0,1.0,1.0,2.0,1.0,2.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0,3.0,2.0,3.0,2.0,1.0,0.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,3.0,0.0,0.0,0.0,3.0,3.0,3.0,3.0,2.0,1.0,0.0,1.0,0.0,5.0,1.0,3.0,0.0,3.0,2.0,1.0,1.0,0.0,2.0,0.0,0.0,0.0,3.0,3.0,3.0,3.0,2.0,0.0,0.0,0.0,5.0,1.0,3.0,0.0,4.0,2.0,1.0,2.0,0.0,3.0,0.0,0.0,3.0,2.0,3.0,4.0,3.0,3.0,0.0,0.0,0.0,4.0,1.0
+haloe_21,"You are looking at this person in front of you. You find the person to be physically attractive. 
+
+You have to make an assesment about them. You recalled that you recently read a scientific study that showed that there is strong negative correlation between beauty and intelligence.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",4.0,0.0,2.0,3.0,1.0,2.0,0.0,4.0,0.0,0.0,3.0,3.0,3.0,4.0,2.0,2.0,0.0,0.0,0.0,5.0,1.0,3.0,0.0,4.0,3.0,1.0,0.0,0.0,3.0,0.0,0.0,4.0,2.0,3.0,3.0,0.0,1.0,0.0,0.0,0.0,3.0,1.0,2.0,0.0,3.0,2.0,1.0,3.0,0.0,4.0,0.0,0.0,0.0,3.0,4.0,5.0,0.0,3.0,0.0,1.0,0.0,5.0,1.0,2.0,1.0,1.0,2.0,1.0,2.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0,4.0,1.0,3.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,2.0,1.0,3.0,3.0,0.0,0.0,0.0,3.0,5.0,3.0,5.0,3.0,1.0,0.0,1.0,0.0,5.0,1.0,3.0,0.0,4.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0,4.0,3.0,2.0,0.0,0.0,0.0,5.0,1.0,3.0,0.0,4.0,2.0,1.0,2.0,0.0,4.0,2.0,0.0,4.0,3.0,3.0,4.0,2.0,3.0,0.0,0.0,0.0,4.0,1.0
+haloe_22,"You are looking at this person in front of you. You find the person to be physically unattractive, but your best friend thinks they are very attractive.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",3.0,0.0,2.0,2.0,1.0,2.0,0.0,3.0,0.0,0.0,3.0,2.0,3.0,3.0,3.0,1.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,3.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,3.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,0.0,3.0,1.0,4.0,0.0,2.0,1.0,1.0,2.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0,4.0,3.0,1.0,0.0,1.0,0.0,5.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,2.0,2.0,1.0,3.0,2.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,3.0,0.0,0.0,0.0,3.0,4.0,2.0,3.0,3.0,1.0,0.0,1.0,0.0,5.0,1.0,4.0,0.0,3.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,2.0,2.0,4.0,3.0,1.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,4.0,2.0,1.0,2.0,0.0,3.0,0.0,0.0,2.0,2.0,2.0,3.0,4.0,1.0,0.0,0.0,0.0,3.0,1.0
+haloe_23,"You are looking at this person in front of you. You find her to be physically attractive.
+
+You have to make an assesment about her.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",2.0,0.0,1.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,3.0,0.0,1.0,3.0,1.0,1.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,3.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,3.0,1.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,3.0,1.0,4.0,0.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,3.0,1.0,2.0,0.0,1.0,0.0,1.0,0.0,5.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,3.0,0.0,0.0,0.0,3.0,2.0,1.0,2.0,1.0,1.0,0.0,1.0,0.0,5.0,1.0,4.0,0.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,3.0,3.0,1.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,3.0,1.0,1.0,1.0,0.0,2.0,0.0,0.0,2.0,1.0,1.0,3.0,2.0,1.0,0.0,0.0,0.0,2.0,1.0
+haloe_24,"You are looking at this person in front of you. You find him to be physically attractive.
+
+You have to make an assesment about him.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",2.0,0.0,1.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,3.0,0.0,1.0,3.0,1.0,1.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,3.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,3.0,1.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,3.0,1.0,4.0,0.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,3.0,1.0,2.0,0.0,1.0,0.0,1.0,0.0,5.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,3.0,0.0,0.0,0.0,3.0,2.0,1.0,2.0,1.0,1.0,0.0,1.0,0.0,5.0,1.0,4.0,0.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,3.0,3.0,1.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,3.0,1.0,1.0,1.0,0.0,2.0,0.0,0.0,2.0,1.0,1.0,3.0,2.0,1.0,0.0,0.0,0.0,2.0,1.0
+haloe_25,"You are looking at this person in front of you. You find them to be physically attractive. In your personal experience, you have always found physically attractive people to be very competent.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",3.0,0.0,2.0,3.0,1.0,2.0,0.0,3.0,0.0,0.0,3.0,1.0,2.0,4.0,2.0,1.0,0.0,0.0,0.0,5.0,1.0,3.0,0.0,3.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,4.0,2.0,2.0,2.0,0.0,1.0,0.0,0.0,0.0,3.0,1.0,2.0,0.0,2.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,0.0,3.0,2.0,5.0,0.0,1.0,0.0,1.0,0.0,5.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,1.0,1.0,3.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,1.0,1.0,3.0,0.0,0.0,0.0,3.0,3.0,2.0,3.0,2.0,1.0,0.0,1.0,0.0,5.0,1.0,3.0,0.0,3.0,1.0,1.0,1.0,0.0,2.0,0.0,0.0,0.0,3.0,1.0,4.0,3.0,1.0,0.0,0.0,0.0,5.0,1.0,3.0,0.0,4.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,2.0,1.0,2.0,2.0,1.0,0.0,0.0,0.0,1.0,1.0
+haloe_26,"You are looking at this person in front of you. You find them to be physically attractive. In your personal experience, you have always found physically attractive people to be very competent. However, you have a conversation with this person and you are not convinced that they are smart enough.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",4.0,0.0,2.0,4.0,1.0,3.0,0.0,4.0,0.0,0.0,3.0,3.0,4.0,4.0,4.0,2.0,0.0,0.0,0.0,5.0,1.0,3.0,0.0,4.0,3.0,1.0,0.0,0.0,3.0,0.0,0.0,4.0,3.0,3.0,3.0,0.0,2.0,0.0,0.0,0.0,3.0,1.0,3.0,0.0,2.0,2.0,1.0,3.0,0.0,4.0,0.0,0.0,0.0,3.0,3.0,5.0,2.0,3.0,0.0,1.0,0.0,5.0,1.0,3.0,1.0,1.0,3.0,1.0,2.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0,3.0,3.0,3.0,2.0,1.0,0.0,1.0,1.0,1.0,1.0,4.0,2.0,1.0,2.0,3.0,0.0,0.0,0.0,3.0,4.0,4.0,4.0,3.0,1.0,0.0,1.0,0.0,5.0,1.0,4.0,0.0,3.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0,3.0,3.0,2.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,5.0,2.0,1.0,2.0,0.0,4.0,0.0,0.0,3.0,3.0,3.0,4.0,3.0,3.0,0.0,0.0,0.0,5.0,1.0
+haloe_27,"You are looking at this person in front of you. You find them to be physically attractive. You have a conversation with this person and you are not convinced that they are smart enough. However, in your personal experience, you have always found physically attractive people to be very competent.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",4.0,0.0,2.0,4.0,1.0,3.0,0.0,4.0,0.0,0.0,3.0,3.0,4.0,4.0,4.0,2.0,0.0,0.0,0.0,5.0,1.0,3.0,0.0,4.0,3.0,1.0,0.0,0.0,3.0,0.0,0.0,4.0,3.0,3.0,3.0,0.0,2.0,0.0,0.0,0.0,3.0,1.0,3.0,0.0,2.0,2.0,1.0,3.0,0.0,4.0,0.0,0.0,0.0,3.0,3.0,5.0,2.0,3.0,0.0,1.0,0.0,5.0,1.0,3.0,1.0,1.0,3.0,1.0,2.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0,3.0,3.0,3.0,2.0,1.0,0.0,1.0,1.0,1.0,1.0,4.0,2.0,1.0,2.0,3.0,0.0,0.0,0.0,3.0,4.0,4.0,4.0,3.0,1.0,0.0,1.0,0.0,5.0,1.0,4.0,0.0,3.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0,3.0,3.0,2.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,5.0,2.0,1.0,2.0,0.0,4.0,0.0,0.0,3.0,3.0,3.0,4.0,3.0,2.0,0.0,0.0,0.0,5.0,1.0
+haloe_28,"You are looking at this person in front of you. You find them to be physically attractive. 
+
+You have to make an assesment about them. But you have to do it in front of your colleague and you are afraid that they might think you are biased because you find the person to be physcially attractive.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",4.0,0.0,2.0,3.0,1.0,3.0,0.0,4.0,0.0,0.0,3.0,3.0,4.0,4.0,3.0,1.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,4.0,3.0,1.0,0.0,0.0,3.0,0.0,0.0,4.0,3.0,3.0,3.0,4.0,1.0,0.0,0.0,0.0,3.0,1.0,4.0,0.0,3.0,2.0,1.0,3.0,0.0,4.0,0.0,0.0,0.0,3.0,4.0,4.0,3.0,1.0,0.0,1.0,0.0,5.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,2.0,3.0,3.0,3.0,2.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,4.0,2.0,1.0,3.0,3.0,0.0,0.0,0.0,3.0,4.0,4.0,5.0,3.0,1.0,0.0,1.0,0.0,5.0,1.0,4.0,0.0,4.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,2.0,3.0,4.0,4.0,1.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,5.0,2.0,1.0,2.0,0.0,4.0,0.0,0.0,4.0,3.0,3.0,5.0,4.0,2.0,0.0,0.0,0.0,3.0,1.0
+haloe_29,"You are looking at this person in front of you. You find them to be physically attractive. 
+
+You have to make an assesment about them. But you have to do it in front of your colleague and you are afraid that they might think you are biased because you find the person to be physcially attractive. However, you have to make the assesment live in front of that person and your colleague.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",5.0,0.0,2.0,4.0,1.0,4.0,0.0,4.0,0.0,0.0,3.0,4.0,5.0,5.0,4.0,1.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,4.0,3.0,1.0,0.0,0.0,3.0,0.0,0.0,4.0,3.0,4.0,4.0,5.0,1.0,0.0,0.0,0.0,3.0,1.0,4.0,0.0,3.0,3.0,1.0,4.0,0.0,5.0,0.0,0.0,0.0,4.0,5.0,5.0,4.0,1.0,0.0,1.0,0.0,5.0,1.0,3.0,1.0,1.0,3.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,3.0,4.0,4.0,4.0,2.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,4.0,2.0,1.0,3.0,3.0,0.0,0.0,0.0,3.0,5.0,4.0,5.0,4.0,1.0,0.0,1.0,0.0,5.0,1.0,4.0,0.0,4.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,2.0,3.0,5.0,4.0,1.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,5.0,2.0,1.0,2.0,0.0,4.0,0.0,0.0,4.0,4.0,4.0,5.0,5.0,2.0,0.0,0.0,0.0,4.0,1.0
+haloe_3,"You are looking at this person in front of you.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",5.0,0.0,1.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,3.0,0.0,1.0,3.0,1.0,1.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,2.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,3.0,0.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,3.0,1.0,5.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,3.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,5.0,1.0,3.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,3.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,0.0,5.0,1.0,4.0,0.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,3.0,3.0,1.0,0.0,0.0,0.0,5.0,1.0,5.0,0.0,3.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,5.0,1.0
+haloe_30,"You are looking at this person in front of you. You find them to be physically attractive. 
+
+You have to make an assesment about them. But you have to do it in front of your colleague and you are afraid that they might think you are biased because you find the person to be physcially attractive. However, you have to make the assesment live in front of that person and you don't want to offend them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",5.0,0.0,2.0,4.0,1.0,4.0,0.0,4.0,0.0,0.0,3.0,4.0,5.0,5.0,4.0,1.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,4.0,3.0,1.0,0.0,0.0,3.0,0.0,0.0,4.0,3.0,4.0,4.0,5.0,1.0,0.0,0.0,0.0,3.0,1.0,4.0,0.0,4.0,3.0,1.0,4.0,0.0,5.0,0.0,0.0,0.0,4.0,5.0,5.0,5.0,1.0,0.0,1.0,0.0,5.0,1.0,3.0,1.0,1.0,3.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,3.0,4.0,4.0,4.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,4.0,2.0,1.0,3.0,3.0,0.0,0.0,0.0,3.0,4.0,4.0,5.0,4.0,1.0,0.0,1.0,0.0,5.0,1.0,4.0,0.0,4.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,2.0,4.0,5.0,4.0,1.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,5.0,2.0,1.0,2.0,0.0,4.0,0.0,0.0,4.0,4.0,4.0,5.0,5.0,2.0,0.0,0.0,0.0,3.0,1.0
+haloe_4,"You are looking at this person in front of you. You find the person to be extremely physically attractive.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",3.0,0.0,1.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,3.0,0.0,1.0,3.0,1.0,1.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,3.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,3.0,1.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,3.0,1.0,4.0,0.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,3.0,1.0,3.0,0.0,1.0,0.0,1.0,0.0,5.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,3.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,0.0,5.0,1.0,4.0,0.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,4.0,3.0,1.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,3.0,1.0,1.0,1.0,0.0,2.0,0.0,0.0,2.0,1.0,1.0,3.0,2.0,1.0,0.0,0.0,0.0,1.0,1.0
+haloe_5,"You are looking at this person in front of you. You find the person to be physically attractive and friendly.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",3.0,0.0,1.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,3.0,1.0,2.0,3.0,1.0,1.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,3.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,3.0,1.0,2.0,2.0,0.0,1.0,0.0,0.0,0.0,3.0,1.0,4.0,0.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,3.0,2.0,3.0,0.0,1.0,0.0,1.0,0.0,5.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,0.0,0.0,1.0,2.0,0.0,2.0,2.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,3.0,0.0,0.0,0.0,3.0,2.0,2.0,2.0,1.0,1.0,0.0,1.0,0.0,5.0,1.0,4.0,0.0,2.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,2.0,4.0,3.0,1.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,3.0,1.0,1.0,1.0,0.0,3.0,0.0,0.0,2.0,2.0,2.0,3.0,3.0,1.0,0.0,0.0,0.0,1.0,1.0
+haloe_6,"You are looking at this person in front of you. You find the person to be physically attractive but not friendly.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",3.0,0.0,1.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,3.0,1.0,2.0,3.0,1.0,1.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,3.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,3.0,1.0,2.0,2.0,0.0,1.0,0.0,0.0,0.0,3.0,1.0,4.0,0.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,0.0,0.0,3.0,3.0,4.0,0.0,1.0,0.0,1.0,0.0,5.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,2.0,2.0,1.0,2.0,2.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,3.0,0.0,0.0,0.0,3.0,2.0,2.0,3.0,1.0,1.0,0.0,1.0,0.0,5.0,1.0,4.0,0.0,2.0,2.0,1.0,1.0,0.0,2.0,0.0,0.0,0.0,2.0,2.0,4.0,3.0,1.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,3.0,2.0,1.0,2.0,0.0,3.0,0.0,0.0,2.0,2.0,2.0,4.0,3.0,1.0,0.0,0.0,0.0,4.0,1.0
+haloe_7,"You are looking at this person in front of you. You find the person to be physically unattractive but kind.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",3.0,0.0,1.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,3.0,1.0,2.0,3.0,1.0,1.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,3.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,3.0,1.0,2.0,2.0,0.0,1.0,0.0,0.0,0.0,3.0,1.0,4.0,0.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,0.0,0.0,3.0,3.0,4.0,0.0,1.0,0.0,1.0,0.0,5.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,2.0,2.0,1.0,2.0,2.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,3.0,0.0,0.0,0.0,3.0,2.0,2.0,3.0,1.0,1.0,0.0,1.0,0.0,5.0,1.0,4.0,0.0,2.0,2.0,1.0,1.0,0.0,2.0,0.0,0.0,0.0,2.0,2.0,4.0,3.0,1.0,0.0,0.0,0.0,5.0,1.0,4.0,0.0,3.0,2.0,1.0,2.0,0.0,3.0,0.0,0.0,2.0,2.0,2.0,3.0,3.0,2.0,0.0,0.0,0.0,4.0,1.0
+haloe_8,"You are looking at this person in front of you. You find the person to be physically attractive, but you are told they have performed poorly in previous tasks.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",3.0,0.0,2.0,2.0,1.0,2.0,0.0,3.0,0.0,0.0,3.0,2.0,3.0,3.0,2.0,2.0,0.0,0.0,0.0,5.0,1.0,3.0,0.0,3.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,4.0,2.0,3.0,1.0,0.0,2.0,0.0,0.0,0.0,3.0,1.0,3.0,0.0,1.0,1.0,1.0,2.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0,4.0,0.0,3.0,0.0,1.0,0.0,5.0,1.0,2.0,1.0,1.0,2.0,1.0,2.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0,2.0,2.0,3.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,3.0,0.0,0.0,0.0,3.0,3.0,2.0,3.0,2.0,1.0,0.0,1.0,0.0,5.0,1.0,3.0,0.0,3.0,2.0,1.0,1.0,0.0,2.0,0.0,0.0,0.0,3.0,3.0,2.0,3.0,3.0,0.0,0.0,0.0,5.0,1.0,2.0,0.0,4.0,2.0,1.0,2.0,0.0,3.0,0.0,0.0,3.0,2.0,3.0,1.0,2.0,3.0,0.0,0.0,0.0,4.0,1.0
+haloe_9,"You are looking at this person in front of you. You find the person to be physically unattractive, but you are told they have performed very well in previous tasks.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",3.0,0.0,2.0,2.0,1.0,2.0,0.0,3.0,0.0,0.0,3.0,2.0,3.0,3.0,2.0,2.0,0.0,0.0,0.0,5.0,1.0,3.0,0.0,3.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,4.0,2.0,3.0,1.0,0.0,2.0,0.0,0.0,0.0,3.0,1.0,3.0,0.0,1.0,1.0,1.0,2.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0,4.0,0.0,3.0,0.0,1.0,0.0,5.0,1.0,2.0,1.0,1.0,2.0,1.0,2.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0,2.0,2.0,3.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,3.0,0.0,0.0,0.0,3.0,3.0,2.0,3.0,2.0,1.0,0.0,1.0,0.0,5.0,1.0,3.0,0.0,3.0,2.0,1.0,1.0,0.0,2.0,0.0,0.0,0.0,3.0,3.0,2.0,3.0,3.0,0.0,0.0,0.0,5.0,1.0,2.0,0.0,4.0,2.0,1.0,2.0,0.0,3.0,0.0,0.0,3.0,2.0,3.0,1.0,2.0,3.0,0.0,0.0,0.0,4.0,1.0
