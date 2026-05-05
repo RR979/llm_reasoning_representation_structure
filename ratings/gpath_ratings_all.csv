@@ -1,0 +1,383 @@
+prompt_id,prompt,anthropic_claude-haiku-4-5_AMb_score,anthropic_claude-haiku-4-5_AS_score,anthropic_claude-haiku-4-5_AT_score,anthropic_claude-haiku-4-5_CEc_score,anthropic_claude-haiku-4-5_CEe_score,anthropic_claude-haiku-4-5_CL_score,anthropic_claude-haiku-4-5_KNa_score,anthropic_claude-haiku-4-5_KNc_score,anthropic_claude-haiku-4-5_KNf_score,anthropic_claude-haiku-4-5_KNn_score,anthropic_claude-haiku-4-5_KNs_score,anthropic_claude-haiku-4-5_MCr_score,anthropic_claude-haiku-4-5_MCt_score,anthropic_claude-haiku-4-5_MCu_score,anthropic_claude-haiku-4-5_MS_score,anthropic_claude-haiku-4-5_OBj_score,anthropic_claude-haiku-4-5_QLl_score,anthropic_claude-haiku-4-5_QLq_score,anthropic_claude-haiku-4-5_SNs_score,anthropic_claude-haiku-4-5_VO_score,anthropic_claude-sonnet-4-5_AMb_score,anthropic_claude-sonnet-4-5_AS_score,anthropic_claude-sonnet-4-5_AT_score,anthropic_claude-sonnet-4-5_CEc_score,anthropic_claude-sonnet-4-5_CEe_score,anthropic_claude-sonnet-4-5_CL_score,anthropic_claude-sonnet-4-5_KNa_score,anthropic_claude-sonnet-4-5_KNc_score,anthropic_claude-sonnet-4-5_KNf_score,anthropic_claude-sonnet-4-5_KNn_score,anthropic_claude-sonnet-4-5_KNs_score,anthropic_claude-sonnet-4-5_MCr_score,anthropic_claude-sonnet-4-5_MCt_score,anthropic_claude-sonnet-4-5_MCu_score,anthropic_claude-sonnet-4-5_MS_score,anthropic_claude-sonnet-4-5_OBj_score,anthropic_claude-sonnet-4-5_QLl_score,anthropic_claude-sonnet-4-5_QLq_score,anthropic_claude-sonnet-4-5_SNs_score,anthropic_claude-sonnet-4-5_VO_score,gemini_gemini-2.5-flash_AMb_score,gemini_gemini-2.5-flash_AS_score,gemini_gemini-2.5-flash_AT_score,gemini_gemini-2.5-flash_CEc_score,gemini_gemini-2.5-flash_CEe_score,gemini_gemini-2.5-flash_CL_score,gemini_gemini-2.5-flash_KNa_score,gemini_gemini-2.5-flash_KNc_score,gemini_gemini-2.5-flash_KNf_score,gemini_gemini-2.5-flash_KNn_score,gemini_gemini-2.5-flash_KNs_score,gemini_gemini-2.5-flash_MCr_score,gemini_gemini-2.5-flash_MCt_score,gemini_gemini-2.5-flash_MCu_score,gemini_gemini-2.5-flash_MS_score,gemini_gemini-2.5-flash_OBj_score,gemini_gemini-2.5-flash_QLl_score,gemini_gemini-2.5-flash_QLq_score,gemini_gemini-2.5-flash_SNs_score,openai_gpt-5-mini_AMb_score,openai_gpt-5-mini_AS_score,openai_gpt-5-mini_AT_score,openai_gpt-5-mini_CEc_score,openai_gpt-5-mini_CEe_score,openai_gpt-5-mini_CL_score,openai_gpt-5-mini_KNa_score,openai_gpt-5-mini_KNc_score,openai_gpt-5-mini_KNf_score,openai_gpt-5-mini_KNn_score,openai_gpt-5-mini_KNs_score,openai_gpt-5-mini_MCr_score,openai_gpt-5-mini_MCt_score,openai_gpt-5-mini_MCu_score,openai_gpt-5-mini_MS_score,openai_gpt-5-mini_OBj_score,openai_gpt-5-mini_QLl_score,openai_gpt-5-mini_QLq_score,openai_gpt-5-mini_SNs_score,openai_gpt-5-mini_VO_score,openai_gpt-5-nano_AMb_score,openai_gpt-5-nano_AS_score,openai_gpt-5-nano_AT_score,openai_gpt-5-nano_CEc_score,openai_gpt-5-nano_CEe_score,openai_gpt-5-nano_CL_score,openai_gpt-5-nano_KNa_score,openai_gpt-5-nano_KNc_score,openai_gpt-5-nano_KNf_score,openai_gpt-5-nano_KNn_score,openai_gpt-5-nano_KNs_score,openai_gpt-5-nano_MCr_score,openai_gpt-5-nano_MCt_score,openai_gpt-5-nano_MCu_score,openai_gpt-5-nano_MS_score,openai_gpt-5-nano_OBj_score,openai_gpt-5-nano_QLl_score,openai_gpt-5-nano_QLq_score,openai_gpt-5-nano_SNs_score,openai_gpt-5-nano_VO_score,openai_gpt-5_AMb_score,openai_gpt-5_AS_score,openai_gpt-5_AT_score,openai_gpt-5_CEc_score,openai_gpt-5_CEe_score,openai_gpt-5_CL_score,openai_gpt-5_KNa_score,openai_gpt-5_KNc_score,openai_gpt-5_KNf_score,openai_gpt-5_KNn_score,openai_gpt-5_KNs_score,openai_gpt-5_MCr_score,openai_gpt-5_MCt_score,openai_gpt-5_MCu_score,openai_gpt-5_MS_score,openai_gpt-5_OBj_score,openai_gpt-5_QLl_score,openai_gpt-5_QLq_score,openai_gpt-5_SNs_score,openai_gpt-5_VO_score,xai_grok-4.20-reasoning_AMb_score,xai_grok-4.20-reasoning_AS_score,xai_grok-4.20-reasoning_AT_score,xai_grok-4.20-reasoning_CEc_score,xai_grok-4.20-reasoning_CEe_score,xai_grok-4.20-reasoning_CL_score,xai_grok-4.20-reasoning_KNa_score,xai_grok-4.20-reasoning_KNc_score,xai_grok-4.20-reasoning_KNf_score,xai_grok-4.20-reasoning_KNn_score,xai_grok-4.20-reasoning_KNs_score,xai_grok-4.20-reasoning_MCr_score,xai_grok-4.20-reasoning_MCt_score,xai_grok-4.20-reasoning_MCu_score,xai_grok-4.20-reasoning_MS_score,xai_grok-4.20-reasoning_OBj_score,xai_grok-4.20-reasoning_QLl_score,xai_grok-4.20-reasoning_QLq_score,xai_grok-4.20-reasoning_SNs_score,xai_grok-4.20-reasoning_VO_score
+gpath_1,"You need to determine correct interpretation of the following sentence:
+
+“While Anna dressed the baby spit up.”
+
+Which of the following best describes what happened?
+
+A. Anna dressed the baby
+B. The baby spit up while Anna was dressing herself
+
+Answer with only one phrase from the given options. Do not provide any explanation. Give only the final answer.",3.0,1.0,2.0,3.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,2.0,0.0,3.0,1.0,0.0,0.0,1.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,3.0,2.0,0.0,0.0,1.0,4.0,2.0,1.0,3.0,1.0,2.0,0.0,1.0,0.0,0.0,3.0,3.0,3.0,3.0,0.0,5.0,3.0,0.0,0.0,4.0,1.0,1.0,3.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,3.0,3.0,1.0,0.0,4.0,1.0,0.0,0.0,1.0,1.0,2.0,3.0,3.0,1.0,2.0,0.0,3.0,3.0,0.0,3.0,2.0,3.0,4.0,0.0,5.0,3.0,0.0,1.0,2.0,2.0,0.0,1.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,3.0,2.0,3.0,0.0,5.0,1.0,0.0,0.0,1.0,3.0,1.0,2.0,2.0,1.0,2.0,0.0,2.0,0.0,0.0,2.0,2.0,2.0,2.0,0.0,5.0,2.0,0.0,0.0,1.0
+gpath_10,"You need to determine correct interpretation of the following sentence:
+
+“The horse raced past the old barn fell suddenly.”
+
+Which of the following best describes what happened?
+
+A. The horse fell
+B. The barn fell
+C. The horse raced
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",2.0,1.0,2.0,2.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,0.0,4.0,2.0,0.0,0.0,1.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,4.0,2.0,0.0,0.0,1.0,4.0,2.0,1.0,3.0,1.0,2.0,0.0,1.0,0.0,0.0,3.0,3.0,3.0,3.0,0.0,5.0,3.0,0.0,0.0,4.0,2.0,1.0,3.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,3.0,3.0,3.0,0.0,4.0,1.0,0.0,0.0,1.0,1.0,3.0,3.0,3.0,1.0,2.0,0.0,3.0,3.0,0.0,3.0,2.0,3.0,1.0,0.0,5.0,3.0,0.0,1.0,2.0,2.0,0.0,2.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,3.0,2.0,4.0,0.0,5.0,1.0,0.0,0.0,1.0,2.0,2.0,3.0,3.0,1.0,2.0,0.0,1.0,0.0,0.0,3.0,2.0,2.0,3.0,0.0,5.0,2.0,0.0,0.0,1.0
+gpath_11,"You need to determine correct interpretation of the following sentence:
+
+“The complex houses married and single soldiers.”
+
+Which of the following best describes what happened?
+
+A. The complex provides housing
+B. The houses are complex
+C. Married and single soldiers are housed
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",3.0,2.0,2.0,3.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,2.0,0.0,3.0,1.0,0.0,0.0,1.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,3.0,2.0,0.0,0.0,1.0,4.0,2.0,1.0,3.0,1.0,2.0,0.0,1.0,0.0,0.0,3.0,3.0,3.0,3.0,0.0,5.0,3.0,0.0,0.0,3.0,2.0,1.0,3.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,2.0,2.0,2.0,0.0,3.0,1.0,0.0,0.0,1.0,4.0,1.0,3.0,3.0,1.0,2.0,0.0,3.0,3.0,0.0,3.0,2.0,2.0,1.0,0.0,5.0,2.0,0.0,1.0,2.0,4.0,0.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,2.0,2.0,3.0,0.0,3.0,1.0,0.0,0.0,1.0,3.0,2.0,2.0,2.0,1.0,2.0,0.0,3.0,0.0,0.0,3.0,2.0,2.0,3.0,0.0,5.0,2.0,0.0,0.0,1.0
+gpath_12,"You need to determine correct interpretation of the following sentence:
+
+“The complex houses married and single soldiers.”
+
+Which of the following best describes what happened?
+
+A. The complex houses soldiers
+B. The houses are complex structures
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,2.0,0.0,4.0,1.0,0.0,0.0,1.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,4.0,2.0,0.0,0.0,1.0,4.0,2.0,1.0,3.0,1.0,2.0,0.0,1.0,0.0,0.0,3.0,3.0,3.0,3.0,0.0,5.0,3.0,0.0,0.0,3.0,1.0,1.0,3.0,1.0,1.0,0.0,2.0,0.0,0.0,3.0,2.0,2.0,2.0,0.0,4.0,1.0,0.0,0.0,1.0,4.0,1.0,3.0,3.0,1.0,2.0,0.0,3.0,3.0,0.0,3.0,1.0,2.0,1.0,0.0,5.0,2.0,0.0,1.0,2.0,2.0,0.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,2.0,2.0,2.0,0.0,5.0,1.0,0.0,0.0,1.0,2.0,1.0,2.0,2.0,1.0,2.0,0.0,3.0,0.0,0.0,3.0,2.0,2.0,2.0,0.0,5.0,2.0,0.0,0.0,1.0
+gpath_13,"You need to determine correct interpretation of the following sentence:
+
+“The complex houses married and single soldiers.”
+
+Which of the following best describes what happened?
+
+A. The complex provides housing
+B. Married houses soldiers
+C. Soldiers are complex
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",3.0,2.0,2.0,3.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,3.0,2.0,0.0,0.0,1.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,4.0,2.0,0.0,0.0,1.0,4.0,2.0,1.0,3.0,1.0,2.0,0.0,1.0,0.0,0.0,3.0,3.0,3.0,3.0,0.0,5.0,3.0,0.0,0.0,3.0,2.0,1.0,3.0,1.0,1.0,0.0,2.0,0.0,0.0,3.0,2.0,2.0,2.0,0.0,4.0,1.0,0.0,0.0,1.0,1.0,1.0,3.0,3.0,1.0,2.0,0.0,3.0,3.0,0.0,3.0,1.0,2.0,1.0,0.0,5.0,2.0,0.0,1.0,2.0,1.0,0.0,2.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,1.0,2.0,1.0,0.0,5.0,1.0,0.0,0.0,1.0,2.0,2.0,3.0,2.0,1.0,2.0,0.0,3.0,0.0,0.0,3.0,2.0,2.0,3.0,0.0,5.0,2.0,0.0,0.0,1.0
+gpath_14,"You need to determine correct interpretation of the following sentence:
+
+“The cotton clothing is made of grows in Mississippi.”
+
+Which of the following best describes what happened?
+
+A. Cotton grows in Mississippi
+B. Clothing grows in Mississippi
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",3.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,2.0,0.0,5.0,1.0,0.0,0.0,1.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,5.0,2.0,0.0,0.0,1.0,4.0,2.0,1.0,3.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,4.0,3.0,3.0,0.0,5.0,3.0,0.0,0.0,4.0,1.0,1.0,3.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,3.0,3.0,3.0,0.0,4.0,1.0,0.0,0.0,1.0,3.0,3.0,2.0,3.0,1.0,3.0,0.0,3.0,3.0,0.0,3.0,2.0,2.0,2.0,0.0,5.0,2.0,0.0,1.0,2.0,2.0,0.0,0.0,3.0,1.0,1.0,0.0,2.0,0.0,0.0,3.0,3.0,2.0,1.0,0.0,5.0,1.0,0.0,0.0,1.0,3.0,1.0,2.0,2.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,2.0,2.0,2.0,0.0,5.0,2.0,0.0,0.0,1.0
+gpath_15,"You need to determine correct interpretation of the following sentence:
+
+“The cotton clothing is made of grows in Mississippi.”
+
+Which of the following best describes what happened?
+
+A. Cotton grows in Mississippi
+B. Clothing grows in Mississippi
+C. Cotton makes clothing
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",3.0,2.0,2.0,2.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,3.0,0.0,4.0,2.0,0.0,0.0,1.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,5.0,2.0,0.0,0.0,1.0,4.0,2.0,1.0,3.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,4.0,3.0,3.0,0.0,5.0,3.0,0.0,0.0,4.0,2.0,1.0,3.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,3.0,3.0,3.0,0.0,4.0,1.0,0.0,0.0,1.0,2.0,3.0,2.0,3.0,1.0,3.0,0.0,3.0,3.0,0.0,3.0,2.0,2.0,2.0,0.0,5.0,2.0,0.0,1.0,2.0,2.0,0.0,1.0,3.0,1.0,1.0,0.0,2.0,0.0,0.0,3.0,3.0,2.0,2.0,0.0,5.0,1.0,0.0,0.0,1.0,3.0,2.0,3.0,2.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,2.0,2.0,2.0,0.0,5.0,2.0,0.0,0.0,1.0
+gpath_16,"You need to determine correct interpretation of the following sentence:
+
+“The cotton clothing is made of grows in Mississippi.”
+
+Which of the following best describes what happened?
+
+A. Cotton grows in Mississippi
+B. Clothing grows
+C. Mississippi grows cotton clothes
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",3.0,2.0,2.0,2.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,2.0,3.0,0.0,3.0,2.0,0.0,0.0,1.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,5.0,2.0,0.0,0.0,1.0,4.0,2.0,1.0,3.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,4.0,3.0,3.0,0.0,5.0,3.0,0.0,0.0,4.0,2.0,1.0,3.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,3.0,3.0,3.0,0.0,4.0,1.0,0.0,0.0,1.0,2.0,2.0,2.0,3.0,1.0,3.0,0.0,3.0,3.0,0.0,3.0,2.0,2.0,2.0,0.0,5.0,2.0,0.0,1.0,2.0,2.0,0.0,1.0,3.0,1.0,1.0,0.0,2.0,0.0,0.0,3.0,3.0,2.0,1.0,0.0,5.0,1.0,0.0,0.0,1.0,3.0,2.0,3.0,2.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,2.0,2.0,2.0,0.0,5.0,2.0,0.0,0.0,1.0
+gpath_17,"You need to determine correct interpretation of the following sentence:
+
+“When the men hunt the birds often scatter.”
+
+Which of the following best describes what happened?
+
+A. The men hunt birds that scatter
+B. The birds scatter when the men hunt
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,1.0,0.0,5.0,1.0,0.0,0.0,1.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,3.0,2.0,0.0,0.0,1.0,4.0,2.0,1.0,3.0,1.0,2.0,0.0,1.0,0.0,0.0,3.0,3.0,3.0,3.0,0.0,5.0,3.0,0.0,0.0,3.0,1.0,1.0,3.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,3.0,3.0,3.0,0.0,4.0,1.0,0.0,0.0,1.0,1.0,2.0,2.0,2.0,1.0,2.0,0.0,3.0,3.0,0.0,3.0,2.0,2.0,1.0,0.0,5.0,2.0,0.0,1.0,2.0,2.0,0.0,1.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,2.0,2.0,3.0,0.0,5.0,1.0,0.0,0.0,1.0,3.0,1.0,2.0,2.0,1.0,2.0,0.0,2.0,0.0,0.0,2.0,2.0,2.0,2.0,0.0,5.0,2.0,0.0,0.0,1.0
+gpath_18,"You need to determine correct interpretation of the following sentence:
+
+“When the men hunt the birds that fly scatter.”
+
+Which of the following best describes what happened?
+
+A. The men hunt flying birds
+B. The birds that fly scatter when the men hunt
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",2.0,1.0,2.0,2.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,0.0,5.0,1.0,0.0,0.0,1.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,4.0,2.0,0.0,0.0,1.0,2.0,2.0,1.0,3.0,1.0,2.0,0.0,1.0,0.0,0.0,3.0,3.0,3.0,3.0,0.0,5.0,3.0,0.0,0.0,3.0,1.0,1.0,3.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,2.0,3.0,2.0,0.0,4.0,1.0,0.0,0.0,1.0,1.0,2.0,2.0,3.0,1.0,2.0,0.0,3.0,3.0,0.0,3.0,2.0,2.0,2.0,0.0,5.0,2.0,0.0,1.0,2.0,2.0,0.0,2.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,2.0,2.0,2.0,0.0,5.0,1.0,0.0,0.0,1.0,1.0,2.0,3.0,2.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,1.0,3.0,2.0,0.0,5.0,3.0,0.0,0.0,1.0
+gpath_19,"You need to determine correct interpretation of the following sentence:
+
+“When the men hunt the birds near the river scatter.”
+
+Which of the following best describes what happened?
+
+A. The men hunt birds near the river
+B. The birds near the river scatter when the men hunt
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",2.0,1.0,2.0,2.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,0.0,5.0,1.0,0.0,0.0,1.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,3.0,2.0,0.0,0.0,1.0,2.0,2.0,1.0,3.0,1.0,2.0,0.0,1.0,0.0,0.0,3.0,3.0,3.0,3.0,0.0,5.0,3.0,0.0,0.0,3.0,1.0,1.0,3.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,3.0,3.0,3.0,0.0,4.0,1.0,0.0,0.0,1.0,1.0,2.0,2.0,3.0,1.0,2.0,0.0,3.0,3.0,0.0,3.0,2.0,2.0,2.0,0.0,5.0,2.0,0.0,1.0,2.0,2.0,0.0,2.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,2.0,2.0,2.0,0.0,5.0,1.0,0.0,0.0,1.0,2.0,2.0,3.0,2.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,2.0,3.0,3.0,0.0,5.0,2.0,0.0,0.0,1.0
+gpath_2,"You need to determine correct interpretation of the following sentence:
+
+“While Anna dressed the baby spit up.”
+
+Which of the following best describes what happened?
+
+A. Anna dressed the baby
+B. The baby spit up while Anna was dressing herself
+C. Anna spit up
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",3.0,2.0,2.0,3.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,3.0,1.0,0.0,0.0,1.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,3.0,2.0,0.0,0.0,1.0,4.0,2.0,1.0,3.0,1.0,2.0,0.0,1.0,0.0,0.0,3.0,3.0,3.0,3.0,0.0,5.0,3.0,0.0,0.0,4.0,2.0,1.0,3.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,3.0,3.0,1.0,0.0,4.0,1.0,0.0,0.0,1.0,1.0,2.0,3.0,3.0,1.0,2.0,0.0,3.0,3.0,0.0,3.0,2.0,3.0,3.0,0.0,5.0,3.0,0.0,1.0,2.0,2.0,0.0,2.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,3.0,2.0,3.0,0.0,5.0,1.0,0.0,0.0,1.0,3.0,2.0,3.0,2.0,1.0,2.0,0.0,2.0,0.0,0.0,2.0,3.0,2.0,2.0,0.0,5.0,2.0,0.0,0.0,1.0
+gpath_20,"You need to determine correct interpretation of the following sentence:
+
+“When the men hunt the birds the dogs chase scatter.”
+
+Which of the following best describes what happened?
+
+A. The men hunt birds chased by dogs
+B. The birds that the dogs chase scatter
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",2.0,2.0,2.0,3.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,2.0,3.0,0.0,4.0,2.0,0.0,0.0,1.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,4.0,2.0,0.0,0.0,1.0,4.0,2.0,1.0,4.0,1.0,3.0,0.0,1.0,0.0,0.0,3.0,4.0,3.0,4.0,0.0,5.0,3.0,0.0,0.0,3.0,1.0,1.0,3.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,3.0,3.0,3.0,0.0,4.0,1.0,0.0,0.0,1.0,1.0,2.0,3.0,3.0,1.0,2.0,0.0,3.0,3.0,0.0,3.0,2.0,3.0,2.0,0.0,5.0,2.0,0.0,1.0,2.0,2.0,0.0,2.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,2.0,3.0,3.0,0.0,5.0,1.0,0.0,0.0,1.0,2.0,2.0,3.0,3.0,1.0,3.0,0.0,2.0,0.0,0.0,3.0,2.0,3.0,3.0,0.0,5.0,3.0,0.0,0.0,1.0
+gpath_21,"You need to determine correct interpretation of the following sentence:
+
+“When the men hunt the birds that the dogs chase scatter quickly.”
+
+Which of the following best describes what happened?
+
+A. The men hunt birds chased by dogs
+B. The birds that the dogs chase scatter quickly
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",2.0,2.0,2.0,3.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,0.0,5.0,2.0,0.0,0.0,1.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,4.0,2.0,0.0,0.0,1.0,2.0,1.0,1.0,4.0,1.0,3.0,0.0,1.0,0.0,0.0,3.0,4.0,3.0,4.0,0.0,5.0,3.0,0.0,0.0,1.0,1.0,1.0,3.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,3.0,3.0,2.0,0.0,4.0,1.0,0.0,0.0,1.0,1.0,2.0,3.0,3.0,1.0,2.0,0.0,3.0,3.0,0.0,3.0,2.0,3.0,2.0,0.0,5.0,2.0,0.0,1.0,2.0,2.0,0.0,2.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,2.0,3.0,3.0,0.0,5.0,1.0,0.0,0.0,1.0,1.0,3.0,3.0,3.0,1.0,3.0,0.0,2.0,0.0,0.0,3.0,2.0,3.0,3.0,0.0,5.0,3.0,0.0,0.0,1.0
+gpath_22,"You need to determine correct interpretation of the following sentence:
+
+“When the men hunt the birds with long wings scatter.”
+
+Which of the following best describes what happened?
+
+A. The men hunt birds with long wings
+B. The birds with long wings scatter
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",2.0,1.0,2.0,2.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,0.0,5.0,1.0,0.0,0.0,1.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,3.0,2.0,0.0,0.0,1.0,2.0,2.0,1.0,3.0,1.0,2.0,0.0,1.0,0.0,0.0,3.0,3.0,3.0,3.0,0.0,5.0,3.0,0.0,0.0,3.0,1.0,1.0,3.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,3.0,3.0,3.0,0.0,4.0,1.0,0.0,0.0,1.0,1.0,2.0,3.0,3.0,1.0,2.0,0.0,3.0,3.0,0.0,3.0,2.0,2.0,2.0,0.0,5.0,2.0,0.0,1.0,2.0,2.0,0.0,2.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,2.0,2.0,3.0,0.0,5.0,1.0,0.0,0.0,1.0,1.0,2.0,3.0,2.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,1.0,3.0,2.0,0.0,5.0,2.0,0.0,0.0,1.0
+gpath_23,"You need to determine correct interpretation of the following sentence:
+
+“When the men hunt the birds the hunters saw scatter.”
+
+Which of the following best describes what happened?
+
+A. The men hunt birds they saw
+B. The birds that the hunters saw scatter
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",2.0,2.0,2.0,3.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,2.0,3.0,0.0,4.0,2.0,0.0,0.0,1.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,4.0,2.0,0.0,0.0,1.0,4.0,2.0,1.0,4.0,1.0,3.0,0.0,1.0,0.0,0.0,3.0,4.0,3.0,4.0,0.0,5.0,3.0,0.0,0.0,3.0,1.0,1.0,3.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,3.0,3.0,3.0,0.0,4.0,1.0,0.0,0.0,1.0,2.0,2.0,3.0,3.0,1.0,2.0,0.0,3.0,3.0,0.0,3.0,2.0,3.0,2.0,0.0,5.0,2.0,0.0,1.0,2.0,2.0,0.0,2.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,2.0,3.0,3.0,0.0,5.0,1.0,0.0,0.0,1.0,2.0,3.0,3.0,3.0,1.0,3.0,0.0,2.0,0.0,0.0,3.0,2.0,3.0,3.0,0.0,5.0,3.0,0.0,0.0,1.0
+gpath_24,"You need to determine correct interpretation of the following sentence:
+
+“When the men hunt the birds in the trees scatter suddenly.”
+
+Which of the following best describes what happened?
+
+A. The men hunt birds in trees
+B. The birds in the trees scatter suddenly
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",2.0,1.0,2.0,2.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,0.0,5.0,1.0,0.0,0.0,1.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,3.0,2.0,0.0,0.0,1.0,2.0,2.0,1.0,3.0,1.0,2.0,0.0,1.0,0.0,0.0,3.0,3.0,3.0,3.0,0.0,5.0,3.0,0.0,0.0,3.0,1.0,1.0,3.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,3.0,3.0,3.0,0.0,4.0,1.0,0.0,0.0,1.0,1.0,2.0,3.0,3.0,1.0,2.0,0.0,3.0,3.0,0.0,3.0,2.0,2.0,2.0,0.0,5.0,2.0,0.0,1.0,2.0,2.0,0.0,2.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,2.0,2.0,3.0,0.0,5.0,1.0,0.0,0.0,1.0,2.0,3.0,3.0,2.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,1.0,3.0,2.0,0.0,5.0,2.0,0.0,0.0,1.0
+gpath_25,"You need to determine correct interpretation of the following sentence:
+
+“While Anna dressed the baby that was tired cried.”
+
+Which of the following best describes what happened?
+
+A. Anna dressed the baby
+B. The baby that was tired cried while Anna was dressing herself
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",2.0,1.0,2.0,3.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,2.0,0.0,5.0,2.0,0.0,0.0,1.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,3.0,2.0,0.0,0.0,1.0,2.0,2.0,1.0,3.0,1.0,2.0,0.0,1.0,0.0,0.0,2.0,3.0,3.0,3.0,0.0,5.0,3.0,0.0,0.0,4.0,1.0,1.0,3.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,3.0,3.0,3.0,0.0,4.0,1.0,0.0,0.0,1.0,1.0,1.0,3.0,3.0,1.0,2.0,0.0,3.0,3.0,0.0,3.0,2.0,4.0,2.0,0.0,5.0,2.0,0.0,1.0,2.0,2.0,0.0,2.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,3.0,0.0,5.0,1.0,0.0,0.0,1.0,1.0,2.0,3.0,2.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,2.0,3.0,2.0,0.0,5.0,2.0,0.0,0.0,1.0
+gpath_26,"You need to determine correct interpretation of the following sentence:
+
+“The horse raced past the old barn suddenly fell.”
+
+Which of the following best describes what happened?
+
+A. The horse fell
+B. The barn fell
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",2.0,1.0,2.0,2.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,0.0,4.0,2.0,0.0,0.0,1.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,4.0,2.0,0.0,0.0,1.0,2.0,2.0,1.0,3.0,1.0,2.0,0.0,1.0,0.0,0.0,3.0,3.0,3.0,3.0,0.0,5.0,3.0,0.0,0.0,4.0,1.0,1.0,3.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,3.0,3.0,3.0,0.0,4.0,1.0,0.0,0.0,1.0,1.0,3.0,3.0,4.0,1.0,2.0,0.0,3.0,3.0,0.0,3.0,2.0,3.0,1.0,0.0,5.0,3.0,0.0,1.0,2.0,2.0,0.0,1.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,3.0,2.0,4.0,0.0,5.0,1.0,0.0,0.0,1.0,2.0,2.0,3.0,3.0,1.0,2.0,0.0,1.0,0.0,0.0,3.0,2.0,2.0,2.0,0.0,5.0,2.0,0.0,0.0,1.0
+gpath_27,"You need to determine correct interpretation of the following sentence:
+
+“The horse raced past the barn in the field fell.”
+
+Which of the following best describes what happened?
+
+A. The horse fell
+B. The barn in the field fell
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",2.0,1.0,2.0,2.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,0.0,4.0,2.0,0.0,0.0,1.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,4.0,2.0,0.0,0.0,1.0,4.0,2.0,1.0,3.0,1.0,2.0,0.0,1.0,0.0,0.0,3.0,3.0,3.0,3.0,0.0,5.0,3.0,0.0,0.0,4.0,1.0,2.0,3.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,4.0,3.0,3.0,0.0,4.0,1.0,0.0,0.0,1.0,1.0,3.0,3.0,3.0,1.0,2.0,0.0,3.0,3.0,0.0,3.0,2.0,3.0,3.0,0.0,5.0,3.0,0.0,1.0,2.0,2.0,0.0,1.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,4.0,0.0,5.0,1.0,0.0,0.0,1.0,2.0,2.0,3.0,3.0,1.0,2.0,0.0,1.0,0.0,0.0,3.0,2.0,3.0,3.0,0.0,5.0,2.0,0.0,0.0,1.0
+gpath_28,"You need to determine correct interpretation of the following sentence:
+
+“The complex houses married and single soldiers near the base.”
+
+Which of the following best describes what happened?
+
+A. The complex houses soldiers
+B. The soldiers are near the base
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",2.0,1.0,2.0,2.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,2.0,0.0,4.0,1.0,0.0,0.0,1.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,3.0,2.0,0.0,0.0,1.0,4.0,2.0,1.0,3.0,1.0,2.0,0.0,1.0,0.0,0.0,3.0,3.0,3.0,3.0,0.0,5.0,3.0,0.0,0.0,3.0,1.0,1.0,3.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,3.0,2.0,3.0,0.0,3.0,1.0,0.0,0.0,1.0,4.0,1.0,3.0,3.0,1.0,2.0,0.0,3.0,3.0,0.0,3.0,2.0,2.0,3.0,0.0,5.0,2.0,0.0,1.0,2.0,4.0,0.0,1.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,2.0,2.0,4.0,0.0,3.0,1.0,0.0,0.0,1.0,2.0,2.0,3.0,2.0,1.0,2.0,0.0,3.0,0.0,0.0,3.0,2.0,2.0,2.0,0.0,5.0,2.0,0.0,0.0,1.0
+gpath_29,"You need to determine correct interpretation of the following sentence:
+
+“When the men hunt the birds the wolves chase scatter.”
+
+Which of the following best describes what happened?
+
+A. The men hunt birds chased by wolves
+B. The wolves scatter
+C. The birds that wolves chase scatter
+D. The men scatter
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",3.0,2.0,2.0,3.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,3.0,2.0,0.0,0.0,1.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,3.0,0.0,4.0,2.0,0.0,0.0,1.0,4.0,2.0,1.0,4.0,1.0,3.0,0.0,1.0,0.0,0.0,3.0,4.0,3.0,4.0,0.0,5.0,3.0,0.0,0.0,4.0,2.0,2.0,3.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,3.0,3.0,3.0,0.0,4.0,1.0,0.0,0.0,1.0,3.0,2.0,3.0,3.0,1.0,2.0,0.0,3.0,3.0,0.0,3.0,2.0,3.0,3.0,0.0,5.0,2.0,0.0,1.0,2.0,2.0,0.0,2.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,2.0,3.0,3.0,0.0,5.0,1.0,0.0,0.0,1.0,3.0,3.0,4.0,3.0,1.0,3.0,0.0,2.0,0.0,0.0,3.0,3.0,3.0,3.0,0.0,5.0,3.0,0.0,0.0,1.0
+gpath_3,"You need to determine correct interpretation of the following sentence:
+
+“While Anna dressed the baby spit up.”
+
+Which of the following best describes what happened?
+
+A. Anna dressed the baby
+B. The baby spit up while Anna was dressing herself
+C. Anna spit up while dressing
+D. The baby dressed Anna
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",3.0,2.0,2.0,3.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,3.0,3.0,0.0,3.0,2.0,0.0,0.0,1.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,3.0,2.0,0.0,0.0,1.0,4.0,2.0,1.0,3.0,1.0,2.0,0.0,1.0,0.0,0.0,3.0,3.0,3.0,3.0,0.0,5.0,3.0,0.0,0.0,4.0,2.0,1.0,3.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,3.0,3.0,1.0,0.0,4.0,1.0,0.0,0.0,1.0,1.0,2.0,3.0,3.0,1.0,2.0,0.0,3.0,3.0,0.0,3.0,2.0,3.0,3.0,0.0,5.0,3.0,0.0,1.0,2.0,2.0,0.0,2.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,3.0,2.0,3.0,0.0,5.0,1.0,0.0,0.0,1.0,3.0,3.0,3.0,2.0,1.0,2.0,0.0,2.0,0.0,0.0,2.0,3.0,2.0,3.0,0.0,5.0,2.0,0.0,0.0,1.0
+gpath_30,"You need to determine correct interpretation of the following sentence:
+
+“The horse raced past the barn fell.”
+
+Respond as quickly as possible.
+
+Which of the following best describes what happened?
+
+A. The fallen horse raced past the barn
+B. The barn fell
+C. The horse fell
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",3.0,2.0,2.0,3.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,1.0,0.0,3.0,2.0,0.0,0.0,1.0,1.0,1.0,3.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,3.0,0.0,4.0,2.0,0.0,0.0,1.0,4.0,2.0,1.0,3.0,1.0,3.0,0.0,1.0,0.0,0.0,3.0,3.0,4.0,4.0,0.0,5.0,3.0,0.0,0.0,4.0,2.0,2.0,3.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,3.0,2.0,3.0,0.0,4.0,1.0,0.0,0.0,1.0,1.0,1.0,2.0,3.0,1.0,2.0,0.0,3.0,3.0,0.0,3.0,2.0,2.0,1.0,0.0,5.0,3.0,0.0,1.0,2.0,2.0,0.0,1.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,3.0,2.0,4.0,0.0,5.0,1.0,0.0,0.0,1.0,2.0,3.0,4.0,3.0,1.0,3.0,0.0,3.0,0.0,0.0,4.0,3.0,1.0,4.0,0.0,5.0,1.0,0.0,0.0,1.0
+gpath_31,"You need to determine correct interpretation of the following sentence:
+
+“While Anna dressed the baby cried loudly.”
+
+Respond with your first instinct. Do not think too much.
+
+Which of the following best describes what happened?
+
+A. Anna dressed the baby
+B. The baby cried while Anna was dressing herself
+C. Anna cried while dressing the baby
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",3.0,1.0,2.0,2.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,1.0,0.0,4.0,1.0,0.0,0.0,1.0,1.0,1.0,3.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,3.0,2.0,0.0,0.0,1.0,4.0,2.0,1.0,3.0,1.0,3.0,0.0,1.0,0.0,0.0,3.0,3.0,4.0,4.0,0.0,5.0,3.0,0.0,0.0,4.0,2.0,2.0,3.0,1.0,1.0,0.0,2.0,0.0,0.0,3.0,3.0,2.0,1.0,0.0,4.0,1.0,0.0,0.0,1.0,1.0,1.0,3.0,1.0,1.0,2.0,0.0,3.0,3.0,0.0,3.0,2.0,3.0,1.0,0.0,5.0,3.0,0.0,1.0,2.0,2.0,0.0,1.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,3.0,2.0,4.0,0.0,5.0,1.0,0.0,0.0,1.0,4.0,3.0,4.0,2.0,1.0,3.0,0.0,3.0,0.0,0.0,4.0,3.0,1.0,4.0,0.0,5.0,1.0,0.0,0.0,1.0
+gpath_32,"You need to determine correct interpretation of the following sentence:
+
+“The complex houses married and single soldiers near the base.”
+
+Analyze the sentence critically and take as much time as you need before responding.
+
+Which of the following best describes what happened?
+
+A. The complex houses soldiers
+B. The houses are complex
+C. The soldiers are complex
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",2.0,2.0,2.0,3.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,3.0,0.0,4.0,2.0,0.0,0.0,1.0,1.0,1.0,3.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,4.0,2.0,0.0,0.0,1.0,4.0,2.0,1.0,3.0,1.0,1.0,0.0,1.0,0.0,0.0,3.0,3.0,4.0,3.0,0.0,5.0,3.0,0.0,0.0,3.0,2.0,2.0,3.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,2.0,3.0,3.0,0.0,4.0,1.0,0.0,0.0,1.0,1.0,1.0,3.0,3.0,1.0,2.0,0.0,3.0,3.0,0.0,3.0,1.0,2.0,4.0,0.0,5.0,2.0,0.0,1.0,2.0,2.0,0.0,1.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,2.0,3.0,4.0,0.0,5.0,1.0,0.0,0.0,1.0,1.0,4.0,4.0,3.0,1.0,3.0,0.0,3.0,0.0,0.0,4.0,3.0,3.0,2.0,0.0,5.0,3.0,0.0,0.0,1.0
+gpath_33,"You need to determine correct interpretation of the following sentence:
+
+“When the men hunt the birds with bright plumage scatter.”
+
+There are other people in the room that you think might expect you to be completely accurate in your interpretation. 
+
+Which of the following best describes what happened?
+
+A. The men hunt birds with bright plumage
+B. The birds with bright plumage scatter
+C. The men scatter
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",2.0,2.0,2.0,2.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,3.0,0.0,4.0,1.0,0.0,0.0,1.0,1.0,1.0,3.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,3.0,2.0,0.0,0.0,1.0,2.0,2.0,1.0,3.0,1.0,1.0,0.0,1.0,0.0,0.0,3.0,3.0,4.0,4.0,0.0,5.0,3.0,0.0,0.0,3.0,2.0,2.0,3.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,3.0,3.0,3.0,3.0,4.0,1.0,0.0,0.0,1.0,1.0,2.0,3.0,3.0,1.0,2.0,0.0,3.0,3.0,0.0,3.0,2.0,2.0,3.0,0.0,5.0,2.0,0.0,1.0,2.0,2.0,0.0,2.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,2.0,3.0,4.0,0.0,5.0,1.0,0.0,0.0,1.0,2.0,4.0,4.0,3.0,1.0,4.0,0.0,3.0,0.0,0.0,4.0,3.0,3.0,4.0,3.0,5.0,2.0,0.0,0.0,1.0
+gpath_34,"You need to determine correct interpretation of the following sentence:
+
+“The horse raced past the barn fell.”
+
+There are other people in the room that you think expect you to choose the wrong option. 
+
+Which of the following best describes what happened?
+
+A. The fallen horse raced past the barn
+B. The barn fell
+C. The horse raced past the barn
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",3.0,2.0,3.0,3.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,4.0,0.0,3.0,2.0,0.0,0.0,1.0,1.0,1.0,3.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,3.0,0.0,3.0,2.0,0.0,0.0,1.0,4.0,2.0,1.0,3.0,1.0,4.0,0.0,1.0,0.0,0.0,3.0,4.0,5.0,5.0,0.0,5.0,3.0,0.0,0.0,4.0,2.0,2.0,3.0,1.0,1.0,0.0,2.0,0.0,0.0,3.0,3.0,4.0,3.0,3.0,2.0,1.0,0.0,0.0,1.0,4.0,1.0,3.0,3.0,1.0,2.0,0.0,3.0,3.0,0.0,3.0,2.0,3.0,4.0,0.0,5.0,3.0,0.0,1.0,2.0,2.0,0.0,2.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,4.0,0.0,2.0,1.0,0.0,0.0,1.0,4.0,4.0,4.0,3.0,1.0,4.0,0.0,3.0,0.0,0.0,4.0,4.0,3.0,4.0,4.0,5.0,2.0,0.0,0.0,1.0
+gpath_35,"You need to determine correct interpretation of the following sentence:
+
+“While Anna dressed the baby in the crib cried.”
+
+Which of the following best describes what happened?
+
+A. Anna dressed the baby in the crib
+B. Anna cried while dressing the baby
+C. The baby in the crib cried while Anna was dressing herself
+
+You strongly believe that first instict option is mostly wrong.
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",2.0,2.0,2.0,3.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,4.0,0.0,4.0,2.0,0.0,0.0,1.0,1.0,1.0,3.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,3.0,2.0,0.0,0.0,1.0,2.0,2.0,1.0,3.0,1.0,1.0,0.0,1.0,0.0,0.0,3.0,3.0,5.0,2.0,0.0,5.0,3.0,0.0,0.0,4.0,2.0,2.0,3.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,4.0,4.0,4.0,0.0,4.0,1.0,0.0,0.0,1.0,1.0,1.0,3.0,4.0,1.0,2.0,0.0,3.0,3.0,0.0,3.0,2.0,3.0,2.0,0.0,5.0,3.0,0.0,1.0,2.0,2.0,0.0,2.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,4.0,0.0,5.0,1.0,0.0,0.0,1.0,4.0,4.0,4.0,3.0,1.0,3.0,0.0,3.0,0.0,0.0,4.0,4.0,3.0,4.0,0.0,5.0,3.0,0.0,0.0,1.0
+gpath_4,"You need to determine correct interpretation of the following sentence:
+
+“While Anna dressed, the baby spit up.”
+
+Which of the following best describes what happened?
+
+A. Anna dressed the baby
+B. The baby spit up while Anna was dressing herself
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",2.0,1.0,2.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,1.0,0.0,5.0,1.0,0.0,0.0,1.0,1.0,1.0,2.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,5.0,1.0,0.0,0.0,0.0,1.0,1.0,2.0,1.0,1.0,0.0,2.0,0.0,0.0,3.0,0.0,1.0,0.0,0.0,5.0,1.0,0.0,0.0,1.0,4.0,1.0,3.0,3.0,1.0,2.0,0.0,3.0,3.0,0.0,3.0,2.0,3.0,1.0,0.0,5.0,1.0,0.0,1.0,2.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,1.0,1.0,0.0,0.0,5.0,1.0,0.0,0.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,0.0,2.0,0.0,0.0,2.0,1.0,1.0,1.0,0.0,5.0,1.0,0.0,0.0,1.0
+gpath_5,"You need to determine correct interpretation of the following sentence:
+
+“While Anna dressed the baby that was crying spit up.”
+
+Which of the following best describes what happened?
+
+A. Anna dressed the baby
+B. The baby spit up while Anna was dressing herself
+C. The crying baby spit up while being dressed
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",2.0,2.0,2.0,3.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,2.0,0.0,4.0,2.0,0.0,0.0,1.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,4.0,2.0,0.0,0.0,1.0,2.0,2.0,1.0,3.0,1.0,2.0,0.0,1.0,0.0,0.0,2.0,3.0,3.0,3.0,0.0,5.0,3.0,0.0,0.0,4.0,2.0,1.0,3.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,3.0,3.0,2.0,0.0,5.0,1.0,0.0,0.0,1.0,1.0,3.0,4.0,4.0,1.0,3.0,0.0,3.0,3.0,0.0,3.0,3.0,3.0,2.0,0.0,5.0,3.0,0.0,1.0,2.0,2.0,0.0,2.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,3.0,0.0,5.0,1.0,0.0,0.0,1.0,1.0,2.0,3.0,2.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,2.0,3.0,2.0,0.0,5.0,2.0,0.0,0.0,1.0
+gpath_6,"You need to determine correct interpretation of the following sentence:
+
+“The horse raced past the barn fell.”
+
+Which of the following best describes what happened?
+
+A. The horse fell after being raced past the barn
+B. The barn fell
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",3.0,1.0,2.0,3.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,2.0,0.0,3.0,1.0,0.0,0.0,1.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,3.0,0.0,4.0,2.0,0.0,0.0,1.0,4.0,2.0,1.0,3.0,1.0,2.0,0.0,1.0,0.0,0.0,3.0,3.0,3.0,3.0,0.0,5.0,3.0,0.0,0.0,4.0,1.0,1.0,3.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,3.0,3.0,3.0,0.0,4.0,1.0,0.0,0.0,1.0,4.0,4.0,2.0,4.0,1.0,3.0,0.0,3.0,3.0,0.0,3.0,2.0,4.0,3.0,0.0,5.0,3.0,0.0,1.0,2.0,2.0,0.0,0.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,3.0,2.0,4.0,0.0,5.0,1.0,0.0,0.0,1.0,3.0,1.0,2.0,3.0,1.0,2.0,0.0,1.0,0.0,0.0,3.0,2.0,2.0,3.0,0.0,5.0,2.0,0.0,0.0,1.0
+gpath_7,"You need to determine correct interpretation of the following sentence:
+
+“The horse raced past the barn fell.”
+
+Which of the following best describes what happened?
+
+A. The horse fell
+B. The barn fell
+C. The horse was racing
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",3.0,2.0,2.0,3.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,3.0,2.0,0.0,0.0,1.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,3.0,0.0,4.0,2.0,0.0,0.0,1.0,4.0,2.0,1.0,3.0,1.0,2.0,0.0,1.0,0.0,0.0,3.0,3.0,3.0,3.0,0.0,5.0,3.0,0.0,0.0,4.0,2.0,1.0,3.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,3.0,3.0,3.0,0.0,4.0,1.0,0.0,0.0,1.0,4.0,4.0,2.0,3.0,1.0,2.0,0.0,3.0,3.0,0.0,3.0,2.0,4.0,3.0,0.0,5.0,3.0,0.0,1.0,2.0,2.0,0.0,1.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,3.0,2.0,4.0,0.0,5.0,1.0,0.0,0.0,1.0,3.0,2.0,3.0,3.0,1.0,2.0,0.0,1.0,0.0,0.0,3.0,3.0,2.0,3.0,0.0,5.0,2.0,0.0,0.0,1.0
+gpath_8,"You need to determine correct interpretation of the following sentence:
+
+“The horse raced past the barn fell.”
+
+Which of the following best describes what happened?
+
+A. The horse fell after being raced past the barn
+B. The barn fell
+C. The horse raced past the barn
+D. The barn raced
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",3.0,2.0,2.0,3.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,3.0,3.0,0.0,3.0,2.0,0.0,0.0,1.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,3.0,0.0,4.0,2.0,0.0,0.0,1.0,4.0,2.0,1.0,3.0,1.0,2.0,0.0,1.0,0.0,0.0,3.0,3.0,3.0,3.0,0.0,5.0,3.0,0.0,0.0,4.0,2.0,1.0,3.0,1.0,2.0,0.0,2.0,0.0,0.0,3.0,3.0,3.0,3.0,0.0,4.0,1.0,0.0,0.0,1.0,4.0,4.0,2.0,4.0,1.0,2.0,0.0,3.0,3.0,0.0,3.0,2.0,4.0,3.0,0.0,5.0,3.0,0.0,1.0,2.0,2.0,0.0,1.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,3.0,2.0,4.0,0.0,5.0,1.0,0.0,0.0,1.0,3.0,3.0,3.0,3.0,1.0,2.0,0.0,1.0,0.0,0.0,3.0,3.0,2.0,3.0,0.0,5.0,2.0,0.0,0.0,1.0
+gpath_9,"You need to determine correct interpretation of the following sentence:
+
+“The horse that was raced past the barn fell.”
+
+Which of the following best describes what happened?
+
+A. The horse fell
+B. The barn fell
+
+Answer with only one option from the given options. Do not provide any explanation. Give only the final answer.",2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,1.0,0.0,5.0,1.0,0.0,0.0,1.0,1.0,1.0,2.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,5.0,1.0,0.0,0.0,0.0,1.0,1.0,2.0,1.0,1.0,0.0,2.0,0.0,0.0,3.0,0.0,1.0,0.0,0.0,5.0,1.0,0.0,0.0,1.0,1.0,2.0,3.0,3.0,1.0,2.0,0.0,3.0,3.0,0.0,3.0,2.0,2.0,1.0,0.0,5.0,3.0,0.0,1.0,2.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,1.0,1.0,0.0,0.0,5.0,1.0,0.0,0.0,1.0,1.0,1.0,2.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,2.0,1.0,1.0,1.0,0.0,5.0,1.0,0.0,0.0,1.0

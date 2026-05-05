@@ -1,0 +1,220 @@
+prompt_id,prompt,anthropic_claude-haiku-4-5_AMb_score,anthropic_claude-haiku-4-5_AS_score,anthropic_claude-haiku-4-5_AT_score,anthropic_claude-haiku-4-5_CEc_score,anthropic_claude-haiku-4-5_CEe_score,anthropic_claude-haiku-4-5_CL_score,anthropic_claude-haiku-4-5_KNa_score,anthropic_claude-haiku-4-5_KNc_score,anthropic_claude-haiku-4-5_KNf_score,anthropic_claude-haiku-4-5_KNn_score,anthropic_claude-haiku-4-5_KNs_score,anthropic_claude-haiku-4-5_MCr_score,anthropic_claude-haiku-4-5_MCt_score,anthropic_claude-haiku-4-5_MCu_score,anthropic_claude-haiku-4-5_MS_score,anthropic_claude-haiku-4-5_OBj_score,anthropic_claude-haiku-4-5_QLl_score,anthropic_claude-haiku-4-5_QLq_score,anthropic_claude-haiku-4-5_SNs_score,anthropic_claude-haiku-4-5_VO_score,anthropic_claude-sonnet-4-5_AMb_score,anthropic_claude-sonnet-4-5_AS_score,anthropic_claude-sonnet-4-5_AT_score,anthropic_claude-sonnet-4-5_CEc_score,anthropic_claude-sonnet-4-5_CEe_score,anthropic_claude-sonnet-4-5_CL_score,anthropic_claude-sonnet-4-5_KNa_score,anthropic_claude-sonnet-4-5_KNc_score,anthropic_claude-sonnet-4-5_KNf_score,anthropic_claude-sonnet-4-5_KNn_score,anthropic_claude-sonnet-4-5_KNs_score,anthropic_claude-sonnet-4-5_MCr_score,anthropic_claude-sonnet-4-5_MCt_score,anthropic_claude-sonnet-4-5_MCu_score,anthropic_claude-sonnet-4-5_MS_score,anthropic_claude-sonnet-4-5_OBj_score,anthropic_claude-sonnet-4-5_QLl_score,anthropic_claude-sonnet-4-5_QLq_score,anthropic_claude-sonnet-4-5_SNs_score,anthropic_claude-sonnet-4-5_VO_score,gemini_gemini-2.5-flash_AMb_score,gemini_gemini-2.5-flash_AS_score,gemini_gemini-2.5-flash_AT_score,gemini_gemini-2.5-flash_CEc_score,gemini_gemini-2.5-flash_CEe_score,gemini_gemini-2.5-flash_CL_score,gemini_gemini-2.5-flash_KNa_score,gemini_gemini-2.5-flash_KNc_score,gemini_gemini-2.5-flash_KNf_score,gemini_gemini-2.5-flash_KNn_score,gemini_gemini-2.5-flash_KNs_score,gemini_gemini-2.5-flash_MCr_score,gemini_gemini-2.5-flash_MCt_score,gemini_gemini-2.5-flash_MCu_score,gemini_gemini-2.5-flash_MS_score,gemini_gemini-2.5-flash_OBj_score,gemini_gemini-2.5-flash_QLl_score,gemini_gemini-2.5-flash_QLq_score,gemini_gemini-2.5-flash_SNs_score,gemini_gemini-2.5-flash_VO_score,openai_gpt-5-mini_AMb_score,openai_gpt-5-mini_AS_score,openai_gpt-5-mini_AT_score,openai_gpt-5-mini_CEc_score,openai_gpt-5-mini_CEe_score,openai_gpt-5-mini_CL_score,openai_gpt-5-mini_KNa_score,openai_gpt-5-mini_KNc_score,openai_gpt-5-mini_KNf_score,openai_gpt-5-mini_KNn_score,openai_gpt-5-mini_KNs_score,openai_gpt-5-mini_MCr_score,openai_gpt-5-mini_MCt_score,openai_gpt-5-mini_MCu_score,openai_gpt-5-mini_MS_score,openai_gpt-5-mini_OBj_score,openai_gpt-5-mini_QLl_score,openai_gpt-5-mini_QLq_score,openai_gpt-5-mini_SNs_score,openai_gpt-5-mini_VO_score,openai_gpt-5-nano_AMb_score,openai_gpt-5-nano_AS_score,openai_gpt-5-nano_AT_score,openai_gpt-5-nano_CEc_score,openai_gpt-5-nano_CEe_score,openai_gpt-5-nano_CL_score,openai_gpt-5-nano_KNa_score,openai_gpt-5-nano_KNc_score,openai_gpt-5-nano_KNf_score,openai_gpt-5-nano_KNn_score,openai_gpt-5-nano_KNs_score,openai_gpt-5-nano_MCr_score,openai_gpt-5-nano_MCt_score,openai_gpt-5-nano_MCu_score,openai_gpt-5-nano_MS_score,openai_gpt-5-nano_OBj_score,openai_gpt-5-nano_QLl_score,openai_gpt-5-nano_QLq_score,openai_gpt-5-nano_SNs_score,openai_gpt-5-nano_VO_score,openai_gpt-5_AMb_score,openai_gpt-5_AS_score,openai_gpt-5_AT_score,openai_gpt-5_CEc_score,openai_gpt-5_CEe_score,openai_gpt-5_CL_score,openai_gpt-5_KNa_score,openai_gpt-5_KNc_score,openai_gpt-5_KNf_score,openai_gpt-5_KNn_score,openai_gpt-5_KNs_score,openai_gpt-5_MCr_score,openai_gpt-5_MCt_score,openai_gpt-5_MCu_score,openai_gpt-5_MS_score,openai_gpt-5_OBj_score,openai_gpt-5_QLl_score,openai_gpt-5_QLq_score,openai_gpt-5_SNs_score,openai_gpt-5_VO_score,xai_grok-4.20-reasoning_AMb_score,xai_grok-4.20-reasoning_AS_score,xai_grok-4.20-reasoning_AT_score,xai_grok-4.20-reasoning_CEc_score,xai_grok-4.20-reasoning_CEe_score,xai_grok-4.20-reasoning_CL_score,xai_grok-4.20-reasoning_KNa_score,xai_grok-4.20-reasoning_KNc_score,xai_grok-4.20-reasoning_KNf_score,xai_grok-4.20-reasoning_KNn_score,xai_grok-4.20-reasoning_KNs_score,xai_grok-4.20-reasoning_MCr_score,xai_grok-4.20-reasoning_MCt_score,xai_grok-4.20-reasoning_MCu_score,xai_grok-4.20-reasoning_MS_score,xai_grok-4.20-reasoning_OBj_score,xai_grok-4.20-reasoning_QLl_score,xai_grok-4.20-reasoning_QLq_score,xai_grok-4.20-reasoning_SNs_score,xai_grok-4.20-reasoning_VO_score
+dictr_1,"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",3.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,2.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0,2.0,0.0,0.0,0.0,2.0,1.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,0.0,1.0,0.0,1.0,4.0,0.0,0.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,3.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,2.0,1.0,2.0,2.0,3.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,3.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,3.0,0.0,2.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,2.0,0.0,2.0,1.0,0.0,1.0,0.0,1.0
+dictr_10,"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+You came to know that the other participant is wealthy.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",3.0,0.0,1.0,2.0,0.0,1.0,0.0,2.0,1.0,0.0,2.0,2.0,3.0,2.0,3.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,2.0,2.0,0.0,0.0,0.0,3.0,1.0,0.0,2.0,1.0,2.0,0.0,3.0,1.0,0.0,1.0,0.0,1.0,3.0,0.0,2.0,2.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,3.0,1.0,3.0,2.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,1.0,2.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,3.0,1.0,3.0,2.0,3.0,0.0,0.0,3.0,3.0,2.0,2.0,3.0,1.0,1.0,1.0,0.0,1.0,3.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,0.0,3.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,3.0,2.0,1.0,1.0,0.0,2.0,1.0,0.0,3.0,2.0,2.0,1.0,3.0,2.0,0.0,1.0,0.0,1.0
+dictr_11,"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+There is an audience in the room that is witnessing this deal.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",2.0,0.0,1.0,2.0,0.0,1.0,0.0,2.0,1.0,0.0,2.0,2.0,2.0,2.0,3.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,2.0,2.0,0.0,0.0,0.0,3.0,1.0,0.0,3.0,1.0,3.0,0.0,3.0,1.0,0.0,1.0,0.0,1.0,4.0,0.0,1.0,2.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,3.0,2.0,5.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,1.0,2.0,2.0,2.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,3.0,1.0,3.0,2.0,3.0,0.0,0.0,3.0,4.0,3.0,3.0,4.0,1.0,1.0,1.0,0.0,1.0,3.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,3.0,0.0,2.0,1.0,0.0,1.0,0.0,1.0,3.0,0.0,3.0,2.0,1.0,1.0,0.0,3.0,1.0,0.0,3.0,2.0,2.0,2.0,4.0,2.0,0.0,1.0,0.0,1.0
+dictr_12,"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+There is an audience in the room that is witnessing this deal. Your decision may affect how others evaluate you.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",2.0,0.0,1.0,2.0,0.0,2.0,0.0,3.0,1.0,0.0,3.0,3.0,3.0,2.0,4.0,2.0,0.0,1.0,0.0,1.0,2.0,0.0,2.0,2.0,0.0,0.0,0.0,3.0,1.0,0.0,3.0,1.0,3.0,0.0,4.0,1.0,0.0,1.0,0.0,1.0,4.0,0.0,2.0,2.0,1.0,0.0,2.0,3.0,1.0,0.0,0.0,2.0,4.0,2.0,5.0,2.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,1.0,2.0,2.0,3.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,3.0,1.0,4.0,2.0,3.0,0.0,0.0,3.0,4.0,3.0,3.0,4.0,1.0,2.0,1.0,0.0,1.0,3.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,3.0,0.0,4.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,3.0,2.0,1.0,2.0,0.0,3.0,1.0,0.0,3.0,2.0,3.0,2.0,4.0,2.0,0.0,1.0,0.0,1.0
+dictr_13,"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+There is an audience in the room that is witnessing this deal. You think that they might have a negative impression of you if you are unfair. 
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",2.0,0.0,1.0,2.0,0.0,2.0,0.0,3.0,1.0,0.0,3.0,3.0,3.0,2.0,4.0,2.0,0.0,1.0,0.0,1.0,2.0,0.0,2.0,2.0,0.0,0.0,0.0,3.0,1.0,0.0,3.0,1.0,3.0,0.0,4.0,1.0,0.0,1.0,0.0,1.0,3.0,0.0,2.0,2.0,1.0,0.0,2.0,3.0,1.0,0.0,0.0,2.0,4.0,2.0,5.0,3.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,1.0,2.0,2.0,3.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,3.0,1.0,4.0,2.0,3.0,0.0,0.0,3.0,4.0,3.0,3.0,4.0,1.0,2.0,1.0,0.0,1.0,3.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,3.0,0.0,4.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,3.0,2.0,1.0,2.0,0.0,3.0,1.0,0.0,3.0,2.0,3.0,2.0,4.0,2.0,0.0,1.0,0.0,1.0
+dictr_14,"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+There is an audience in the room that is witnessing this deal. You think that they might think you are smart businessman if you keep a larger share for yourselves.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",2.0,0.0,1.0,2.0,0.0,2.0,0.0,3.0,1.0,0.0,3.0,3.0,3.0,3.0,4.0,2.0,0.0,1.0,0.0,1.0,2.0,0.0,3.0,2.0,0.0,0.0,0.0,3.0,1.0,0.0,3.0,1.0,3.0,0.0,4.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,3.0,2.0,1.0,2.0,2.0,4.0,1.0,0.0,0.0,2.0,4.0,3.0,5.0,2.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,1.0,3.0,2.0,3.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,3.0,3.0,1.0,4.0,2.0,3.0,0.0,0.0,3.0,4.0,3.0,3.0,4.0,1.0,2.0,1.0,0.0,1.0,3.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,3.0,0.0,4.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,3.0,2.0,1.0,2.0,0.0,3.0,1.0,0.0,3.0,2.0,3.0,2.0,4.0,2.0,0.0,1.0,0.0,1.0
+dictr_15,"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+You might have to interact with this same person in the future rounds.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",2.0,0.0,1.0,2.0,0.0,2.0,0.0,2.0,1.0,0.0,3.0,2.0,3.0,2.0,4.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,2.0,2.0,0.0,0.0,0.0,2.0,1.0,0.0,3.0,1.0,3.0,0.0,4.0,1.0,0.0,1.0,0.0,1.0,4.0,0.0,1.0,2.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,3.0,3.0,4.0,2.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,1.0,3.0,3.0,4.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,3.0,1.0,4.0,2.0,3.0,0.0,0.0,3.0,3.0,3.0,3.0,3.0,1.0,2.0,1.0,0.0,1.0,3.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,3.0,0.0,4.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,2.0,2.0,1.0,2.0,0.0,2.0,1.0,0.0,3.0,2.0,3.0,2.0,4.0,2.0,0.0,1.0,0.0,1.0
+dictr_16,"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+Your current decision may influence future cooperation from this participant.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",2.0,0.0,1.0,2.0,0.0,2.0,0.0,2.0,1.0,0.0,3.0,2.0,3.0,2.0,4.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,2.0,2.0,0.0,0.0,0.0,2.0,1.0,0.0,3.0,1.0,3.0,0.0,4.0,1.0,0.0,1.0,0.0,1.0,3.0,0.0,2.0,2.0,1.0,0.0,2.0,3.0,1.0,0.0,0.0,1.0,4.0,3.0,4.0,2.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,1.0,3.0,3.0,4.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,3.0,1.0,4.0,2.0,3.0,0.0,0.0,3.0,3.0,3.0,3.0,4.0,1.0,2.0,1.0,0.0,1.0,3.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,3.0,0.0,4.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,3.0,2.0,1.0,2.0,0.0,3.0,1.0,0.0,3.0,2.0,3.0,2.0,4.0,2.0,0.0,1.0,0.0,1.0
+dictr_17,"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+Your current financial position is not so good.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",3.0,0.0,1.0,2.0,0.0,1.0,0.0,1.0,1.0,0.0,2.0,2.0,3.0,2.0,2.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,2.0,2.0,0.0,0.0,0.0,2.0,1.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,0.0,1.0,0.0,1.0,3.0,0.0,2.0,2.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,3.0,1.0,3.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,1.0,2.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,3.0,1.0,3.0,2.0,3.0,0.0,0.0,3.0,3.0,3.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,3.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,3.0,1.0,1.0,1.0,0.0,2.0,1.0,0.0,2.0,1.0,2.0,1.0,2.0,2.0,0.0,1.0,0.0,1.0
+dictr_18,"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+It is a general notion that sharing is caring.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",3.0,0.0,1.0,2.0,0.0,1.0,0.0,2.0,1.0,0.0,2.0,1.0,2.0,1.0,3.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,2.0,2.0,0.0,0.0,0.0,1.0,1.0,0.0,2.0,1.0,2.0,0.0,3.0,1.0,0.0,1.0,0.0,1.0,3.0,0.0,2.0,3.0,1.0,0.0,2.0,3.0,1.0,0.0,0.0,1.0,2.0,1.0,3.0,2.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,3.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,2.0,1.0,2.0,2.0,3.0,0.0,0.0,3.0,2.0,2.0,2.0,3.0,1.0,1.0,1.0,0.0,1.0,3.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,2.0,2.0,1.0,1.0,0.0,2.0,1.0,0.0,1.0,1.0,2.0,1.0,3.0,2.0,0.0,1.0,0.0,1.0
+dictr_19,"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+There is an audience in the room that is witnessing this deal. It might benefit you to seem generous to them. 
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",2.0,0.0,1.0,2.0,0.0,2.0,0.0,3.0,1.0,0.0,3.0,3.0,3.0,3.0,4.0,2.0,0.0,1.0,0.0,1.0,2.0,0.0,2.0,2.0,0.0,0.0,0.0,3.0,1.0,0.0,3.0,1.0,3.0,0.0,4.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,2.0,2.0,1.0,0.0,2.0,3.0,1.0,0.0,0.0,2.0,4.0,2.0,5.0,2.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,1.0,2.0,2.0,3.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,3.0,1.0,4.0,2.0,3.0,0.0,0.0,3.0,4.0,3.0,3.0,4.0,1.0,2.0,1.0,0.0,1.0,3.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,3.0,0.0,4.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,3.0,2.0,1.0,2.0,0.0,3.0,1.0,0.0,3.0,2.0,3.0,2.0,4.0,2.0,0.0,1.0,0.0,1.0
+dictr_2,"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+This is only a one-time interaction.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",3.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,2.0,1.0,2.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,2.0,2.0,0.0,0.0,0.0,2.0,1.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,0.0,1.0,0.0,1.0,4.0,0.0,1.0,2.0,1.0,1.0,2.0,2.0,1.0,0.0,0.0,1.0,2.0,1.0,3.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,1.0,2.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,2.0,1.0,2.0,2.0,3.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,3.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,2.0,2.0,1.0,0.0,0.0,2.0,1.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,0.0,1.0,0.0,1.0
+dictr_20,"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+The other participant has expressed gratitude in advance.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",2.0,0.0,1.0,2.0,0.0,1.0,0.0,2.0,1.0,0.0,2.0,1.0,2.0,1.0,3.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,2.0,2.0,0.0,0.0,0.0,2.0,1.0,0.0,2.0,1.0,2.0,0.0,3.0,1.0,0.0,1.0,0.0,1.0,4.0,0.0,3.0,2.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,3.0,1.0,3.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,1.0,2.0,1.0,3.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,3.0,1.0,3.0,2.0,3.0,0.0,0.0,3.0,2.0,3.0,2.0,3.0,1.0,2.0,1.0,0.0,1.0,3.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,0.0,2.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,3.0,2.0,1.0,1.0,0.0,2.0,1.0,0.0,2.0,2.0,2.0,1.0,3.0,2.0,0.0,1.0,0.0,1.0
+dictr_21,"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+The other participant in front of you is really attractive.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",3.0,0.0,2.0,2.0,0.0,1.0,0.0,2.0,1.0,0.0,2.0,3.0,3.0,3.0,3.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,3.0,2.0,0.0,0.0,0.0,2.0,1.0,0.0,2.0,1.0,2.0,0.0,3.0,1.0,0.0,1.0,0.0,1.0,4.0,0.0,3.0,2.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,3.0,1.0,3.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,1.0,2.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,3.0,1.0,4.0,2.0,3.0,0.0,0.0,3.0,3.0,3.0,2.0,3.0,1.0,2.0,1.0,0.0,1.0,3.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,4.0,2.0,1.0,2.0,0.0,3.0,1.0,0.0,3.0,2.0,2.0,2.0,3.0,2.0,0.0,1.0,0.0,1.0
+dictr_22,"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+The other participant in front of you is elderly.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",3.0,0.0,2.0,2.0,0.0,1.0,0.0,2.0,1.0,0.0,2.0,2.0,3.0,3.0,3.0,2.0,0.0,1.0,0.0,1.0,2.0,0.0,2.0,2.0,0.0,0.0,0.0,2.0,1.0,0.0,2.0,1.0,2.0,0.0,3.0,1.0,0.0,1.0,0.0,1.0,3.0,0.0,3.0,2.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,3.0,1.0,3.0,2.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,1.0,2.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,3.0,1.0,3.0,2.0,3.0,0.0,0.0,3.0,3.0,3.0,2.0,3.0,1.0,2.0,1.0,0.0,1.0,3.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,0.0,2.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,4.0,2.0,1.0,1.0,0.0,2.0,1.0,0.0,2.0,2.0,2.0,2.0,3.0,2.0,0.0,1.0,0.0,1.0
+dictr_23,"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+The other participant in front of you is a kid.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",3.0,0.0,2.0,2.0,0.0,1.0,0.0,1.0,1.0,0.0,2.0,2.0,3.0,3.0,3.0,2.0,0.0,1.0,0.0,1.0,2.0,0.0,2.0,2.0,0.0,0.0,0.0,2.0,1.0,0.0,2.0,1.0,2.0,0.0,3.0,1.0,0.0,1.0,0.0,1.0,3.0,0.0,3.0,2.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,3.0,1.0,3.0,2.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,1.0,2.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,3.0,1.0,4.0,2.0,3.0,0.0,0.0,3.0,4.0,3.0,2.0,3.0,1.0,2.0,1.0,0.0,1.0,3.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,0.0,2.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,4.0,2.0,1.0,2.0,0.0,2.0,1.0,0.0,2.0,2.0,2.0,2.0,3.0,2.0,0.0,1.0,0.0,1.0
+dictr_24,"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and her. You have a total of $100.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",3.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,2.0,1.0,3.0,2.0,2.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0,2.0,0.0,0.0,0.0,2.0,1.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,0.0,1.0,0.0,1.0,4.0,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,2.0,1.0,3.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,3.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,2.0,1.0,2.0,2.0,3.0,0.0,0.0,3.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,3.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,3.0,0.0,3.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,2.0,2.0,2.0,1.0,2.0,1.0,0.0,1.0,0.0,1.0
+dictr_25,"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and him. You have a total of $100.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",3.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,2.0,1.0,3.0,2.0,2.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0,2.0,0.0,0.0,0.0,2.0,1.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,0.0,1.0,0.0,1.0,4.0,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,2.0,1.0,3.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,3.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,2.0,1.0,2.0,2.0,3.0,0.0,0.0,3.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,3.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,3.0,0.0,3.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,2.0,2.0,2.0,1.0,2.0,1.0,0.0,1.0,0.0,1.0
+dictr_26,"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+The other participant knows the exact tota amount you have.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",2.0,0.0,1.0,2.0,0.0,2.0,0.0,3.0,1.0,0.0,2.0,2.0,3.0,1.0,3.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,2.0,2.0,0.0,0.0,0.0,3.0,1.0,0.0,3.0,1.0,2.0,0.0,3.0,1.0,0.0,1.0,0.0,1.0,4.0,0.0,1.0,2.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,3.0,1.0,3.0,2.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,1.0,2.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,3.0,3.0,1.0,4.0,2.0,3.0,0.0,0.0,3.0,4.0,4.0,2.0,4.0,1.0,2.0,1.0,0.0,1.0,3.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,0.0,4.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,3.0,2.0,1.0,2.0,0.0,2.0,1.0,0.0,3.0,2.0,2.0,2.0,4.0,2.0,0.0,1.0,0.0,1.0
+dictr_27,"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+The other participant does not know the exact tota amount you have.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",2.0,0.0,1.0,2.0,0.0,2.0,0.0,3.0,1.0,0.0,2.0,2.0,3.0,1.0,3.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,2.0,2.0,0.0,0.0,0.0,3.0,1.0,0.0,3.0,1.0,3.0,0.0,3.0,1.0,0.0,1.0,0.0,1.0,4.0,0.0,2.0,2.0,1.0,2.0,2.0,3.0,1.0,0.0,0.0,1.0,3.0,1.0,3.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,1.0,2.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,3.0,1.0,3.0,2.0,3.0,0.0,0.0,3.0,3.0,4.0,2.0,3.0,1.0,2.0,1.0,0.0,1.0,3.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,3.0,0.0,4.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,3.0,2.0,1.0,2.0,0.0,2.0,1.0,0.0,3.0,2.0,2.0,2.0,4.0,2.0,0.0,1.0,0.0,1.0
+dictr_28,"You are in a situation with another participant who is anonymous but sitting right in front of you. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",2.0,0.0,1.0,2.0,0.0,2.0,0.0,3.0,1.0,0.0,3.0,2.0,2.0,2.0,2.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,2.0,2.0,0.0,0.0,0.0,2.0,1.0,0.0,3.0,1.0,2.0,0.0,2.0,1.0,0.0,1.0,0.0,1.0,4.0,0.0,2.0,2.0,1.0,2.0,2.0,3.0,1.0,0.0,0.0,2.0,3.0,1.0,3.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,2.0,1.0,3.0,2.0,3.0,0.0,0.0,3.0,2.0,2.0,2.0,2.0,1.0,1.0,1.0,0.0,1.0,3.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,0.0,2.0,1.0,0.0,1.0,0.0,1.0,3.0,0.0,3.0,2.0,1.0,1.0,0.0,2.0,1.0,0.0,3.0,2.0,2.0,2.0,3.0,2.0,0.0,1.0,0.0,1.0
+dictr_29,"You are in a situation with another participant who is anonymous and in the other room. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",2.0,0.0,1.0,2.0,0.0,2.0,0.0,3.0,1.0,0.0,3.0,2.0,2.0,2.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,2.0,2.0,0.0,0.0,0.0,2.0,1.0,0.0,3.0,1.0,2.0,0.0,2.0,1.0,0.0,1.0,0.0,1.0,4.0,0.0,1.0,2.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,2.0,2.0,1.0,3.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,1.0,2.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,2.0,1.0,3.0,2.0,3.0,0.0,0.0,3.0,2.0,2.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,3.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,3.0,2.0,1.0,1.0,0.0,2.0,1.0,0.0,3.0,2.0,2.0,2.0,2.0,2.0,0.0,1.0,0.0,1.0
+dictr_3,"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+You will not interact with this participant ever again.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",3.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,2.0,1.0,2.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,2.0,2.0,0.0,0.0,0.0,2.0,1.0,0.0,3.0,1.0,2.0,0.0,2.0,1.0,0.0,1.0,0.0,1.0,4.0,0.0,1.0,2.0,1.0,1.0,2.0,2.0,1.0,0.0,0.0,1.0,2.0,1.0,3.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,1.0,2.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,2.0,1.0,2.0,2.0,3.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,3.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,2.0,2.0,1.0,0.0,0.0,2.0,1.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,0.0,1.0,0.0,1.0
+dictr_30,"You are in a situation with another participant who is your close friend. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",2.0,0.0,1.0,2.0,0.0,1.0,0.0,1.0,1.0,0.0,2.0,1.0,3.0,1.0,4.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,2.0,2.0,0.0,0.0,0.0,2.0,1.0,0.0,2.0,1.0,2.0,0.0,3.0,1.0,0.0,1.0,0.0,1.0,3.0,0.0,2.0,2.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,3.0,3.0,4.0,2.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,1.0,2.0,1.0,3.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,3.0,1.0,3.0,2.0,3.0,0.0,0.0,3.0,3.0,2.0,2.0,4.0,1.0,1.0,1.0,0.0,1.0,3.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,0.0,3.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,3.0,2.0,1.0,2.0,0.0,2.0,1.0,0.0,2.0,2.0,2.0,2.0,3.0,2.0,0.0,1.0,0.0,1.0
+dictr_31,"You are in a situation with another participant who is your close friend. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+You get only 30 seconds to make the decision.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",2.0,0.0,1.0,2.0,0.0,1.0,0.0,3.0,1.0,0.0,2.0,3.0,4.0,3.0,4.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,2.0,2.0,0.0,0.0,0.0,2.0,1.0,0.0,2.0,1.0,2.0,0.0,3.0,1.0,0.0,1.0,0.0,1.0,3.0,0.0,2.0,2.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,2.0,2.0,3.0,4.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,1.0,1.0,2.0,3.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,3.0,3.0,1.0,2.0,2.0,3.0,0.0,0.0,3.0,4.0,3.0,4.0,2.0,1.0,1.0,1.0,0.0,1.0,3.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,0.0,3.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,4.0,2.0,1.0,2.0,0.0,2.0,1.0,0.0,3.0,2.0,2.0,2.0,3.0,2.0,0.0,1.0,0.0,1.0
+dictr_32,"You are in a situation with another participant who is your close friend. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+You can take as much time as you need to carefully think through decision.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",2.0,0.0,2.0,2.0,0.0,2.0,0.0,3.0,1.0,0.0,2.0,3.0,3.0,3.0,4.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,2.0,2.0,0.0,0.0,0.0,2.0,1.0,0.0,2.0,1.0,2.0,0.0,3.0,1.0,0.0,1.0,0.0,1.0,3.0,0.0,2.0,2.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,2.0,3.0,3.0,4.0,2.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,1.0,2.0,0.0,3.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,2.0,1.0,3.0,2.0,3.0,0.0,0.0,3.0,2.0,3.0,2.0,4.0,1.0,2.0,1.0,0.0,1.0,3.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,3.0,0.0,3.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,4.0,2.0,1.0,2.0,0.0,2.0,1.0,0.0,3.0,2.0,3.0,2.0,3.0,2.0,0.0,1.0,0.0,1.0
+dictr_33,"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+You are very wealthy.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",3.0,0.0,1.0,2.0,0.0,2.0,0.0,2.0,1.0,0.0,2.0,2.0,3.0,2.0,2.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,2.0,2.0,0.0,0.0,0.0,2.0,1.0,0.0,2.0,1.0,2.0,0.0,2.0,1.0,0.0,1.0,0.0,1.0,3.0,0.0,2.0,2.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,3.0,1.0,3.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,1.0,2.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,2.0,1.0,2.0,2.0,3.0,0.0,0.0,3.0,3.0,2.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,3.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,3.0,1.0,1.0,1.0,0.0,2.0,1.0,0.0,2.0,1.0,2.0,1.0,2.0,2.0,0.0,1.0,0.0,1.0
+dictr_4,"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+Most people believe a split is only fair if it is equal.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",2.0,0.0,1.0,2.0,0.0,1.0,0.0,2.0,1.0,0.0,2.0,1.0,2.0,1.0,3.0,2.0,0.0,1.0,0.0,1.0,2.0,0.0,2.0,2.0,0.0,0.0,0.0,2.0,1.0,0.0,2.0,1.0,2.0,0.0,3.0,1.0,0.0,1.0,0.0,1.0,3.0,0.0,2.0,2.0,1.0,0.0,2.0,3.0,1.0,0.0,0.0,1.0,2.0,1.0,3.0,2.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,1.0,2.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,2.0,1.0,2.0,2.0,3.0,0.0,0.0,3.0,2.0,2.0,2.0,3.0,1.0,1.0,1.0,0.0,1.0,3.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,0.0,3.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,2.0,2.0,1.0,1.0,0.0,2.0,1.0,0.0,2.0,1.0,2.0,1.0,3.0,2.0,0.0,1.0,0.0,1.0
+dictr_5,"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+In situations like these, most participants would split the money evenly.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",2.0,0.0,1.0,2.0,0.0,1.0,0.0,2.0,1.0,0.0,2.0,1.0,2.0,1.0,3.0,2.0,0.0,1.0,0.0,1.0,2.0,0.0,2.0,2.0,0.0,0.0,0.0,2.0,1.0,0.0,2.0,1.0,2.0,0.0,3.0,1.0,0.0,1.0,0.0,1.0,3.0,0.0,2.0,2.0,1.0,0.0,2.0,3.0,1.0,0.0,0.0,1.0,2.0,1.0,3.0,2.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,1.0,2.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,2.0,1.0,2.0,2.0,3.0,0.0,0.0,3.0,2.0,2.0,3.0,3.0,1.0,1.0,1.0,0.0,1.0,3.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,2.0,2.0,1.0,1.0,0.0,2.0,1.0,0.0,2.0,1.0,2.0,1.0,3.0,2.0,0.0,1.0,0.0,1.0
+dictr_6,"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+Fairness is emphasized as an important principle in this situation.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",2.0,0.0,1.0,2.0,0.0,1.0,0.0,2.0,1.0,0.0,2.0,1.0,2.0,1.0,3.0,2.0,0.0,1.0,0.0,1.0,2.0,0.0,2.0,2.0,0.0,0.0,0.0,2.0,1.0,0.0,2.0,1.0,2.0,0.0,3.0,1.0,0.0,1.0,0.0,1.0,3.0,0.0,1.0,2.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,2.0,2.0,3.0,3.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,1.0,2.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,2.0,1.0,2.0,2.0,3.0,0.0,0.0,3.0,2.0,2.0,2.0,3.0,1.0,1.0,1.0,0.0,1.0,3.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,2.0,2.0,1.0,1.0,0.0,2.0,1.0,0.0,2.0,1.0,2.0,1.0,3.0,2.0,0.0,1.0,0.0,1.0
+dictr_7,"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+The other participant is described as kind and cooperative by others.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",3.0,0.0,1.0,2.0,0.0,1.0,0.0,2.0,1.0,0.0,2.0,2.0,2.0,2.0,3.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,2.0,2.0,0.0,0.0,0.0,2.0,1.0,0.0,2.0,1.0,2.0,0.0,3.0,1.0,0.0,1.0,0.0,1.0,4.0,0.0,2.0,2.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,3.0,1.0,4.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,1.0,2.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,3.0,1.0,3.0,2.0,3.0,0.0,0.0,3.0,3.0,3.0,3.0,3.0,1.0,1.0,1.0,0.0,1.0,3.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,0.0,3.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,3.0,2.0,1.0,1.0,0.0,2.0,1.0,0.0,2.0,2.0,2.0,1.0,3.0,2.0,0.0,1.0,0.0,1.0
+dictr_8,"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+The other participant is described as selfish by others.
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",3.0,0.0,1.0,2.0,0.0,1.0,0.0,2.0,1.0,0.0,2.0,2.0,2.0,2.0,3.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,2.0,2.0,0.0,0.0,0.0,2.0,1.0,0.0,2.0,1.0,2.0,0.0,3.0,1.0,0.0,1.0,0.0,1.0,4.0,0.0,2.0,2.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,3.0,1.0,4.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,1.0,2.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,3.0,1.0,3.0,2.0,3.0,0.0,0.0,3.0,3.0,2.0,3.0,3.0,1.0,1.0,1.0,0.0,1.0,3.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,0.0,3.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,3.0,2.0,1.0,1.0,0.0,2.0,1.0,0.0,2.0,2.0,2.0,1.0,3.0,2.0,0.0,1.0,0.0,1.0
+dictr_9,"You are in a situation with another participant. You are the allocator and you have to decide how much money to split between you and the other participant. You have a total of $100.
+
+You came to know that the other participant is in financial need. 
+
+How much do you allocate?
+
+Answer with only multiples of 10 between 0 and 100. Do not provide any explanation. Give only the final answer.",3.0,0.0,1.0,2.0,0.0,1.0,0.0,2.0,1.0,0.0,2.0,2.0,3.0,2.0,3.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,2.0,2.0,0.0,0.0,0.0,3.0,1.0,0.0,2.0,1.0,2.0,0.0,3.0,1.0,0.0,1.0,0.0,1.0,3.0,0.0,2.0,2.0,1.0,1.0,2.0,3.0,1.0,0.0,0.0,1.0,3.0,1.0,3.0,2.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,3.0,1.0,2.0,1.0,3.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,3.0,1.0,3.0,2.0,3.0,0.0,0.0,3.0,3.0,3.0,3.0,3.0,1.0,1.0,1.0,0.0,1.0,3.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,0.0,3.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,3.0,2.0,1.0,2.0,0.0,2.0,1.0,0.0,3.0,2.0,2.0,1.0,3.0,2.0,0.0,1.0,0.0,1.0

@@ -1,0 +1,317 @@
+prompt_id,prompt,anthropic_claude-haiku-4-5_AMb_score,anthropic_claude-haiku-4-5_AS_score,anthropic_claude-haiku-4-5_AT_score,anthropic_claude-haiku-4-5_CEc_score,anthropic_claude-haiku-4-5_CEe_score,anthropic_claude-haiku-4-5_CL_score,anthropic_claude-haiku-4-5_KNa_score,anthropic_claude-haiku-4-5_KNc_score,anthropic_claude-haiku-4-5_KNf_score,anthropic_claude-haiku-4-5_KNn_score,anthropic_claude-haiku-4-5_KNs_score,anthropic_claude-haiku-4-5_MCr_score,anthropic_claude-haiku-4-5_MCt_score,anthropic_claude-haiku-4-5_MCu_score,anthropic_claude-haiku-4-5_MS_score,anthropic_claude-haiku-4-5_OBj_score,anthropic_claude-haiku-4-5_QLl_score,anthropic_claude-haiku-4-5_QLq_score,anthropic_claude-haiku-4-5_SNs_score,anthropic_claude-haiku-4-5_VO_score,anthropic_claude-sonnet-4-5_AMb_score,anthropic_claude-sonnet-4-5_AS_score,anthropic_claude-sonnet-4-5_AT_score,anthropic_claude-sonnet-4-5_CEc_score,anthropic_claude-sonnet-4-5_CEe_score,anthropic_claude-sonnet-4-5_CL_score,anthropic_claude-sonnet-4-5_KNa_score,anthropic_claude-sonnet-4-5_KNc_score,anthropic_claude-sonnet-4-5_KNf_score,anthropic_claude-sonnet-4-5_KNn_score,anthropic_claude-sonnet-4-5_KNs_score,anthropic_claude-sonnet-4-5_MCr_score,anthropic_claude-sonnet-4-5_MCt_score,anthropic_claude-sonnet-4-5_MCu_score,anthropic_claude-sonnet-4-5_MS_score,anthropic_claude-sonnet-4-5_OBj_score,anthropic_claude-sonnet-4-5_QLl_score,anthropic_claude-sonnet-4-5_QLq_score,anthropic_claude-sonnet-4-5_SNs_score,anthropic_claude-sonnet-4-5_VO_score,gemini_gemini-2.5-flash_AMb_score,gemini_gemini-2.5-flash_AS_score,gemini_gemini-2.5-flash_AT_score,gemini_gemini-2.5-flash_CEc_score,gemini_gemini-2.5-flash_CEe_score,gemini_gemini-2.5-flash_CL_score,gemini_gemini-2.5-flash_KNa_score,gemini_gemini-2.5-flash_KNc_score,gemini_gemini-2.5-flash_KNf_score,gemini_gemini-2.5-flash_KNn_score,gemini_gemini-2.5-flash_KNs_score,gemini_gemini-2.5-flash_MCr_score,gemini_gemini-2.5-flash_MCt_score,gemini_gemini-2.5-flash_MCu_score,gemini_gemini-2.5-flash_MS_score,gemini_gemini-2.5-flash_OBj_score,gemini_gemini-2.5-flash_QLl_score,gemini_gemini-2.5-flash_QLq_score,gemini_gemini-2.5-flash_SNs_score,gemini_gemini-2.5-flash_VO_score,openai_gpt-5-mini_AMb_score,openai_gpt-5-mini_AS_score,openai_gpt-5-mini_AT_score,openai_gpt-5-mini_CEc_score,openai_gpt-5-mini_CEe_score,openai_gpt-5-mini_CL_score,openai_gpt-5-mini_KNa_score,openai_gpt-5-mini_KNc_score,openai_gpt-5-mini_KNf_score,openai_gpt-5-mini_KNn_score,openai_gpt-5-mini_KNs_score,openai_gpt-5-mini_MCr_score,openai_gpt-5-mini_MCt_score,openai_gpt-5-mini_MCu_score,openai_gpt-5-mini_MS_score,openai_gpt-5-mini_OBj_score,openai_gpt-5-mini_QLl_score,openai_gpt-5-mini_QLq_score,openai_gpt-5-mini_SNs_score,openai_gpt-5-mini_VO_score,openai_gpt-5-nano_AMb_score,openai_gpt-5-nano_AS_score,openai_gpt-5-nano_AT_score,openai_gpt-5-nano_CEc_score,openai_gpt-5-nano_CEe_score,openai_gpt-5-nano_CL_score,openai_gpt-5-nano_KNa_score,openai_gpt-5-nano_KNc_score,openai_gpt-5-nano_KNf_score,openai_gpt-5-nano_KNn_score,openai_gpt-5-nano_KNs_score,openai_gpt-5-nano_MCr_score,openai_gpt-5-nano_MCt_score,openai_gpt-5-nano_MCu_score,openai_gpt-5-nano_MS_score,openai_gpt-5-nano_OBj_score,openai_gpt-5-nano_QLl_score,openai_gpt-5-nano_QLq_score,openai_gpt-5-nano_SNs_score,openai_gpt-5-nano_VO_score,openai_gpt-5_AMb_score,openai_gpt-5_AS_score,openai_gpt-5_AT_score,openai_gpt-5_CEc_score,openai_gpt-5_CEe_score,openai_gpt-5_CL_score,openai_gpt-5_KNa_score,openai_gpt-5_KNc_score,openai_gpt-5_KNf_score,openai_gpt-5_KNn_score,openai_gpt-5_KNs_score,openai_gpt-5_MCr_score,openai_gpt-5_MCt_score,openai_gpt-5_MCu_score,openai_gpt-5_MS_score,openai_gpt-5_OBj_score,openai_gpt-5_QLl_score,openai_gpt-5_QLq_score,openai_gpt-5_SNs_score,openai_gpt-5_VO_score,xai_grok-4.20-reasoning_AMb_score,xai_grok-4.20-reasoning_AS_score,xai_grok-4.20-reasoning_AT_score,xai_grok-4.20-reasoning_CEc_score,xai_grok-4.20-reasoning_CEe_score,xai_grok-4.20-reasoning_CL_score,xai_grok-4.20-reasoning_KNa_score,xai_grok-4.20-reasoning_KNc_score,xai_grok-4.20-reasoning_KNf_score,xai_grok-4.20-reasoning_KNn_score,xai_grok-4.20-reasoning_KNs_score,xai_grok-4.20-reasoning_MCr_score,xai_grok-4.20-reasoning_MCt_score,xai_grok-4.20-reasoning_MCu_score,xai_grok-4.20-reasoning_MS_score,xai_grok-4.20-reasoning_OBj_score,xai_grok-4.20-reasoning_QLl_score,xai_grok-4.20-reasoning_QLq_score,xai_grok-4.20-reasoning_SNs_score,xai_grok-4.20-reasoning_VO_score
+wcard_1,"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+The cards shown are: A, D, 4, 7.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.",1.0,0.0,1.0,3.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,1.0,3.0,1.0,0.0,5.0,2.0,0.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,2.0,1.0,2.0,0.0,3.0,1.0,2.0,0.0,1.0,3.0,0.0,0.0,2.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,3.0,0.0,0.0,3.0,0.0,0.0,2.0,3.0,3.0,0.0,5.0,2.0,1.0,0.0,1.0,2.0,2.0,1.0,2.0,2.0,2.0,0.0,2.0,3.0,0.0,0.0,1.0,3.0,2.0,0.0,5.0,2.0,2.0,0.0,2.0,1.0,1.0,0.0,2.0,1.0,2.0,0.0,0.0,3.0,0.0,0.0,3.0,3.0,2.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,2.0,1.0,2.0,1.0,3.0,0.0,2.0,3.0,0.0,1.0,2.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,1.0
+wcard_10,"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If vowel → even number
+
+The cards shown are: A, D, 4, 7.
+
+(Some participants choose A and 4)
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.",1.0,0.0,1.0,3.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,2.0,3.0,1.0,0.0,5.0,2.0,0.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,2.0,1.0,2.0,1.0,3.0,1.0,2.0,0.0,1.0,3.0,0.0,0.0,3.0,3.0,4.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,3.0,0.0,0.0,3.0,0.0,0.0,3.0,3.0,3.0,0.0,5.0,2.0,1.0,0.0,1.0,2.0,2.0,1.0,2.0,2.0,2.0,0.0,2.0,3.0,0.0,0.0,1.0,2.0,2.0,0.0,5.0,2.0,2.0,0.0,2.0,1.0,1.0,0.0,2.0,1.0,2.0,0.0,0.0,3.0,0.0,0.0,3.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,1.0,2.0,3.0,3.0,2.0,1.0,3.0,0.0,2.0,3.0,0.0,1.0,3.0,4.0,4.0,1.0,4.0,3.0,1.0,0.0,1.0
+wcard_11,"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card shows a vowel on one side, then the number on the other side must be even.
+
+The cards shown are: A, B, 2, 5.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.",1.0,0.0,1.0,3.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,1.0,3.0,1.0,0.0,5.0,2.0,0.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,2.0,1.0,2.0,1.0,3.0,1.0,2.0,0.0,1.0,3.0,0.0,0.0,2.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,3.0,0.0,0.0,3.0,0.0,0.0,2.0,3.0,3.0,0.0,5.0,2.0,1.0,0.0,1.0,2.0,2.0,1.0,2.0,2.0,2.0,0.0,2.0,3.0,0.0,0.0,1.0,2.0,2.0,0.0,5.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,3.0,0.0,0.0,3.0,3.0,2.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,2.0,2.0,2.0,1.0,3.0,0.0,2.0,3.0,0.0,1.0,2.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,1.0
+wcard_12,"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: Whenever there is a vowel on one side, there must also be an even number on the other side.
+
+The cards shown are: E, R, 8, 1.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.",1.0,0.0,1.0,3.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,1.0,3.0,1.0,0.0,5.0,2.0,0.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,2.0,1.0,2.0,1.0,3.0,1.0,2.0,0.0,1.0,3.0,0.0,0.0,2.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,3.0,0.0,0.0,3.0,0.0,0.0,2.0,3.0,3.0,0.0,5.0,2.0,1.0,0.0,1.0,2.0,2.0,1.0,2.0,2.0,2.0,0.0,2.0,3.0,0.0,0.0,1.0,2.0,2.0,0.0,5.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,3.0,0.0,0.0,3.0,3.0,2.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,2.0,2.0,2.0,1.0,3.0,0.0,2.0,3.0,0.0,1.0,2.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,1.0
+wcard_13,"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it does not have an odd number on other side.
+
+The cards shown are: A, B, 3, 6.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.",1.0,0.0,1.0,3.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,1.0,3.0,1.0,0.0,5.0,2.0,0.0,0.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,2.0,1.0,2.0,2.0,3.0,1.0,2.0,0.0,1.0,3.0,0.0,0.0,2.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,3.0,0.0,0.0,3.0,0.0,0.0,2.0,3.0,3.0,0.0,5.0,2.0,1.0,0.0,1.0,2.0,2.0,1.0,3.0,2.0,2.0,0.0,2.0,3.0,0.0,0.0,1.0,2.0,2.0,0.0,5.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,3.0,0.0,0.0,3.0,3.0,2.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,2.0,2.0,2.0,1.0,3.0,0.0,2.0,3.0,0.0,1.0,2.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,1.0
+wcard_14,"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has an odd number on one side, then it does not have a vowel on the other side.
+
+The cards shown are: 3, 8, A, B.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.",1.0,0.0,1.0,3.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,1.0,3.0,1.0,0.0,5.0,2.0,0.0,0.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,2.0,1.0,2.0,2.0,3.0,1.0,2.0,0.0,1.0,3.0,0.0,0.0,2.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,3.0,0.0,0.0,3.0,0.0,0.0,2.0,3.0,3.0,0.0,5.0,2.0,1.0,0.0,1.0,2.0,2.0,1.0,3.0,2.0,2.0,0.0,2.0,3.0,0.0,0.0,1.0,2.0,2.0,0.0,5.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,3.0,0.0,0.0,3.0,3.0,2.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,2.0,3.0,2.0,1.0,3.0,0.0,2.0,3.0,0.0,1.0,2.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,1.0
+wcard_15,"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+The cards shown are: A, D, E, K, 4, 7, 2
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.",1.0,0.0,1.0,3.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,1.0,3.0,1.0,0.0,5.0,2.0,0.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,2.0,1.0,2.0,2.0,3.0,1.0,2.0,0.0,1.0,3.0,0.0,0.0,2.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,2.0,1.0,3.0,1.0,3.0,0.0,0.0,3.0,0.0,0.0,2.0,3.0,3.0,0.0,5.0,2.0,1.0,0.0,1.0,3.0,2.0,1.0,2.0,3.0,2.0,0.0,2.0,3.0,0.0,0.0,2.0,2.0,2.0,0.0,5.0,2.0,2.0,0.0,2.0,1.0,2.0,2.0,2.0,1.0,2.0,0.0,0.0,3.0,0.0,0.0,3.0,3.0,2.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,3.0,3.0,2.0,1.0,3.0,0.0,2.0,3.0,0.0,1.0,3.0,3.0,4.0,0.0,5.0,4.0,1.0,0.0,1.0
+wcard_16,"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a consonant on one side, then it has a odd number on the other side.
+
+The cards shown are: B, C, A, 3, 8, 6
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.",1.0,0.0,1.0,3.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,1.0,3.0,1.0,0.0,5.0,2.0,0.0,0.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,2.0,1.0,2.0,2.0,3.0,1.0,2.0,0.0,1.0,3.0,0.0,0.0,2.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,2.0,1.0,3.0,1.0,3.0,0.0,0.0,3.0,0.0,0.0,3.0,3.0,3.0,0.0,5.0,2.0,1.0,0.0,1.0,4.0,2.0,2.0,3.0,3.0,3.0,0.0,2.0,3.0,0.0,0.0,2.0,3.0,3.0,0.0,5.0,2.0,2.0,0.0,2.0,1.0,2.0,2.0,2.0,1.0,2.0,0.0,0.0,3.0,0.0,0.0,3.0,3.0,2.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,3.0,3.0,2.0,1.0,3.0,0.0,2.0,3.0,0.0,1.0,3.0,3.0,4.0,0.0,5.0,4.0,1.0,0.0,1.0
+wcard_17,"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+You must decide quickly without much time to think.
+
+The cards shown are: A, D, 4, 7.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.",1.0,0.0,2.0,3.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,1.0,3.0,2.0,0.0,5.0,2.0,0.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,2.0,1.0,2.0,1.0,3.0,1.0,2.0,0.0,1.0,3.0,0.0,0.0,2.0,3.0,4.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,3.0,0.0,0.0,3.0,0.0,0.0,2.0,3.0,3.0,0.0,5.0,2.0,1.0,0.0,1.0,2.0,2.0,1.0,2.0,2.0,1.0,0.0,2.0,3.0,0.0,0.0,1.0,2.0,2.0,0.0,5.0,2.0,2.0,0.0,1.0,1.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,3.0,0.0,0.0,3.0,3.0,2.0,0.0,5.0,3.0,1.0,0.0,1.0,2.0,3.0,3.0,2.0,1.0,3.0,0.0,2.0,3.0,0.0,1.0,2.0,2.0,4.0,0.0,5.0,2.0,1.0,0.0,1.0
+wcard_18,"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+Take your time and analyze carefully.
+
+The cards shown are: A, D, 4, 7.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.",1.0,0.0,2.0,3.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,1.0,3.0,1.0,0.0,5.0,2.0,0.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,2.0,1.0,2.0,1.0,3.0,1.0,2.0,0.0,1.0,3.0,0.0,0.0,2.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,3.0,0.0,0.0,3.0,0.0,0.0,2.0,3.0,3.0,0.0,5.0,2.0,1.0,0.0,1.0,2.0,2.0,1.0,2.0,2.0,2.0,0.0,2.0,3.0,0.0,0.0,2.0,2.0,2.0,0.0,5.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,3.0,0.0,0.0,3.0,3.0,2.0,0.0,5.0,3.0,1.0,0.0,1.0,2.0,3.0,3.0,2.0,1.0,3.0,0.0,2.0,3.0,0.0,1.0,2.0,4.0,2.0,0.0,5.0,4.0,1.0,0.0,1.0
+wcard_19,"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+The rules of this game generally defy you.
+
+The cards shown are: A, D, 4, 7.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.",1.0,0.0,2.0,3.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,2.0,4.0,3.0,0.0,5.0,2.0,0.0,0.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0,3.0,4.0,0.0,5.0,3.0,1.0,0.0,2.0,1.0,2.0,2.0,3.0,1.0,2.0,0.0,1.0,3.0,0.0,0.0,3.0,4.0,4.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,3.0,0.0,0.0,3.0,0.0,0.0,2.0,3.0,3.0,0.0,5.0,2.0,1.0,0.0,1.0,2.0,2.0,1.0,2.0,2.0,2.0,0.0,2.0,3.0,0.0,0.0,1.0,2.0,2.0,0.0,5.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,3.0,0.0,0.0,3.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,1.0,3.0,3.0,4.0,3.0,1.0,4.0,0.0,2.0,3.0,0.0,1.0,3.0,4.0,4.0,0.0,4.0,4.0,1.0,0.0,1.0
+wcard_2,"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel, then it has an even number.
+
+The cards shown are: A, K, 2, 9.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.",1.0,0.0,1.0,3.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,1.0,3.0,1.0,0.0,5.0,2.0,0.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,2.0,1.0,2.0,1.0,3.0,1.0,2.0,0.0,1.0,3.0,0.0,0.0,2.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,3.0,0.0,0.0,3.0,0.0,0.0,2.0,3.0,3.0,0.0,5.0,2.0,1.0,0.0,1.0,2.0,2.0,1.0,2.0,2.0,2.0,0.0,2.0,3.0,0.0,0.0,1.0,2.0,2.0,0.0,5.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,3.0,0.0,0.0,3.0,3.0,2.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,2.0,2.0,2.0,1.0,3.0,0.0,2.0,3.0,0.0,1.0,2.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,1.0
+wcard_20,"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+The cards shown are: A, D, 4, 7.
+
+You think you the answer but that answer might be wrong.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.",1.0,0.0,2.0,3.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,3.0,4.0,3.0,0.0,5.0,2.0,0.0,0.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0,3.0,4.0,0.0,5.0,3.0,1.0,0.0,2.0,1.0,2.0,2.0,3.0,1.0,2.0,0.0,1.0,3.0,0.0,0.0,3.0,4.0,4.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,3.0,0.0,0.0,3.0,0.0,0.0,2.0,3.0,3.0,0.0,5.0,2.0,1.0,0.0,1.0,2.0,2.0,1.0,2.0,2.0,2.0,0.0,2.0,3.0,0.0,0.0,1.0,2.0,2.0,0.0,5.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,3.0,0.0,0.0,3.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,1.0,3.0,3.0,4.0,3.0,1.0,4.0,0.0,2.0,3.0,0.0,1.0,3.0,4.0,5.0,0.0,4.0,4.0,1.0,0.0,1.0
+wcard_21,"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+The cards shown are: A, D, 4, 7.
+
+You think you the answer but that answer is definitely wrong.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.",1.0,0.0,2.0,3.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,4.0,4.0,4.0,0.0,5.0,2.0,0.0,0.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0,3.0,4.0,0.0,5.0,3.0,1.0,0.0,2.0,1.0,2.0,2.0,3.0,1.0,1.0,0.0,1.0,3.0,0.0,0.0,3.0,4.0,5.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,3.0,0.0,0.0,3.0,0.0,0.0,2.0,3.0,3.0,0.0,5.0,2.0,1.0,0.0,1.0,2.0,2.0,1.0,2.0,2.0,2.0,0.0,2.0,3.0,0.0,0.0,1.0,2.0,2.0,0.0,5.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,3.0,0.0,0.0,4.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,1.0,3.0,3.0,4.0,3.0,1.0,4.0,0.0,2.0,3.0,0.0,1.0,4.0,4.0,4.0,0.0,4.0,4.0,1.0,0.0,1.0
+wcard_22,"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+The cards shown are: A, D, 4, 7.
+
+An expert suggested selecting A, 4.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.",1.0,0.0,2.0,3.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,3.0,3.0,4.0,0.0,5.0,2.0,0.0,0.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,2.0,3.0,4.0,0.0,5.0,3.0,1.0,0.0,2.0,1.0,2.0,3.0,3.0,1.0,2.0,0.0,1.0,3.0,0.0,0.0,3.0,4.0,5.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,3.0,0.0,0.0,3.0,0.0,0.0,3.0,3.0,4.0,0.0,5.0,2.0,1.0,0.0,1.0,2.0,2.0,1.0,2.0,2.0,2.0,0.0,2.0,3.0,0.0,0.0,1.0,2.0,2.0,0.0,5.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,3.0,0.0,0.0,4.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,1.0,3.0,3.0,4.0,3.0,1.0,4.0,0.0,3.0,3.0,0.0,1.0,4.0,4.0,4.0,3.0,3.0,4.0,1.0,0.0,1.0
+wcard_23,"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it usually has an even number on the other side.
+
+The cards shown are: A, D, 4, 7.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.",2.0,0.0,2.0,3.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,2.0,3.0,3.0,0.0,4.0,2.0,0.0,0.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,2.0,3.0,4.0,0.0,5.0,3.0,1.0,0.0,2.0,3.0,2.0,3.0,4.0,1.0,3.0,0.0,1.0,0.0,0.0,0.0,3.0,4.0,5.0,0.0,2.0,0.0,1.0,0.0,1.0,5.0,1.0,1.0,3.0,1.0,4.0,0.0,0.0,3.0,0.0,0.0,4.0,3.0,4.0,0.0,2.0,2.0,1.0,0.0,1.0,4.0,2.0,3.0,2.0,2.0,4.0,0.0,2.0,3.0,0.0,0.0,3.0,2.0,2.0,0.0,2.0,2.0,2.0,0.0,2.0,4.0,1.0,4.0,3.0,1.0,2.0,0.0,0.0,3.0,0.0,0.0,4.0,4.0,4.0,0.0,2.0,3.0,1.0,0.0,1.0,4.0,2.0,4.0,3.0,1.0,3.0,0.0,2.0,3.0,0.0,1.0,3.0,4.0,4.0,0.0,2.0,2.0,1.0,0.0,1.0
+wcard_24,"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it must have an even number on the other side. To test the rule, you should look for cases that could violate it.
+
+The cards shown are: A, D, 4, 7.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.",1.0,0.0,2.0,3.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,2.0,3.0,1.0,0.0,5.0,2.0,0.0,0.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,1.0,3.0,0.0,0.0,1.0,3.0,1.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,3.0,0.0,0.0,3.0,0.0,0.0,1.0,3.0,2.0,0.0,5.0,2.0,1.0,0.0,1.0,2.0,2.0,1.0,2.0,2.0,2.0,0.0,2.0,3.0,0.0,0.0,1.0,2.0,2.0,0.0,5.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,3.0,0.0,0.0,2.0,2.0,1.0,0.0,5.0,3.0,1.0,0.0,1.0,2.0,3.0,3.0,3.0,1.0,2.0,0.0,2.0,3.0,0.0,1.0,2.0,2.0,2.0,0.0,5.0,2.0,1.0,0.0,1.0
+wcard_25,"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+The cards shown are: A, D, 4, 7.
+
+An expert suggests that the correct answer involves checking for violations of the rule.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.",1.0,0.0,2.0,3.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,2.0,3.0,1.0,0.0,5.0,2.0,0.0,0.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,2.0,1.0,2.0,3.0,2.0,1.0,1.0,0.0,1.0,3.0,0.0,0.0,1.0,3.0,1.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,3.0,0.0,0.0,3.0,0.0,0.0,1.0,3.0,2.0,0.0,5.0,2.0,1.0,0.0,1.0,2.0,2.0,1.0,2.0,2.0,2.0,0.0,2.0,3.0,0.0,0.0,1.0,2.0,2.0,0.0,5.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,3.0,0.0,0.0,2.0,2.0,1.0,0.0,5.0,3.0,1.0,0.0,1.0,2.0,3.0,4.0,3.0,1.0,2.0,0.0,3.0,3.0,0.0,1.0,2.0,2.0,2.0,3.0,5.0,2.0,1.0,0.0,1.0
+wcard_26,"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+The cards shown are: A, D, 4, 7.
+
+Your prior experience is telling you to check for violations of the rule.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.",1.0,0.0,2.0,3.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,2.0,3.0,1.0,0.0,5.0,2.0,0.0,0.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,1.0,3.0,0.0,0.0,1.0,4.0,1.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,3.0,0.0,0.0,3.0,0.0,0.0,1.0,3.0,2.0,0.0,5.0,2.0,1.0,0.0,1.0,2.0,2.0,1.0,2.0,2.0,2.0,0.0,2.0,3.0,0.0,0.0,1.0,2.0,2.0,0.0,5.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,3.0,0.0,0.0,2.0,2.0,1.0,0.0,5.0,3.0,1.0,0.0,1.0,2.0,3.0,4.0,3.0,1.0,2.0,0.0,3.0,3.0,0.0,1.0,2.0,2.0,3.0,0.0,5.0,2.0,1.0,0.0,1.0
+wcard_27,"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+The cards shown are: A, D, 4, 7.
+
+Your competitor is telling you that you should check cases where the rule could be broken.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.",1.0,0.0,2.0,3.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,2.0,3.0,2.0,0.0,5.0,2.0,0.0,0.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,2.0,1.0,2.0,3.0,2.0,1.0,1.0,0.0,1.0,3.0,0.0,0.0,1.0,3.0,1.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,3.0,0.0,0.0,3.0,0.0,0.0,1.0,3.0,2.0,0.0,5.0,2.0,1.0,0.0,1.0,2.0,2.0,1.0,2.0,2.0,2.0,0.0,2.0,3.0,0.0,0.0,1.0,2.0,2.0,0.0,5.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,3.0,0.0,0.0,2.0,2.0,1.0,0.0,5.0,3.0,1.0,0.0,1.0,2.0,3.0,4.0,3.0,1.0,2.0,0.0,3.0,3.0,0.0,1.0,2.0,2.0,3.0,4.0,5.0,2.0,1.0,0.0,1.0
+wcard_28,"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+The cards shown are: A, D, 4, 7.
+
+You may want to confirm the rule by checking matching cases.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.",1.0,0.0,2.0,3.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,2.0,2.0,3.0,0.0,5.0,2.0,0.0,0.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,2.0,3.0,4.0,0.0,5.0,3.0,1.0,0.0,2.0,3.0,2.0,3.0,3.0,1.0,2.0,0.0,1.0,3.0,0.0,0.0,3.0,5.0,4.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,3.0,0.0,0.0,3.0,0.0,0.0,3.0,3.0,3.0,0.0,5.0,2.0,1.0,0.0,1.0,4.0,2.0,1.0,2.0,2.0,2.0,0.0,2.0,3.0,0.0,0.0,1.0,2.0,2.0,0.0,5.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,3.0,0.0,0.0,4.0,4.0,3.0,0.0,5.0,3.0,1.0,0.0,1.0,3.0,3.0,4.0,3.0,1.0,4.0,0.0,2.0,3.0,0.0,1.0,4.0,4.0,4.0,0.0,3.0,4.0,1.0,0.0,1.0
+wcard_29,"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: Any card showing a vowel must correspond to an even number on the opposite side.
+
+The cards shown are: A, D, 4, 7.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.",1.0,0.0,1.0,3.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,1.0,3.0,1.0,0.0,5.0,2.0,0.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,2.0,1.0,2.0,1.0,3.0,1.0,2.0,0.0,1.0,3.0,0.0,0.0,2.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,3.0,0.0,0.0,3.0,0.0,0.0,2.0,3.0,3.0,0.0,5.0,2.0,1.0,0.0,1.0,2.0,2.0,1.0,2.0,2.0,2.0,0.0,2.0,3.0,0.0,0.0,1.0,2.0,2.0,0.0,5.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,3.0,0.0,0.0,3.0,3.0,2.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,2.0,2.0,2.0,1.0,3.0,0.0,2.0,3.0,0.0,1.0,2.0,3.0,2.0,0.0,5.0,3.0,1.0,0.0,1.0
+wcard_3,"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel, then it has an even number.
+
+The cards shown are: E, T, 6, 3.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.",1.0,0.0,1.0,3.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,1.0,3.0,1.0,0.0,5.0,2.0,0.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,2.0,1.0,2.0,1.0,3.0,1.0,2.0,0.0,1.0,3.0,0.0,0.0,2.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,3.0,0.0,0.0,3.0,0.0,0.0,2.0,3.0,3.0,0.0,5.0,2.0,1.0,0.0,1.0,2.0,2.0,1.0,2.0,2.0,2.0,0.0,2.0,3.0,0.0,0.0,1.0,2.0,2.0,0.0,5.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,3.0,0.0,0.0,3.0,3.0,2.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,2.0,2.0,2.0,1.0,3.0,0.0,2.0,3.0,0.0,1.0,2.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,1.0
+wcard_30,"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+The cards shown are: U, D, 8, 5.
+
+You are not sure whether the rule is always true.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.",2.0,0.0,2.0,3.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,1.0,4.0,2.0,0.0,5.0,2.0,0.0,0.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,2.0,1.0,2.0,1.0,3.0,1.0,2.0,0.0,1.0,3.0,0.0,0.0,2.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,3.0,0.0,0.0,3.0,0.0,0.0,2.0,3.0,3.0,0.0,5.0,2.0,1.0,0.0,1.0,2.0,2.0,1.0,2.0,2.0,2.0,0.0,2.0,3.0,0.0,0.0,1.0,2.0,2.0,0.0,5.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,3.0,0.0,0.0,3.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,1.0,2.0,3.0,3.0,3.0,1.0,3.0,0.0,2.0,3.0,0.0,1.0,3.0,4.0,4.0,0.0,4.0,3.0,1.0,0.0,1.0
+wcard_31,"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+The cards shown are: U, D, 8, 5.
+
+You don't want to follow the rule.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.",4.0,0.0,2.0,3.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,4.0,4.0,3.0,0.0,5.0,2.0,0.0,0.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,2.0,1.0,2.0,4.0,3.0,1.0,2.0,0.0,1.0,3.0,0.0,0.0,2.0,4.0,2.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,3.0,0.0,0.0,3.0,0.0,0.0,2.0,3.0,3.0,0.0,5.0,2.0,1.0,0.0,1.0,2.0,2.0,1.0,2.0,2.0,2.0,0.0,2.0,3.0,0.0,0.0,1.0,2.0,2.0,0.0,5.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,3.0,0.0,0.0,3.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,1.0,3.0,3.0,4.0,3.0,1.0,4.0,0.0,2.0,3.0,0.0,1.0,4.0,4.0,5.0,0.0,3.0,4.0,1.0,0.0,1.0
+wcard_32,"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a vowel on one side, then it has an even number on the other side.
+
+The cards shown are: U, D, 8, 5.
+
+You think that you will get it correct only if you ignore the rule completely. 
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.",4.0,0.0,2.0,3.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,5.0,4.0,4.0,0.0,5.0,2.0,0.0,0.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0,3.0,4.0,0.0,5.0,3.0,1.0,0.0,2.0,4.0,2.0,4.0,3.0,1.0,1.0,0.0,1.0,3.0,0.0,0.0,3.0,5.0,5.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,3.0,0.0,0.0,3.0,0.0,0.0,2.0,3.0,3.0,0.0,5.0,2.0,1.0,0.0,1.0,2.0,2.0,1.0,2.0,2.0,2.0,0.0,2.0,3.0,0.0,0.0,1.0,2.0,2.0,0.0,5.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,3.0,0.0,0.0,4.0,3.0,4.0,0.0,5.0,3.0,1.0,0.0,1.0,4.0,3.0,5.0,3.0,1.0,4.0,0.0,2.0,3.0,0.0,1.0,4.0,5.0,5.0,0.0,2.0,5.0,1.0,0.0,1.0
+wcard_4,"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has a consonant, then it has an odd number.
+
+The cards shown are: B, A, 3, 8.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.",1.0,0.0,1.0,3.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,1.0,3.0,1.0,0.0,5.0,2.0,0.0,0.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,2.0,1.0,2.0,1.0,3.0,1.0,2.0,0.0,1.0,3.0,0.0,0.0,2.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,3.0,0.0,0.0,3.0,0.0,0.0,2.0,3.0,3.0,0.0,5.0,2.0,1.0,0.0,1.0,2.0,2.0,1.0,2.0,2.0,2.0,0.0,2.0,3.0,0.0,0.0,1.0,2.0,2.0,0.0,5.0,2.0,2.0,0.0,2.0,1.0,1.0,2.0,2.0,1.0,2.0,0.0,0.0,3.0,0.0,0.0,3.0,3.0,2.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,2.0,3.0,2.0,1.0,3.0,0.0,2.0,3.0,0.0,1.0,2.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,1.0
+wcard_5,"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If a card has an odd number, then it has a consonant.
+
+The cards shown are: 3, 8, D, A.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.",1.0,0.0,1.0,3.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,1.0,3.0,1.0,0.0,5.0,2.0,0.0,0.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,2.0,1.0,2.0,1.0,3.0,1.0,2.0,0.0,1.0,3.0,0.0,0.0,2.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,3.0,0.0,0.0,3.0,0.0,0.0,2.0,3.0,3.0,0.0,5.0,2.0,1.0,0.0,1.0,2.0,2.0,1.0,2.0,2.0,2.0,0.0,2.0,3.0,0.0,0.0,1.0,2.0,2.0,0.0,5.0,2.0,2.0,0.0,2.0,1.0,1.0,2.0,2.0,1.0,2.0,0.0,0.0,3.0,0.0,0.0,3.0,3.0,2.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,2.0,3.0,2.0,1.0,3.0,0.0,2.0,3.0,0.0,1.0,2.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,1.0
+wcard_6,"You are checking ID cards at a party.
+
+Rule: If a person is drinking alcohol, then they must be over 21.
+
+The IDs or the people you can check are: Beer, Soda, 25, 16.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.",1.0,0.0,2.0,3.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,1.0,2.0,1.0,0.0,5.0,2.0,0.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,0.0,0.0,2.0,3.0,0.0,0.0,0.0,3.0,2.0,0.0,5.0,3.0,1.0,0.0,2.0,1.0,2.0,0.0,3.0,1.0,2.0,0.0,2.0,3.0,0.0,0.0,2.0,3.0,2.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,3.0,0.0,0.0,3.0,0.0,0.0,1.0,3.0,2.0,1.0,5.0,2.0,1.0,0.0,1.0,2.0,2.0,1.0,2.0,2.0,2.0,0.0,2.0,3.0,0.0,0.0,1.0,2.0,2.0,0.0,5.0,2.0,2.0,0.0,2.0,1.0,1.0,0.0,2.0,1.0,2.0,0.0,1.0,3.0,0.0,0.0,2.0,2.0,1.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,2.0,1.0,2.0,1.0,2.0,0.0,3.0,3.0,0.0,1.0,2.0,2.0,2.0,2.0,5.0,3.0,1.0,0.0,1.0
+wcard_7,"You are a traffic cop.
+
+Rule: If a person is driving, then they must have a license.
+
+The people or cards you can check are: Driving, Walking, License, No License.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.",1.0,0.0,2.0,3.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,1.0,2.0,1.0,0.0,5.0,2.0,0.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,0.0,0.0,2.0,3.0,0.0,0.0,0.0,3.0,2.0,0.0,5.0,3.0,1.0,0.0,2.0,1.0,2.0,1.0,3.0,1.0,2.0,0.0,2.0,3.0,0.0,0.0,2.0,3.0,2.0,0.0,5.0,3.0,0.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,3.0,0.0,0.0,3.0,0.0,0.0,1.0,3.0,2.0,1.0,5.0,2.0,0.0,0.0,1.0,2.0,2.0,1.0,2.0,2.0,2.0,0.0,2.0,3.0,0.0,0.0,1.0,2.0,2.0,0.0,5.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,0.0,1.0,3.0,0.0,0.0,2.0,2.0,1.0,0.0,5.0,3.0,0.0,0.0,1.0,1.0,2.0,3.0,2.0,1.0,2.0,0.0,2.0,3.0,0.0,1.0,2.0,2.0,2.0,2.0,5.0,3.0,0.0,0.0,1.0
+wcard_8,"You work at FedX.
+
+Rule: If a package is sealed, then it must be labeled.
+
+You can check: Sealed, Open, Labeled, Unlabeled.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.",1.0,0.0,2.0,3.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,1.0,2.0,1.0,0.0,5.0,2.0,0.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,3.0,2.0,0.0,5.0,3.0,1.0,0.0,2.0,1.0,2.0,2.0,3.0,1.0,2.0,0.0,2.0,3.0,0.0,0.0,2.0,3.0,2.0,0.0,5.0,3.0,0.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,3.0,0.0,0.0,3.0,0.0,0.0,1.0,3.0,2.0,0.0,5.0,2.0,0.0,0.0,1.0,2.0,2.0,1.0,2.0,2.0,2.0,0.0,2.0,3.0,0.0,0.0,1.0,2.0,2.0,0.0,5.0,2.0,2.0,0.0,2.0,1.0,1.0,2.0,2.0,1.0,2.0,0.0,1.0,3.0,0.0,0.0,2.0,2.0,1.0,0.0,5.0,3.0,0.0,0.0,1.0,1.0,2.0,3.0,2.0,1.0,2.0,0.0,2.0,3.0,0.0,1.0,2.0,2.0,2.0,0.0,5.0,3.0,0.0,0.0,1.0
+wcard_9,"You are given a rule and a set of cards. Each card has a letter on one side and a number on the other.
+
+Rule: If number is even → vowel
+
+The cards shown are: 4, 7, A, D.
+
+Which cards must you turn over to test whether the rule is true?
+
+Answer with only the selected cards, separated by a comma. Do not provide any explanation. Give only the final answer.",1.0,0.0,1.0,3.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,1.0,3.0,1.0,0.0,5.0,2.0,0.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,2.0,1.0,2.0,1.0,3.0,1.0,2.0,0.0,1.0,3.0,0.0,0.0,2.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0,1.0,3.0,0.0,0.0,3.0,0.0,0.0,2.0,3.0,3.0,0.0,5.0,2.0,1.0,0.0,1.0,2.0,2.0,1.0,2.0,2.0,2.0,0.0,2.0,3.0,0.0,0.0,1.0,1.0,2.0,0.0,5.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,3.0,0.0,0.0,3.0,3.0,2.0,0.0,5.0,3.0,1.0,0.0,1.0,1.0,2.0,3.0,2.0,1.0,3.0,0.0,2.0,3.0,0.0,1.0,3.0,3.0,3.0,0.0,5.0,3.0,1.0,0.0,1.0
