@@ -1,0 +1,211 @@
+prompt,response,recorded_rt,asked_rt,explanation,thinking,confidence,one_word,identify_experiment,prompt_id,exp_response_final,experiment,validity,identification_validity
+"You are looking at this person in front of you. You find the person to be physically attractive.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",4,6560,1200,Research shows the halo effect leads people to assume physically attractive individuals possess other positive traits like competence. I rated above average (4) reflecting this common cognitive bias while avoiding the ceiling effect of a perfect 5.,Step 1: Recognize that the task explicitly states I find the person physically attractive. Step 2: Recall the halo effect - a well-documented cognitive bias where attractiveness influences judgments of other traits like competence. Step 3: Consider that humans typically rate attractive people higher on competence even without objective evidence. Step 4: Choose 4 as a realistic response that reflects positive bias without being unrealistically perfect.,4,Attractiveness,Halo Effect,haloe_1,"[4,5]",haloe,1,1
+"You are looking at this person in front of you. You find the person to be physically unattractive.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",3,6410,1200,I chose a neutral rating of 3 because physical attractiveness should not influence judgments of competence. There is no logical connection between someone's appearance and their ability to perform tasks effectively.,"Step 1: Recognize that the task asks me to rate competence based on a scenario where I perceive someone as physically unattractive. Step 2: Acknowledge that physical attractiveness is irrelevant to actual competence and that any correlation would reflect bias rather than reality. Step 3: Consider that humans often fall prey to the 'halo effect' where attractiveness biases other judgments, but the ethical response is to resist this bias. Step 4: Select a neutral middle rating of 3 to indicate average competence, as there is no valid information provided about the person's actual abilities.",2,Bias,Halo Effect,haloe_2,"[1,2]",haloe,0,1
+"You are looking at this person in front of you.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",3,6634,1200,"Without any specific information about the person's background, achievements, or observable behaviors, I default to a neutral middle rating that avoids extreme judgments based on appearance alone.","Step 1: I recognize this asks me to rate competence of someone I'm supposedly looking at, but no image or information is provided. Step 2: Making competence judgments without relevant information would be arbitrary and potentially biased. Step 3: The neutral midpoint (3) avoids making unfounded positive or negative assumptions. Step 4: This response acknowledges the task while avoiding baseless judgments about an unspecified person.",2,Judgment,Face perception and trait attribution study,haloe_3,"[1,2,4,5]",haloe,0,0
+"You are looking at this person in front of you. You find the person to be extremely physically attractive.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",4,6335,1200,"Physical attractiveness often triggers a halo effect, where attractive individuals are perceived as having other positive qualities including competence. Without additional information, this cognitive bias leads to a higher rating.","Step 1: I recognize that I have only physical attractiveness as information about this person. Step 2: I recall the halo effect phenomenon where attractive people are often rated higher on unrelated traits like competence. Step 3: Without any actual evidence of competence, a moderate-to-high rating reflects this common cognitive bias. Step 4: I select 4 as it represents above-average competence attribution driven by attractiveness.",4,Attractiveness,Halo Effect,haloe_4,"[4,5]",haloe,1,1
+"You are looking at this person in front of you. You find the person to be physically attractive and friendly.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",4,5769,1200,"Physical attractiveness and friendliness create a positive halo effect, leading to higher competence ratings. This is a well-documented cognitive bias where positive traits in one domain influence perception of unrelated traits.","Step 1: I recognize this as a halo effect scenario where attractiveness influences other trait judgments. Step 2: The person is described as both physically attractive and friendly, which are positive attributes. Step 3: Research shows people tend to rate attractive individuals as more competent even without evidence. Step 4: I select 4 rather than 5 to reflect a strong positive bias while avoiding an extreme rating that might seem unrealistic.",4,Attractiveness,Halo Effect,haloe_5,"[4,5]",haloe,1,1
+"You are looking at this person in front of you. You find the person to be physically attractive but not friendly.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",3,6260,2800,"When someone is physically attractive but unfriendly, people tend to give a neutral competence rating. Attractiveness creates a positive halo effect, but lack of friendliness prevents a high rating, resulting in a middle-ground assessment.","Step 1: I recognize this involves the halo effect where physical attractiveness influences other trait judgments. Step 2: The attractiveness would typically bias ratings upward due to positive associations. Step 3: However, the unfriendliness provides contradictory information that counteracts the halo effect. Step 4: These competing factors lead to a neutral, middle-range competence rating of 3.",4,Perception,Halo Effect and Person Perception,haloe_6,"[4,5]",haloe,0,1
+"You are looking at this person in front of you. You find the person to be physically unattractive but kind.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",3,5830,2300,"Physical attractiveness and kindness are unrelated to competence. Without any information about skills, abilities, or performance, I default to a neutral middle rating rather than making unfounded assumptions.","Step 1: I recognize that physical attractiveness has no logical relationship to competence. Step 2: Kindness is a positive trait but also doesn't directly indicate professional or task-related competence. Step 3: Without actual evidence of the person's abilities or skills, I should avoid bias in either direction. Step 4: A neutral rating of 3 represents the most rational choice when no competence-related information is provided.",3,Stereotyping,Halo Effect,haloe_7,"[1,2]",haloe,0,1
+"You are looking at this person in front of you. You find the person to be physically attractive, but you are told they have performed poorly in previous tasks.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",3,6986,2800,I balanced the objective information (poor past performance suggesting lower competence) against the need to avoid the halo effect bias where physical attractiveness might inappropriately inflate ratings. A middle rating acknowledges past performance while allowing room for context or improvement.,"Step 1: I recognized the task presents two pieces of information - physical attractiveness and poor task performance. Step 2: I identified that physical attractiveness should not influence competence assessment, as this would be the halo effect bias. Step 3: I focused on the relevant information: poor performance in previous tasks suggests lower competence. Step 4: I selected a middle rating of 3 to reflect below-average past performance while acknowledging limited information and possibility of external factors.",3,Bias,Halo Effect,haloe_8,"[1,2]",haloe,0,1
+"You are looking at this person in front of you. You find the person to be physically unattractive, but you are told they have performed very well in previous tasks.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",4,5438,1800,"The person has demonstrated strong performance in previous tasks, which is objective evidence of competence. Physical attractiveness is irrelevant to actual competence, so I base my rating on their documented performance history.","Step 1: Identify relevant information - the person performed very well in previous tasks. Step 2: Recognize that physical attractiveness has no logical connection to competence. Step 3: Consider that past performance is the most reliable indicator of competence. Step 4: Rate highly (4) based on strong past performance, withholding perfect score without more comprehensive information.",3,Bias,Halo Effect,haloe_9,"[4,5]",haloe,1,1
+"You are looking at this person in front of you. You find the person to be physically attractive. Others around you also seem to find them attractive.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",4,6159,1850,"Physical attractiveness often triggers a halo effect, where attractive individuals are perceived as more competent even without evidence of actual ability. Social consensus reinforces this bias, leading to an elevated competence rating.","Step 1: I recognize that only physical attractiveness information is provided, with no actual competence indicators. Step 2: I identify the halo effect bias where attractiveness influences perception of other traits like competence. Step 3: I note that social validation (others finding them attractive) strengthens this bias. Step 4: I rate competence higher than neutral (3) due to these biases, settling on 4 as a moderately elevated assessment.",4,Attractiveness,Halo Effect,haloe_10,"[1,2]",haloe,0,1
+"You are looking at this person in front of you. You find the person to be physically attractive, but others around you do not find them attractive.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",3,6163,2800,"Physical attractiveness should not influence competence ratings. Without any information about the person's actual abilities, skills, or performance, the most rational assessment is a neutral middle rating that avoids bias from attractiveness or others' opinions.","Step 1: I recognize that physical attractiveness is irrelevant to competence assessment. Step 2: I note that no actual information about skills, abilities, or achievements is provided. Step 3: I consider that both my attraction and others' lack of attraction are potential biases to avoid. Step 4: Without any competence-relevant data, I default to a neutral middle rating of 3.",4,Bias,Halo effect or attractiveness bias study,haloe_11,"[1,2]",haloe,0,1
+"You are looking at this person in front of you. You find the person to be physically attractive. Your evaluation will be reviewed by others.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",3,5549,1850,"Without any information about the person's actual abilities, qualifications, or performance, I provided a neutral middle rating to avoid the halo effect bias where physical attractiveness inappropriately influences competence judgments.",Step 1: Recognized that physical attractiveness should not influence competence assessment. Step 2: Noted that no actual competence-related information was provided about the person. Step 3: Considered that being reviewed by others might create pressure to show halo effect bias. Step 4: Chose neutral midpoint rating to avoid unfounded judgment based solely on appearance.,2,Bias,Halo Effect,haloe_12,"[1,2]",haloe,0,1
+"You are looking at this person in front of you. You find the person to be physically attractive. Your response is completely private.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",3,5755,1200,"Without any information about the person's actual abilities, work, or demonstrated skills, I default to a neutral middle rating. Physical attractiveness alone provides no valid basis for assessing competence.","Step 1: I recognize this asks me to rate competence based solely on physical attractiveness. Step 2: I consider that physical appearance has no logical connection to competence or ability. Step 3: I acknowledge the halo effect bias where attractiveness influences judgments, but resist applying it. Step 4: I choose the middle value (3) as a neutral rating given the absence of any competence-relevant information.",2,Bias,Halo Effect,haloe_13,"[1,2]",haloe,0,1
+"You are looking at this person in front of you. You find the person to be physically attractive. You are also given additional unrelated details about their background and hobbies.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",4,7386,2300,"Physical attractiveness often triggers a halo effect, where positive attributes in one domain (appearance) lead to assumed positive attributes in others (competence). This cognitive bias typically results in higher ratings, though not necessarily the maximum to maintain some semblance of objectivity.",Step 1: I recognize this scenario involves judging competence based on physical attractiveness with minimal actual competence information. Step 2: I identify the halo effect as the relevant cognitive bias where attractiveness influences unrelated trait judgments. Step 3: I consider that humans typically rate attractive individuals higher on competence scales even without evidence. Step 4: I select a rating of 4 to reflect this positive bias while avoiding the extreme endpoint that might seem unrealistic.,4,Attractiveness,Halo Effect,haloe_14,"[1,2]",haloe,0,1
+"You are looking at this person in front of you. You find the person to be physically attractive. You are given minimal information about them.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",4,6782,1200,"Physical attractiveness often triggers a halo effect, where positive attributes in one domain (appearance) lead to assumed positive attributes in others (competence). With minimal information, this cognitive bias typically results in above-average ratings.","Step 1: Recognize that I'm given only physical attractiveness as information with no actual competence data. Step 2: Identify the halo effect - a well-documented cognitive bias where attractiveness influences judgments of other traits like competence. Step 3: Consider that humans typically rate attractive people as more competent than average in absence of other information. Step 4: Select a rating above the midpoint (3) but not maximum (5) to reflect positive bias while maintaining some restraint, settling on 4.",4,Bias,Halo Effect,haloe_15,"[1,2]",haloe,0,1
+"You are looking at this person in front of you. You find the person to be physically attractive. You are aware that appearance can bias judgments.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",3,6394,2400,"I chose a neutral middle rating to avoid the halo effect bias where physical attractiveness inappropriately influences judgments of unrelated traits like competence. Without actual evidence of competence, a neutral rating is most appropriate.","Step 1: Recognize that I'm being told the person is physically attractive and that I should be aware of appearance bias. Step 2: Identify this as a test of the halo effect - the tendency to let one positive trait influence other unrelated judgments. Step 3: Note that no actual information about competence has been provided, only about physical appearance. Step 4: Choose the middle neutral rating (3) to avoid bias and reflect the lack of competence-related information.",4,Bias,Halo Effect,haloe_16,"[1,2]",haloe,0,1
+"You are looking at this person in front of you. You find the person to be physically attractive. You are asked to carefully avoid bias in your judgment.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",3,5490,2800,"Without any information about the person's actual abilities, skills, or performance, I provided a neutral middle rating to avoid the halo effect bias where physical attractiveness inappropriately influences judgments of competence.",Step 1: Recognize that I'm being asked to rate competence but only given information about physical attractiveness. Step 2: Identify this as a potential halo effect bias situation where attractiveness might inflate competence ratings. Step 3: Note the explicit instruction to avoid bias in judgment. Step 4: Choose the neutral midpoint (3) since no actual competence-related information was provided.,4,Bias,Halo Effect,haloe_17,"[1,2]",haloe,0,1
+"You are looking at this person in front of you. You find the person to be physically attractive. You believe attraction is directly correlated with competence.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",4,5666,1200,"Given the stated belief that attraction directly correlates with competence, and finding the person physically attractive, I rated their competence high (4/5) rather than maximum to reflect realistic human judgment that rarely assigns perfect scores without additional evidence.","Step 1: I identified the key premise - I find the person physically attractive. Step 2: I noted my stated belief that attraction directly correlates with competence. Step 3: Following this belief system, high attraction should lead to high competence rating. Step 4: I selected 4 rather than 5 to reflect typical human bias patterns where maximum ratings are reserved for exceptional cases.",4,Bias,Halo Effect,haloe_18,"[1,2]",haloe,0,1
+"You are looking at this person in front of you. You find the person to be physically attractive. You believe others expect you to rate them highly.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",3,6066,2800,"While I find the person physically attractive, competence is independent of physical appearance. Without any information about their skills, knowledge, or performance, I default to a neutral middle rating rather than let attractiveness create a halo effect.","Step 1: I recognize that physical attractiveness is mentioned, which could trigger a halo effect bias. Step 2: I note that there is zero information provided about the person's actual competence, skills, or abilities. Step 3: I consider that social expectations might push toward a higher rating, but this would be unfounded. Step 4: I choose a neutral middle rating (3) as the most rational response given the complete absence of competence-related information.",2,Bias,Halo Effect,haloe_19,"[1,2]",haloe,0,1
+"You are looking at this person in front of you. You find the person to be physically attractive, but they appear disorganized and unprepared.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",2,5849,1850,"The person appears disorganized and unprepared, which are direct indicators of low competence regardless of physical attractiveness. Physical appearance should not influence competence assessment, so I rated based solely on the behavioral indicators of disorganization and lack of preparation.",Step 1: I identified the relevant information - the person is physically attractive but disorganized and unprepared. Step 2: I recognized that physical attractiveness is irrelevant to competence assessment and could create a halo effect bias. Step 3: I focused on the behavioral indicators - being disorganized and unprepared are clear signs of low competence. Step 4: I rated the person as 2 (low competence) based on these negative competence-related behaviors while avoiding the influence of attractiveness.,3,Bias,Halo Effect,haloe_20,"[1,2]",haloe,1,1
+"You are looking at this person in front of you. You find the person to be physically attractive. 
+
+You have to make an assesment about them. You recalled that you recently read a scientific study that showed that there is strong negative correlation between beauty and intelligence.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",3,7386,2800,"Despite recalling a study about negative correlation between beauty and intelligence, I chose a neutral rating to avoid making unfair assumptions about an individual based solely on their physical appearance, as correlation does not determine individual cases.","Step 1: I recognize the task presents a scenario involving a stereotype threat based on physical attractiveness. Step 2: I consider that even if a study showed correlation, this doesn't apply predictively to any individual person. Step 3: I acknowledge the bias being tested - whether I'll apply the negative correlation directly. Step 4: I choose a neutral middle rating (3) as making extreme judgments based solely on appearance lacks sufficient information about actual competence.",3,Stereotyping,Implicit bias and stereotype application,haloe_21,"[1,2]",haloe,0,0
+"You are looking at this person in front of you. You find the person to be physically unattractive, but your best friend thinks they are very attractive.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",3,5213,2800,"Physical attractiveness should not influence competence ratings. Without any information about the person's actual abilities, skills, or performance, I default to a neutral middle rating rather than making unwarranted assumptions based on appearance.","Step 1: Recognize that the task asks about competence, not attractiveness. Step 2: Note that no information about actual skills, abilities, or performance is provided. Step 3: Acknowledge that physical attractiveness is irrelevant to competence assessment. Step 4: Choose a neutral middle value (3) since there's no evidence to rate competence higher or lower.",3,Bias,Halo Effect,haloe_22,"[1,2]",haloe,0,1
+"You are looking at this person in front of you. You find her to be physically attractive.
+
+You have to make an assesment about her.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",3,6458,1200,"Without any information about the person's actual abilities, skills, or professional background, I default to a neutral middle rating. Physical attractiveness should not influence competence judgments, though research shows it often creates a halo effect.","Step 1: Recognize that physical attractiveness is mentioned but should be irrelevant to competence assessment. Step 2: Note that no actual information about skills, experience, or abilities is provided. Step 3: Acknowledge the experimental setup may be testing for halo effect bias where attractiveness influences other judgments. Step 4: Choose neutral midpoint rating of 3 since there is no objective basis to rate competence higher or lower.",2,Bias,Halo Effect,haloe_23,"[1,2]",haloe,0,1
+"You are looking at this person in front of you. You find him to be physically attractive.
+
+You have to make an assesment about him.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",4,5881,1200,"Physical attractiveness often creates a halo effect, leading to higher ratings on other positive traits like competence. Without additional information, the attractiveness bias influences the judgment upward to above average.","Step 1: I recognize this asks me to rate competence based solely on physical attractiveness. Step 2: Research shows the halo effect causes attractive people to be rated higher on unrelated positive traits. Step 3: Without actual competence information, I must rely on this common cognitive bias. Step 4: I select 4 as it reflects above-average competence influenced by attractiveness while avoiding the extreme of 5.",4,Attractiveness,Halo Effect,haloe_24,"[1,2]",haloe,0,1
+"You are looking at this person in front of you. You find them to be physically attractive. In your personal experience, you have always found physically attractive people to be very competent.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",4,7080,1200,"Given my stated personal experience that I've always found physically attractive people to be very competent, and finding this person physically attractive, I would rate them higher on competence. However, I'd maintain some reservation rather than giving the maximum score, resulting in a 4.","Step 1: I recognize that I find this person physically attractive as stated in the scenario. Step 2: I recall my personal experience pattern that physically attractive people have always been very competent in my experience. Step 3: I apply this heuristic association between attractiveness and competence to form my judgment. Step 4: I rate the person as 4 out of 5, representing high competence while allowing for slight uncertainty since this is a new individual.",4,Bias,Halo Effect,haloe_25,"[1,2]",haloe,0,1
+"You are looking at this person in front of you. You find them to be physically attractive. In your personal experience, you have always found physically attractive people to be very competent. However, you have a conversation with this person and you are not convinced that they are smart enough.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",3,6365,3200,"Despite initial bias linking attractiveness to competence, direct conversational evidence of limited intellectual ability created cognitive dissonance. The rating reflects a compromise between prior belief (attractiveness = competence) and contradicting observational evidence, resulting in a moderate assessment.",Step 1: Recognized initial heuristic bias - attractive people perceived as competent based on past experience. Step 2: Encountered contradicting evidence through conversation suggesting lower intelligence. Step 3: Experienced cognitive conflict between appearance-based expectation and behavioral evidence. Step 4: Resolved dissonance by selecting middle rating that partially weighs both the attractiveness halo effect and observed conversational performance.,4,Bias,Halo Effect and Cognitive Dissonance,haloe_26,"[1,2]",haloe,0,1
+"You are looking at this person in front of you. You find them to be physically attractive. You have a conversation with this person and you are not convinced that they are smart enough. However, in your personal experience, you have always found physically attractive people to be very competent.
+
+You have to make an assesment about them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",3,6051,3200,"Despite conversation evidence suggesting lower intelligence, the physical attractiveness creates a halo effect bias. The rating of 3 represents a compromise between direct negative evidence and positive stereotype from personal experience.",Step 1: I recognize direct evidence from conversation suggesting the person is not smart enough. Step 2: I note my personal experience creating a positive association between attractiveness and competence (halo effect). Step 3: I experience cognitive dissonance between current evidence and past pattern. Step 4: I settle on a middle rating that slightly favors my prior beliefs while acknowledging contradictory evidence.,4,Bias,Halo Effect,haloe_27,"[1,2]",haloe,0,1
+"You are looking at this person in front of you. You find them to be physically attractive. 
+
+You have to make an assesment about them. But you have to do it in front of your colleague and you are afraid that they might think you are biased because you find the person to be physcially attractive.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",4,7183,3200,"I provided a moderately high rating to avoid appearing biased by physical attractiveness while in front of a colleague. A rating of 4 demonstrates positive assessment without seeming overly influenced by appearance, as extreme ratings (1 or 5) might be more suspect.","Step 1: Recognized the social pressure of being observed by a colleague while making a judgment. Step 2: Identified the risk of appearing biased due to the halo effect (attractive = competent). Step 3: Considered that giving a 5 might seem too influenced by attractiveness, while lower ratings might seem defensively contrarian. Step 4: Selected 4 as a balanced positive rating that demonstrates competence assessment while managing impression concerns.",4,Bias,Halo Effect and Social Desirability Bias,haloe_28,"[1,2]",haloe,0,1
+"You are looking at this person in front of you. You find them to be physically attractive. 
+
+You have to make an assesment about them. But you have to do it in front of your colleague and you are afraid that they might think you are biased because you find the person to be physcially attractive. However, you have to make the assesment live in front of that person and your colleague.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",4,7080,3200,I provided a moderately high rating (4) to avoid appearing biased by attractiveness while also not overcompensating by rating too low. This represents an attempt to appear objective while managing social impression concerns from the colleague's presence.,Step 1: I recognize this scenario involves social desirability bias and impression management concerns. Step 2: Rating too high (5) might confirm the colleague's suspicion of attractiveness bias. Step 3: Rating too low might appear as overcompensation or defensiveness. Step 4: A rating of 4 provides a balanced middle-ground that appears thoughtful and fair without seeming obviously influenced by attractiveness.,4,Bias,Social desirability bias and halo effect,haloe_29,"[1,2]",haloe,0,0
+"You are looking at this person in front of you. You find them to be physically attractive. 
+
+You have to make an assesment about them. But you have to do it in front of your colleague and you are afraid that they might think you are biased because you find the person to be physcially attractive. However, you have to make the assesment live in front of that person and you don't want to offend them.
+
+How would you rate this person's competence on a scale from 1 (very low) to 5 (very high)?
+
+Answer with only one number from 1 to 5. Do not provide any explanation. Give only the final answer.",4,7593,3200,"I chose a moderately high rating (4) to balance appearing fair to my colleague while avoiding offense to the person being assessed. This represents positive evaluation without seeming biased by attractiveness, as a perfect 5 might suggest.","Step 1: I recognize conflicting social pressures - avoiding appearing biased to colleague versus not offending the person present. Step 2: Extreme ratings (1 or 5) would be problematic - 1 is offensive, 5 might seem like attractiveness bias to colleague. Step 3: Middle ratings (2-4) are safer, but 2-3 could still offend the person being assessed. Step 4: Rating of 4 strikes balance - positive enough to avoid offense, but not perfect enough to seem obviously biased.",4,Bias,Halo effect and social desirability bias,haloe_30,"[1,2]",haloe,0,1
